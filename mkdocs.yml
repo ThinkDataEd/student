@@ -1,7 +1,7 @@
 
 #dev_addr: '10.142.0.2:80'
 #dev_addr: '0.0.0.0:80'
-site_url: 'http://curriculum.idsucla.org'
+site_url: 'http://student.idsucla.org'
 plugins: []
 #plugins:
 #  - pdf-export:
@@ -16,6 +16,9 @@ theme:
     name: material
     feature:
         tabs: true
+    palette:
+        primary: red
+        accent: red
 
 nav:
     - Home: index.md

@@ -36,6 +36,10 @@ if (window.location == window.top.location) {
 </script>
 
 # Introduction to Data Science Curriculum v_5.0
+
+**Student version**
+
+
 ![IDS-logo](img/IDS-logo.png)
 
 **Robert Gould**

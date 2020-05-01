@@ -37,7 +37,7 @@ if (window.location == window.top.location) {
 
 # Introduction to Data Science Curriculum v_5.0
 
-**Student version**
+**Student version 2**
 
 
 ![IDS-logo](img/IDS-logo.png)

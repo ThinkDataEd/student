@@ -38,8 +38,7 @@ You will learn about your own data trails by keeping a data diary and
 logging entries over the next 24 hours. It is likely that you do not realize how often you leave
 a data trail or what information is being collected about you on a regular basis.
 
-5. *Data Diary* handout ([LMR_1.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.1_Data Diary.pdf)).
-
+5. *Data Diary* ([LMR_1.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.1_Data Diary.pdf))
 <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.1_Data Diary.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.1_Data Diary.pdf)</div>
 
 6. Your teacher will check your Data Diary in order to assess your understanding of data.
@@ -51,7 +50,7 @@ a data trail or what information is being collected about you on a regular basis
     100. What terms in the **privacy** statements were concerning or worrisome?
 
     100. Do you read the agreements when you download phone apps?
-    
+
 
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>

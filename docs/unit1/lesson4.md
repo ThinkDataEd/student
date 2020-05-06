@@ -46,11 +46,11 @@ connected, you will create a Data Cycle Spinner.
 
 5. To create your own Data Cycle Spinner, look for supplies around your home.
 
-        <img src="../../img/10406.png" />
+    100. Cardboard or paper, markers, something to insert through the center to make it spin.
 
 6. Create your own spinner (see example below).
     
-        <img src="../../img/10406.png" />
+    <img src="../../img/10406.png"/>
 
 7. Almost all statistical investigations begin with statistical questions. There are times when the
 questions may be given to us, so we might start at the data collection step, but this should be our
@@ -96,11 +96,11 @@ our class?"
     100. From here we could spin to “Statistical Questions” and try to come up with additional
     questions to answer and repeat the Data Cycle again.
 
-10. The *Bros & Dudes Graphics* handout contains 10 pairings of graphs. The graphics shown on the handouts were created for the *Quartz* website by Nikhil Sonnad as a data visualization. He collected the data via Twitter. The graphics
-show how common certain terms are throughout the United States when referring to friends.([LMR_1.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.5_Bros & Dudes Graphics.pdf))
+10. The *Bros & Dudes Graphics* handout contains 10 pairings of graphs.
 <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.5_Bros %26 Dudes Graphics.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.5_Bros & Dudes Graphics.pdf)</div>
 
-11.  Choose one of the graphics and come up with 2 questions that could be asked given the particular graphic you chose.
+11.  The graphics shown on the handouts were created for the *Quartz* website by Nikhil Sonnad as a data visualization. He collected the data via Twitter. The graphics
+show how common certain terms are throughout the United States when referring to friends.([LMR_1.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.5_Bros & Dudes Graphics.pdf))Choose one of the graphics and come up with 2 questions that could be asked given the particular graphic you chose.
 
 12. Write down the 4 components of the Data Cycle, then
 use your spinner to see if you can make it all the way through with your chosen questions. You

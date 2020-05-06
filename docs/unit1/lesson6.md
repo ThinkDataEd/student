@@ -24,8 +24,8 @@ Los Angeles high school.
     100. As you watch the video, you should use your Data Science journal to write down your
     comments and/or reactions to what you see and hear.
 
-    100. After sharing out some of their responses, have the students respond to the following
-    question in their DS journals: **Why should I care about what I eat?**
+    100. After jotting down your comments and/or reactions, respond to the following
+    question in your DS journal: **Why should I care about what I eat?**
 
     100. Student teams will share their reactions and responses by engaging in a Silent
     Discussion (see [Instructional Strategies](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_Instructional Strategies.pdf) in [Teacher Resources](../download/resources.md)).

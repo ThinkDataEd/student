@@ -1,26 +1,9 @@
 ##***<u>Lesson 6: What Do I Eat?* [The Data Cycle: Consider Data]</u>**
 
 ###**Objective:**
-Students will collect data using paper and pencil to understand the challenges of organizing, storing, and
-sharing data. They will learn that there must be an agreement about the variables that need to be
+You will collect data using paper and pencil to understand the challenges of organizing, storing, and
+sharing data. You will learn that there must be an agreement about the variables that need to be
 recorded in order to attain consistency.
-
-###**Materials:**
-1. Video: Jamie Oliver’s *Food Revolution* found at:<br>
-    [https://youtu.be/I0vYwqkoktM](https://youtu.be/I0vYwqkoktM "https://youtu.be/I0vYwqkoktM")
-
-    <div align="right"><iframe width="420" height="315"
-    src="https://www.youtube.com/embed/I0vYwqkoktM" allowfullscreen>
-    </iframe><br><a href="https://www.youtube.com/embed/I0vYwqkoktM">https://www.youtube.com/embed/I0vYwqkoktM</a></div>
-
-    **Note:** If the video is unavailable, search for “"Jamie Oliver's Food Revolution What's In a
-    Sundae". The video should be 5-6 minutes in length.
-
-2. Nutrition Facts labels or pictures (collected previously by students)
-
-    **Note:** If needed, use *Nutrition Facts Cutouts* handout ([LMR_1.7_Nutrition Facts Cutouts](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.7_Nutrition Facts Cutouts.pdf))
-
-3. *Food Habits Data Collection* handout ([LMR_1.8_Food Habits Data Collection](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.8_Food Habits Data Collection.pdf))
 
 ###**Vocabulary:**
 data set(s)
@@ -32,14 +15,14 @@ data set(s)
     questions are appropriate.
 
 ###**Lesson:**
-1. Inform students that today’s lesson will focus on the Data Collection component of the Data Cycle.
+1. Today’s lesson will focus on the Data Collection component of the Data Cycle.
 
-2. To motivate this, the students will watch a short video of an episode of Jamie Oliver’s show titled
+2. You will watch a short video of an episode of Jamie Oliver’s show titled
 *Food Revolution* found at: [https://youtu.be/I0vYwqkoktM](https://youtu.be/I0vYwqkoktM "https://youtu.be/I0vYwqkoktM"). This particular video was recorded at a
 Los Angeles high school.
 
-    100. As the students watch the video, they should use their DS journals to write down their
-    comments and/or reactions to what they see and hear and be ready to share out.
+    100. As you watch the video, you should use your Data Science journal to write down your
+    comments and/or reactions to what you see and hear.
 
     100. After sharing out some of their responses, have the students respond to the following
     question in their DS journals: **Why should I care about what I eat?**

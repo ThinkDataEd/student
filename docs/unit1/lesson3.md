@@ -16,15 +16,15 @@ variability
 
 ###**Lesson:**
 
-1. During the previous lesson, you briefly learned what **variables** are . Create your own definition of the term “variables.”
+1. During the previous lesson, you briefly learned what **variables** are . <strong style="color: red;">Create your own definition of the term “variables.”</strong>
 
-2. Using the *Stick Figure* information from [Lesson 2](lesson2.md), come up with a set of
+2. <strong style="color: red;">Using the *Stick Figure* information from [Lesson 2](lesson2.md), come up with a set of
 variable names that describe the different categories of information. It is best when
-variable names are short (one to three words). 
+variable names are short (one to three words).</strong> 
 
-    How do your variable names compare to ours? *Stick Figures* variable names: Name, Height, GPA, Shoe or Shoe Type, Sport, Friends or Number of Friends.
+    <strong style="color: red;">How do your variable names compare to ours?</strong> *Stick Figures* variable names: Name, Height, GPA, Shoe or Shoe Type, Sport, Friends or Number of Friends.
 
-3. How are the values from “Shoe” different than the values from “Height?”
+3. <strong style="color: red;">How are the values from “Shoe” different than the values from “Height?”</strong>
 
 4. The “Shoe” variable consists of categories or groupings, and the
 “Height” variable consists of numbers. Therefore, we can classify variables into two types:
@@ -34,8 +34,8 @@ values that have words, while numerical variables represent values that have num
     **Note:** Categorical variables can sometimes be coded as numbers (e.g., “Gender” could have
     values 0 and 1, where 0=Male and 1=Female).
 
-5. Determine which variables from the *Stick Figures* data are numerical, and which
-variables are categorical.
+5. <strong style="color: red;">Determine which variables from the *Stick Figures* data are numerical, and which
+variables are categorical.</strong>
 
     &nbsp;&nbsp;&nbsp;&nbsp;**<u>Numerical</u>** &nbsp;&nbsp;&nbsp;&nbsp;**<u>Categorical</u>**
 
@@ -53,23 +53,23 @@ is that columns go from top to bottom, and rows go from left to right.
     <img src="../../img/10308.png" />
 
 9. 
-    100. What should each row represent?
+    100. <strong style="color: red;">What should each row represent?</strong>
 
-    100. What should each column represent?
+    100. <strong style="color: red;">What should each column represent?</strong>
 
-10. Copy the table below:
+10. <strong style="color: red;">Copy the table below:</strong>
 
     <img src="../../img/10310.png" />
 
-11. Complete the data table using all 8 of the *Stick Figures* cards. Each row
-of the table should represent one person on a card.
+11. <strong style="color: red;">Complete the data table using all 8 of the *Stick Figures* cards. Each row
+of the table should represent one person on a card.</strong>
 
 12. Answer the following questions:
 
-    100. Do any of the people in the data have the same value for a given variable? In other words,
-    does a value appear more than once in a column? Give two examples.
+    100. <strong style="color: red;">Do any of the people in the data have the same value for a given variable? In other words,
+    does a value appear more than once in a column? Give two examples.</strong>
  
-    100. Do any of the people in the data have different values for a given variable?
+    100. <strong style="color: red;">Do any of the people in the data have different values for a given variable?</strong>
 
 13. The term **variability**. As in question (b) above, the values for each variable vary
 depending on which person we are observing. This shows that the data has variability, and the

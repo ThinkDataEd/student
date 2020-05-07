@@ -48,7 +48,7 @@ connected, you will create a Data Cycle Spinner.
 
     100. Cardboard or paper, markers, something to insert through the center to make it spin.
 
-6. Create your own spinner (see example below).
+6. <strong style="color: red;">Create your own spinner (see example below).</strong>
     
     <img src="../../img/10406.png"/>
 
@@ -100,18 +100,18 @@ our class?"
 <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.5_Bros %26 Dudes Graphics.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.5_Bros & Dudes Graphics.pdf)</div>
 
 11.  The graphics shown on the handouts were created for the *Quartz* website by Nikhil Sonnad as a data visualization. He collected the data via Twitter. The graphics
-show how common certain terms are throughout the United States when referring to friends.([LMR_1.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.5_Bros & Dudes Graphics.pdf))Choose one of the graphics and come up with 2 questions that could be asked given the particular graphic you chose.
+show how common certain terms are throughout the United States when referring to friends.([LMR_1.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.5_Bros & Dudes Graphics.pdf))<strong style="color: red;">Choose one of the graphics and come up with 2 questions that could be asked given the particular graphic you chose.</strong>
 
 12. Write down the 4 components of the Data Cycle, then
 use your spinner to see if you can make it all the way through with your chosen questions. You
 should record notes about whether or not each component can be completed, and why.
 
-    100. Create a small Data Cycle graphic using ONE of your questions to turn
+    100. <strong style="color: red;">Create a small Data Cycle graphic using ONE of your questions to turn
     in for assessment (suggested size is 8.5”x11”). The cycle should be clearly labeled and
-    have appropriate responses for each of the 4 components.
+    have appropriate responses for each of the 4 components.</strong>
 
-    100. Your graphic must make a conclusion about why your question was or was not a
-    statistical question.
+    100. <strong style="color: red;">Your graphic must make a conclusion about why your question was or was not a
+    statistical question.</strong>
 
 13. If you have questions that are not statistical, reformulate them into statistical
 questions for homework.

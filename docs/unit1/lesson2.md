@@ -16,11 +16,11 @@ collect, record, organize, representations, variables
 ###**Lesson:**
 1. Reflect on your data collection homework:
 
-    * How many observations did you make?
+    * <strong style="color: red;">How many observations did you make?</strong>
 
-    * Where do you leave the most data trails?
+    * <strong style="color: red;">Where do you leave the most data trails?</strong>
 
-    * What could someone learn about you if that person had all of this data?
+    * <strong style="color: red;">What could someone learn about you if that person had all of this data?</strong>
 
 2. You are going to act as a researcher and **collect** data on a strange group
 of people who appear to be completely two-dimensional. Your goal is to **record** as much
@@ -32,30 +32,30 @@ choose.
      <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.2_Stick Figures.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.2_Stick Figures.pdf)</div>
 
 
-4. Select one of the cards and record all possible information.
+4. <strong style="color: red;">Select one of the cards and record all possible information.</strong>
 
-5. Organize the data from all 8 cards into a visual that you think represents the data.
+5. <strong style="color: red;">Organize the data from all 8 cards into a visual that you think represents the data.</strong>
 
 6. The images below are posters created by IDS students of the Stick Figure's Data:
 
 7. As you look at the posters:
 
-    100. Describe some similarities among the team posters. Were the data organized in similar
-    ways?
+    100. <strong style="color: red;">Describe some similarities among the team posters. Were the data organized in similar
+    ways?</strong>
 
-    100. Describe some differences among the team posters. How were the data organized
-    differently across teams?
+    100. <strong style="color: red;">Describe some differences among the team posters. How were the data organized
+    differently across teams?</strong>
  
-    100. What information was available about the stick figures on each card?
+    100. <strong style="color: red;">What information was available about the stick figures on each card?</strong>
 
-    100. Which representations made it easy to see what (or who) the objects were that were
+    100. <strong style="color: red;">Which representations made it easy to see what (or who) the objects were that were
     observed? Which representations made it easy to see whether different stick figures had
-    different characteristics?
+    different characteristics?</strong>
 
-    100. Which representation makes it easiest to see which stick figure is tallest?
+    100. <strong style="color: red;">Which representation makes it easiest to see which stick figure is tallest?</strong>
 
-    100. If you were handed a blank stick figure and knew only the person's name, could you fill in
-    the rest of the information? 
+    100. <strong style="color: red;">If you were handed a blank stick figure and knew only the person's name, could you fill in
+    the rest of the information?</strong>
 
 8. The general categories of information, such as a person’s height, are
 called **variables**. Variables are simply characteristics of an object or person. As statisticians, we

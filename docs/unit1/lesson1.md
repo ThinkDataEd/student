@@ -18,19 +18,19 @@ data, observations, data trails, privacy
 1. Watch *The Target Story* video:<br>
     [https://www.youtube.com/watch?v=XvSA-6BJkx4](https://www.youtube.com/watch?v=XvSA-6BJkx4 "https://www.youtube.com/watch?v=XvSA-6BJkx4")
 
-2. <strong style="color: red;">How do you think Target knew about the daughter?</strong> In other words, how did Target know
-    the daughter was pregnant before her father did?
+2. <strong style="color: red;">How do you think Target knew about the daughter? In other words, how did Target know
+    the daughter was pregnant before her father did?</strong>
 
 3. 
 
-    100. What are **data**?
+    100. <strong style="color: red;">What are **data**?</strong>
 
-    100. Where do data come from?
+    100. <strong style="color: red;">Where do data come from?</strong>
 
-    100. Give an example of data.
+    100. <strong style="color: red;">Give an example of data.</strong>
 
-    100. Give an example of something that is not data (e.g., something that was never written
-    down).
+    100. <strong style="color: red;">Give an example of something that is not data (e.g., something that was never written
+    down).</strong>
 
 4. We create **"data trails"** as we go through life. A data trail is the data
 collected about us as individuals that could be used to see the patterns in our personal lives.
@@ -47,9 +47,9 @@ a data trail or what information is being collected about you on a regular basis
     [https://www.youtube.com/watch?v=ZcjtEKNP05c](https://www.youtube.com/watch?v=ZcjtEKNP05c "https://www.youtube.com/watch?v=ZcjtEKNP05c")
 
 8. 
-    100. What terms in the **privacy** statements were concerning or worrisome?
+    100. <strong style="color: red;">What terms in the **privacy** statements were concerning or worrisome?</strong>
 
-    100. Do you read the agreements when you download phone apps?
+    100. <strong style="color: red;">Do you read the agreements when you download phone apps?</strong>
 
 
 

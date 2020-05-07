@@ -18,7 +18,7 @@ data, observations, data trails, privacy
 1. Watch *The Target Story* video:<br>
     [https://www.youtube.com/watch?v=XvSA-6BJkx4](https://www.youtube.com/watch?v=XvSA-6BJkx4 "https://www.youtube.com/watch?v=XvSA-6BJkx4")
 
-2. How do you think Target knew about the daughter? In other words, how did Target know
+2. <strong style="color: red;">How do you think Target knew about the daughter?</strong> In other words, how did Target know
     the daughter was pregnant before her father did?
 
 3. 

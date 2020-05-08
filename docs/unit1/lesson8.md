@@ -1,30 +1,8 @@
 ##***<u>Lesson 8: Tangible Plots* [The Data Cycle: Analyze Data]</u>**
 
 ###**Objective:**
-Students will learn how distributions help us organize and visualize data values, and that the shapes of
+You will learn how distributions help us organize and visualize data values, and that the shapes of
 the distributions give us information about the variability of the data.
-
-###**Materials:**
-1. Computer and projector for Campaign Monitoring
-
-2. Video: *Value of Data Visualization* found at:<br>
-    [https://www.youtube.com/watch?v=xekEXM0Vonc](https://www.youtube.com/watch?v=xekEXM0Vonc "https://www.youtube.com/watch?v=xekEXM0Vonc")
-
-    <div align="right"><iframe width="420" height="315"
-    src="https://www.youtube.com/embed/xekEXM0Vonc" allowfullscreen>
-    </iframe><br><a href="https://www.youtube.com/embed/xekEXM0Vonc">https://www.youtube.com/embed/xekEXM0Vonc</a></div>
-
-3. Nutrition facts labels or pictures (collected previously by students)
-
-4. *Food Habits Data Collection* handout (from [lesson 6](lesson6.md), [LMR_1.8_Food Habits Data Collection](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.8_Food Habits Data Collection.pdf))
-
-5. 3 pieces of tape per student
-
-6. Poster paper
-
-7. Dot stickers or sticky notes
-
-8. *Tangible Plot* handout ([LMR_1.9_Tangible Plot](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.9_Tangible Plot.pdf))
 
 ###**Vocabulary:**
 x-axis, y-axis, visualization, range, minimum, maximum, frequency, distribution, typical, symmetric, range,
@@ -41,41 +19,38 @@ data points, dotplot
 
 1. <u>**Food Habits Campaign Data Collection Monitoring:**</u>
 
-    100. Display the IDS Campaign Monitoring Tool, found at [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org")<br>
-    Click on **Campaign Monitor** and sign in.
+    100. The IDS Campaign Monitoring Tool is found on your IDS Homepage.
+    Click on **Monitor** and sign-in if prompted. Find the Food Habits Campaign and click on Monitor.
+    Note: If you haven't submitted any data, the page will be blank.
 
-    100. Inform students that you will be monitoring their data collection. This is a good
-    opportunity for teachers to remind students that if their data are not shared, they cannot
-    be used in analysis.
+    100. Your teacher will be monitoring your class' data collection using the Campaign Monitoring Tool. You will have the opportunity to look at your own data collection with the Monitor Tool. Once the campaign collection window is over, and your teacher shares the class data, you will be able to see your class' progress.
 
-        200. See *User List* and sort by *Total*. Ask: Who has collected the most data so far?
+        200. See *User List*. <strong style="color: red;">How much data have you collected so far?</strong>
 
-        200. Click on the pie chart. Ask: How many active users are there? How many inactive
-            users are there?
+        200. See *Total Responses by Day*. <strong style="color: red;">When did you submit your first response?</strong>
 
-        200. See *Total Responses*. How many responses have been submitted?
+        200. See *App Type by User*. <strong style="color: red;">What do you notice?</strong>
 
-        200. Using TPS, ask students to think about what can they do to increase their data
-            collection.
+        200. <strong style="color: red;">What can you do to increase your data collection?</strong>
 
-2. Inform students that today they will be learning how to visualize their data.
+2. Today you will be learning how to visualize your data.
 
-3. Show the *Value of Data Visualization* video at [https://www.youtube.com/watch?v=xekEXM0Vonc](https://www.youtube.com/watch?v=xekEXM0Vonc "https://www.youtube.com/watch?v=xekEXM0Vonc"),
-which describes the importance of graphical representations of data. As they watch the video,
-students should respond to the following in their DS journals:
+3. Watch the *Value of Data Visualization* video at [https://www.youtube.com/watch?v=xekEXM0Vonc](https://www.youtube.com/watch?v=xekEXM0Vonc "https://www.youtube.com/watch?v=xekEXM0Vonc"),
+which describes the importance of graphical representations of data. As you watch the video,
+respond to the following in your DS journal:
 
-    100. What is data visualization?
+    100. <strong style="color: red;">What is data visualization?</strong>
 
-    100. List one example of how visualization can be used to increase data comprehension.
+    100. <strong style="color: red;">List one example of how visualization can be used to increase data comprehension.</strong>
 
-4. Have a whole class discussion regarding the video’s last statement: “Your message is only as
-good as your ability to share it.” Ask students:
+4. The video’s last statement was: “Your message is only as
+good as your ability to share it.”
 
-    100. What does this statement mean?
+    100. <strong style="color: red;">What does this statement mean?</strong>
 
-    100. What makes a good message in terms of data and visualizations?
+    100. <strong style="color: red;">What makes a good message in terms of data and visualizations?</strong>
 
-5. Have students take out their nutrition facts labels or pictures, and also their *Food Habits Data
+5. Find your nutrition facts labels or pictures, and your *Food Habits Data
 Collection* handout (from [lesson 6](lesson6.md)).
 
 6. On poster paper, make the first quadrant of a coordinate plane. Leave the labels for the **x-axis**

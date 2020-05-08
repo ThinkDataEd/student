@@ -1,16 +1,8 @@
 ##***<u>Lesson 9: What is Typical?</u>***
 
 ###**Objective:**
-Students will learn about the typical value when looking at a distribution by finding the “center” and
+You will learn about the typical value when looking at a distribution by finding the “center” and
 determining any point clusters.
-
-###**Materials:**
-
-1. Nutrition facts dotplot (from [lesson 8](lesson8.md))
-
-2. Poster paper
-
-3. Markers, dot stickers, or sticky notes
 
 ###**Vocabulary:**
 typical, center, shape, spread
@@ -25,51 +17,32 @@ typical, center, shape, spread
 ###**Lesson:**
 1. **<u>Food Habits Campaign Data Collection Monitoring:</u>**
 
-    100. Display the IDS Campaign Monitoring Tool, found at [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org")
-    Click on **Campaign Monitor** and sign in.
+    100. The IDS Campaign Monitoring Tool is found on your IDS Homepage.
+    Click on **Monitor** and sign in if prompted. Find the Food Habits Campaign and click on Monitor.
+    Note: If you haven't submitted any data, the page will be blank.
 
-    100. Inform students that you will be monitoring their data collection again today.
+    100. Your teacher will be monitoring the class data collection again today.
 
-        200. See *User List* and sort by *Total*. Ask: Who has collected the most data so far?
+        200. See *User List* and sort by *Total*. <strong style="color: red;">Who has collected the most data so far?</strong>
 
-        200. Click on the pie chart. Ask: How many active users are there? How many inactive
-        users are there?
+        200. Click on the pie chart. <strong style="color: red;">How many active users are there? How many inactive
+        users are there?</strong>
 
-        200. See *Total Responses*. How many responses have been submitted?
+        200. See *Total Responses*. <strong style="color: red;">How many responses have been submitted?</strong>
         
-        200. Using TPS, ask students to think about what they can do to increase their data
-        collection.
+        200. <strong style="color: red;">What can you do to increase your data collection?</strong>
 
-2. Inform students that today they will be learning about a distribution’s **typical** value.
+2. Today you will be learning about a distribution’s **typical** value.
 
-3. Ask the class to brainstorm characteristics of the "typical" student. Does the typical 12th grader
-differ from the typical 9th grader? How so? <span style="color:grey">***They may say that everyone is different, and that
-there's no typical student. Keep pressing them to identify characteristics that are typical.
-The idea is to get them to recognize that there is variability, and yet we might still have an
-opinion about what is typical. For instance, not all students walk to school, but this might
-still be the typical experience.***</span>
+3. <strong style="color: red;">Brainstorm characteristics of the "typical" student. Does the typical 12th grader
+differ from the typical 9th grader? How so?</strong>
 
-4. Give students 3 minutes to write down synonyms to the word “typical” in their DS journals. After
-time is up, have the students share their responses and keep a record on the board. <span style="color:grey">***Some
-possible synonyms might be: normal, average, usual, standard, representative, regular,
-ordinary, natural, etc.***</span>
+4. <strong style="color: red;">Write down synonyms to the word “typical” in your DS journals.</strong>
 
-5. Once students share their synonyms, ask students to think about which terms apply best to
-categorical variables and which terms apply best to numerical variables. Ask volunteers to share
-out their thoughts and give a brief explanation of why they categorized the term as either applying
-best to categorical variables or numerical variables. Create a T-chart on the board to keep track
-of their categories. 
+5. <strong style="color: red;">Which terms apply best to categorical variables and which terms apply 
+best to numerical variables.</strong>
 
-6. Next, display the dotplot created by the class with their nutrition facts labels during the previous
-class (from [lesson 8](lesson8.md)). Ask: what value might we consider to be the typical value of this
-distribution? <span style="color:grey">***Answers will vary by class. Common answers will be to identify the mode (the
-value with the most labels) or the value in the center. A common wrong answer will be to
-confuse the frequency with the value. For example, they will say the most typical number
-of calories was "3" because, perhaps, 100 calories occurred 3 times, and that was more
-often than any other value. Students may also identify "clumps” of data: "it's somewhere
-between 110 and 120." That's ok, but probe them as to why they chose that chunk and not
-another. The point is to get them to see that chunk as being in the middle or center of the
-distribution.***</span>
+6. Consider the dotplot from [lesson 8](lesson8.md)). <strong style="color: red;">What value might you consider to be the typical value of this distribution? Why?</strong>
 
     100. Hopefully, at least one student will choose a value close to the center of the distribution. If
     not, point to a value near the extreme and ask them if they think this is typical. Then

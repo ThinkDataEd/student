@@ -37,7 +37,7 @@ values that have words, while numerical variables represent values that have num
 5. <strong style="color: red;">Determine which variables from the *Stick Figures* data are numerical, and which
 variables are categorical.</strong>
 
-    &nbsp;&nbsp;&nbsp;&nbsp;**<u>Numerical</u>** &nbsp;&nbsp;&nbsp;&nbsp;**<u>Categorical</u>**
+    &nbsp;&nbsp;&nbsp;&nbsp;**<strong style="color: red;"><u>Numerical</u></strong>** &nbsp;&nbsp;&nbsp;&nbsp;**<strong style="color: red;"><u>Categorical</u></strong>**
 
 6. Although we can understand many different representations of data (as evidenced by
 the posters from [Lesson 2](lesson2.md)), computers are not as capable. Instead, we need to organize data in a

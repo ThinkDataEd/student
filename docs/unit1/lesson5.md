@@ -17,6 +17,7 @@ statistical questions
 2. You will continue to learn about what makes a question statistical. Recall the definition of a statistical question: Statistical questions are questions that address
 variability and can be answered with data. A good way to determine this is to ask: *Do we need to
 see the data to answer the question?*
+<strong style="color: blue;">Include more examples and non-examples from the TR_Statistical Questions pdf</strong>
 
 3. Below are the 2 questions:
 

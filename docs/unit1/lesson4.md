@@ -52,7 +52,8 @@ connected, you will create a Data Cycle Spinner.
     
     <img src="../../img/10406.png"/>
 
-<strong style="color: blue;">Insert either a video or slides that Carole created where we take students to different parts of the data cycle.</strong>
+    <strong style="color: blue;">Insert either a video or slides that Carole created where we 
+    take students to different parts of the data cycle.</strong>
 
 7. Almost all statistical investigations begin with statistical questions. There are times when the
 questions may be given to us, so we might start at the data collection step, but this should be our

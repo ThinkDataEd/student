@@ -20,7 +20,7 @@ data points, dotplot
 1. <u>**Food Habits Campaign Data Collection Monitoring:**</u>
 
     100. The IDS Campaign Monitoring Tool is found on your IDS Homepage.
-    Click on **Monitor** and sign-in if prompted. Find the Food Habits Campaign and click on Monitor.
+    Click on **Monitor** and sign in if prompted. Find the Food Habits Campaign and click on Monitor.
     Note: If you haven't submitted any data, the page will be blank.
 
     100. Your teacher will be monitoring your class' data collection using the Campaign Monitoring Tool. You will have the opportunity to look at your own data collection with the Monitor Tool. Once the campaign collection window is over, and your teacher shares the class data, you will be able to see your class' progress.
@@ -33,7 +33,7 @@ data points, dotplot
 
         200. <strong style="color: red;">What can you do to increase your data collection?</strong>
 
-2. Today you will be learning how to visualize your data.
+2. Today you will be learning how to visualize data.
 
 3. Watch the *Value of Data Visualization* video at [https://www.youtube.com/watch?v=xekEXM0Vonc](https://www.youtube.com/watch?v=xekEXM0Vonc "https://www.youtube.com/watch?v=xekEXM0Vonc"),
 which describes the importance of graphical representations of data. As you watch the video,
@@ -53,122 +53,77 @@ good as your ability to share it.”
 5. Find your nutrition facts labels or pictures, and your *Food Habits Data
 Collection* handout (from [lesson 6](lesson6.md)).
 
-6. On poster paper, make the first quadrant of a coordinate plane. Leave the labels for the **x-axis**
-and **y-axis** blank for now (see step 10).
+6. We will analyze the stick figures' snacking habits. We will begin by drawing the **x-axis**
+and **y-axis** on a poster paper to create the first quadrant of the coordinate plane.
 
-7. Distribute 3 pieces of tape to each student. Make sure they fold each piece of tape to make two
-sticky sides. Have each student tape one sticky side to the back of each label and ask them to
-have the labels ready to tape onto the poster paper.
+7. The stick figures will prepare to tape their labels onto the poster paper.
 
-8. As a class, ask students to select 2 numerical variables and 1 categorical variable from the *Food
-Habits Data Collection* handout whose data they would like to see in a **visualization**, which is a
-picture of the data. For example, students may vote to see a visualization of the following
-numerical variables: calories per serving, total fat per serving; categorical variable: salty_sweet
+8. The stick figures have selected 2 numerical variables and 1 categorical variable from the *Food Habits Data Collection* handout whose data they would like to see in a **visualization**, which is a
+picture of the data.
 
-9. Once students select the variables, inform them that they will be creating a plot with the nutrition
-facts labels for each of the variables they selected.
+9. We will begin creating plots with the nutrition facts labels for each of the variables they selected.
 
-10. Create a bargraph of the categorical variable chosen by the students. Begin by showing students
-how to clearly label the x-axis with the categories. For instance, if salty_sweet is the variable, ask
-students to identify the categories for that variable. Then mark the y-axis with the label **frequency**,
-which simply means the number of times an outcome occurs. Do not put tick-marks on the y-axis.
-The frequency will be measured by the number of labels plotted.
+10. We will begin by creating a bargraph of the categorical variable <i>salty_sweet</i> chosen by the stick figures. Since the variable has two categories, we will label the x-axis with the categories <i>Salty</i> and <i>Sweet</i>. The y-axis will have the label **frequency**,
+which simply means the number of times an outcome occurs. Tick-marks are not needed on the y-axis because the frequency will be measured by the number of labels plotted.
 
-11. Have students come up and place their nutrition fact label above the category that describes their
-snack. Have students stack their nutrition label so that is easy to calculate the frequency. Once all
-the labels have been placed, create bars with the appropriate height (frequency) for each
-category. Make sure to leave spaces between the bars, and that bars are the same width.
+11. The stick figures placed their nutrition fact labels above the category that describes their snack. Notice how they have stacked their nutrition label so that is easy to calculate the frequency. <strong style="color: red;">Where would you place your nutrition labels?</strong> <strong style="color: blue;">Insert a picture of the made-up distribution.</strong>
 
-12. Ask students to respond to the following questions in their DS journals:
+12. Respond to the following questions in your DS journals:
 
     100. How many **data points** does this distribution have? Why?
 
-    100. What information is this visualization telling us about <u>[insert categorical variable
-    name]</u> in the snacks we consume?
+    100. What information is this visualization telling us about the type of snacks the stick figures consume?
 
-13. Use another piece of poster paper to create a distribution for the first numerical variable chosen
-by the students.
+13. We will now create a distribution for one of the numerical variables chosen by the stick figures.
 
-14. Create a dotplot of the first numerical variable chosen by the students. Begin by showing students
-how to clearly label the x-axis. For instance, if calories per serving is the variable, ask students for
-the range of values for calories per serving and determine the **minimum** and **maximum** values
-for the data set. Clearly label the x-axis with adequate intervals and the variable’s name. Then
-mark the y-axis with the label **frequency**, which simply means the number of times a value
-occurs. Do not put tick-marks on the y-axis. The frequency will be measured by the number of
-labels plotted.
+14. The stick figures are interested in analyzing the amount of sugar in the snacks they consume. A dotplot is appropriate for a numerical variable. Before the x-axis can be labeled, the **minimum** and **maximum** values for the grams of sugar need to be determined so we can clearly label the x-axis with adequate intervals and the variable’s name. The y-axis will be labeled **frequency**, which simply means the number of times a value
+occurs. There is no need to place tick-marks on the y-axis. The frequency will be measured by the number of labels plotted.
 
-15. For each value in the data set, put a nutrition facts label above that value on the x-axis. When a
-value occurs more than once, stack the nutrition facts labels. For example, if there are three
-nutrition facts labels with 120 calories per serving in the data set, there will be three nutrition facts
-labels above the 120 mark on the x-axis.
+15. The stick figures walked over to the poster, looked for the number on the x-axis that represented the grams of sugar in their snack and placed their nutrition label above that value. <strong style="color: blue;">Insert a picture of the made-up sugar distribution.</strong>
 
-16. Once all the labels have been placed, ask students to observe the **distribution** of the data in the
-dotplot. Ask students to respond to the following questions in their DS journals:
+16. Observe the **distribution** of grams of sugar in the
+dotplot. Respond to the following questions in your DS journal:
 
-    100. What are the minimum and the maximum values of the data set? <span style="color:grey">***Answers will vary by
-    class.***</span>
+    100. <strong style="color: red;">What are the minimum and the maximum values of the data set?</strong>
 
     100. **The range** is the largest value minus the smallest value. It is one way of measuring the
-    variability of a variable. What is the range, and why do you think this measures the
-    variability? <span style="color:grey">***Answers will vary by class. The range measures variability because if
-    the values of the variable are really different, the range will be a big number
-    (because the max and min will be far apart); but if there is little variability, the
-    range will be small. For example, if all of the values were the same, we would have
-    no variability and the range would be 0 because the max and min would be the
-    same number.***</span>
+    variability of a variable. <strong style="color: red;">What is the range, and why do you think this measures the variability?</strong>
 
-    100. How many **data points** does this distribution have? Why? <span style="color:grey">***Answers will vary by class.***</span>
+    100. <strong style="color: red;">How many **data points** does this distribution have? Why?</strong>
 
-    100. What is the amount of <u>[insert variable name]</u> that appears most often in a snack? Why?
-    <span style="color:grey">***Answers will vary by class.***</span>
+    100. <strong style="color: red;">What is the amount of grams of sugar that appears most often in a snack? Why?</strong>
 
-    100. What do you think the phrase *distribution* of the *data set* means? <span style="color:grey">***It shows us how
-    values are distributed. We learn where there are many values, where there are only
-    a few values, and where there are no values at all.***</span>
+    100. <strong style="color: red;">What do you think the phrase *distribution* of the *data set* means?</strong>
 
-    100. What information is this distribution telling us about the <u>[insert variable name]</u> in the
-    snacks we consume? <span style="color:grey">***Answers will vary. We see how the value of [variable name]
-    varies. For example, we can see whether all foods have the same number of
-    calories, or if they differ.***</span>
+    100. <strong style="color: red;">What information is this distribution telling us about the grams of sugar in the snacks the stick figures consume?</strong>
 
     100. A distribution tells us two things: the values of the variable and the frequency of the
-    values. "Frequency" is just another way of saying "the count." Why is this dotplot a
-    picture of the distribution of [variable name]? <span style="color:grey">***Because the location of the labels on the
-    x-axis tells us the values we saw, and the number of labels at that value tells us the
-    frequency for that value.***</span>
+    values. "Frequency" is just another way of saying "the count." <strong style="color: red;">Why is this dotplot a
+    picture of the distribution of grams of sugar?</strong>
 
-17. Review the students’ responses in a class discussion. Ask students to put a check mark next to
-the answers that were validated, and to revise the answers that need to be corrected.
+17. You will be provided with an opportunity for feedback on your responses.
 
-18. Use another piece of poster paper to create a distribution for the second numerical variable
-chosen by the students. Repeat steps 14-16 with this variable.
+18. Below is the distribution of number of calories in the stick figure's snacks. <strong style="color: blue;">Insert a picture of the made-up calories distribution.</strong>
 
-19. On the first visualization for the numerical variable, show students how to convert the nutrition
-facts labels into something more readable. Draw another horizontal like on the plot above the
-nutrition facts labels. Explain that we can represent each label with an item such as a dot sticker
-or a sticky note.
+    100. <strong style="color: red;">How many **data points** does this distribution have? Why?</strong>
 
-20. Then, start with the minimum x-value on the plot and place the new sticker above the second
-horizontal axis. Do this for each nutrition facts label in the plot. Once all values have been
-represented, ask the students how this new plot IS or IS NOT better than the original. Explain that
-we can call this type of plot a **dotplot** since we’re using dots to represent each observation.
+    100. <strong style="color: red;">What is the number of calories that appears most often in a snack? Why?</strong>
 
-21. Distribute the *Tangible Plot* handout ([LMR_1.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.9_Tangible Plot.pdf)). Each student should pick one of the 2 numerical
-variables plotted on the poster paper. Then, they should complete part 1 of the *Tangible Plot*
-handout before leaving class. They will complete part 2 of the handout for homework.
+    100. <strong style="color: red;">What information is this distribution telling us about the number of calories in the snacks the stick figures consume?</strong>
+
+
+19. We are going to show you how to convert the nutrition facts labels into something more readable. We can represent each label with an item such as a dot,  dot sticker or a sticky note.<strong style="color: blue;">Insert a picture of the dotplot calories distribution.</strong>
+
+20. Notice that the x-axis is the same as before. We simply replaced each nutrition fact label with a dot that corresponded with the number of calories in the snack. If two snacks had the same amount of calories, we simply stacked the dots. <strong style="color: red;">Is this new plot better than the original?</strong> We call this type of plot a **dotplot** since we’re using dots to represent each observation.
+
+21. The *Tangible Plot* handout ([LMR_1.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.9_Tangible Plot.pdf)) contains the nutritional information for the total grams of fat in the stick figures' snacks. Create a dotplot tha shows the distribution of grams of fat and answer the questions.
 <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.9_Tangible Plot.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.9_Tangible Plot.pdf)</div>
 
-22. Ask students to think about the statistical questions they came up with. Can the visualizations
-they created in class help answer their statistical question? If yes, answer the question; if not,
-what visualization would be appropriate?
+22. Think about the statistical questions you came up with (Lesson 6 homework). <strong style="color: red;">Which visualization would be most appropriate for answering your statistical questions?</strong>
 
-###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics
-of the day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Students will complete part 2 of the *Tangible Plot* handout ([LMR_1.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.9_Tangible Plot.pdf)) and bring it to the next class for
-assessment.
+Complete the *Tangible Plot* handout ([LMR_1.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.9_Tangible Plot.pdf)) and turn it in for assessment.
 
-Students should continue to collect nutritional facts data using the *Food Habits* Participatory Sensing
-campaign on their smart devices or via web browser.
+Continue to collect nutritional facts data using the *Food Habits* Participatory Sensing
+campaign on your smart devices or via web browser.

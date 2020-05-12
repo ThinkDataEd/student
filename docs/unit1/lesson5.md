@@ -14,21 +14,22 @@ statistical questions
 ###**Lesson:**
 1. <strong style="color: red;">What are the 4 components of the Data Cycle?</strong>
 
-2. You will continue to learn about what makes a question statistical. Recall the definition of a statistical question: Statistical questions are questions that address
-variability and can be answered with data. A good way to determine this is to ask: *Do we need to
-see the data to answer the question?*
-<strong style="color: blue;">Include more examples and non-examples from the TR_Statistical Questions pdf</strong>
+2. You will continue to learn about what makes a question statistical. Recall the definition of a statistical question: 
 
-3. Below are the 2 questions:
+    Statistical questions are questions that:<ul><li>address
+    variability</li> <li>can be answered with data</li></ul> A good way to determine this is to ask: *Do we need to
+    see the data to answer the question?*
 
-    100. How old am I?
+3. The following are examples of non-statistical questions that can be modified to be statistical questions.
 
-    100. How old are the students in my school?
+4. **Non-statistical**:  What is LeeAnn's favorite color?  While this can be answered with data (by asking LeeAnn), it does not address variability, since LeeAnn presumably has only one favorite color.
 
-4. <strong style="color: red;">Analyze each question using the definition of a statistical question and
-come to a decision about which one is a statistical question.</strong>
+    **Statistical**: What is the most common favorite color in our classroom?  This can be answered by collecting data (asking each student his or her favorite color) and recognizes that different students may have different answers.
 
-5. The first question **IS NOT** a statistical question because there is only one possible value. The second question **IS** a statistical question because not all students are the same age. The ages vary, so there is variability in the data.
+5. **Non-statistical**: What is the airspeed velocity of an unladen swallow?  This is non-statistical because it assumes all unladen swallows have the same velocity. A follow-up question, such as "African or European?" might point out that there is variation between species, but were we to collect data, we would see variation between individuals.  This question could be rephrased into a statistical question:
+
+    **Statistical**: What is the typical (or most common, or most extreme, or....) of an unladen European swallow.
+
 
 6. The *Statistical Questions Scenarios* handout contanins 4 different scenarios with a set of statistical questions.Choose the scenario that interests you the most. ([LMR_1.6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.6_Statistical Questions Scenarios.pdf))
 <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.6_Statistical Questions Scenarios.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.6_Statistical Questions Scenarios.pdf)</div>

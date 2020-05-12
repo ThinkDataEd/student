@@ -48,7 +48,7 @@ can define this type of organization as **rectangular format**, or **spreadsheet
 
 8. On the table below, the columns are the
 vertical portions of the table, while the rows are the horizontal portions. Another way to think of it
-is that columns go from top to bottom, and rows go from left to right.
+is that columns go from top to bottom, and rows go from left to right. Each row should represent one obervation such as a stick figure and each column should represent one variable.
 
     <img src="../../img/10308.png" />
 

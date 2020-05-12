@@ -18,7 +18,7 @@ statistical questions
 variability and can be answered with data. A good way to determine this is to ask: *Do we need to
 see the data to answer the question?*
 
-3. Below are the 2 questions from the previous lesson:
+3. Below are the 2 questions:
 
     100. How old am I?
 
@@ -36,6 +36,7 @@ come to a decision about which one is a statistical question.</strong>
 each question in the scenario you chose a statistical question.</strong>
 
 8. Below, you will find a student's responses to one of the scenarios. <strong style="color: red;">Do you agree or disagree with the student's assessment of statistical questions?</strong>
+<strong style="color: blue;">Made up student answers to a statistical question</strong>
 
 9. In the [next lesson](lesson6.md), you will begin using the Data Cycle to learn about your
 food habits. To prepare for this, you should begin collecting the “Nutrition Facts” labels from

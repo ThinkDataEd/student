@@ -32,11 +32,12 @@ choose.
      <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.2_Stick Figures.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.2_Stick Figures.pdf)</div>
 
 
-4. <strong style="color: red;">Select one of the cards and record all possible information.</strong>
+4. <strong style="color: red;">Select one of the stick figures and record all possible information.</strong>
 
-5. <strong style="color: red;">Organize the data from all 8 cards into a visual that you think represents the data.</strong>
+5. <strong style="color: red;">Organize the data from all 8 stick figures into a visual that you think represents the data.</strong>
 
 6. The images below are posters created by IDS students of the Stick Figure's Data:
+<strong style="color: blue;">Insert a google doc with the pictures of student posters.</strong>
 
 7. As you look at the posters:
 

@@ -14,6 +14,10 @@ variability
     can easily see the characteristics of observations by reading across a row, or we can see the variability in
     a variable by reading down the column. Computers can easily process data when it is rectangular format.
 
+###**Directions:** 
+
+As you read through the lesson, answer the questions in <strong style="color: red;">red</strong> font in your Introduction to Data Science (IDS) Journal.
+
 ###**Lesson:**
 
 1. During the previous lesson, you briefly learned what **variables** are . <strong style="color: red;">Create your own definition of the term “variables.”</strong>

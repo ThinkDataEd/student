@@ -17,6 +17,10 @@ data cycle, statistical questions, data collection, data analysis, data interpre
     always done on the computer and consists of creating relevant graphics and numerical summaries of the
     data. Data Interpretation is involved with using the analysis to answer the statistical questions.
 
+###**Directions:** 
+
+As you read through the lesson, answer the questions in <strong style="color: red;">red</strong> font in your Introduction to Data Science (IDS) Journal.
+
 ###**Lesson:**
 1. During the past few lessons, we have discussed what data are, how to collect and organize them,
 and how their values can vary. But what do we do with all this data? How can we navigate it and

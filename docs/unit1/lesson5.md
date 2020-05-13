@@ -11,8 +11,12 @@ statistical questions
 !!! note "Essential Concepts:"
     Statistical questions address variability.
 
+###**Directions:** 
+
+As you read through the lesson, answer the questions in <strong style="color: red;">red</strong> font in your Introduction to Data Science (IDS) Journal.
+
 ###**Lesson:**
-1. <strong style="color: red;">What are the 4 components of the Data Cycle?</strong>
+1. During the previous lesson, you were introduced to the data cycle. <strong style="color: red;">List the 4 components of the Data Cycle.</strong>
 
 2. You will continue to learn about what makes a question statistical. Recall the definition of a statistical question: 
 
@@ -26,7 +30,7 @@ statistical questions
 
     **Statistical**: What is the most common favorite color in our classroom?  This can be answered by collecting data (asking each student his or her favorite color) and recognizes that different students may have different answers.
 
-5. **Non-statistical**: What is the airspeed velocity of an unladen swallow?  This is non-statistical because it assumes all unladen swallows have the same velocity. A follow-up question, such as "African or European?" might point out that there is variation between species, but were we to collect data, we would see variation between individuals.  This question could be rephrased into a statistical question:
+5. **Non-statistical**: What is the airspeed velocity of an unladen swallow (a swallow is a bird)?  This is non-statistical because it assumes all unladen swallows have the same velocity. A follow-up question, such as "African or European?" might point out that there is variation between species, but were we to collect data, we would see variation between individuals.  This question could be rephrased into a statistical question:
 
     **Statistical**: What is the typical (or most common, or most extreme, or....) of an unladen European swallow.
 

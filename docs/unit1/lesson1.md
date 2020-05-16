@@ -13,9 +13,10 @@ data, observations, data trails, privacy
     by sensors. Patterns in data can reveal previously unknown patterns in our world. Data play a large, and
     sometimes invisible, role in our lives.
 
-###**Directions:** 
-
-As you read through the lesson, answer the questions in <strong style="color: red;">red</strong> font in your Introduction to Data Science (IDS) Journal.
+!!! warning "ATTENTION"
+    For every single lesson:
+    
+    Answer the questions in <strong style="color: red;">red</strong> font in your Introduction to Data Science (IDS) Journal.
 
 ###**Lesson:**
 

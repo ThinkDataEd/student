@@ -11,10 +11,6 @@ statistical questions
 !!! note "Essential Concepts:"
     Statistical questions address variability.
 
-###**Directions:** 
-
-As you read through the lesson, answer the questions in <strong style="color: red;">red</strong> font in your Introduction to Data Science (IDS) Journal.
-
 ###**Lesson:**
 1. During the previous lesson, you were introduced to the data cycle. <strong style="color: red;">List the 4 components of the Data Cycle.</strong>
 

@@ -12,9 +12,11 @@ collect, record, organize, representations, variables
     Data consist of records of particular characteristics of people or objects. Data can
     be organized in many different ways, and some ways make it easier than others for achieving particular
     purposes.
-###**Directions:** 
-
-As you read through the lesson, answer the questions in <strong style="color: red;">red</strong> font in your Introduction to Data Science (IDS) Journal.
+    
+!!! warning "ATTENTION"
+    For every single lesson:
+    
+    Answer the questions in <strong style="color: red;">red</strong> font in your Introduction to Data Science (IDS) Journal.
 
 ###**Lesson:**
 1. Reflect on your data collection homework:

@@ -1,7 +1,7 @@
 ##***<u>Lesson 16: Categorical Associations</u>***
 
 ###**Objective:**
-Students will learn to construct, interpret, and calculate the joint relative frequencies of two-way frequency
+You will learn to construct, interpret, and calculate the joint relative frequencies of two-way frequency
 tables.
 
 ###**Vocabulary:**
@@ -15,7 +15,7 @@ two-way frequency table, joint relative frequency
     people/objects had *this* value on the first variable and *this* value on the second."
 
 ###**Lesson:**
-1. Launch the lesson by displaying the following scenario:
+1. Read the following scenario:
 
     Rosa has a theory that cat owners are also musical. To find out, she decided to
     collect data that would help her understand the relationship between cat
@@ -25,42 +25,19 @@ two-way frequency table, joint relative frequency
     discovered that 9 owned a cat, but did not play an instrument. There were also 9
     students who neither owned a cat nor played an instrument.
 
-2. Inform students that Rosa asked two questions that provided the data for her two-way frequency
-table. What could those two questions be?
+2. Rosa asked two questions that provided the data for her two-way frequency
+table. <strong style="color: red;">What could those two questions be?</strong>
 
-    <span style="color:grey">***Possible Answer: ***</span>
+3. <strong style="color: red;">What variables did Rosa collect? What were the values of those variables?</strong>
 
-    <span style="color:grey">***Question 1—Do you play an instrument?***</span>
+4. <strong style="color: red;">In your IDS journal, write out what the original data must have looked like.</strong>
 
-    <span style="color:grey">***Question 2—Do you own a cat?***</span>
+5. Today you will be looking at associations in categorical variables.
 
-3. What variables did Rosa collect? What were the values of those variables?
-
-4. In pairs, write out on paper what the original data must have looked like.
-
-    <span style="color:grey">***Answer: Variable 1: Owns Cat. Variable 2: Plays Instrument***</span>
-
-    <span style="color:grey">***Owns Cat &nbsp;&nbsp;&nbsp;&nbsp;Plays Instrument***</span>
-
-    <span style="color:grey">***Yes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(There are 7 of these)***</span>
-
-    <span style="color:grey">***Yes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(9 of these)***</span>
-
-    <span style="color:grey">***No&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(10 of these)***</span>
-
-    <span style="color:grey">***No&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(9 of these)***</span>
-
-5. Inform students that today they will be looking at associations in categorical variables.
-
-    **<u>Note:</u>** If necessary, review the difference between questions for categorical and numerical
-    variables.
-
-6. Explain that their task is to summarize Rosa’s findings in one table that shows totals. Remind
-students to use their knowledge of data structures from [Lesson 2](lesson2.md), especially organizing in rows
+6. In your IDS journal, summarize Rosa’s findings in one table that shows totals. Use your knowledge of data structures from [Lesson 2](lesson2.md), especially organizing in rows
 and columns.
 
-7. Allow time for teams to wrestle with how to organize their data in one table. As teams work, walk
-around monitoring their data tables.
+7. There are many ways to organize the data.
 
 8. Select a few data tables to display and share with the entire class.
 

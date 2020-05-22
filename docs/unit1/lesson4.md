@@ -52,52 +52,17 @@ connected, you will create a Data Cycle Spinner.
     
     <img src="../../img/10406.png"/>
 
-    <strong style="color: blue;">Insert either a video or slides that Carole created where we 
+
+
+7. The slides below contain examples of components of the data cycle. 
+    <strong style="color: blue;">Insert slides that Carole created where we 
     take students to different parts of the data cycle.</strong>
+    <strong style="color: red;">For each slide, answer the following questions: Where in the data cycle are we? Why?</strong>
 
-7. Almost all statistical investigations begin with statistical questions. There are times when the
-questions may be given to us, so we might start at the data collection step, but this should be our
-starting point. No matter where we start, our goal is to get all the way around the cycle at least
-once. If we can't, we should try to change our approach so that we can get around the entire
-cycle.
+8. Were you a little skeptical about the statement in slide #3? Why or why not? What did the slide #5 reveal?
 
-8. Suppose we ask a person, "How old are you?" We will use our spinner to determine if this is a
-statistical question.
-    
-    100. Since this is a question, we point the spinner to "Statistical Questions."
-
-        **Note:** This is not a statistical question, so we're going to see why not.
-    
-    100. The person would give an answer – their age. This is data (one observation), so we spin
-    the pointer to "Data Collection."
-    
-    100. This is all the data we need to answer the question, so we spin the Data Cycle to “Data
-    Analysis” to see if we could create some sort of graph or table to display this information.
-    
-    100. However, we only have one data value, so it would be impossible to create anything from
-    it (and we don't need to, because we have everything we need to know in order to
-    answer the original question).
-
-    100. Therefore, we cannot complete the “Data Analysis” component and are not able to move
-    on to “Data Interpretation.”
-
-    100. We need to move backwards through the cycle to figure out what went wrong. In this
-    case, what went wrong is that our question was not statistical. It didn’t address variability.
-
-9. So let's change our question to a statistical one: "How old are the students in
-our class?"
-
-    100. Next we spin to “Data Collection.” Our data would consist of all of the students in the
-    class. There would be different values: probably ages between 14 and 19.
-
-    100. We then spin to “Data Analysis”. Is there a graph or a summary we might make? YES!
-    We might make a dotplot of the ages, for example.
-
-    100. Then we spin to "Data Interpretation." We might use the graph from the analysis to say,
-    "Students are many different ages, but the typical age is..."
-
-    100. From here we could spin to “Statistical Questions” and try to come up with additional
-    questions to answer and repeat the Data Cycle again.
+9. As informed citizens, we should question claims made by the media.
+   
 
 10. The *Bros & Dudes Graphics* handout contains 10 pairings of graphs.
 <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.5_Bros %26 Dudes Graphics.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.5_Bros & Dudes Graphics.pdf)</div>

@@ -30,27 +30,17 @@ table. <strong style="color: red;">What could those two questions be?</strong>
 
 3. <strong style="color: red;">What variables did Rosa collect? What were the values of those variables?</strong>
 
-4. <strong style="color: red;">In your IDS journal, write out what the original data must have looked like.</strong>
+4. <strong style="color: red;">In your IDS journal, summarize Rosa’s findings in one table that shows totals. Use your knowledge of data structures from [Lesson 2](lesson2.md), especially organizing in rows
+and columns.</strong>
 
 5. Today you will be looking at associations in categorical variables.
 
-6. In your IDS journal, summarize Rosa’s findings in one table that shows totals. Use your knowledge of data structures from [Lesson 2](lesson2.md), especially organizing in rows
-and columns.
+6. There are many ways to organize the data that Rosa collected.
 
-7. There are many ways to organize the data.
-
-8. Select a few data tables to display and share with the entire class.
-
-9. Explain the *Anonymous Author* strategy to students (see [Instructional Strategies](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_Instructional Strategies.pdf) in [Teacher
-Resources](../download/resources.md)).
-
-10. Display the data tables and ask students to engage in the *Anonymous Author* strategy. You may
-want to start the discussion by asking about the total number of students Rosa surveyed.
-
-11. Make sure the last data table you display correctly shows a **two-way frequency table**. A two-way
+7. The table below shows a **two-way frequency table**. A two-way
 frequency table displays the data that pertains to two categories from one group. One category is
-represented in rows and the other is represented in columns. In this exercise, the group is a class
-of art students.
+represented in rows and the other is represented in columns. This **two-way frequency table** represents the
+data Rosa collected from the students in her art class.
 
     **Cat Ownership and Instruments**
 
@@ -60,20 +50,15 @@ of art students.
     | **No cats** | 10 | 9 | 19 |
     | **Total** | 17 | 18 | 35 |
 
-12. Based on the Cat Ownership and Instruments table, ask student teams to generate questions that
-can be asked and answered by the data.
+8. <strong style="color: red;">Based on the Cat Ownership and Instruments table, generate questions that
+can be asked and answered by the data.</strong>
 
-13. In a *Whip Around*, ask student teams to share one of their questions.
-
-14. Explain that a two-way frequency table can show relative frequencies. A **relative frequency** is
+9. A two-way frequency table can show relative frequencies. A **relative frequency** is
 how often something occurs in relation to the total number of occurrences, and is expressed as a
-proportion or percentage of a total. For example, what is the relative frequency of those who own
-a cat and play an instrument? <span style="color:grey">***Answer: 7/35 or 0.2 or 20%.***</span>
+proportion or percentage of a total. For example, the relative frequency of those who own
+a cat and play an instrument is <span style="color:grey">***Answer: 7/35 or 0.2 or 20%.***</span>
 
-    **<u>Note:</u>** Review how to write a proportion and how to express a proportion as a percent.
-
-15. Ask students to calculate the relative frequencies for the entire table. They may check their
-calculations with a partner.
+10. The relative frequencies for the entire table have been calculated.
 
 
     **Cat Ownership and Instruments**
@@ -86,17 +71,20 @@ calculations with a partner.
     | **No cats** | 10/35 ≈ 0.29 | 9/35 ≈ 0.26 | 19/35 ≈ 0.54 |
     | **Total** | 17/35 ≈ 0.49 | 18/35 ≈ 0.51 | 35/35 = 1.00 |
 
-16. In teams, students will generate 2 questions about 2 categorical variables. Allow teams 3-5
-minutes to generate their questions. Students should not choose two random categorical
-variables. Rather, they should choose two categorical variables that they predict might be
-associated.
+11. Using the table above, answer the following questions about relative frequencies.
 
-17. The team will create a two-way table that corresponds to their categorical variables.
+    100. What percent of the students in Rosa's art class own a cat?
 
-###**Class Scribes:**
+    100. What percent of the students in Rosa's art class do not own a cat but play and instrument? 
 
-One team of students will give a brief talk to discuss what they think the 3 most important topics
-of the day were.
+    100. What does the **relative frequency** 18/35 represent?
+
+12. <strong style="color: red;">Now you will generate 2 questions about 2 categorical variables. Do not choose two random categorical
+variables. Rather, you should choose two categorical variables that you predict might be
+associated.</strong>
+
+13. Create a two-way table where you can organize the data for your questions.
+
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
 Rosa posed this statistical question:

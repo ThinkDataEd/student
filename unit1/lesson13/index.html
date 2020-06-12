@@ -646,13 +646,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#materials" class="md-nav__link">
-    Materials:
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#vocabulary" class="md-nav__link">
     Vocabulary:
   </a>
@@ -676,13 +669,6 @@
           <li class="md-nav__item">
   <a href="#lesson" class="md-nav__link">
     Lesson:
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#class-scribes" class="md-nav__link">
-    Class Scribes:
   </a>
   
 </li>
@@ -2938,13 +2924,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#materials" class="md-nav__link">
-    Materials:
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#vocabulary" class="md-nav__link">
     Vocabulary:
   </a>
@@ -2968,13 +2947,6 @@
           <li class="md-nav__item">
   <a href="#lesson" class="md-nav__link">
     Lesson:
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#class-scribes" class="md-nav__link">
-    Class Scribes:
   </a>
   
 </li>
@@ -3012,20 +2984,8 @@
                 
                 <h2 id="lesson-13-rstudio-basics"><strong><em><u>Lesson 13: RStudio Basics</u></em></strong></h2>
 <h3 id="objective"><strong>Objective:</strong></h3>
-<p>Students will learn RStudio’s interface, as well as a few basic commands to discover the structure behind
+<p>You will learn RStudio’s interface, as well as a few basic commands to discover the structure behind
 a data set.</p>
-<h3 id="materials"><strong>Materials:</strong></h3>
-<ol>
-<li>
-<p>Computer</p>
-</li>
-<li>
-<p>Projector</p>
-</li>
-<li>
-<p>RStudio: <a href="https://tools.idsucla.org" title="https://tools.idsucla.org">https://tools.idsucla.org</a></p>
-</li>
-</ol>
 <h3 id="vocabulary"><strong>Vocabulary:</strong></h3>
 <p>pane, preview, console, plot, environment</p>
 <h3 id="rstudio-commands"><strong>RStudio Commands:</strong></h3>
@@ -3038,155 +2998,151 @@ a data set.</p>
 <h3 id="lesson"><strong>Lesson:</strong></h3>
 <ol>
 <li>
-<p>Inform students that the Dashboard and PlotApp are data visualization tools that are coded in R,
+<p>The Dashboard and PlotApp are data visualization tools that are coded in R,
 the statistical programming software that academics and professional statisticians use. The
-Introduction to Data Science course will utilize RStudio, which also runs on R. They will learn the
+Introduction to Data Science course will utilize RStudio, which also runs on R. You will learn the
 programming language of RStudio for data analysis.</p>
 </li>
 <li>
-<p>Demonstrate how to access RStudio by projecting the URL: <a href="https://tools.idsucla.org" title="https://tools.idsucla.org">https://tools.idsucla.org</a> on a screen.
-Then, click on the RStudio icon on the page.</p>
+<p>You can access RStudio by going to the URL: <a href="https://tools.idsucla.org" title="https://tools.idsucla.org">https://tools.idsucla.org</a> and
+then click on the RStudio icon on the page.</p>
 </li>
 <li>
-<p>Inform students that their RStudio is the same as their IDS App &amp; IDS Homepage login.</p>
+<p>Your RStudio login is the same as your IDS App &amp; IDS Homepage login.</p>
 </li>
 <li>
-<p>Once logged in, show each <strong>pane</strong>, or rectangular area, of the RStudio interface:</p>
+<p>Once logged in, notice each <strong>pane</strong>, or rectangular area, of the RStudio interface:</p>
 <ol>
 <li>
-<p><strong>preview</strong> (spreadsheet) - where they will be able to see the variables and observations
+<p><strong>preview</strong> (spreadsheet) - where you will be able to see the variables and observations
 (index); rows and columns of data</p>
 </li>
 <li>
-<p><strong>console</strong> - where they will be entering their code</p>
+<p><strong>console</strong> - where you will be entering your code</p>
 </li>
 <li>
-<p><strong>plot</strong> - where their plots/graphs/visualizations will be generated</p>
+<p><strong>plot</strong> - where your plots/graphs/visualizations will be generated</p>
 </li>
 <li>
-<p><strong>environment</strong> - where they will see values and objects</p>
+<p><strong>environment</strong> - where you will see values and objects</p>
 </li>
 </ol>
 </li>
 <li>
-<p>Inform students that they will be looking at a data set from The Centers for Disease Control and
+<p>You will be looking at a data set from The Centers for Disease Control and
 Prevention (CDC), a government agency that collects data about teenagers on a variety of topics.</p>
 </li>
 <li>
-<p>Demonstrate how to load and view the CDC data file to the workspace by typing the following
-command in the console:</p>
+<p>You can load and view the CDC data file to the workspace by typing the following
+command in the console and then typing the Enter or Return key on your keyboard: <strong>NOTE: Make sure to take notes and
+write down commands in your DS journal</strong></p>
 <p><strong>&gt;data(cdc)</strong></p>
 <p><strong>&gt;View(cdc)</strong></p>
 </li>
 <li>
-<p>Examine the environment pane. Ask a student to describe how the data are displayed. <span style="color:grey"><strong><em>The data
-are displayed in rows and columns.</em></strong></span></p>
+<p>Examine the environment pane. <strong style="color: red;"> Describe how the data are displayed. </strong> </p>
 </li>
 <li>
-<p>Demonstrate how to list the variables found in the CDC data set. Students may take notes and
-write down commands in their DS journals:</p>
+<p><strong style="color: red;"> Since the data are displayed in rows and columns, where do you think you can find the variables in the CDC data set? </strong> Type the next command in the console:</p>
 <ol>
 <li>
 <p><strong>&gt;names(cdc)</strong></p>
 </li>
 <li>
-<p>Ask: What do you notice? What is one variable of this data set? How many variables are
-there? How does this output compare to the information in the preview pane?  <span style="color:grey"><strong><em>This
-command lists the names of each variable in the data set.</em></strong></span></p>
+<p><strong style="color: red;"> What do you notice? What is one variable of this data set? How many variables are
+there? How does this output compare to the information in the preview pane?  </strong></p>
 </li>
 </ol>
 </li>
 <li>
-<p>Demonstrate how to obtain more detailed information about the data set by typing the following
-command in the console</p>
+<p>The previous command lists the names of each variable in this data set but there is a command that gives you more detailed information about the data set. Type the following
+command in the console:</p>
 <ol>
 <li>
 <p><strong>&gt;help(cdc)</strong></p>
 </li>
 <li>
-<p>Ask: What unit of measurement is height reported in? <span style="color:grey"><strong><em>Height was reported in meters.</em></strong></span></p>
+<p><strong style="color: red;"> What unit of measurement is height reported in? </strong></p>
 </li>
 </ol>
 </li>
 <li>
-<p>Demonstrate how to find the number of rows and columns in the data set.</p>
+<p>You can also find the number of rows and columns in the data set. Type the following command in the console:</p>
 <ol>
 <li>
 <p><strong>&gt;dim(cdc)</strong></p>
 </li>
 <li>
-<p>Ask: Which number do you think represents the rows? Which one represents the
+<p><strong style="color: red;"> Which number do you think represents the rows? Which one represents the
 columns? How does this output compare to the information in the preview and
 environment panes? How many observations are there in the data set? How many
-variables does this data set contain? <span style="color:grey"><strong><em>There are 15,624 rows, or 15,624 observations;
+variables does this data set contain? <strong><em>There are 15,624 rows, or 15,624 observations;
 and there are 33 columns, or 33 variables. This information is also visible in the
-preview pane.</em></strong></span></p>
+preview pane.</em></strong></p>
 </li>
 </ol>
 </li>
 <li>
-<p>Next, show students how to access the number of observations of a specific variable.</p>
+<p>You can also access the number of observations of a specific variable. Type the following command to get the number of observations for seat belt wearers:</p>
 <ol>
 <li>
 <p><strong>&gt;tally(~seat_belt, data = cdc)</strong></p>
 </li>
 <li>
-<p>Ask: What do you notice? Describe the output. <span style="color:grey"><strong><em>Notice that six categories are
+<p><strong style="color: red;"> What do you notice? Describe the output. </strong> <strong><em>Notice that six categories are
 displayed. Each category shows the number of observations contained in it. E.g,.
 “Never” has 326 observations, meaning 326 teens reported never wearing their
 seat belt as a passenger in a motor vehicle. &lt;NA&gt; = Not Available, represents teens
-that did not provide information about their seat belt habits.</em></strong></span></p>
+that did not provide information about their seat belt habits.</em></strong></p>
 </li>
 </ol>
 </li>
 <li>
-<p>Change the variable to height.</p>
+<p>Now change the variable to height:</p>
 <ol>
 <li>
 <p><strong>&gt;tally(~height, data = cdc)</strong></p>
 </li>
 <li>
-<p>Ask: What do you notice? Describe the output. <span style="color:grey"><strong><em>The levels are missing. It happened
-because the variable height contains numbers, not categories.</em></strong></span></p>
+<p><strong style="color: red;"> What do you notice? Describe the output. </strong> <strong><em>The levels are missing. It happened
+because the variable height contains numbers, not categories.</em></strong></p>
 </li>
 </ol>
 </li>
 <li>
-<p>Let’s take a closer look at the variables seat_belt and height. Maximize the console. Ask teams to
-discuss the following question:</p>
-<p>What is the difference between the data from the variables seat_belt and height? <span style="color:grey"><strong><em>The
-data from the</em></strong> <em>seat_belt</em> <strong><em>variable is categorical, which means it consists of
-groupings. The data from the variable</em></strong> <em>height</em> <strong><em>is numerical, which means it consists
-of numbers.</em></strong></span></p>
+<p>Let’s take a closer look at the variables seat_belt and height. Maximize the console. Brainstorm the following question:</p>
 </li>
+</ol>
+<p><strong style="color: red;"> What is the difference between the data from the variables seat_belt and height? </strong></p>
+<ol>
 <li>
-<p>Summarize: In data science, the variable seat_belt is what we call a <strong>categorical variable</strong>, and
+<p>To Summarize: In data science, the variable seat_belt is what we call a <strong>categorical variable</strong>, and
 the variable height is what we call a <strong>numerical variable</strong>.</p>
 </li>
 <li>
-<p>Let’s look at the other variables in this data set. In pairs, categorize each variable as categorical
+<p>Let’s look at the other variables in this data set. <strong style="color: red;"> Categorize each variable as categorical
 or numerical:</p>
 <ol>
 <li>
-<p>eat_fruit <span style="color:grey"><strong><em>(categorical)</em></strong></span></p>
+<p>eat_fruit </p>
 </li>
 <li>
-<p>weight <span style="color:grey"><strong><em>(numerical)</em></strong></span></p>
+<p>weight</p>
 </li>
 <li>
-<p>grade <span style="color:grey"><strong><em>(categorical)</em></strong></span></p>
+<p>grade </p>
 </li>
 <li>
-<p>gender <span style="color:grey"><strong><em>(categorical)</em></strong></span></p>
+<p>gender </strong></p>
 </li>
 </ol>
 </li>
 <li>
-<p>Inform students that they will be learning RStudio code to work with data. They will be completing
+<p>You will be learning RStudio code to work with data and will be completing
 RStudio labs throughout the course.</p>
 </li>
 <li>
-<p>Demonstrate how to load the menu of labs by typing the following code:</p>
+<p>You can load the menu of labs by typing the following code:</p>
 <p><strong>&gt;load_labs( )</strong></p>
 </li>
 <li>
@@ -3194,30 +3150,26 @@ RStudio labs throughout the course.</p>
 type number 1 after the selection prompt.</p>
 </li>
 <li>
-<p>Next, direct students’ attention to the plot pane. Show them the location of Lab 1A’s presentation.</p>
+<p>Next, direct your attention to the plot pane. Notice the location of Lab 1A’s presentation. If you do not see it, click on Viewer or refresh the page.</p>
 </li>
 <li>
 <p>Click on the arrows at the bottom right-hand side of the presentation to view each slide. Pause on
 a slide titled “R’s most important syntax.” There are 3 boxes, each containing a line of code.</p>
 </li>
 <li>
-<p>Explain that every time they see a grey box with a line of code, they are to type the code in the
+<p>Every time you see a grey box with a line of code, you are to type the code in the
 console. The output will appear either on the console itself or on the plot pane.</p>
 </li>
 <li>
-<p>Type in one of the lines of code. In this particular case, the output will be a plot. Show students
-the location of the plot and demonstrate how to toggle between the plots and presentation tabs.</p>
+<p>Type in one of the lines of code. In this particular case, the output will be a plot. Notice that the location of the plot is in the same area of the slides but under the Plots tab. You can toggle between the plots and presentation tabs by clicking each tab.</p>
 </li>
 <li>
-<p>Inform students that they will be completing the first lab, 1A, the next day.</p>
+<p>You will be completing the first lab, 1A, the next day of class.</p>
 </li>
 </ol>
-<h3 id="class-scribes"><strong>Class Scribes:</strong></h3>
-<p>One team of students will give a brief talk to discuss what they think the 3 most important topics
-of the day were.</p>
 <h3 id="homework-next-3-days"><p style="background: black; color: white; text-align: center;"><strong>Homework &amp; Next 3 Days</strong></p></h3>
-<p>Students should continue to collect nutritional facts data using the Food Habits Participatory Sensing
-campaign on their smart devices or via web browser.</p>
+<p>You should continue to collect nutritional facts data using the Food Habits Participatory Sensing
+campaign on your smart device or via web browser.</p>
 <p><a href="../lab1a/"><u><strong><em>Lab 1A: Data, Code &amp; RStudio</em></strong></u></a></p>
 <p><a href="../lab1b/"><u><strong><em>Lab 1B: Get the Picture?</em></strong></u></a></p>
 <p><a href="../lab1c/"><u><strong><em>Lab 1C: Export, Upload, Import</em></strong></u></a></p>

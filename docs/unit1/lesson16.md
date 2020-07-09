@@ -1,20 +1,20 @@
 ##***<u>Lesson 16: Categorical Associations</u>***
 
-###**Objective:**
+###**Objective**
 You will learn to construct, interpret, and calculate the joint relative frequencies of two-way frequency
 tables.
 
-###**Vocabulary:**
+###**Vocabulary**
 two-way frequency table, joint relative frequency
 
-###**Essential Concepts:**
+###**Essential Concepts**
 
 !!! note "Essential Concepts: "
     A two-way table is a summary of the association/relationship between two
     categorical variables. Joint relative frequencies answer questions of the form "what proportion of the
     people/objects had *this* value on the first variable and *this* value on the second."
 
-###**Lesson:**
+###**Lesson**
 1. Read the following scenario:
 
     Rosa has a theory that cat owners are also musical. To find out, she decided to
@@ -33,11 +33,9 @@ table. <strong style="color: red;">What could those two questions be?</strong>
 4. <strong style="color: red;">In your IDS journal, summarize Rosa’s findings in one table that shows totals. Use your knowledge of data structures from [Lesson 2](lesson2.md), especially organizing in rows
 and columns.</strong>
 
-5. Today you will be looking at associations in categorical variables.
+5. Today you will be looking at associations in categorical variables. Recall that categorical variables represent values that have words.
 
-6. There are many ways to organize the data that Rosa collected.
-
-7. The table below shows a **two-way frequency table**. A two-way
+6. There are many ways to organize the data that Rosa collected. The table below shows a **two-way frequency table**. A two-way
 frequency table displays the data that pertains to two categories from one group. One category is
 represented in rows and the other is represented in columns. This **two-way frequency table** represents the
 data Rosa collected from the students in her art class.
@@ -50,15 +48,17 @@ data Rosa collected from the students in her art class.
     | **No cats** | 10 | 9 | 19 |
     | **Total** | 17 | 18 | 35 |
 
-8. <strong style="color: red;">Based on the Cat Ownership and Instruments table, generate questions that
+7. <strong style="color: red;">Based on the Cat Ownership and Instruments table, generate a couple of questions that
 can be asked and answered by the data.</strong>
 
-9. A two-way frequency table can show relative frequencies. A **relative frequency** is
+8. A two-way frequency table can show relative frequencies. A **relative frequency** is
 how often something occurs in relation to the total number of occurrences, and is expressed as a
-proportion or percentage of a total. For example, the relative frequency of those who own
-a cat and play an instrument is <span style="color:grey">***Answer: 7/35 or 0.2 or 20%.***</span>
+proportion or percentage of a total. 
 
-10. The relative frequencies for the entire table have been calculated.
+    For example, the **relative frequency** of those who own
+    a cat and play an instrument is <span style="color:grey">***7/35 or 0.2 or 20%.***</span>
+
+9. The relative frequencies for the entire table have been calculated.
 
 
     **Cat Ownership and Instruments**
@@ -71,24 +71,34 @@ a cat and play an instrument is <span style="color:grey">***Answer: 7/35 or 0.2 
     | **No cats** | 10/35 ≈ 0.29 | 9/35 ≈ 0.26 | 19/35 ≈ 0.54 |
     | **Total** | 17/35 ≈ 0.49 | 18/35 ≈ 0.51 | 35/35 = 1.00 |
 
-11. Using the table above, answer the following questions about relative frequencies.
+10. Using the table above, answer the following questions about relative frequencies:
 
-    100. What percent of the students in Rosa's art class own a cat?
+    100. <strong style="color: red;">What percent of the students in Rosa's art class own a cat?</strong>
 
-    100. What percent of the students in Rosa's art class do not own a cat but play and instrument? 
+    100. <strong style="color: red;">What percent of the students in Rosa's art class do not own a cat but play and instrument?</strong>
 
-    100. What does the **relative frequency** 18/35 represent?
+    100. <strong style="color: red;">What does the **relative frequency** 18/35 represent?</strong>
 
-12. <strong style="color: red;">Now you will generate 2 questions about 2 categorical variables. Do not choose two random categorical
+11. <strong style="color: red;">Now you will generate 2 questions about 2 categorical variables of your choosing. Do not choose two random categorical
 variables. Rather, you should choose two categorical variables that you predict might be
 associated.</strong>
 
-13. Create a two-way table where you can organize the data for your questions.
+    Example: I think there is a relationship between watching scary movies and drinking soda.
 
+    Do you like watching scary movies?
+
+    Do you drink soda?
+
+12. <strong style="color: red;">Create a two-way table where you can organize the data for your questions.</strong>
+
+    Example:
+
+    |  | **Likes scary movies** | **Does not like scary movies** | **Total** |
+    | ------------ | ------------- | ------------ | ------------ |
+    | **Drinks soda** |  |  |  |
+    | **Does not drink soda** |  |  |  |
+    | **Total** |  |  |  |
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Rosa posed this statistical question:
 
-***What proportion of students did not play an instrument and did not own a cat?***
-
-Use what you know about two-way tables to answer her question.
+Submit the two statistical questions you created in #11 to your teacher for feedback.

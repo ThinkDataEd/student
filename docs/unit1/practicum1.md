@@ -1,19 +1,8 @@
 ##***<u>Practicum: The Data Cycle & My Food Habits</u>***
 
 ###**Objective:**
-Students will apply what they have learned by engaging in the Data Cycle using the data they
-collected from the Food Habits campaign. Students will present their findings to the class.
-
-###**Materials:**
-1. *The Data Cycle Practicum* ([LMR_U1_Practicum_Data Cycle](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_U1_Practicum_Data Cycle.pdf))
-
-2. Poster paper
-
-3. Markers
-
-<center>**Practicum**</center>
-
-<center>**The Data Cycle & My Food Habits**</center>
+You will apply what you have learned by engaging in the Data Cycle using the data your class
+collected from the Food Habits campaign. You will present your findings to the class.
 
 ###**Instructions:**
 With a partner, you will engage in the Data Cycle to address the Research Topic:

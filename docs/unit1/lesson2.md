@@ -1,12 +1,12 @@
 ##***<u>Lesson 2: Stick Figures</u>***
 
-###**Objective:**
+###**Objective**
 You will learn how to observe, record, and organize data.
 
-###**Vocabulary:**
+###**Vocabulary**
 collect, record, organize, representations, variables
 
-###**Essential Concepts:**
+###**Essential Concepts**
 
 !!! note "Essential Concepts:"
     Data consist of records of particular characteristics of people or objects. Data can
@@ -18,7 +18,7 @@ collect, record, organize, representations, variables
     
     Answer the questions in <strong style="color: red;">red</strong> font in your Introduction to Data Science (IDS) Journal.
 
-###**Lesson:**
+###**Lesson**
 1. Reflect on your data collection homework:
 
     * <strong style="color: red;">How many observations did you make?</strong>
@@ -41,16 +41,15 @@ choose.
 
 5. <strong style="color: red;">Organize the data from all 8 stick figures into a visual that you think represents the data.</strong>
 
-6. The images below are posters created by IDS students of the Stick Figure's Data:
-<strong style="color: blue;">Insert a google doc with the pictures of student posters.</strong>
+6. The images below are representations of the Stick Figures' Data created by previous IDS students:<iframe src="https://drive.google.com/file/d/1a3xup47akWvHuXnCLvpkf3A4aIRGpJ2I/preview" width="640" height="480"></iframe>
 
-7. As you look at the posters:
+7. As you look at the representations:
 
-    100. <strong style="color: red;">Describe some similarities among the team posters. Were the data organized in similar
+    100. <strong style="color: red;">Describe some similarities among the team posters and your visualization. Were the data organized in similar
     ways?</strong>
 
-    100. <strong style="color: red;">Describe some differences among the team posters. How were the data organized
-    differently across teams?</strong>
+    100. <strong style="color: red;">Describe some differences among the team posters and your visualization. How were the data organized
+    differently across the visualizations?</strong>
  
     100. <strong style="color: red;">What information was available about the stick figures on each card?</strong>
 

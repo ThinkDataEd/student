@@ -1,87 +1,75 @@
 ##***<u>Lesson 11: What Shape Are You In?</u>***
  
-###**Objective:**
-Students will learn to classify distributions in terms of shape, and can suggest theories for why a
+###**Objective**
+You will learn to classify distributions in terms of shape, and can suggest theories for why a
 distribution might be one shape or another.
 
-###**Materials:**
-1. *Sorting Histograms* handout ([LMR_1.10_Sorting Histograms](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.10_Sorting Histograms.pdf)) - one copy per group of 4 students.
-(This activity comes from the AIMS project, University of Minnesota, J. Garfield.)<br>
-    **Advanced preparation required** (see step 1 below)
-
-###**Vocabulary:**
+###**Vocabulary**
 
 symmetric, left-skewed, right-skewed, unimodal, bimodal
 
-###**Essential Concepts:**
+###**Essential Concepts**
 
 !!! note "Essential Concepts:"
     Identifying the shape of a histogram is part of the **interpret** step of the Data Cycle.
 
-###**Lesson:**
+###**Lesson**
 
-1. Distribute the cutouts from the *Sorting Histograms* handout ([LMR_1.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.10_Sorting Histograms.pdf)). Give each student team
-all of the 24 histograms (can be paper-clipped together or put in small zippered bags).
+1. For this lesson you will be sorting histograms.
 
-    **<u>Advanced preparation required:</u>** Print the *Sorting Histogram*s file ([LMR_1.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.10_Sorting Histograms.pdf)). Cut each
-    histogram so that it is on its own piece of paper. Create enough sets for each team to have all 24
-    histograms. They can be paper clipped together, or put in small zippered bags.
-    
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.10_Sorting Histograms.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.10_Sorting Histograms.pdf)</div>
-
-2. Inform students that the type of data being measured is indicated on the horizontal axis, and the
+2. In a histogram, the type of data being measured is indicated on the horizontal axis, and the
 vertical axis represents how many observations are in each bar.
 
-3. The students will then sort their stack of plots into different piles according to their shapes.
-Histograms that have similar shapes should be sorted into the same stack.
+3. You will sort the histograms into different groups according to their shapes.
+Histograms that have similar shapes should be placed together in one of the six boxes. The activity has been formatted such that you can place the histograms directly on top of each other to verify if their shapes are similar.
 
-4. Once the student teams have agreed upon the histogram shape groupings, they should discuss
-and write down answers to the following in their DS journals:
+    **Note:** Open the document below using google slides. Find View on the menu option, go to zoom and choose 50% to be able to view the 18 histograms that need to be sorted. 
 
-    100. Describe what’s similar about the plots in each group. <span style="color:grey">***Answers will vary, but should be
+    <iframe src="https://drive.google.com/file/d/1S-ZWu003iZ_LmeMWMtlMEys0KRPm14CA/preview" width="640" height="480"></iframe>
+
+4. Once you have sorted the histograms into groups, answer the following questions in your DS journals:
+
+    100. <strong style="color: red;"> Describe what’s similar about the plots in each group.</strong> <span style="color:grey">***Overall, they should be
     grouped by the overall shape of the distribution. For example, plots with a higher
     density of bars on the right side of the plot should all be in the same group.***</span>
 
-    100. Pick one graph in each group that is the best example of that group. <span style="color:grey">***Answers will vary.***</span>
+    100. <strong style="color: red;"> Pick one graph in each group that is the best example of that group. </strong>
 
-    100. Give the group a name that you think describes the general shape. <span style="color:grey">***Answers will vary.***</span>
+    100. <strong style="color: red;"> Give the group a name that you think describes the general shape. </strong>
 
-    100. If there are graphs that do not fit into any group, try to determine why it was impossible to
-    place them. What is different or confusing about them? <span style="color:grey">***Answers will vary.***</span>
+    100. <strong style="color: red;"> If there are graphs that do not fit into any group, try to determine why it was impossible to
+    place them. What is different or confusing about them? </strong>
 
-5. After each team has had time to discuss and write down their observations, have a class
-discussion about the histogram groupings. Do the students agree about the general shapes?
+5. After writing down your observations, think about how your classmates may have done their histogram groupings. Do you think their groupings and general shapes would be similar to yours?
 
 6. In statistics, we use specific terminology when discussing the shapes of distributions, such as
-**symmetric**, **right-skewed**, **left-skewed**, **unimodal**, **bimodal**, etc. Did any of the teams use
-these terms? If not, introduce each one and ask which of the 24 histograms could be classified as
-that shape.
+**symmetric**, **right-skewed**, **left-skewed**, **unimodal**, **bimodal**, etc. A symmetric distribution looks like a bell with a peak at the center and the **tails** on each side nearly identical. A right-skewed distribution has a peak near the left and a *tail* on the right. A left-skewed distribution has a peak near the right and a *tail* on the left. A unimodal distribution has only one peak, also known as a "mode". A bimodal distribution has two peaks. 
 
-7. Next, introduce the following scenarios and ask students to determine what a corresponding
-histogram might look like. They should use statistical terms to describe their answer.
+    **<u>Note:</u>** Another type of distribution is a Uniform Distribution which has no peak and looks almost like a rectangle.
 
-    100. The grades on an easy test. <span style="color:grey">***Left-skewed, unimodal***</span>
+    <strong style="color: red;"> Did you use any of these terms? If not, indentify which of your histograms could be classified as
+    each shape. </strong>
 
-    100. The grades on a difficult test. <span style="color:grey">***Right-skewed, unimodal***</span>
+7. <strong style="color: red;">Read the following scenarios and try to determine what a corresponding
+histogram might look like. You should use statistical terms to describe your answer and provide a justification.</strong>
 
-    100. The number of times IDS students study during the first week of class. <span style="color:grey">***Answers will
-    vary.***</span>
+    100. The grades on an easy test. <span style="color:grey">***Left-skewed, unimodal. Since the test was easy, a lot of students will score high, so most scores will be in the 80s and 90s with a single peak around 90. There will only be a few students that had low scores like 60s and 70s, so there will be a tail on the left.***</span>
 
-    100. The age of cars on a used car lot. <span style="color:grey">***Right-skewed, probably unimodal***</span>
+    <iframe src="https://drive.google.com/file/d/1wdU33qW_ZyBd3KV_PaeW09fesNHbc5QR/preview" width="640" height="480"></iframe>
 
-    100. The amount of time spent by students on a difficult test (max time allowed is 50 mins).
-    <span style="color:grey">***Left-skewed, but may also just be one bar with all observations at 50 mins,
-    unimodal***</span>
+    100. <strong style="color: red;">The grades on a difficult test.</strong>
 
-    100. The heights of students in your high school band. <span style="color:grey">***Symmetric, bimodal***</span>
+    100. <strong style="color: red;">The number of times IDS students study during the first week of class.</strong>
 
-    100. The salaries of all persons employed at the Los Angeles Unified School District. <span style="color:grey">***Right-skewed,
-    potentially bimodal (teachers vs. LAUSD administrators)***</span>
+    100. <strong style="color: red;">The age of cars on a used car lot.</strong>
 
-###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics
-of the day were.
+    100. <strong style="color: red;">The amount of time spent by students on a difficult test (max time allowed is 50 mins).</strong>
+
+    100. <strong style="color: red;">The heights of students in your high school band.</strong>
+
+    100. <strong style="color: red;">The salaries of all persons employed at a school district.</strong>
+
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Students should continue to collect nutritional facts data using the *Food Habits* Participatory Sensing
-campaign on their smart devices or via web browser.
+You should continue to collect nutritional facts data using the *Food Habits* Participatory Sensing
+campaign on your smart device or via web browser.

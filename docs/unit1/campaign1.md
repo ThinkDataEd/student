@@ -16,12 +16,12 @@ interesting questions:
 4) Does knowing nutritional information about my snacks help me change my habits?
 
 ###**2. Objectives:**
-Upon completing this campaign, students will have the enduring understanding that interpreting
-graphs provides useful information regarding the data graphed. We can explore the relationship
+Upon completing this campaign, you will have the enduring understanding that interpreting
+graphs provide useful information regarding the data graphed. You can explore the relationship
 between two sets of data, and if there is a relationship, it is driven by the change in the independent
 variable, x, which causes a change in the dependent variable, y.
 
-###**3. Survey Questions:** (students will enter data only for the activities in which they participated):
+###**3. Survey Questions:**:
 
 |**Prompt**|**Variable**|**Data Type**|
 |--------|--------|--------|
@@ -47,10 +47,12 @@ variable, x, which causes a change in the dependent variable, y.
 **How Long?** Four days. Ideally, two of these days will include a weekend.
 
 ###**4. Motivation:**
-Every student should collect at least four data points. After the first day, use the campaign
-monitoring tool to see who has collected the most data. After two to three days, direct students’
-attention to the Total Responses by Day plot and comment on any patterns. For example, if they
-see a plot like the one below, ask "What story does this tell us about our data collection?”
+You should collect at least four data points. Your teacher will use the campaign
+monitoring tool to see who has collected the most data. After two to three days, the Total Responses by Day plot
+might reveal patterns. 
+
+For example, if you
+see a plot like the one below, you might ask "What story does this tell us about our data collection?”
 
 **<u>Story:</u>** They collected a lot of data together in class. Data collection increased every day from
 Wednesday to Friday. There was little to no data collection over the weekend. Data collection
@@ -58,13 +60,8 @@ peaked on Monday - there were over 180 responses!
 
 <img src="../../img/1c104.png" width="420" />
 
-Assign 1 point for each snack.
-
-Discuss data collection issues. What makes it hard? Does this affect the quality of data? What sort
-of snacks are you less likely to enter?
-    
 ###**5. Technical Analysis:**
-Students will use the Dashboard and Plot App.
+You will use the Dashboard and Plot App to analyze the data.
 
 ###**6. Guiding Questions:**
 a. At what time of day do we eat the healthiest snacks?
@@ -83,5 +80,5 @@ fat? Is high fat associated with high calories? Are there any other associations
 spot?
 
 ###**7. Report:**
-Students will complete a practicum in which they answer a statistical question based on the food
+You will complete a practicum in which you answer a statistical question based on the food
 habits data collected.

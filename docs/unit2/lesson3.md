@@ -1,21 +1,9 @@
 ##***<u>Lesson 3: Median in the Middle</u>***
 
 ###**Objective:**
-Students will learn that the median is another way to measure the center, or typical-ness, of a distribution,
+You will learn that the median is another way to measure the center, or typical-ness, of a distribution,
 and will understand how medians compare and contrast with the mean.
 
-###**Materials:**
-1. Sticky notes (one per student)
-
-    **Advanced preparation required** (see step 6 below)
-
-2. Poster paper
-
-3. Graphics from *Medians – Dotplots or Histograms*? ([LMR_2.4_Medians – Dotplots or Histograms](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.4_Medians - Dotplots or Histograms.pdf))
-
-4. *Where is the Middle*? handout ([LMR_2.5_Where is the Middle](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.5_Where is the Middle.pdf))
-
-5. Exported, printed, and reproduced class’s *Personality Color* survey data
 
 ###**Vocabulary:**
 median
@@ -23,54 +11,47 @@ median
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: "
-    Another measure of center is the median, which can also be used to represent the
-    typical value of a distribution. The median is preferred for skewed distributions or when there are outliers
+    Another measure of center is the median, which can also be used to represent the typical value of a distribution. The median is preferred for skewed distributions or when there are outliers
     because it better matches what we think of as 'typical.'
 
 ###**Lesson:**
-1. Remind students that, during the previous lesson, they learned about the mean as the balancing
+1. During the previous lesson, you  learned about the mean as the balancing
 point of a distribution and as a measure of center. In statistics, there are a few values that can be
 considered as measures of center – the mean is one, and another is the **median**. The median is
 the middle value in a group of ordered observations.
 
-2. As a simple example, write or display the following group of numbers on the board:
+2. Consider the following numbers below:
 
     8, 2, 6, 3, 7, 4, 9, 5, 5
 
-3. Since there are 9 numbers in the list above, we should be use the 5<sup>th</sup> number as the median
+3. Since there are 9 numbers in the list above, you should be using the 5<sup>th</sup> number as the median
 because it is directly in the middle and there are 4 numbers above it, and 4 numbers below it.
 
-4. However, students should realize that they cannot simply pick the middle number of the list as it
-is currently written (this would give a median value of 7). Instead, they must first arrange the
+4. However, you cannot simply pick the middle number of the list as it
+is currently written (this would give a median value of 7). Instead, you must first arrange the
 numbers in numerical order (from lowest to highest).
 
     2, 3, 4, 5, 5, 6, 7, 8, 9
 
-5. Now they can identify that the true median value of this list of numbers is 5.
+5. Now you can identify that the true median value of this list of numbers is 5.
 
-6. Next, randomly distribute one sticky note to each student.
+6. Consider this scenario: 
 
-    **Advanced preparation required:** There should be one card for every student in the class. All of
-    the cards, except one, need to have the value 0 written on them. One card should have the value
-    1,000,000 written on it.
+A class of 28 students were randomly given sticky notes with numbers 0 on all of them but one, which is 1,000,000. 
 
-7. Place poster paper on the board and have the students create a dot plot by placing their sticky
-notes at the corresponding values on the axis. Then, ask and record answers to the following
-questions:
+7. If you were to create a dot plot by placing the sticky
+notes at the corresponding values on the axis, write your answers to the following questions in your DS Journal:
 
-    100. What is the typical value of these data? <span style="color:grey">***0 – all sticky notes but one have a value of 0.***</span>
+    100. <strong style="color: red;">What is the typical value of these data? </strong>
     
-    100. Using the formula we learned in class, calculate the mean, or average, value of this
-    distribution. <span style="color:grey">***Answer will vary by class/class size. Example: for a class with 28
-    students enrolled, there would be 27 values of 0 and 1 value of 1,000,000.
-    Therefore, the mean value would be (0\*27 + 1,000,000)/28 ≈ 35,714.3. ***</span>
+    101. <strong style="color: red;">Using the formula we learned in class, what's the mean, or average, value of this
+    distribution. </strong>
     
-    100. Does the mean you calculated match your understanding of “typical?” Why is the mean
-    not capturing our notion of “typical?” <span style="color:grey">***The 1,000,000 value is heavily skewing the
-    calculation of the mean. It is pulling the mean to a higher value than what we
-    consider to be typical for these data.***</span>
+    102. <strong style="color: red;">Does the mean you calculated match your understanding of “typical?</strong>
+    
+    103<strong style="color: red;"> Why is the mean not capturing our notion of “typical?” </strong>
 
-8. Since we introduced the idea of the median as a measure of center at the beginning of class,
+8. Since you were introduced to the idea of the median as a measure of center at the beginning of class,
 have the students find the median value of the data on their sticky notes. If time permits, have
 them place the sticky notes in a line across the board in order (from least to greatest) and have
 them find the middle number. The median value will be 0.
@@ -159,11 +140,13 @@ candies eaten by a group of 330 high school students.
     
     100. What is the median value? <span style="color:grey">***The median number of candies eaten is 7 candies.***</span>
     
-###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics of the
-day were.
+
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Students should calculate the median values for each of their personality color scores. They should
-compare the median values to the mean values (calculated in [Lesson 2](lesson2.md)) and make a decision about
-the possible shape of the distribution if we were to create a dot plot of the scores.
+In you DS journal, do a quick write about what you think are the 3 most important topics you learned on this lesson.
+
+Calculate the median values for each of the personality color scores. 
+
+
+Compare the median values to the mean values (calculated in [Lesson 2](lesson2.md)) and make a decision about
+the possible shape of the distribution if we were to create a dot plot of the scores. Justify your answer.

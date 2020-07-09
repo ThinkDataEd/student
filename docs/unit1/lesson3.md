@@ -1,13 +1,13 @@
 ##***<u>Lesson 3: Data Structures</u>***
 
-###**Objective:**
+###**Objective**
 You will learn that data can be represented in rectangular format.
 
-###**Vocabulary:**
+###**Vocabulary**
 variables, numerical variables, categorical variables, rows, columns, rectangular or spreadsheet format,
 variability
 
-###**Essential Concepts:**
+###**Essential Concepts**
 
 !!! note "Essential Concepts: "
     Variables record values that vary. By organizing data into rectangular format, we
@@ -19,9 +19,9 @@ variability
     
     Answer the questions in <strong style="color: red;">red</strong> font in your Introduction to Data Science (IDS) Journal.
 
-###**Lesson:**
+###**Lesson**
 
-1. During the previous lesson, you briefly learned what **variables** are . <strong style="color: red;">Create your own definition of the term “variables.”</strong>
+1. During the previous lesson, you briefly learned what **variables** are. <strong style="color: red;">Create your own definition of the term “variables.”</strong>
 
 2. <strong style="color: red;">Using the *Stick Figure* information from [Lesson 2](lesson2.md), come up with a set of
 variable names that describe the different categories of information. It is best when
@@ -39,13 +39,10 @@ values that have words, while numerical variables represent values that have num
     **Note:** Categorical variables can sometimes be coded as numbers (e.g., “Gender” could have
     values 0 and 1, where 0=Male and 1=Female).
 
-5. <strong style="color: red;">Determine which variables from the *Stick Figures* data are numerical, and which
-variables are categorical.</strong>
-
-    &nbsp;&nbsp;&nbsp;&nbsp;**<strong style="color: red;"><u>Numerical</u></strong>** &nbsp;&nbsp;&nbsp;&nbsp;**<strong style="color: red;"><u>Categorical</u></strong>**
+5. <strong style="color: red;">What variables from the *Stick Figures* data are numerical variables? What variables are categorical variables?</strong>
 
 6. Although we can understand many different representations of data (as evidenced by
-the posters from [Lesson 2](lesson2.md)), computers are not as capable. Instead, we need to organize data in a
+the posters from [Lesson 2](lesson2.md)), computers are not as capable. We need to organize data in a
 structured way so that a computer can read and interpret them.
 
 7. One way to organize the data is to create a **data table** that consists of **rows** and **columns**. We
@@ -53,11 +50,11 @@ can define this type of organization as **rectangular format**, or **spreadsheet
 
 8. On the table below, the columns are the
 vertical portions of the table, while the rows are the horizontal portions. Another way to think of it
-is that columns go from top to bottom, and rows go from left to right. Each row should represent one obervation such as a stick figure and each column should represent one variable.
+is that columns go from top to bottom, and rows go from left to right. Each row should represent one observation, such as a stick figure and each column should represent one variable, such as height.
 
-    <img src="../../img/10308.png" />
+    <iframe src="https://drive.google.com/file/d/1oNXszizYw7I4KEZ9nMureGeGzc4n2FdX/preview" width="640" height="480"></iframe>
 
-9. 
+9. For the table above:
     100. <strong style="color: red;">What should each row represent?</strong>
 
     100. <strong style="color: red;">What should each column represent?</strong>
@@ -66,7 +63,7 @@ is that columns go from top to bottom, and rows go from left to right. Each row 
 
     <img src="../../img/10310.png" />
 
-11. <strong style="color: red;">Complete the data table using all 8 of the *Stick Figures* cards. Each row
+11. <strong style="color: red;">Complete the table using all 8 of the *Stick Figures* cards. Each row
 of the table should represent one person on a card.</strong>
 
 12. Answer the following questions:
@@ -76,7 +73,7 @@ of the table should represent one person on a card.</strong>
  
     100. <strong style="color: red;">Do any of the people in the data have different values for a given variable?</strong>
 
-13. The term **variability**. As in question (b) above, the values for each variable vary
-depending on which person we are observing. This shows that the data has variability, and the
-first step in any investigation is to notice variability. We can see the relationship between the
-terms **variable** and **variability**. The word “variable” indicates that values vary.
+13. In the table you created, the values for each variable vary, or change, depending on which person we are observing.  For example, the values for the variable GPA are not the same for all of the stick figures.  This shows that the data has a lot of **variability** for the variable GPA. The first step in any investigation is to notice **variability**.
+
+###**Reflection:**
+<strong style="color: red;"> Write a paragraph summarizing the most important things you learned in the last 3 lessons. </strong>

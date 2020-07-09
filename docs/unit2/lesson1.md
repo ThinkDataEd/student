@@ -1,21 +1,7 @@
 ##***<u>Lesson 1: What is Your True Color?</u>***
 
 ###**Objective:**
-Students will collect data that might tell them about their personality type, and will understand how to
-subset their data.
-
-###**Materials:**
-1. *True Colors Personality Test* ([LMR_2.1_True Colors Personality Test](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.1_True Colors Personality Test.pdf))
-
-2. Posted signs for each Personality Color: Blue, Gold, Green, and Orange
-
-    **Advanced preparation required** (see step 5 below)
-
-3. Poster paper
-
-4. Markers
-
-5. Data collection devices
+You will collect data that might tell you about your personality type, and you will understand how to subset data.
 
 ###**Vocabulary:**
 subsets
@@ -23,122 +9,91 @@ subsets
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: "
-    Students will understand that the 'typical' value is a value that can represent the
+    Understand that the 'typical' value is a value that can represent the
     entire group, even though we know that not all members of the group share the same value.
 
 ###**Lesson:**
-1. Ask students to consider the following questions (they do not need to record any responses):
+1. Consider the following questions:
 
     100. How well do you know yourself?
 
     100. How well do you know your classmates?
 
-2. There are things students know and don’t know about themselves. The *True Colors Personality
-Test* ([LMR_2.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.1_True Colors Personality Test.pdf)) claims to identify personality types (Later, students can gather more evidence to
-test these claims). Students will use these data to explore fundamental statistical concepts.
+2. There are things people know and don’t know about themselves. The *True Colors Personality
+Test* ([LMR_2.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.1_True Colors Personality Test.pdf)) claims to identify personality types. You will use a group of students' personality data to explore fundamental statistical concepts. 
 <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.1_True Colors Personality Test.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.1_True Colors Personality Test.pdf)</div>
 
-3. Distribute the first 2 pages of the *True Colors Personality Test* ([LMR_2.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.1_True Colors Personality Test.pdf)). DO NOT include the
-final page, which contains the descriptions of each color. Instruct students on how to complete
-the test, and allow time for them to complete it (see page 2 in handout).
+3. Take the *True Colors Personality Test*. In this personality test you will see 4 sets of words in each row. Get a general sense of the words and rank each group using the numbers one through four. Four should be given to the group of words that describes you the most, three to the next group and so on until each one of the four boxes has a number. Do the same for the rest of the rows. Caution: do not add the scores by column, instead add the score of the letters listed in each box at the bottom of the test. Be sure to read the information on the first page and the instructions on the second page very carefully. ([LMR_2.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.1_True Colors Personality Test.pdf)).  
+<strong style="color: blue;"> remove the final page, which contains the descriptions of each color.</strong>
 
-    **<u>Note:</u>** When adding scores for each color at the bottom of the test, make sure that students have
-    **<u>NOT</u>** added straight down each column.
-
-4. Students should have a score for each of the 4 colors. Ask students to record each color and its
-respective score in their DS journal. Inform them that the color with the highest score describes
-their personality. We can refer to this as their predominant color. They should record their
-predominant personality color in their DS journal as well. Tell students that you will show them
+4. You should have a score for each of the 4 colors. <strong style="color: red;">Record each color and its
+respective score in your DS journal.</strong> The color with the highest score describes
+your personality. We can refer to this as your predominant color. <strong style="color: red;">Record your
+predominant personality color in your DS journal as well.</strong> You will see
 what each color means at the end of the lesson.
 
-5. Post a sign for each personality color on different walls of the classroom. For example, Blue on
-the north wall, Gold on the east wall, etc.
+5. A group of students took the personality test and was asked to gather in a different corner of the classroom by their personality color. Which group would you join based on your personality color?<strong style="color: blue;"> graphic of the personality colors on each corner and made up student names.</strong>.
 
-6. Ask students to gather by the wall corresponding to their predominant personality color. The
-students should record answers to the following questions in their DS journals.
+6. Observe the data provided about that group of students. Record answers to the following questions in your DS journals. 
+ 
+    100. <strong style="color: red;">How many students are in your color group?</strong>
 
-    100. How many students are in your color group?
+    100. <strong style="color: red;">How many students are in each of the other color groups?</strong>
 
-    100. How many students are in each of the other color groups?
+    100. <strong style="color: red;">What is the predominant personality color in that class?
+</strong>
 
-    100. What is the predominant personality color in your class?
+7. You will observe the characteristics of four groups of students. These students were grouped by their predominat personality color. Start with the group of people with your predominant color. Determine some common characteristics of the people in this group by answering the questions below in your DS journal. Those common characteristics help you answer “what is typical?” within this group. Keep in mind that a characteristic might be considered "typical" even though it is not shared by every single member of the group. <strong style="color: blue;"> Insert characteristics for people in each personality color group </strong>
 
-7. Then ask students to determine some common characteristics of the people in their group.
-Questions to help steer the discussions are included below. Each team should come up with a
-consensus to describe their team and will share their descriptions with the whole class. The goal
-is to get the students to think about “what is typical?” within their groups.
+    100. <strong style="color: red;">What are their likes and dislikes?</strong>
 
-    100. What are your likes and dislikes?
+    100. <strong style="color: red;">What things do they have in common?</strong>
 
-    100. What things do you have in common?
+    100. <strong style="color: red;">What are their favorite activities?</strong>
 
-    100. What are you favorite activities?
+    100. <strong style="color: red;">What’s their favorite color?</strong>
 
-    100. What’s your favorite color?
+    100. <strong style="color: red;">Do they prefer mornings or nights?</strong>
 
-    100. Do you prefer mornings or nights?
-
-    100. What’s your favorite type of music?
+    100. <strong style="color: red;">What’s their favorite type of music?</strong>
     
-8. As the groups are presenting, record some dominant characteristics on the board for each color.
-The students will be able to compare their perceived traits with the actual descriptions from the
-activity at the end of the class.
+8. Observe the characteristics of the other three personality colors and determine some traits that are typical to each group. You will be able to compare perceived traits with the actual descriptions from the activity at the end of the class.
 
-9. Next ask students in each color group to gather into two **subsets**: male and female. Inform them
-that subsetting is another way to organize collected data. Create a two-way frequency table like
-the one below on the board to record the results.
-    
-    <img src="../../img/20109.png" />
+9. The students were then asked to gather into two **subsets**: male and female. This is called subsetting. This is another way to organize collected data.
+  
+10. Copy and finish the two-way frequency table below to record the results from the data set.
+<strong style="color: blue;">Insert two-way frequency table with the first column filled out </strong>
 
-10. Distribute poster paper and markers to each team.
+11. A useful way of anaylizing data is to create visuals by comparing subsets. The students were asked to create visualizations that subset the color variable by gender. Observe those visualizations.
+<strong style="color: blue;">Insert visualization that subsets the orange variable by gender</strong> 
+Copy and finish the following sentence in your DS journal.
+<strong style="color: red;">The typical gender in the Orange personality color group is ______________. </strong>
+In your DS journal, create a visualization that subset gender by color and write a sentence comparing the two variables you used.
 
-11. Inform the students that they will be creating visuals for this data by comparing subsets. The
-Orange and Gold groups should create visualizations that subset the color variable by gender,
-and the Blue and Green groups should create visualizations that subset gender by color.
+12. If you are confused or stuck, recall the topic of two-way tables and relative
+frequencies from [Unit 1](../unit1/overview.md) ([Lessons 16](../unit1/lesson16.md) & [17](../unit1/lesson17.md)). The Orange and Gold groups were asked to look at the
+columns and compare genders, while the Blue and Green groups were asked to look at the rows and compare colors.
 
-12. If students are confused or stuck, have them recall the topic of two-way tables and relative
-frequencies from [Unit 1](../unit1/overview.md) ([Lessons 16](../unit1/lesson16.md) & [17](../unit1/lesson17.md)). The Orange and Gold groups will be looking at the
-columns and comparing genders, while the Blue and Green groups will be looking at the rows
-and comparing colors.
+13. They came up with the following visuals.<strong style="color: blue;">Insert two additional visualizations </strong>
 
-13. Once all groups have completed their visuals, the Orange and Gold teams should choose one of
-their 2 posters to display to the class. The Blue and Green groups should do the same and select
-one of their visuals.
+14. Observe their similarities and differences. Analyze and interpret the visualizations by answering the following questions for each of the visualizations in your IDS journal:
 
-14. Display both visuals on the board and discuss their similarities and differences. Ask students to
-analyze and interpret the visualizations by discussing the following questions for each of the
-visualizations:
+    100. <strong style="color: red;">What type of plot is this and how many variables are present? </strong>
 
-    100. What type of plot is this and how many variables are present? <span style="color:grey">***Answers will vary by
-    class.***</span>
+    100. <strong style="color: red;">What information about this subset can I gather from this visualization? </strong>
 
-    100. What information about this subset can I gather from this visualization? <span style="color:grey">***Answers will
-    vary by class.***</span>
+    100. <strong style="color: red;">What do I see the most/least of? </strong>
 
-    100. What do I see the most/least of? <span style="color:grey">***Answers will vary by class.***</span>
+    100. <strong style="color: red;">What is the typical personality color for this subset? Or, what is the typical gender for this subset? </strong>
 
-    100. What is the typical personality color for this subset? Or, what is the typical gender for this
-    subset? <span style="color:grey">***Answers will vary by class.***</span>
+15. Summarize your impressions of the class’s personality color data in your DS journal.
 
-15. Ask students to summarize their impressions of the class’s personality color data by writing this
-summary in their DS journals.
+16. The document below provides the description of each personality color (page 3 of [LMR_2.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.1_True Colors Personality Test.pdf)). Remember that the highest score is considered your predominant color and the second highest score is considered your secondary color. If there is a tie for your predominant or secondary colors, choose the color that describes your personality better.
+<strong style="color: blue;">Insert page 3 of LMR_2.1 </strong>
 
-16. Distribute the description of each personality color to students (page 3 of [LMR_2.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.1_True Colors Personality Test.pdf)). Remind
-them that the highest score is considered their predominant color and the second highest score is
-considered their secondary color. If there is a tie for their predominant or secondary colors, ask
-students to choose the color that describes their personality better.
+17. Compare the given descriptions on the handout to the characteristics listed for each group during step 7. Do the descriptions match what the students originally thought? How accurate are the descriptions? 
 
-17. Compare the given descriptions on the handout to the characteristics listed on the board for each
-group during step 7. Do the descriptions match what the students originally thought? How
-accurate are the descriptions? If time allows, ask a couple of students to share their comparisons.
+18. You will now record your data by completing the *Personality Color* campaign on the UCLA
+[IDS UCLA App](../download/app.md) or via web browser at [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org").
 
-18. Students will now record their data by completing the *Personality Color* campaign on the UCLA
-[IDS UCLA App](../download/app.md) or via web browser at [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org")
 
-###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics of the
-day were.
-
-###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-If not finished in class, students should complete the *Personality Color* survey either through the UCLA
-[IDS UCLA App](../download/app.md) or via web browser at [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org")

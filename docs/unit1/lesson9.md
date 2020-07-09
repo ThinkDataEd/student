@@ -1,25 +1,26 @@
 ##***<u>Lesson 9: What is Typical?</u>***
 
-###**Objective:**
+###**Objective**
 You will learn about the typical value when looking at a distribution by finding the “center” and
 determining any point clusters.
 
-###**Vocabulary:**
+###**Vocabulary**
 typical, center, shape, spread
 
-###**Essential Concepts:**
+###**Essential Concepts**
 
 !!! note "Essential Concepts:"
     The “center” of a distribution is a deliberately vague term, but it is one way to
     answer the subjective question "what is a typical value?" The center could be the perceived balancing
     point or the value that approximately cuts the area of the distribution in half.
 
-###**Lesson:**
+###**Lesson**
 1. **<u>Food Habits Campaign Data Collection Monitoring:</u>**
 
     100. The IDS Campaign Monitoring Tool is found on your IDS Homepage.
-    Click on **Monitor** and sign in if prompted. Find the Food Habits Campaign and click on Monitor.
-    Note: If you haven't submitted any data, the page will be blank.
+    Click on **Monitor** and sign in if prompted. Find the Food Habits Campaign and click on Monitor. If you haven't submitted any data, the page will be blank.
+    
+    **Note:** To review how to access the Monitoring Tool, refer to the video in lesson 8 #1 a.
 
     100. Your teacher will be monitoring the class data collection again today.
 
@@ -40,10 +41,14 @@ differ from the typical 9th grader? How so?</strong>
 4. <strong style="color: red;">Write down synonyms to the word “typical” in your DS journal.</strong>
 
 5. Below is a bubble map with synonyms that the stick figures brainstormed for typical. <strong style="color: red;">Using these synonyms, along with yours, indicate which terms apply best to categorical variables and which terms apply 
-best to numerical variables.</strong><strong style="color: blue;">Find a picture of a bubble map from PD or from an actual IDS class</strong>
+best to numerical variables.</strong>
+
+    <iframe src="https://drive.google.com/file/d/1NvdEolLBRZrwmcThWB6A3Dpo-MffmRYh/preview" width="640" height="480"></iframe>
 
 
-6. Consider the dotplot of the distribution of calories (from [lesson 8](lesson8.md)). <strong style="color: blue;">Use the same image from lesson 8 # 19.</strong>
+6. Consider the dotplot of the distribution of calories (from [lesson 8](lesson8.md)).
+
+    <iframe src="https://drive.google.com/file/d/13tlfZDbiUCQ_caqAqhgpHWVFo_CWVc1S/preview" width="640" height="480"></iframe>
 
     100. <strong style="color: red;">What value might you consider to be the typical value of this distribution? Why?</strong>
 
@@ -55,14 +60,11 @@ best to numerical variables.</strong><strong style="color: blue;">Find a picture
 
         200. Overall range of the data.
 
-7. Reconsider the typical number of calories in the dotplot. <strong style="color: red;">What is the typical amount of calories in the stick figure's snacks? Use one of the synonyms for typical from #5.</strong>
+7. Now that you've been provided with some hints as to how to gauge the typical value of a distrubtion, reconsider the typical number of calories in the dotplot that you reported in 6a. <strong style="color: red;">Do you still feel that what you reported is the typical number or calories in the stick figures' snacks? Why or why not?</strong>
 
-8. Answer the following in your IDS journal:
+8. Another synonym for the term typical is **center**. **Center**, however, is useful for numerical variables. For example, the typical number of calories in the stick figures' snacks is centered around 100 calories.
 
-    100. <strong style="color: red;">Which synonyms are associated with “center”? Is this concept of **center** useful for
-    numerical or categorical variables?</strong>
-
-9. The value at the center of the distribution often matches up with our everyday
+9. The value at the **center** of the distribution often matches up with our everyday
 notion of the typical value of a distribution. The middle observation is not always the typical value.
 
 10. Defining the center of a distribution depends on many things, such as the placement of points in
@@ -80,12 +82,18 @@ as the **spread**).
     100. <strong style="color: red;">What do you think the shape of the distribution will look like?</strong>
 
 12. Below is the distribution of number of hours slept on a school night by high school students. <strong style="color: red;">Is the typical value similar to what you originally thought? The shape? The
-variability? Why or why not?</strong> <strong style="color: blue;">Find a poster or create one with a dotplot of number of hours slept</strong>
+variability? Why or why not?</strong> 
 
-13. If you were to ask the same group of high school students to write down the number of hours they plan to sleep on a Saturday:
-<strong style="color: red;">How do you think this plot will differ from the first plot? Make a quick sketch. Focus your explanation on the shape, center,
+    
+    <iframe src="https://drive.google.com/file/d/1PsvaeF1kxItVithSd1O-R8yNrjbu4TeH/preview" width="640" height="480"></iframe>
+
+
+13. If you were to ask the same group of high school students to write down the number of hours they plan to sleep on a Saturday,
+<strong style="color: red;">how do you think this plot will differ from the first plot? Make a quick sketch. Focus your explanation on the shape, center,
 and spread of the distributions.</strong>
 
+###**Reflection:**
+<strong style="color: red;"> Write a paragraph summarizing the most important things you learned in the last 3 lessons. </strong>
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
 Continue to collect nutritional facts data using the *Food Habits* Participatory Sensing

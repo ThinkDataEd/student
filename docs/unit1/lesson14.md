@@ -1,149 +1,131 @@
 ##***<u>Lesson 14: Variables, Variables, Variables</u>***
 
-###**Objective:**
-Students will learn how to read and interpret multiple variable plots: bivariate scatterplots, multiple
-variable scatterplots, stacked bar plots, and side-by-side bar plots. They will summarize their learning
+###**Objective**
+You will learn how to read and interpret multiple variable plots: bivariate scatterplots, multiple
+variable scatterplots, stacked bar plots, and side-by-side bar plots. You will summarize your learning
 about multiple variable plots using a four-fold graphic organizer.
 
-###**Materials:**
-1. *Scatterplot of Heights & Weights* ([LMR_1.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.13_Scatterplot of Heights & Weights.pdf))
 
-2. *Scatterplot of Heights & Weights, Split by Gender* ([LMR_1.14](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.14_Scatterplot of Heights & Weights & Gender.pdf))
-
-3. *Side-by-Side Bar Chart* ([LMR_1.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.15_Side-by-Side Bar Chart.pdf))
-
-4. *Faceted Histogram of Height by Gender* ([LMR_1.16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.16_ Faceted_Histograms_v4.1.pdf))
-
-5. *Summarizing Multi-Variable Plots graphic* organizer ([LMR_1.17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.17_Summarizing Multi-Variable Plots.pdf))
-
-###**Vocabulary:**
+###**Vocabulary**
 
 scatterplot, grouping, side-by-side bar plot
 
-###**Essential Concepts:**
+###**Essential Concepts**
 
 !!! note "Essential Concepts: "
     To examine whether two (or more) variables are related, we can plot their
     distributions on the same graph.
+    
 
-###**Lesson:**
+###**Lesson**
 
-1. Begin by informing students that there will learn how to make visual displays using more than one
-variable, and by asking them to ponder the following questions:
+1. In this lesson you will learn how to make visual displays using more than one
+variable. Begin by pondering the following questions:
 
-    100. What do you think is the relation between people’s heights and weights?
+    100. <strong style="color: red;"> What do you think is the relation between people’s heights and weights?
 
-    100. Are taller people heavier? Always? Or is this just a tendency?
+    100. Are taller people heavier? Always? Or is this just a tendency? </strong>
 
-    What do you think is the relation between people's heights and weights? Are taller people
-    heavier? Always? Or is this just a tendency? Let's look at some data.
-
-2. Display the following plot to the class ([LMR_1.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.13_Scatterplot of Heights & Weights.pdf)) so they can see some actual data:
+2. Let's look at some data. View the following plot ([LMR_1.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.13_Scatterplot of Heights & Weights.pdf)) that has actual data relevant to these questions:
 <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.13_Scatterplot of Heights %26 Weights.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.13_Scatterplot of Heights & Weights.pdf)</div>
 
-3. Ask students to individually answer the following questions about the plot on the handout
+3. Individually answer the following questions about the plot on the handout
 ([LMR_1.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.13_Scatterplot of Heights & Weights.pdf)):
 
-    100. What kind of plot is this and how will you remember its features? <span style="color:grey">***Scatterplot.***</span>
+    100. <strong style="color: red;"> What kind of plot is this and how will you remember its features? </strong>
 
-    100. How many variables are displayed in this plot? Name the variable(s) and identify the type
-    of variable(s). <span style="color:grey">***Two variables. Weight in kilograms and height in meters. Numerical
-    variables.***</span>
+    100. <strong style="color: red;"> How many variables are displayed in this plot? Name the variable(s) and identify the type
+    of variable(s). </strong>
 
-    100. What do the axes show? <span style="color:grey">***The x-axis shows the height of teens in meters, and the y-axis
-    shows the weight of teens in kilograms.***</span>
+    100. <strong style="color: red;"> What do the axes show? </strong>
 
-    100. Do taller people weigh more? <span style="color:grey">***Not necessarily, but there is a tendency for this to be
-    true.***</span>
+    100. <strong style="color: red;"> Do taller people weigh more? </strong>
+    
 
-4. Discuss this plot with the class by eliciting students’ responses to the questions. Students actively
-listen to the discussion by confirming, correcting, or adding to their own responses.
+4. Check your understanding of this first plot:
+    100. <span style="color:grey">***Scatterplot***</span>
+    100. <span style="color:grey">***Two variables. Weight in kilograms and height in meters. Numerical variables***</span>
+    100. <span style="color:grey">***The x-axis shows the height of teens in meters, and the y-axis shows the weight of teens in kilograms***</span>
+    100. <span style="color:grey">***Not necessarily, but there is a tendency for this to be
+    true.***</span> Confirm, correct, or add to your own responses.
 
-5. Close the discussion by asking students: What questions might you have about this plot? What
-additional information would be helpful?
+5. Now that you have identified some components of this plot, <strong style="color: red;"> what additional questions might you have about this plot? What
+additional information would be helpful? </strong>
 
 6. Now, suppose we could see which of these dots represented girls and which represented boys.
-Where do you think most of the girls' dots would be relative to the boys?
+<strong style="color: red;"> Where do you think most of the girls' dots would be relative to the boys? </strong>
 
-7. Display the following plot to the class ([LMR_1.14](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.14_Scatterplot of Heights & Weights & Gender.pdf)):
+7. Look at the following plot that addresses this question ([LMR_1.14](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.14_Scatterplot of Heights & Weights & Gender.pdf)):
 <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.14_Scatterplot of Heights %26 Weights %26 Gender.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.14](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.14_Scatterplot of Heights & Weights & Gender.pdf)</div>
 
-8. Ask students to individually answer the following questions about the plot on the handout
+8. Individually answer the following questions about the plot on the handout
 ([LMR_1.14](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.14_Scatterplot of Heights & Weights & Gender.pdf)):
 
-    100. What kind of plot is this and how will you remember its features? <span style="color:grey">***Scatterplot.***</span>
+    100. <strong style="color: red;"> What kind of plot is this and how will you remember its features? </strong>
 
-    100. How many variables are displayed in this plot? Name the variable(s) and identify the type
-    of variable(s). <span style="color:grey">***Three variables. Weight in kilograms and height in meters are
-    numerical variables. Gender is categorical.***</span>
+    100. <strong style="color: red;"> How many variables are displayed in this plot? Name the variable(s) and identify the type
+    of variable(s). </strong>
 
-    100. What do the axes show? <span style="color:grey">***The x-axis shows the height of teens in meters, and the y-axis
-    shows the weight of teens in kilograms.***</span>
+    100. <strong style="color: red;"> What do the axes show? </strong>
 
-    100. What questions can we ask that this graph might answer? <span style="color:grey">***Who is taller, boys or girls?
-    Who weighs more? Is the association between height and weight the same for
-    boys as it is for girls?***</span>
+    100. <strong style="color: red;"> What questions can we ask that this graph might answer? </strong>
 
-9. Discuss this plot with the class by eliciting students’ responses to the questions. Students actively
-listen to the discussion by confirming, correcting, or adding to their own responses. Follow-up
-discussion: when the data are split into categories, it is called **grouping**.
+9. Check your understanding of this plot:
+    100. <span style="color:grey">***Scatterplot***</span
+    100. <span style="color:grey">***Three variables. Weight in kilograms and height in meters are numerical variables. Gender is categorical***</span>
+    100. <span style="color:grey">***The x-axis shows the height of teens in meters, and the y-axis shows the weight of teens in kilgrams***</span>
+    100. <span style="color:grey">***Some questions might be "Who is taller, boys or girls?", "Who weighs more?", "Is the association between the height and weight the same for boys as it is for girls".***</span>
+    Confirm, correct, or add to your own responses. **<u>Note:</u>** when the data are split into categories, it is called **grouping**.
 
-10. Close the discussion by asking students: What questions might you have about this plot? What
-additional information would be helpful?
+10. Now that you have explored some components of this plot, <strong style="color: red;">what questions might you have about this plot? What
+additional information would be helpful? </strong>
 
-11. Display the following plot to the class ([LMR_1.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.15_Side-by-Side Bar Chart.pdf)):
+11. Let's look at another type of plot ([LMR_1.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.15_Side-by-Side Bar Chart.pdf)):
 <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.15_Side-by-Side Bar Chart.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.15_Side-by-Side Bar Chart.pdf)</div>
 
-12. Ask students to individually answer the following questions on the handout ([LMR_1.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.15_Side-by-Side Bar Chart.pdf)):
+12. Individually answer the following questions on the handout ([LMR_1.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.15_Side-by-Side Bar Chart.pdf)):
 
-    100. What kind of plot is this and how will you remember its features? <span style="color:grey">***Side-by-side bar chart.***</span>
+    100. <strong style="color: red;"> What kind of plot is this and how will you remember its features? </strong>
 
-    100. How many variables are displayed in this plot? Name the variable(s). <span style="color:grey">***Two variables:
-    whether or not someone is Hispanic, and how often they wear sunscreen.***</span>
+    100. <strong style="color: red;"> How many variables are displayed in this plot? Name the variable(s). </strong>
 
-    100. What are the x-axis and y-axis telling us? <span style="color:grey">***The x-axis shows how often a student
-    wears sunscreen, and the y-axis shows the percentage of the total that fall into that
-    category (broken into two bars, one for Hispanic and one for non-Hispanic).***</span>
+    100. <strong style="color: red;"> What are the x-axis and y-axis telling us? </strong>
 
-    100. What statistical questions can you answer with this graph? <span style="color:grey">***Do Hispanics and non-
-    Hispanics have different approaches to sunscreen? What percent of Hispanics
-    always/never wear sunscreen? How does that compare to non-Hispanics?***</span>
+    100. <strong style="color: red;"> What statistical questions can you answer with this graph? </strong>
 
-13. Discuss this plot with the class by eliciting students’ responses to the questions. Students actively
-listen to the discussion by confirming, correcting, or adding to their own responses.
+13. Check your understanding of this plot:
+    100. <span style="color:grey">***Side-by-side bar chart***</span>
+    100. <span style="color:grey">***Two variables. Whether or not someone is Hispanic, and how often they were sunscreen***</span>
+    100. <span style="color:grey">***The x-axis shows how often a student wears sunscreen, and the y-axis shows the percentage of the total that fall into that category (broken into two bars, one for Hispanic and one for non-Hispanic)***</span>
+    100. <span style="color:grey">***Some questions might be "Do Hispanics and non-Hispanics have different approaches to sunscreen?", "What percent of Hispanics always/never wear sunscreen?", "How does that compare to non-Hispanics?".***</span> Confirm, correct, or add to your own responses.
 
-14. Close the discussion by asking students: What questions might you have about this plot? What
-additional information would be helpful?
+14. After exploring this plot, <strong style="color: red;"> what additional questions might you have about this plot? What
+additional information would be helpful? </strong>
 
-15. Display the following plot to the class ([LMR_1.16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.16_ Faceted_Histograms_v4.1.pdf))
+15. Now look at the following plot ([LMR_1.16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.16_ Faceted_Histograms_v4.1.pdf))
 <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.16_ Faceted_Histograms_v4.1.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.16_ Faceted_Histograms_v4.1.pdf)</div>
 
-16. Ask students to individually answer the following questions on the handout ([LMR_1.16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.16_ Faceted_Histograms_v4.1.pdf)):
+16. Individually answer the following questions on the handout ([LMR_1.16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.16_ Faceted_Histograms_v4.1.pdf)):
 
-    100. What kind of plot is this and how will you remember its features? <span style="color:grey">***Split or faceted
-    histogram.***</span>
+    100. <strong style="color: red;"> What kind of plot is this and how will you remember its features? </strong>
 
-    100. How many variables are displayed in this plot? Name the variable(s). <span style="color:grey">***Two variables:
-    height and gender.***</span>
+    100. <strong style="color: red;"> How many variables are displayed in this plot? Name the variable(s). </strong>
 
-    100. What are the x-axis and y-axis telling us? <span style="color:grey">***The x-axis shows height in feet, and the y-axis
-    shows the total that fall into a certain range of heights (broken into two
-    histograms, one for males and one for females).***</span>
+    100. <strong style="color: red;"> What are the x-axis and y-axis telling us? </strong>
 
-    100. What statistical questions can you answer with this graph? <span style="color:grey">***Do males and females differ
-    in height? What is the typical female height? What is the typical male height?***</span>
+    100. <strong style="color: red;"> What statistical questions can you answer with this graph? </strong>
 
-17. Discuss this plot with the class by eliciting students’ responses to the questions. Students actively
-listen to the discussion by confirming, correcting, or adding to their own responses.
+17. Check your understanding of this plot:
+    100. <span style="color:grey">***Split or faceted histogram***</span>
+    100. <span style="color:grey">***Two variables. Height and gender.***</span>
+    100. <span style="color:grey">***The x-axis shows height in feet, and the y-axis shows the total that fall into a certain range of heights (broken into two histograms, one for males and one for females).***</span>
+    100. <span style="color:grey">***Some questions might be "Do males and females differ in height?", "What is the typical female height?", "What is the typical male height?".***</span> Confirm, correct, or add to your own responses.
 
-18. Using the notes and sketches in their DS journals, students will summarize their learning of how
+18. <strong style="color: red;"> Using the notes and sketches in your DS journals, you will summarize your learning of how
 to read and interpret basic multiple variable plots by completing the *Multiple Variable Plots* fourfold
-graphic organizer ([LMR_1.17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.17_Summarizing Multi-Variable Plots.pdf)):
+graphic organizer </strong> ([LMR_1.17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.17_Summarizing Multi-Variable Plots.pdf)):
 <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.17_Summarizing Multi-Variable Plots.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.17_Summarizing Multi-Variable Plots.pdf)</div>
 
-###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics
-of the day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Next 2 Days**</p>
 

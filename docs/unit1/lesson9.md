@@ -89,7 +89,7 @@ variability? Why or why not?</strong>
 
 
 13. If you were to ask the same group of high school students to write down the number of hours they plan to sleep on a Saturday,
-<strong style="color: red;">how do you think this plot will differ from the first plot? Make a quick sketch. Focus your explanation on the shape, center,
+<strong style="color: red;">How do you think this plot will differ from the first plot where they reported how many hours they slept on a schoolnight? Make a quick sketch. Focus your explanation on the shape, center,
 and spread of the distributions.</strong>
 
 ###**Reflection:**

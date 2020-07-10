@@ -73,7 +73,7 @@ collection experience, in which you will collect your own data using a smart dev
     version to perform data collection is available at [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org")<br>
     Click on the **Survey Taking icon** on the page.
 
-    The video below shows a detailed explanation of how to download and use the IDSUCLA app to take a survey.
+    The video below shows a detailed explanation of how to download and use the IDSUCLA app to take a survey. Your teacher will tell you which server you will be using.
     
     <iframe src="https://drive.google.com/file/d/1Z6QkqOOXvutwiCsX97rZAouGARuCc5-l/preview" width="640" height="480"></iframe>
 
@@ -86,7 +86,7 @@ If you have trouble with your login, your teacher has the ability to reset your 
 12. Once logged into the app or the browser-based version, you will see the **Campaigns** in
 which you will participate. You will then select the campaign by tapping the name of the
 campaign. If no campaigns are visible, tap the refresh option, located on the top right
-hand side of the screen.
+hand side of the screen. Your teacher will give you the name of the campaign you are collecting data for.
 
 13. Using one of your nutrition facts cutouts or pictures, complete your first survey by
 going through the questions in the app.

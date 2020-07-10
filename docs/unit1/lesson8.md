@@ -71,6 +71,8 @@ which simply means the number of times an outcome occurs. Tick-marks are not nee
 
     <iframe src="https://drive.google.com/file/d/1fmvbwE0P9IVneq5pK9x62cp3YUwtS8xY/preview" width="640" height="480"></iframe>
 
+    <strong style="color: red;">How many salty snacks were recorded? How many sweet snacks were recorded?</strong>
+    
     Since the labels are different sizes, we will create a bargraph to get a better representation of the frequency in each category.
 
     <iframe src="https://drive.google.com/file/d/1jj5zP_4ZmLZHWnf2yDHg8tg7jMQ7jHWT/preview" width="640" height="480"></iframe>
@@ -106,7 +108,7 @@ occurs. There is no need to place tick-marks on the y-axis. The frequency will b
     100. <strong style="color: red;">What information is this distribution telling us about the grams of sugar in the snacks the stick figures consume?</strong>
 
     100. A distribution tells us two things: the values of the variable and the frequency of the
-    values. "Frequency" is just another way of saying "the count." <strong style="color: red;">Why is this dotplot a
+    values. "Frequency" is just another way of saying "the count." <strong style="color: red;">Why is this plot a
     picture of the distribution of grams of sugar?</strong>
 
 17. You will be provided with an opportunity for feedback on your responses.
@@ -126,12 +128,15 @@ occurs. There is no need to place tick-marks on the y-axis. The frequency will b
 
     <iframe src="https://drive.google.com/file/d/13tlfZDbiUCQ_caqAqhgpHWVFo_CWVc1S/preview" width="640" height="480"></iframe>
 
-20. Notice that the x-axis is the same as before. We simply replaced each nutrition fact label with a dot that corresponded with the number of calories in the snack. If two snacks had the same amount of calories, we simply stacked the dots. <strong style="color: red;">Is this new plot better than the original?</strong> We call this type of plot a **dotplot** since we’re using dots to represent each observation.
+20. Notice that the x-axis is the same as before. We simply replaced each nutrition fact label with a dot that corresponded with the number of calories in the snack. If two snacks had the same amount of calories, we simply stacked the dots. <strong style="color: red;">How/why is the dot plot a better representation of the data?</strong> We call this type of plot a **dotplot** since we’re using dots to represent each observation.
 
 21. The *Tangible Plot* handout ([LMR_1.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.9_Tangible Plot.pdf)) contains the nutritional information for the total grams of fat in the stick figures' snacks. Create a dotplot that shows the distribution of grams of fat and answer the questions. <strong style="color: blue;">Replace LMR_1.9.</strong>
 <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.9_Tangible Plot.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.9_Tangible Plot.pdf)</div>
 
-22. Think about the statistical questions you came up with (Lesson 6 homework). <strong style="color: red;">Which visualization would be most appropriate for answering your statistical questions?</strong>
+22. Think about the visuals in this lesson. <strong style="color: red;">What kind of graph was used to visualize the categorical variable?  What kind of graph was used to visualize the numerical variable?</strong> 
+
+Think about the statistical questions you came up with (Lesson 6 homework). <strong style="color: red;">Which visualization would be most appropriate for answering your statistical questions?</strong>
+
 
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>

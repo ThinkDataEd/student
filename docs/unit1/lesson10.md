@@ -83,13 +83,13 @@ those intervals. The first bin has a frequency of 1, which means that one studen
  15. Notice that multiples of three appear in more than one bin. Let’s take the value of 6 hours as an
     example. Should those observations be included in the second bin (3-6) or the third bin (6-9)?
 
-    * If you include the values of 6 hours in the second bin then you are using the
-        **left-hand rule**.
+    * If you include the values of 6 hours in the second bin (3-6), then you are using the
+        **left-hand rule** because when choosing between the two bins that are next to each other (3-6) and (6-9), you chose the bin on the left.
 
         <iframe src="https://drive.google.com/file/d/1ADl6YoE4M-mokBsEtH6Lxiy2rx7P6Aes/preview" width="640" height="480"></iframe>
 
-    * If you include the values of 6 hours in the third bin then you are using the
-        **right-hand rule**.
+    * If you include the values of 6 hours in the third bin (6-9) then you are using the
+        **right-hand rule** because when choosing between the two bins that are next to each other (3-6) and (6-9), you chose the bin on the right.
 
         <iframe src="https://drive.google.com/file/d/1F1MJhthTXuTsZj5SRmws_YbfcQ5g-ZiI/preview" width="640" height="480"></iframe>
 

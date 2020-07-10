@@ -68,7 +68,9 @@ graphic of *The Data Cycle* ([LMR_1.3](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/
 
     100. Cardboard or paper, markers, something to insert through the center of your spinner to make it spin.
 
-6. Now it's your turn! <strong style="color: red;">Create your own spinner (see example below).</strong>
+6. Now it's your turn! 
+
+    <strong style="color: red;">Create your own spinner. Remember to label each component and to write or draw your interpretation of it (see example below).</strong>
 
     <iframe src="https://drive.google.com/file/d/1wuxhSGGhTa7nBpPOF-U722Q64IIvcVoH/preview" width="640" height="480"></iframe>
 
@@ -98,14 +100,15 @@ graphic of *The Data Cycle* ([LMR_1.3](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/
 
 8. <strong style="color: red;"> Were you a little doubtful about the statement in image #7c - "Smokers typically have larger lung capacities than Non-Smokers"? Why or why not?  What did the spreadsheet in image #7e reveal?</strong>
 
-9. Something to ponder: The conclusion made in slide #7c - "Smokers typically have larger lung capacities than Non-Smokers" was a correct interpretation of the data. However, it was important to understand who the data was collected on. As slide #7e revealed, the data included young children who typically have smaller lung capacities than adults. So the take-away here is to carefully consider your data.
+9. Something to ponder: The conclusion made in slide #7c - "Smokers typically have larger lung capacities than Non-Smokers" was a correct interpretation of the visual in #7d. However, it was important to understand who the data was collected on. As slide #7e revealed, the data included youths whose ages ranged from 3 years old to 19 years old. So yes, children usually have smaller lung capacities than adults (smokers or non-smokers). The take-away here is to carefully consider who your data represents.
    
 
-10. You can enter the **data cylce** at any stage. For example we can already have a data set and after analyzing the data set come up with statistical questions that can be answered. The *Bros & Dudes Graphics* handout contains 10 pairings of graphs.
-<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.5_Bros %26 Dudes Graphics.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.5_Bros & Dudes Graphics.pdf)</div>
+10. You can enter the **data cycle** at any stage. For example, we can be given a data set and after considering the variables, come up with statistical questions that can be answered with the data. In the exercise below, you will enter the data cycle at the analysis stage because a graph has been created from the data that was collected.
 
-11.  The graphics were created for the *Quartz* website by Nikhil Sonnad as a data visualization. He collected the data via Twitter. The graphics
+11.  The *Bros & Dudes Graphics* handout contains 10 pairings of graphs. The graphics were created for the *Quartz* website by Nikhil Sonnad as a data visualization. He collected the data via Twitter. The graphics
 show how common certain terms are throughout the United States when referring to friends.([LMR_1.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.5_Bros & Dudes Graphics.pdf))
+
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.5_Bros %26 Dudes Graphics.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.5_Bros & Dudes Graphics.pdf)</div>
 
     <strong style="color: red;">Choose one of the graphics and come up with 2 questions that could be asked given the particular graphic you chose.</strong>
 

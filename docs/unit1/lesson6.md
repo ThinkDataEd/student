@@ -32,8 +32,6 @@ Los Angeles high school.
     100. After jotting down your comments and/or reactions, respond to the following
     question in your IDS journal: <strong style="color: red;"> **Why should I care about what I eat?** </strong>
 
-    100. Your teacher will provide an opportunity for you to share your reactions and responses with your classmates.
-
 3. Think back to the *Stick Figures* activity from [Lesson 2](lesson2.md). During that activity, you collected
 data about other people. But today, you are going to be collecting data about yourselves and the
 foods you eat.

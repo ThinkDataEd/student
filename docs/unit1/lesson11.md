@@ -23,15 +23,13 @@ vertical axis represents how many observations are in each bar.
 3. You will sort the histograms into different groups according to their shapes.
 Histograms that have similar shapes should be placed together in one of the six boxes. The activity has been formatted such that you can place the histograms directly on top of each other to verify if their shapes are similar.
 
-    **Note:** Open the document below using google slides. Find View on the menu option, go to zoom and choose 50% to be able to view the 18 histograms that need to be sorted. 
+    **Note:** Open the document below using google slides and make a copy onto your google drive. Find View on the menu option, go to zoom and choose 50% to be able to view the 18 histograms that need to be sorted. 
 
     <iframe src="https://drive.google.com/file/d/1S-ZWu003iZ_LmeMWMtlMEys0KRPm14CA/preview" width="640" height="480"></iframe>
 
 4. Once you have sorted the histograms into groups, answer the following questions in your DS journals:
 
-    100. <strong style="color: red;"> Describe what’s similar about the plots in each group.</strong> <span style="color:grey">***Overall, they should be
-    grouped by the overall shape of the distribution. For example, plots with a higher
-    density of bars on the right side of the plot should all be in the same group.***</span>
+    100. <strong style="color: red;"> Describe what’s similar about the plots in each group.
 
     100. <strong style="color: red;"> Pick one graph in each group that is the best example of that group. </strong>
 

@@ -63,6 +63,10 @@ a data trail or what information is being collected about you on a regular basis
 
     100. <strong style="color: red;">Do you read the agreements when you download phone apps?</strong>
 
+###**Reflection**
+What do human beings do to help them remember what they have learned? They reflect. Reflection is careful thought about a particular subject. Your reflections are your thoughts. Therefore, after every few lessons you will be asked to reflect on your learning. Make sure you are detailed in your reflection as this will help guide your teacher on how to best support your learning.
+<strong style="color: red;">What are some of the things you do to to help you remember what you have learned?</strong>
+
 
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>

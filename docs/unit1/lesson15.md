@@ -106,5 +106,5 @@ begin to collect data about your own time use. Follow the *Time-Use Guidelines*.
     100. TOTALS (add across each activity row to get the total time spent doing that activity - the final total for each entire day should add to 1440 minutes)
 
 
-###**Reflection:**
+###**Reflection**
 <strong style="color: red;"> Write a paragraph summarizing the most important things you learned in the last 3 lessons. </strong>

@@ -18,50 +18,46 @@ You will use the Dashboard and PlotApp, tools that are easy to learn.
 campaign by completing the *Food Habits Check-In* handout ([LMR_1.11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.11_Food Habits Check-In.pdf)).
 <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.11_Food Habits Check-In.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.11_Food Habits Check-In.pdf)</div>
 
-2. To access the **IDS Homepage**, go to 
-[https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org")
+2. Today you will engage in a full Data Cycle with your classe's food habits data. You will use the **Dashboard** and the **Plot App** to generate vsualizations of the variables collected about your snacks. Then you will create and answer statistical questions that can be answered by the visualizations.
 
-3. All of the IDS web tools can be accessed through this page.
+3. To access the **Dashboard**, go to the **IDS Homepage**, found at
+[https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org"). All of the IDS web tools can be accessed through this page.
 
-4. For this lesson, you will learn how to use the **Campaign Manager**, the
-**Dashboard**, and the **PlotApp**.
+4. Click on **Dashboard** and log in if prompted. Once logged in, notice that you are redirected to the **Campaign Manager**. This happens so that you can select the campaign containing the data that you want to analyze. Find the Food Habits Campaign and click on Dashboard.
 
-5. Click on the Campaign Manager. Selecting any of the web tools on the IDS page
-without logging in first will redirect you to the login prompt.
+5. You will be navigating the **Dashboard** using the *Exploring Our Food Habits* handout as a guide. **<u>Note:</u>** If you are unable to print the handout or access it electronically, you can create a table in your DS Journal that follows the same format.
+<iframe src="https://drive.google.com/file/d/1PTCiYViQ2lY21FR_g59TKXDz-PsBR_PK/preview" width="640" height="480"></iframe>
 
-6. To log in to access the IDS software suite you will use the
-same login information that you have used to collect data on your mobile device or the browser-based
-version.
+    Watch this video to learn how to access and use the **Dashboard.**<strong style="color: blue;"> Insert video here. </strong>
 
-    The Campaign Manager is the place where you will access,
-    download, and export your campaign data in subsequent lessons. It also provides
-    shortcuts to the Dashboard and PlotApp. The Campaign Manager allows you to view
-    and learn about the campaigns in which you are participating, and to edit the campaigns
-    you will be creating later in this course. Go to the drop-down menu on the right-hand
-    side and look for the **Responses** tab.
-    The Responses tab for this lesson allows you to view, delete, or share your data,
-    and to view shared data contributed by other users of the campaign.
+6. **Dashboard**
 
-7. Take out the *Exploring Our Food Habits* handout ([LMR_1.12](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.12_Exploring Our Food Habits.pdf)).
-<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.12_Exploring Our Food Habits.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.12](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.12_Exploring Our Food Habits.pdf)</div>
+    100. Plot 1: To analyze the <strong style="color: purple;">time</strong> variable, use the **Response Time** histogram. If you do not see the Response Time plot, you may have to click on the blue histogram icon in the top menu bar of the Dashboard or enlarge your browser viewing space.
+    100. Plot 2: To analyze the <strong style="color: purple;">salty_sweet</strong> variable, use the **Salty or Sweet?** donut plot. If you do not see the Salty or Sweet? plot, you may have to click on the donut plot icon in the top menu bar of the Dashboard or enlarge your browswer viewing space.
+    100. Plot 3: To analyze the <strong style="color: purple;">calories</strong> variable, use the **Calories per Serving** histogram. If you do not see the Calories per Serving plot, you may have to click on the purple histogram icon in the top menu bar of the Dashboard or enlarge your browser viewing space.
+    100. Plot 4: To analyze the <strong style="color: purple;">why</strong> variable, use the **Why** word cloud. If you do not see the Why word cloud, you may have to click on the word cloud icon in the top menu bar of the Dashboard or enlarge your browser viewing space.
 
-8. You will be navigating through the IDS website as you follow
-along in the *Exploring Our Food Habits* handout ([LMR_1.12](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.12_Exploring Our Food Habits.pdf)). **<u>Note:</u>** if you are unable to print the handout or access it electronically, you can create a table in your DS Journal that follows the same format
+7. To access the **Plot App**, go to the **IDS Homepage**, found at
+[https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org"). All of the IDS web tools can be accessed through this page.
 
-    100. Go back to the IDSUCLA home page. Click on the Campaign Manager. On the right drop down for your Food Habits Campaign, click on Dashboard. We will be using the Dashboard for plots 1 through 4.
-    100. For plot 1: <strong style="color: red;"> Use the Response Time histogram plot for your handout sketch and statistical questions (remember to label your axes and scales in your sketch). </strong> If you do not see the Response Time plot, you may have to click on the blue histogram icon in the top menu bar of the Dashboard or enlarge your browser viewing space.
-    100. For plot 2: <strong style="color: red;"> Use the Salty or Sweet? donut plot for your handout sketch and statistical questions (remember to label your variables in your sketch). </strong> If you do not see the Salty or Sweet? plot, you may have to click on the donut plot icon in the top menu bar of the Dashboard or enlarge your browswer viewing space.
-    100. For plot 3: <strong style="color: red;"> Use the Calories per Serving histogram plot for your handout sketch and statistial questions (remember to label your axes and scales in your sketch). </strong> If you do not see the Calories per Serving plot, you may have to click on the purple histogram icon in the top menu bar of the Dashboard or enlarge your browser viewing space.
-    100. For plot 4: <strong style="color: red;"> Use the Why word cloud for your handout sketch and statistial questions. </strong> If you do not see the Why word cloud, you may have to click on the word cloud icon in the top menu bar of the Dashboard or enlarge your browser viewing space.
-    100. Go back to the IDSUCLA home page. Click on the Campaign Manager. On the right drop down for your Food Habits Campaign, click on PlotApp. You will be using the PlotApp for the next plots 1 through 4.
-    100. For PlotApp plot 1: Select healthy_level under the x-axis drop down on the left-hand side. Also select serving_size under the y-axis drop down on the left-hand side. Then scroll down to Update Plot to view the corresponding plot. <strong style="color: red;"> Sketch the resulting plot, including its axes and scales, and create 1-2 statistical questions based on this plot on your handout. </strong>
-    100. For PlotApp plot 2: Follow the same instructions as you did for PlotApp plot 1 but instead with salty_sweet as the x-axis and calories as the y-axis. <strong style="color: red;"> Sketch the resulting plot and create 1-2 statistial questions regarding it. </strong>
-    100. For PlotApp plot 3: Follow the same instructions as you did for PlotApp plots 1 and 2 but instead with calories as the x-axis and total_fat as the y-axis. <strong style="color: red;"> Sketch the resulting plot and create 1-2 statistial questions regarding it. </strong>
+8. Click on **Plot App** and log in if prompted. Once logged in, notice that you are redirected to the **Campaign Manager**. This happens so that you can select the campaign containing the data that you want to analyze. Find the Food Habits Campaign and click on PlotApp.
+
+9. You will be navigating the **Plot App** using the *Exploring Our Food Habits* handout as a guide. **<u>Note:</u>** If you are unable to print the handout or access it electronically, you can create a table in your DS Journal that follows the same format.
+<iframe src="https://drive.google.com/file/d/1GFXuziZz9K9r4qN62hbJfud_dFL0MJ8b/preview" width="640" height="480"></iframe>
+
+    Watch this video to learn how to access and use the **Plot App.**<strong style="color: blue;"> Insert video here. </strong>
+
+
+10. **Plot App**  
+    
+    100. Plot 1: Select <strong style="color: purple;">healthy_level</strong> under the x-axis drop down on the left-hand side. Select <strong style="color: purple;">serving_size</strong> under the y-axis drop down on the left-hand side. Scroll down to **Update Plot** to view the corresponding plot.
+    100. Plot 2: Follow the same instructions as you did for Plot 1 but choose <strong style="color: purple;">salty_sweet</strong> to be displayed on the x-axis and <strong style="color: purple;">calories</strong> for the y-axis. 
+    100. Plot 3: Follow the same instructions as you did for Plots 1 and 2 but instead with calories as the x-axis and total_fat as the y-axis. <strong style="color: red;"> Sketch the resulting plot and create 1-2 statistial questions regarding it. </strong>
     100. For PlotApp plot 4: Keep the same x-axis and y-axis variables as you had in PlotApp plot 3 but you will be adding a Facet to this plot. Select salty_sweet under the Facet drop down on the left-hand side. Then scroll down to Update Plot to view the corresponding plot. <strong style="color: red;"> Sketch the resulting plot, including its axes and scales, and create 1-2 statistical questions based on this plot on your handout. How does adding a Facet change the plot? What additional information is gained? </strong>
     
-9. Once completed, you will turn in the handout for assessment.
+11. Once completed, you will turn in the handout for assessment.
 
-###**Reflection:**
+###**Reflection**
 <strong style="color: red;"> Write a paragraph summarizing the most important things you learned in the last 3 lessons. </strong>
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>

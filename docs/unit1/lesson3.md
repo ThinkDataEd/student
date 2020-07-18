@@ -52,7 +52,7 @@ can define this type of organization as **rectangular format**, or **spreadsheet
 vertical portions of the table, while the rows are the horizontal portions. Another way to think of it
 is that columns go from top to bottom, and rows go from left to right. Each row should represent one observation, such as a stick figure and each column should represent one variable, such as height.
 
-    <iframe src="https://drive.google.com/file/d/1oNXszizYw7I4KEZ9nMureGeGzc4n2FdX/preview" width="640" height="480"></iframe>
+    <iframe src="https://drive.google.com/file/d/1b2y4_ppjuDWIAfpO4teNIli_XPle-Lwb/preview" width="640" height="480"></iframe>
 
 9. For the table above:
     100. <strong style="color: red;">What should each row represent?</strong>
@@ -75,5 +75,5 @@ of the table should represent one person on a card.</strong>
 
 13. In the table you created, the values for each variable vary, or change, depending on which person we are observing.  For example, the values for the variable GPA are not the same for all of the stick figures.  This shows that the data has a lot of **variability** for the variable GPA. The first step in any investigation is to notice **variability**.
 
-###**Reflection:**
+###**Reflection**
 <strong style="color: red;"> Write a paragraph summarizing the most important things you learned in the last 3 lessons. </strong>

@@ -105,7 +105,7 @@ is important because we are only concerned with that subset of the group. Compar
 
     100. <strong style="color: red;">conditional relative frequency (either by row or column)</strong>
 
-###**Reflection:**
+###**Reflection**
 <strong style="color: red;"> Write a paragraph summarizing the most important things you learned in the last 2 lessons. </strong>
 
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>

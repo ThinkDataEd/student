@@ -71,7 +71,7 @@ data.
 
 11. In the next lesson, you will begin collecting and recording data. To be prepared for this, make sure to have your mobile device or other device with an internet browser or app capability.
 
-###**Reflection:**
+###**Reflection**
 <strong style="color: red;"> Write a paragraph summarizing the most important things you learned in the last 3 lessons. </strong>
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>

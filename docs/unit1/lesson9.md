@@ -92,7 +92,7 @@ variability? Why or why not?</strong>
 <strong style="color: red;">How do you think this plot will differ from the first plot where they reported how many hours they slept on a schoolnight? Make a quick sketch. Focus your explanation on the shape, center,
 and spread of the distributions.</strong>
 
-###**Reflection:**
+###**Reflection**
 <strong style="color: red;"> Write a paragraph summarizing the most important things you learned in the last 3 lessons. </strong>
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>

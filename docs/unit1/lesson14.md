@@ -22,9 +22,9 @@ scatterplot, grouping, side-by-side bar plot
 1. In this lesson you will learn how to make visual displays using more than one
 variable. Begin by pondering the following questions:
 
-    100. <strong style="color: red;"> What do you think is the relation between people’s heights and weights?
+    100. <strong style="color: red;">What do you think the relationship is between people's heights and weights?</strong>
 
-    100. Are taller people heavier? Always? Or is this just a tendency? </strong>
+    100. <strong style="color: red;">Are taller people heavier? Always? Or is this just a tendency?</strong>
 
 2. Let's look at some data. View the following plot ([LMR_1.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.13_Scatterplot of Heights & Weights.pdf)) that has actual data relevant to these questions:
 <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.13_Scatterplot of Heights %26 Weights.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.13_Scatterplot of Heights & Weights.pdf)</div>
@@ -71,7 +71,7 @@ additional information would be helpful? </strong>
     100. <strong style="color: red;"> What questions can we ask that this graph might answer? </strong>
 
 9. Check your understanding of this plot:
-    100. <span style="color:grey">***Scatterplot***</span
+    100. <span style="color:grey">***Scatterplot***</span>
     100. <span style="color:grey">***Three variables. Weight in kilograms and height in meters are numerical variables. Gender is categorical***</span>
     100. <span style="color:grey">***The x-axis shows the height of teens in meters, and the y-axis shows the weight of teens in kilgrams***</span>
     100. <span style="color:grey">***Some questions might be "Who is taller, boys or girls?", "Who weighs more?", "Is the association between the height and weight the same for boys as it is for girls".***</span>
@@ -123,7 +123,7 @@ additional information would be helpful? </strong>
 
 18. <strong style="color: red;"> Using the notes and sketches in your DS journals, you will summarize your learning of how
 to read and interpret basic multiple variable plots by completing the *Multiple Variable Plots* fourfold
-graphic organizer </strong> ([LMR_1.17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.17_Summarizing Multi-Variable Plots.pdf)):
+graphic organizer.</strong> If you are unable to print the handout or access it electronically, you can create a table in your DS Journal that follows the same format. </strong> ([LMR_1.17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.17_Summarizing Multi-Variable Plots.pdf)):
 <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.17_Summarizing Multi-Variable Plots.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.17_Summarizing Multi-Variable Plots.pdf)</div>
 
 

@@ -83,13 +83,12 @@ proportion or percentage of a total.
 variables. Rather, you should choose two categorical variables that you predict might be
 associated.</strong>
 
-    Example: I think there is a relationship between watching scary movies and drinking soda.
+    Example: I think there is a relationship between watching scary movies and drinking soda, so I am going to survey family and friends by asking the following questions:
 
     Do you like watching scary movies?
-
     Do you drink soda?
 
-12. <strong style="color: red;">Create a two-way table where you can organize the data for your questions.</strong>
+12. <strong style="color: red;">Create a two-way table where you can organize the data for your questions.</strong> This is the two-way table for the example above.
 
     Example:
 
@@ -101,4 +100,4 @@ associated.</strong>
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
 
-Submit the two statistical questions you created in #11 to your teacher for feedback.
+Survey at least 20 people (family or friends) and ask them to answer the two questions you generated so that you can fill out your two-way table.

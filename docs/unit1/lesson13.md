@@ -43,8 +43,7 @@ then click on the RStudio icon on the page.
 Prevention (CDC), a government agency that collects data about teenagers on a variety of topics.
 
 6. You can load and view the CDC data file to the workspace by typing the following
-command in the console and then typing the Enter or Return key on your keyboard: **<u>Note:</u>** Make sure to take notes and
-write down commands in your DS journal
+command in the console and then typing the Enter or Return key on your keyboard: **<u>Note:</u>** You will be taking notes in an RScript. On the menu tab, go to File, then click on New, then click on RScript. Type the commands below in your RScript and Run your commands. Refer back to the video to learn how to use an RScript.
 
     **>data(cdc)**
 

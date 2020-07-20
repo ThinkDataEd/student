@@ -18,7 +18,7 @@ You will use the Dashboard and PlotApp, tools that are easy to learn.
 campaign by completing the *Food Habits Check-In* handout ([LMR_1.11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.11_Food Habits Check-In.pdf)).
 <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.11_Food Habits Check-In.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.11_Food Habits Check-In.pdf)</div>
 
-2. Today you will engage in a full Data Cycle with your classe's food habits data. You will use the **Dashboard** and the **Plot App** to generate vsualizations of the variables collected about your snacks. Then you will create and answer statistical questions that can be answered by the visualizations.
+2. Today you will engage in a full Data Cycle with your classe's food habits data. You will use the **Dashboard** and the **Plot App** to generate visualizations of the variables collected about your snacks. You will then create and answer statistical questions that can be answered by the visualizations.
 
 3. To access the **Dashboard**, go to the **IDS Homepage**, found at
 [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org"). All of the IDS web tools can be accessed through this page.
@@ -37,7 +37,7 @@ campaign by completing the *Food Habits Check-In* handout ([LMR_1.11](../IDS_Cur
     100. Plot 3: To analyze the <strong style="color: purple;">calories</strong> variable, use the **Calories per Serving** histogram. If you do not see the Calories per Serving plot, you may have to click on the purple histogram icon in the top menu bar of the Dashboard or enlarge your browser viewing space.
     100. Plot 4: To analyze the <strong style="color: purple;">why</strong> variable, use the **Why** word cloud. If you do not see the Why word cloud, you may have to click on the word cloud icon in the top menu bar of the Dashboard or enlarge your browser viewing space.
 
-7. To access the **Plot App**, go to the **IDS Homepage**, found at
+7. Now you will use the Plot App to analyze the Food Habits data. The Plot App is less rigid than the Dashboard in that it allows us to create plots with more than one variable. To access the **Plot App**, go to the **IDS Homepage**, found at
 [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org"). All of the IDS web tools can be accessed through this page.
 
 8. Click on **Plot App** and log in if prompted. Once logged in, notice that you are redirected to the **Campaign Manager**. This happens so that you can select the campaign containing the data that you want to analyze. Find the Food Habits Campaign and click on PlotApp.
@@ -50,10 +50,10 @@ campaign by completing the *Food Habits Check-In* handout ([LMR_1.11](../IDS_Cur
 
 10. **Plot App**  
     
-    100. Plot 1: Select <strong style="color: purple;">healthy_level</strong> under the x-axis drop down on the left-hand side. Select <strong style="color: purple;">serving_size</strong> under the y-axis drop down on the left-hand side. Scroll down to **Update Plot** to view the corresponding plot.
-    100. Plot 2: Follow the same instructions as you did for Plot 1 but choose <strong style="color: purple;">salty_sweet</strong> to be displayed on the x-axis and <strong style="color: purple;">calories</strong> for the y-axis. 
-    100. Plot 3: Follow the same instructions as you did for Plots 1 and 2 but instead with calories as the x-axis and total_fat as the y-axis. <strong style="color: red;"> Sketch the resulting plot and create 1-2 statistial questions regarding it. </strong>
-    100. For PlotApp plot 4: Keep the same x-axis and y-axis variables as you had in PlotApp plot 3 but you will be adding a Facet to this plot. Select salty_sweet under the Facet drop down on the left-hand side. Then scroll down to Update Plot to view the corresponding plot. <strong style="color: red;"> Sketch the resulting plot, including its axes and scales, and create 1-2 statistical questions based on this plot on your handout. How does adding a Facet change the plot? What additional information is gained? </strong>
+    100. Plot 1: Select <strong style="color: purple;">healthy_level</strong> under the x-axis drop down on the left-hand side. Select <strong style="color: purple;">serving_size</strong> under the y-axis drop down on the left-hand side. Scroll down and click on **Update Plot** to view the corresponding plot.
+    100. Plot 2: Follow the same instructions as you did for Plot 1 but instead use <strong style="color: purple;">salty_sweet</strong> for the x-axis and <strong style="color: purple;">calories</strong> for the y-axis. 
+    100. Plot 3: Follow the same instructions as you did for Plots 1 and 2 but instead use <strong style="color: purple;">calories</strong> for the x-axis and <strong style="color: purple;">total_fat</strong> for the y-axis.
+    100. Plot 4: Keep the same variables on the x-axis and y-axis as in Plot 3, but add a Facet to this plot by selecting <strong style="color: purple;">salty_sweet</strong> under the Facet drop down on the left-hand side. Remember to scroll down and click **Update Plot** to view the corresponding plot. <strong style="color: red;">How does adding a Facet change the plot? What additional information is gained?</strong>
     
 11. Once completed, you will turn in the handout for assessment.
 

@@ -99,6 +99,7 @@ begin to collect data about your own time use. Follow the *Time-Use Guidelines*.
     campaign by tapping the name of the campaign. If no campaigns are visible,click the refresh option.
 
 15. Just as in the NY Times interactive graphic, you will be observing and recording your daily time use. You should fill out the Time Use Data Collection Template to organize your time use data before submitting it to the Time Use Campaign. It is split into 3 sections in order to calculate your overall daily time use more easily: <strong style="color: blue;"> insert time use data collection template here and maybe an example video/image of how to fill it out? </strong>
+
  
     100. 6am-3pm (which should total 540 minutes)
 

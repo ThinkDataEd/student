@@ -33,57 +33,45 @@ marginal frequency, joint frequency, conditional relative frequency
 4. Recall that in the previous lesson, you learned to calculate relative frequencies. Now it’s time
 to look at other ways of understanding a two-way frequency table.
 
-5. Here is the *Cat Ownership and Instruments* table:
+5. Here are the *Cat Ownership and Instruments* tables:
 
-    **Cat Ownership and Instruments**
-
-    |  | **Plays an instrument** | **Does not play instrument** | **Total** |
-    | ------------ | ------------- | ------------ | ------------ |
-    | **Owns a cat** | 7 | 9 | 16 |
-    | **No cats** | 10 | 9 | 19 |
-    | **Total** | 17 | 18 | 35 |
+    <iframe src="https://drive.google.com/file/d/1vaMX4BOSX00aYFzQRGMKHH3wOyu7QDTS/preview" width="640" height="480"></iframe>
 
 6. Suppose that we want to know the following information:
 
     100. How many students own a cat? <span style="color:grey">***16***</span>
 
-    100. What is the proportion of students who own a cat? <span style="color:grey">***16/35 ≈ 0.46***</span>
+    100. What is the proportion of students who own a cat? <span style="color:grey">***16/35 ≈ 0.46 ≈ 46%***</span>
 
-    100. What is the proportion of students who do not play an instrument? <span style="color:grey">***18/35 ≈ 0.51***</span>
+    100. What is the proportion of students who do not play an instrument? <span style="color:grey">***18/35 ≈ 0.51 ≈ 51%***</span>
 
-7. Notice that the answers to the questions were located in the margins of the table and therefore are called **marginal frequencies**. Questions 6 a and 6 b are **marginal relative frequencies** since they are being expressed out of a total number of occurrences.
+7. Notice that the answers to the questions were located in the margins of the table and therefore are called **marginal frequencies**. Questions 6b and 6c are **marginal relative frequencies** since they are being expressed out of a total number of occurrences.
+
+    <iframe src="https://drive.google.com/file/d/1f-6ZVQHSBZeHviYKtVui71GDHV3JUbhr/preview" width="640" height="480"></iframe>
 
 8. Now suppose that we want to know the following information:
 
     100. How many students own a cat and play an instrument? <span style="color:grey">***7***</span>
 
-    100. What is the proportion of students that own a cat and play and instrument? <span style="color:grey">***7/35=0.2***</span>
+    100. What is the proportion of students that own a cat and play and instrument? <span style="color:grey">***7/35=0.2=20%***</span>
 
     100. What is the proportion of students who do not own a cat and play an instrument? <span style="color:grey">***10/35 ≈
-    0.286***</span>
+    0.286 ≈ 29%***</span>
 
-9. Notice that the answers to the questions were located in the cells in the body of the table and therefore are called **joint frequencies**. Questions 8 a and 8 b are **joint relative frequencies** since they are being expressed out of a total number of occurrences.
+9. Notice that the answers to the questions were located in the cells in the body of the table and therefore are called **joint frequencies**. Questions 8b and 8c are **joint relative frequencies** since they are being expressed out of a total number of occurrences.
+
+    <iframe src="https://drive.google.com/file/d/12yuTTCRV2QHFrraYEA-HFab6psPnC3A8/preview" width="640" height="480"></iframe>
 
 
 10. Finally, suppose that we wanted to answer the question: Do a greater proportion of students in
 Rosa’s art class who do not own cats prefer to play an instrument than those who do own cats?
 
 11. In this case, the total for the “No cats” row
-is important because we are only concerned with that subset of the group. Compare the values that show the **conditional relative frequency** for the row. More non-cat owners slightly prefer to play an instrument (0.53 vs 0.44).
+is important because we are only concerned with that subset of the group. Compare the values that show the **conditional relative frequency** for the row. More non-cat owners slightly prefer to play an instrument (53% vs 44%).
 
-    **Cat Ownership and Instruments**
+    <iframe src="https://drive.google.com/file/d/1cczCmgbGN8-VnpHKr2JOg7QX0VLFWfSg/preview" width="640" height="480"></iframe>
 
-    **Conditional Relative Frequencies by Row**
-    
-    |  | **Plays an instrument** | **Does not play instrument** | **Total** |
-    | ------------ | ------------- | ------------ | ------------ |
-    | **Owns a cat** | 7/16 ≈ 0.44 | 9/16 ≈ 0.56 | 16/16 ≈ 1.00 |
-    | **No cats** | 10/19 ≈ 0.53 | 9/19 ≈ 0.47 | 19/19 ≈ 1.00 |
-    | **Total** | 17/35 ≈ 0.49 | 18/35 ≈ 0.51 | 35/35 = 1.00 |
-
-    **<u>Note:</u>** This is a conditional relative frequency by row. We can also calculate conditional relative
-    frequencies by column if we were interested in knowing the difference in cat preference for those
-    who play instruments versus those who don’t.
+    **<u>Note:</u>** This is a conditional relative frequency by row. We can also calculate conditional relative frequencies by column if we were interested in knowing the difference in cat ownership for those students who play instruments.
 
 12. The **two way table** below shows which emotion males and females associate with the color red.
 
@@ -109,15 +97,19 @@ is important because we are only concerned with that subset of the group. Compar
 <strong style="color: red;"> Write a paragraph summarizing the most important things you learned in the last 2 lessons. </strong>
 
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
-Refer back to the two-way frequency table you created in the prior lesson. Ask 4 questions about the data in your table that must be answered by a:
+Refer back to the two-way frequency table you created in the prior lesson. 
 
-marginal frequency
+1. Create a two-way relative frequency table.
 
-marginal relative frequency
+2. Ask 4 questions about the data in your table that must be answered by a:
 
-joint relative frequency
+    marginal frequency
 
-conditional relative frequency (either by row or column)
+    marginal relative frequency
+
+    joint relative frequency
+    
+    conditional relative frequency (either by row or column)
 
 [<u>***Lab 1G: What’s the FREQ?***</u>](lab1g.md)
 

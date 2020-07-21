@@ -65,5 +65,5 @@ choose.
 8. The general categories of information, such as a person’s height, are
 called **variables**. Variables are simply characteristics of an object or person. As statisticians, we
 use variable names to organize data into a simplified form so that a computer can read them.
-This will be discussed further in lesson 3.
+This will be discussed further in Lesson 3.
 

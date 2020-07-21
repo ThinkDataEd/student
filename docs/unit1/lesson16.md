@@ -42,11 +42,7 @@ data Rosa collected from the students in her art class.
 
     **Cat Ownership and Instruments**
 
-    |  | **Plays an instrument** | **Does not play instrument** | **Total** |
-    | ------------ | ------------- | ------------ | ------------ |
-    | **Owns a cat** | 7 | 9 | 16 |
-    | **No cats** | 10 | 9 | 19 |
-    | **Total** | 17 | 18 | 35 |
+    <iframe src="https://drive.google.com/file/d/1hlUvC7z0rJieGqn1pvU2rg-rTwGlD-Up/preview" width="640" height="480"></iframe>
 
 7. <strong style="color: red;">Based on the Cat Ownership and Instruments table, generate a couple of questions that
 can be asked and answered by the data.</strong>
@@ -65,11 +61,9 @@ proportion or percentage of a total.
 
     **Relative Frequencies**
     
-    |  | **Plays an instrument** | **Does not play instrument** | **Total** |
-    | ------------ | ------------- | ------------ | ------------ |
-    | **Owns a cat** | 7/35=0.20 | 9/35 ≈ 0.26 | 16/35 ≈ 0.46 |
-    | **No cats** | 10/35 ≈ 0.29 | 9/35 ≈ 0.26 | 19/35 ≈ 0.54 |
-    | **Total** | 17/35 ≈ 0.49 | 18/35 ≈ 0.51 | 35/35 = 1.00 |
+    <iframe src="https://drive.google.com/file/d/1kj9TDUQaV0EeCzdy5mroN5rh72EbPyeE/preview" width="640" height="480"></iframe>
+
+    <strong style="color: red;">What is the difference between a two-way frequency table and a two-way relative frequency table?  When would it be better to use one over the other?</strong>
 
 10. Using the table above, answer the following questions about relative frequencies:
 

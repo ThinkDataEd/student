@@ -17,7 +17,8 @@ typical, center, shape, spread
 ###**Lesson**
 1. **<u>Food Habits Campaign Data Collection Monitoring:</u>**
 
-    100. The IDS Campaign Monitoring Tool is found on your IDS Homepage.
+    100. The IDS Campaign Monitoring Tool is found on your IDS Homepage, found at
+[https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org").
     Click on **Monitor** and sign in if prompted. Once logged in, notice that you are redirected to the **Campaign Manager**. This happens so that you can select the campaign that you want to monitor. Find the Food Habits Campaign and click on Monitor. If you haven't submitted any data, the page will be blank.
     
     **Note:** To review how to access the Monitoring Tool, refer to the video in lesson 8 #1 a.

@@ -99,7 +99,7 @@ command in the console:
 
 13. Let’s take a closer look at the variables seat_belt and height. Maximize the console. Brainstorm the following question:
 
-   <strong style="color: red;"> What is the difference between the data from the variables seat_belt and height? </strong>
+    <strong style="color: red;"> What is the difference between the data from the variables seat_belt and height?</strong>
 
 14. To Summarize: In data science, the variable seat_belt is what we call a **categorical variable**, and
 the variable height is what we call a **numerical variable**.

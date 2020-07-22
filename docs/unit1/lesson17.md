@@ -16,7 +16,8 @@ marginal frequency, joint frequency, conditional relative frequency
 ###**Lesson**
 1. **<u>Time Use Campaign Data Collection Responses:</u>**
 
-    100. Today is the last day to collect data for the Time Use Campaign. You will be using the Campaigns Tool to view your survey responses. Click on the Campaigns tool on your IDS Homepage and sign in if prompted.
+    100. Today is the last day to collect data for the Time Use Campaign. You will be using the Campaigns Tool to view your survey responses. Click on the Campaigns tool on your IDS Homepage, found at
+[https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org") and sign in if prompted.
 
     100. Find the Time Use Campaign and click on responses.
 

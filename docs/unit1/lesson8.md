@@ -20,7 +20,7 @@ data points, dotplot
 1. <u>**Food Habits Campaign Data Collection Monitoring:**</u>
 
     100. The IDS Campaign Monitoring Tool is found on your IDS Homepage.
-    Click on **Monitor** and sign in if prompted. Find the Food Habits Campaign and click on Monitor.
+    Click on **Monitor** and sign in if prompted. Once logged in, notice that you are redirected to the **Campaign Manager**. This happens so that you can select the campaign that you want to monitor. Find the Food Habits Campaign and click on Monitor.
     Note: If you haven't submitted any data, the page will be blank. 
     <strong style="color: blue;">Insert video of accessing and using Monitoring Tool here.</strong>
 

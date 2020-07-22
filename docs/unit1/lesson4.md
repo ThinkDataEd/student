@@ -102,8 +102,7 @@ show how common certain terms are throughout the United States when referring to
 
     <strong style="color: red;">Choose one of the graphics and come up with 2 questions that could be asked given the particular graphic you chose.</strong>
 
-12. <strong style="color: red;">Create a small Data Cycle graphic using ONE of your questions to turn
-    in for assessment (suggested size is 8.5”x11”). The cycle should be clearly labeled and
+12. <strong style="color: red;">One a regular piece of paper create a Data Cycle graphic using ONE of your questions from #11 to turn in. The cycle should be clearly labeled and
     have appropriate responses for each of the 4 components.</strong> Some examples have been provided below:
 
     <iframe src="https://drive.google.com/file/d/1RaQOl-ZMCfoMv-LQ3K1xRLKplIynUKsx/preview" width="640" height="480"></iframe>

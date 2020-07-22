@@ -24,8 +24,8 @@ data points, dotplot
     Click on **Monitor** and sign in if prompted. Once logged in, notice that you are redirected to the **Campaign Manager**. This happens so that you can select the campaign that you want to monitor. Find the Food Habits Campaign and click on Monitor.
     Note: If you haven't submitted any data, the page will be blank.
 
-    The video below will take you through the steps to access the campaign monitor.
-    <strong style="color: blue;">Insert video of accessing and using Monitoring Tool here.</strong>
+        The video below will take you through the steps for accessing and using the campaign monitor.
+        <strong style="color: blue;">Insert video of accessing and using Monitoring Tool here.</strong>
 
     100. Your teacher will be monitoring your class' data collection using the Campaign Monitoring Tool. You will have the opportunity to look at your own data collection with the Monitor Tool. Once the campaign collection window is over, and your teacher shares the class data, you will be able to see your class' progress.
 

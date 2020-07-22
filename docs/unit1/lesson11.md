@@ -25,7 +25,7 @@ Histograms that have similar shapes should be placed together in one of the six 
 
     **Note:** Open the document below using google slides and make a copy onto your google drive. Find View on the menu option, go to zoom and choose 50% to be able to view the 18 histograms that need to be sorted. 
 
-    <iframe src="https://drive.google.com/file/d/1S-ZWu003iZ_LmeMWMtlMEys0KRPm14CA/preview" width="640" height="480"></iframe>
+    <iframe src="https://drive.google.com/file/d/1S-ZWu003iZ_LmeMWMtlMEys0KRPm14CA/copy" width="640" height="480"></iframe>
 
 4. Once you have sorted the histograms into groups, answer the following questions in your DS journals:
 

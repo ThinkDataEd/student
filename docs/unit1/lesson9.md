@@ -15,24 +15,21 @@ typical, center, shape, spread
     point or the value that approximately cuts the area of the distribution in half.
 
 ###**Lesson**
-1. **<u>Food Habits Campaign Data Collection Monitoring:</u>**
+1. **<u>Food Habits Campaign Survey Responses:</u>**
 
-    100. The IDS Campaign Monitoring Tool is found on your IDS Homepage, found at
+    100. You will be using the **Campaigns Tool** to view your survey responses. The IDS **Campaigns Tool** is found on your IDS Homepage, found at
 [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org").
-    Click on **Monitor** and sign in if prompted. Once logged in, notice that you are redirected to the **Campaign Manager**. This happens so that you can select the campaign that you want to monitor. Find the Food Habits Campaign and click on Monitor. If you haven't submitted any data, the page will be blank.
-    
-    **Note:** To review how to access the Monitoring Tool, refer to the video in lesson 8 #1 a.
+    Click on **Campaigns** and sign in if prompted. Find the Food Habits Campaign and click on Responses. If you haven't submitted any data, the page will be blank. 
 
-    100. Your teacher will be monitoring the class data collection again today.
+    100. Click on the blue plus sign to expand the surveys you have submitted.
 
-        200. See *User List* and sort by *Total*. <strong style="color: red;">Who has collected the most data so far?</strong>
+        200. <strong style="color: red;">Do the values for the variables seem reasonable?</strong>
 
-        200. Click on the pie chart. <strong style="color: red;">How many active users are there? How many inactive
-        users are there?</strong>
-
-        200. See *Total Responses*. <strong style="color: red;">How many responses have been submitted?</strong>
+        200. <strong style="color: red;">Did you include any pictures of your snacks? If so, is there anything in the picture that can be connected back to you or someone you know?</strong>
         
-        200. <strong style="color: red;">What can you do to increase your data collection?</strong>
+        200. <strong style="color: red;">What can you do to increase your data collection?</strong> 
+
+        Note: If there is a survey that you want to delete, click the check box on the left-hand side of the survey, go to <i>Actions</i> and choose <i>Delete Selected</i> from the drop-down menu.
 
 2. Today you will be learning about a distribution’s **typical** value.
 

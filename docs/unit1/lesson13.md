@@ -21,7 +21,9 @@ data( ), View( ), names( ), help( ), dim( ), tally( ), load_labs( )
 1. The Dashboard and PlotApp are data visualization tools that are coded in R,
 the statistical programming software that academics and professional statisticians use. The
 Introduction to Data Science course will utilize RStudio, which also runs on R. You will learn the
-programming language of RStudio for data analysis.
+programming language of RStudio for data analysis. Watch the following video to learn RStudio Basics before moving on.
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/WkxCfaol3pE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 2. You can access RStudio by going to the URL: [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org") and
 then click on the RStudio icon on the page.
@@ -138,9 +140,14 @@ console. The output will appear either on the console itself or on the plot pane
 23. You will be completing the first lab, 1A, the next day of class.
 
 
-###<p style="background: black; color: white; text-align: center;">**Homework & Next 3 Days**</p>
+###<p style="background: black; color: white; text-align: center;">**Homework**</p>
 You should continue to collect nutritional facts data using the Food Habits Participatory Sensing
 campaign on your smart device or via web browser.
+
+###<p style="background: black; color: white; text-align: center;">**Lab Time**</p>
+It's time to begin learning how to do data analysis on RStudio! Before going on to the next lesson, you must complete Lab 1A, Lab 1B and Lab 1C using RStudio. The following video will show you how to log in to your RStudio account and how to complete Lab 1A.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v3qPfE4ruQA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [<u>***Lab 1A: Data, Code & RStudio***</u>](lab1a.md)
 

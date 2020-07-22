@@ -22,7 +22,9 @@ data points, dotplot
     100. The IDS Campaign Monitoring Tool is found on your IDS Homepage, found at
 [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org").
     Click on **Monitor** and sign in if prompted. Once logged in, notice that you are redirected to the **Campaign Manager**. This happens so that you can select the campaign that you want to monitor. Find the Food Habits Campaign and click on Monitor.
-    Note: If you haven't submitted any data, the page will be blank. 
+    Note: If you haven't submitted any data, the page will be blank.
+
+    The video below will take you through the steps to access the campaign monitor.
     <strong style="color: blue;">Insert video of accessing and using Monitoring Tool here.</strong>
 
     100. Your teacher will be monitoring your class' data collection using the Campaign Monitoring Tool. You will have the opportunity to look at your own data collection with the Monitor Tool. Once the campaign collection window is over, and your teacher shares the class data, you will be able to see your class' progress.
@@ -55,8 +57,7 @@ good as your ability to share it.”
 5. Find your nutrition facts labels or pictures, and your *Food Habits Data
 Collection* handout (from [lesson 6](lesson6.md)).
 
-6. We will create visuals using the nutrition labels collected by the stick figures. To create a visual, we begin by drawing the **x-axis**
-and **y-axis** to create the first quadrant of the coordinate plane.
+6. The Stick Figures (from lesson 2) have decided to create visuals using the nutrition labels. They started by drawing an x-axis and a y-axis to show the first quadrant of a coordinate plane.
 
 7. Next, the nutrition labels are placed where they belong on the coordinate plane.
 

@@ -2990,7 +2990,7 @@
                 
                 <h2 id="lesson-13-rstudio-basics"><strong><em><u>Lesson 13: RStudio Basics</u></em></strong></h2>
 <h3 id="objective"><strong>Objective</strong></h3>
-<p>You will learn RStudio’s interface, as well as a few basic commands to discover the structure behind
+<p>You will learn the RStudio interface, as well as a few basic commands to discover the structure behind
 a data set.</p>
 <h3 id="vocabulary"><strong>Vocabulary</strong></h3>
 <p>pane, preview, console, plot, environment</p>
@@ -2998,7 +2998,7 @@ a data set.</p>
 <p>data( ), View( ), names( ), help( ), dim( ), tally( ), load_labs( )</p>
 <h3 id="essential-concepts"><strong>Essential Concepts</strong></h3>
 <div class="admonition note">
-<p class="admonition-title">Essential Concepts:</p>
+<p class="admonition-title">Lesson 13 Essential Concepts</p>
 <p>The computer has a syntax, and it can only understand if you speak its language.</p>
 </div>
 <h3 id="lesson"><strong>Lesson:</strong></h3>
@@ -3006,19 +3006,19 @@ a data set.</p>
 <li>
 <p>The Dashboard and PlotApp are data visualization tools that are coded in R,
 the statistical programming software that academics and professional statisticians use. The
-Introduction to Data Science course will utilize RStudio, which also runs on R. You will learn the
+Introduction to Data Science course utilizes RStudio, which also runs on R. You will learn the
 programming language of RStudio for data analysis. Watch the following video to learn RStudio Basics before moving on.</p>
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/WkxCfaol3pE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 </li>
 <li>
-<p>You can access RStudio by going to the URL: <a href="https://tools.idsucla.org" title="https://tools.idsucla.org">https://tools.idsucla.org</a> and
+<p>You can access RStudio by going to the URL: <a href="https://tools.idsucla.org" title="https://tools.idsucla.org">https://tools.idsucla.org</a>,
 then click on the RStudio icon on the page.</p>
 </li>
 <li>
-<p>Your RStudio login is the same as your IDS App &amp; IDS Homepage login.</p>
+<p>Your RStudio login is the same as your IDS App and IDS Homepage login.</p>
 </li>
 <li>
-<p>Once logged in, notice each <strong>pane</strong>, or rectangular area, of the RStudio interface:</p>
+<p>Once logged in, notice each of the following <strong>panes</strong>, or rectangular areas, of the RStudio interface:</p>
 <ol>
 <li>
 <p><strong>preview</strong> (spreadsheet) - where you will be able to see the variables and observations
@@ -3037,22 +3037,23 @@ then click on the RStudio icon on the page.</p>
 </li>
 <li>
 <p>You will be looking at a data set from The Centers for Disease Control and
-Prevention (CDC), a government agency that collects data about teenagers on a variety of topics.</p>
+Prevention (CDC), a government agency that collects data on a broad range of topics, including issues concerning and about teenagers.</p>
 </li>
 <li>
 <p>You can load and view the CDC data file to the workspace by typing the following
-command in the console and then typing the Enter or Return key on your keyboard: <strong><u>Note:</u></strong> You will be taking notes in an RScript. On the menu tab, go to File, then click on New, then click on RScript. Type the commands below in your RScript and Run your commands. Refer back to the video to learn how to use an RScript.</p>
+command into the console, then typing the <strong>Enter</strong> or <strong>Return</strong> key on your keyboard. </p>
+<p><strong>Note:</strong> You will be taking notes in an RScript. On the <strong>Menu</strong> tab, go to <strong>File</strong> and click on <strong>New</strong>, then click on <strong>RScript</strong>. Type the commands below in your RScript and Run your commands. Refer back to the video to learn how to use an RScript.</p>
 <p><strong>&gt;data(cdc)</strong></p>
 <p><strong>&gt;View(cdc)</strong></p>
 </li>
 <li>
-<p>Examine the environment pane. <strong style="color: red;"> Describe how the data are displayed. </strong> </p>
+<p><strong style="color: red;"> Examine the environment pane and describe how the data are displayed. </strong> </p>
 </li>
 <li>
-<p><strong style="color: red;"> Since the data are displayed in rows and columns, where do you think you can find the variables in the CDC data set? </strong> Type the next command in the console:</p>
+<p><strong style="color: red;"> Since the data are displayed in rows and columns, where do you think you can find the variables in the CDC data set? </strong> </p>
 <ol>
 <li>
-<p><strong>&gt;names(cdc)</strong></p>
+<p>Type the following command in the console: <strong>&gt;names(cdc)</strong></p>
 </li>
 <li>
 <p><strong style="color: red;"> What do you notice? What is one variable of this data set? How many variables are
@@ -3061,11 +3062,10 @@ there? How does this output compare to the information in the preview pane?  </s
 </ol>
 </li>
 <li>
-<p>The previous command lists the names of each variable in this data set but there is a command that gives you more detailed information about the data set. Type the following
-command in the console:</p>
+<p>The previous command lists the names of each variable in this data set but there is a command that gives you more detailed information about the data set. </p>
 <ol>
 <li>
-<p><strong>&gt;help(cdc)</strong></p>
+<p>Type the following command in the console: <strong>&gt;help(cdc)</strong></p>
 </li>
 <li>
 <p><strong style="color: red;"> What unit of measurement is height reported in? </strong></p>
@@ -3073,10 +3073,10 @@ command in the console:</p>
 </ol>
 </li>
 <li>
-<p>You can also find the number of rows and columns in the data set. Type the following command in the console:</p>
+<p>You can also find the number of rows and columns in the data set. </p>
 <ol>
 <li>
-<p><strong>&gt;dim(cdc)</strong></p>
+<p>Type the following command in the console: <strong>&gt;dim(cdc)</strong></p>
 </li>
 <li>
 <p><strong style="color: red;"> Which number do you think represents the rows? Which one represents the
@@ -3090,17 +3090,17 @@ and there are 33 columns, or 33 variables. This information is also visible in t
 preview pane.</em></strong></span></p>
 </li>
 <li>
-<p>You can also access the number of observations of a specific variable. Type the following command to get the number of observations for seat belt wearers:</p>
+<p>You can also access the number of observations of a specific variable. </p>
 <ol>
 <li>
-<p><strong>&gt;tally(~seat_belt, data = cdc)</strong></p>
+<p>Type the following command to get the number of observations for seat belt wearers: <strong>&gt;tally(~seat_belt, data = cdc)</strong></p>
 </li>
 <li>
 <p><strong style="color: red;"> What do you notice? Describe the output. </strong> </p>
 </li>
 </ol>
 <p><span style="color:grey"><strong><em>Notice that six categories are
-displayed. Each category shows the number of observations contained in it. E.g,.
+displayed. Each category shows the number of observations contained in it. For example,
 “Never” has 326 observations, meaning 326 teens reported never wearing their
 seat belt as a passenger in a motor vehicle. &lt;NA&gt; = Not Available, represents teens
 that did not provide information about their seat belt habits.</em></strong></span></p>
@@ -3109,7 +3109,7 @@ that did not provide information about their seat belt habits.</em></strong></sp
 <p>Now change the variable to height:</p>
 <ol>
 <li>
-<p><strong>&gt;tally(~height, data = cdc)</strong></p>
+<p>Type the following command: <strong>&gt;tally(~height, data = cdc)</strong></p>
 </li>
 <li>
 <p><strong style="color: red;"> What do you notice? Describe the output. </strong> <span style="color:grey"><strong><em>The levels are missing. It happened
@@ -3118,15 +3118,16 @@ because the variable height contains numbers, not categories.</em></strong></spa
 </ol>
 </li>
 <li>
-<p>Let’s take a closer look at the variables seat_belt and height. Maximize the console. Brainstorm the following question:</p>
+<p>Let’s take a closer look at the variables <strong style="color: purple;">seat belt</strong> and <strong style="color: purple;">height</strong>. Maximize the console. Brainstorm the following question:</p>
 <p><strong style="color: red;"> What is the difference between the data from the variables seat_belt and height?</strong></p>
 </li>
 <li>
-<p>To Summarize: In data science, the variable seat_belt is what we call a <strong>categorical variable</strong>, and
-the variable height is what we call a <strong>numerical variable</strong>.</p>
+<p>To summarize: In data science, the variable <strong style="color: purple;">seat belt</strong> is what we call a <strong>categorical variable</strong>, and
+the variable <strong style="color: purple;">height</strong> is what we call a <strong>numerical variable</strong>.</p>
 </li>
 <li>
-<p>Let’s look at the other variables in this data set. <strong style="color: red;"> Categorize each variable as categorical
+<p>Let’s look at the other variables in this data set. </p>
+<p><strong style="color: red;"> Categorize each variable as categorical
 or numerical: </strong></p>
 <ol>
 <li>
@@ -3144,40 +3145,38 @@ or numerical: </strong></p>
 </ol>
 </li>
 <li>
-<p>You will be learning RStudio code to work with data and will be completing
-RStudio labs throughout the course.</p>
+<p>Throughout the IDS course you will be completing RStudio labs and learning RStudio code to work with data.</p>
 </li>
 <li>
-<p>You can load the menu of labs by typing the following code:</p>
-<p><strong>&gt;load_labs( )</strong></p>
+<p>You can load the menu of labs by typing the following code: <strong>&gt;load_labs( )</strong></p>
 </li>
 <li>
-<p>The load labs command displays a list of available labs and a selection prompt. To select Lab 1A,
-type number 1 after the selection prompt.</p>
+<p>The <strong>load labs</strong> command displays a list of available labs and a selection prompt. To select Lab 1A,
+type the number "1" after the selection prompt.</p>
 </li>
 <li>
-<p>Next, direct your attention to the plot pane. Notice the location of Lab 1A’s presentation. If you do not see it, click on Viewer or refresh the page.</p>
+<p>Next direct your attention to the plot pane, and notice the location of Lab 1A’s presentation. If you do not see it, click on <strong>Viewer</strong> or refresh the page.</p>
 </li>
 <li>
 <p>Click on the arrows at the bottom right-hand side of the presentation to view each slide. Pause on
-a slide titled “R’s most important syntax.” There are 3 boxes, each containing a line of code.</p>
+the slide titled “R’s most important syntax.” You should see 3 boxes, each containing a line of code.</p>
 </li>
 <li>
-<p>Every time you see a grey box with a line of code, you are to type the code in the
+<p>Every time you see a grey box with a line of code, you must type the code in the
 console. The output will appear either on the console itself or on the plot pane.</p>
 </li>
 <li>
-<p>Type in one of the lines of code. In this particular case, the output will be a plot. Notice that the location of the plot is in the same area of the slides but under the Plots tab. You can toggle between the plots and presentation tabs by clicking each tab.</p>
+<p>Type in one of the lines of code. In this particular case, the output will be a plot. Notice that the location of the plot is in the same area of the slides, but under the <strong>Plots</strong> tab. You can toggle between the <strong>Plots</strong> and <strong>Presentation</strong> tabs by clicking each tab.</p>
 </li>
 <li>
-<p>You will be completing the first lab, 1A, the next day of class.</p>
+<p>You will be completing the first lab, Lab 1A, tomorrow in class.</p>
 </li>
 </ol>
 <h3 id="homework"><p style="background: black; color: white; text-align: center;"><strong>Homework</strong></p></h3>
-<p>You should continue to collect nutritional facts data using the Food Habits Participatory Sensing
+<p>You should continue to collect nutritional facts data using the <em>Food Habits</em> Participatory Sensing
 campaign on your smart device or via web browser.</p>
 <h3 id="lab-time"><p style="background: black; color: white; text-align: center;"><strong>Lab Time</strong></p></h3>
-<p>It's time to begin learning how to do data analysis on RStudio! Before going on to the next lesson, you must complete Lab 1A, Lab 1B and Lab 1C using RStudio. The following video will show you how to log in to your RStudio account and how to complete Lab 1A.</p>
+<p>It's time to begin learning how to do data analysis on RStudio! Before going on to the next lesson, you must complete Lab 1A, Lab 1B, and Lab 1C using RStudio. The following video will show you how to log in to your RStudio account and complete Lab 1A.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v3qPfE4ruQA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p><a href="../lab1a/"><u><strong><em>Lab 1A: Data, Code &amp; RStudio</em></strong></u></a></p>

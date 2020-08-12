@@ -2,21 +2,21 @@
 
 ##**IDS_LMR_Unit 1_v_5.0**	
 
-[LMR_1.1_Data Diary.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.1_Data Diary.pdf)
+[LMR_1.1_Data Diary.pdf](https://drive.google.com/file/d/1Qtmky4H7zmOSZWCdME_6cDLF6zaNE9Gq/view?usp=sharing)
 
-[LMR_1.2_Stick Figures.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.2_Stick Figures.pdf)
+[LMR_1.2_Stick Figures.pdf](https://drive.google.com/file/d/1KY6z50gTZNOXo2cE6buhLzHfU_Qai5rk/view?usp=sharing)
 
-[LMR_1.3_Data Cycle.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.3_Data Cycle.pdf)
+[LMR_1.3_Data Cycle.pdf](https://drive.google.com/file/d/1MBI-PW-sLTkfhxyOZWygN9lz3OXcmLQa/view?usp=sharing)
 
-[LMR_1.4_Data Cycle Spinners.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.4_Data Cycle Spinners.pdf)
+[LMR_1.4_Data Cycle Spinners.pdf](https://drive.google.com/file/d/1s3DsKNXM-n2zA1UsdpzzlighcFJvg8jb/view?usp=sharing)
 
-[LMR_1.5_Bros & Dudes Graphics.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.5_Bros & Dudes Graphics.pdf)
+[LMR_1.5_Bros & Dudes Graphics.pdf](https://drive.google.com/file/d/1DbiCdbynvD3VSoLNlzEkp9I2mwMOAzjN/view?usp=sharing)
 
-[LMR_1.6_Statistical Questions Scenarios.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.6_Statistical Questions Scenarios.pdf)
+[LMR_1.6_Statistical Questions Scenarios.pdf](https://drive.google.com/file/d/1H-f_aXAOf_EsdXSF3EGpHS6XkIRCBrXr/view?usp=sharing)
 
-[LMR_1.7_Nutrition Facts Cutouts.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.7_Nutrition Facts Cutouts.pdf)
+[LMR_1.7_Nutrition Facts Cutouts.pdf](https://drive.google.com/file/d/15_zPkI0GnQ16faEr4Nb0umqboekP7gLO/view?usp=sharing)
 
-[LMR_1.8_Food Habits Data Collection.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.8_Food Habits Data Collection.pdf)
+[LMR_1.8_Food Habits Data Collection.pdf](https://drive.google.com/file/d/1rnrjc3_0y5N07oCUhnagujKttSYUjQRe/view?usp=sharing)
 
 [LMR_1.9_Tangible Plot.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.9_Tangible Plot.pdf)
 

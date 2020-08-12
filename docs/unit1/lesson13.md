@@ -1,7 +1,7 @@
 ##***<u>Lesson 13: RStudio Basics</u>***
 
 ###**Objective**
-You will learn RStudio’s interface, as well as a few basic commands to discover the structure behind
+You will learn the RStudio interface, as well as a few basic commands to discover the structure behind
 a data set.
 
 
@@ -13,24 +13,24 @@ data( ), View( ), names( ), help( ), dim( ), tally( ), load_labs( )
 
 ###**Essential Concepts**
 
-!!! note "Essential Concepts:"
+!!! note "Lesson 13 Essential Concepts"
     The computer has a syntax, and it can only understand if you speak its language.
     
 
 ###**Lesson:**
 1. The Dashboard and PlotApp are data visualization tools that are coded in R,
 the statistical programming software that academics and professional statisticians use. The
-Introduction to Data Science course will utilize RStudio, which also runs on R. You will learn the
+Introduction to Data Science course utilizes RStudio, which also runs on R. You will learn the
 programming language of RStudio for data analysis. Watch the following video to learn RStudio Basics before moving on.
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/WkxCfaol3pE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-2. You can access RStudio by going to the URL: [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org") and
+2. You can access RStudio by going to the URL: [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org"),
 then click on the RStudio icon on the page.
 
-3. Your RStudio login is the same as your IDS App & IDS Homepage login.
+3. Your RStudio login is the same as your IDS App and IDS Homepage login.
 
-4. Once logged in, notice each **pane**, or rectangular area, of the RStudio interface:
+4. Once logged in, notice each of the following **panes**, or rectangular areas, of the RStudio interface:
 
     100. **preview** (spreadsheet) - where you will be able to see the variables and observations
     (index); rows and columns of data
@@ -42,34 +42,35 @@ then click on the RStudio icon on the page.
     100. **environment** - where you will see values and objects
 
 5. You will be looking at a data set from The Centers for Disease Control and
-Prevention (CDC), a government agency that collects data about teenagers on a variety of topics.
+Prevention (CDC), a government agency that collects data on a broad range of topics, including issues concerning and about teenagers.
 
 6. You can load and view the CDC data file to the workspace by typing the following
-command in the console and then typing the Enter or Return key on your keyboard: **<u>Note:</u>** You will be taking notes in an RScript. On the menu tab, go to File, then click on New, then click on RScript. Type the commands below in your RScript and Run your commands. Refer back to the video to learn how to use an RScript.
+command into the console, then typing the **Enter** or **Return** key on your keyboard. 
+
+    **Note:** You will be taking notes in an RScript. On the **Menu** tab, go to **File** and click on **New**, then click on **RScript**. Type the commands below in your RScript and Run your commands. Refer back to the video to learn how to use an RScript.
 
     **>data(cdc)**
 
     **>View(cdc)**
 
-7. Examine the environment pane. <strong style="color: red;"> Describe how the data are displayed. </strong> 
+7. <strong style="color: red;"> Examine the environment pane and describe how the data are displayed. </strong> 
 
-8. <strong style="color: red;"> Since the data are displayed in rows and columns, where do you think you can find the variables in the CDC data set? </strong> Type the next command in the console:
-
-    100. **>names(cdc)**
+8. <strong style="color: red;"> Since the data are displayed in rows and columns, where do you think you can find the variables in the CDC data set? </strong> 
+    
+    100. Type the following command in the console: **>names(cdc)**
 
     100. <strong style="color: red;"> What do you notice? What is one variable of this data set? How many variables are
     there? How does this output compare to the information in the preview pane?  </strong>
 
-9. The previous command lists the names of each variable in this data set but there is a command that gives you more detailed information about the data set. Type the following
-command in the console:
+9. The previous command lists the names of each variable in this data set, but there is a command that gives you more detailed information about the data set. 
 
-    100. **>help(cdc)**
+    100. Type the following command in the console: **>help(cdc)**
 
     100. <strong style="color: red;"> What unit of measurement is height reported in? </strong>
 
-10. You can also find the number of rows and columns in the data set. Type the following command in the console:
-
-    100. **>dim(cdc)**
+10. You can also find the number of rows and columns in the data set. 
+    
+    100. Type the following command in the console: **>dim(cdc)**
 
     100. <strong style="color: red;"> Which number do you think represents the rows? Which one represents the
     columns? How does this output compare to the information in the preview and
@@ -80,33 +81,35 @@ command in the console:
     and there are 33 columns, or 33 variables. This information is also visible in the
     preview pane.***</span>
 
-11. You can also access the number of observations of a specific variable. Type the following command to get the number of observations for seat belt wearers:
+11. You can also access the number of observations of a specific variable. 
 
-    100. **>tally(~seat_belt, data = cdc)**
+    100. Type the following command to get the number of observations for seat belt wearers: **>tally(~seat_belt, data = cdc)**
 
     100. <strong style="color: red;"> What do you notice? Describe the output. </strong> 
     
     <span style="color:grey">***Notice that six categories are
-    displayed. Each category shows the number of observations contained in it. E.g,.
+    displayed. Each category shows the number of observations contained in it. For example,
     “Never” has 326 observations, meaning 326 teens reported never wearing their
     seat belt as a passenger in a motor vehicle. &lt;NA> = Not Available, represents teens
     that did not provide information about their seat belt habits.***</span>
 
 12. Now change the variable to height:
 
-    100. **>tally(~height, data = cdc)**
+    100. Type the following command: **>tally(~height, data = cdc)**
 
     100. <strong style="color: red;"> What do you notice? Describe the output. </strong> <span style="color:grey">***The levels are missing. It happened
     because the variable height contains numbers, not categories.***</span>
 
-13. Let’s take a closer look at the variables seat_belt and height. Maximize the console. Brainstorm the following question:
+13. Let’s take a closer look at the variables <strong style="color: purple;">seat belt</strong> and <strong style="color: purple;">height</strong>. Maximize the console. Brainstorm the following question:
 
     <strong style="color: red;"> What is the difference between the data from the variables seat_belt and height?</strong>
 
-14. To Summarize: In data science, the variable seat_belt is what we call a **categorical variable**, and
-the variable height is what we call a **numerical variable**.
+14. To summarize: In data science, the variable <strong style="color: purple;">seat belt</strong> is what we call a **categorical variable**, and
+the variable <strong style="color: purple;">height</strong> is what we call a **numerical variable**.
 
-15. Let’s look at the other variables in this data set. <strong style="color: red;"> Categorize each variable as categorical
+15. Let’s look at the other variables in this data set. 
+
+    <strong style="color: red;"> Categorize each variable as categorical
 or numerical: </strong>
 
     100. <strong style="color: red;"> eat_fruit </strong>
@@ -117,35 +120,32 @@ or numerical: </strong>
 
     100. <strong style="color: red;"> gender </strong>
 
-16. You will be learning RStudio code to work with data and will be completing
-RStudio labs throughout the course.
+16. Throughout the IDS course you will be completing RStudio labs and learning RStudio code to work with data.
 
-17. You can load the menu of labs by typing the following code:
+17. You can load the menu of labs by typing the following code: **>load_labs( )**
 
-    **>load_labs( )**
+18. The **load labs** command displays a list of available labs and a selection prompt. To select Lab 1A,
+type the number "1" after the selection prompt.
 
-18. The load labs command displays a list of available labs and a selection prompt. To select Lab 1A,
-type number 1 after the selection prompt.
-
-19. Next, direct your attention to the plot pane. Notice the location of Lab 1A’s presentation. If you do not see it, click on Viewer or refresh the page.
+19. Next direct your attention to the plot pane, and notice the location of Lab 1A’s presentation. If you do not see it, click on **Viewer** or refresh the page.
 
 20. Click on the arrows at the bottom right-hand side of the presentation to view each slide. Pause on
-a slide titled “R’s most important syntax.” There are 3 boxes, each containing a line of code.
+the slide titled “R’s most important syntax.” You should see 3 boxes, each containing a line of code.
 
-21. Every time you see a grey box with a line of code, you are to type the code in the
+21. Every time you see a grey box with a line of code, you must type the code in the
 console. The output will appear either on the console itself or on the plot pane.
 
-22. Type in one of the lines of code. In this particular case, the output will be a plot. Notice that the location of the plot is in the same area of the slides but under the Plots tab. You can toggle between the plots and presentation tabs by clicking each tab.
+22. Type in one of the lines of code. In this particular case, the output will be a plot. Notice that the location of the plot is in the same area of the slides, but under the **Plots** tab. You can toggle between the **Plots** and **Presentation** tabs by clicking each tab.
 
-23. You will be completing the first lab, 1A, the next day of class.
+23. You will be completing the first lab, Lab 1A, tomorrow in class.
 
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-You should continue to collect nutritional facts data using the Food Habits Participatory Sensing
+You should continue to collect nutritional facts data using the *Food Habits* Participatory Sensing
 campaign on your smart device or via web browser.
 
 ###<p style="background: black; color: white; text-align: center;">**Lab Time**</p>
-It's time to begin learning how to do data analysis on RStudio! Before going on to the next lesson, you must complete Lab 1A, Lab 1B and Lab 1C using RStudio. The following video will show you how to log in to your RStudio account and how to complete Lab 1A.
+It's time to begin learning how to do data analysis on RStudio! Before going on to the next lesson, you must complete Lab 1A, Lab 1B, and Lab 1C using RStudio. The following video will show you how to log in to your RStudio account and complete Lab 1A.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v3qPfE4ruQA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

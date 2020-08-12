@@ -1,21 +1,17 @@
 ##***<u>Lab 1A - Data, Code & RStudio</u>***
-Directions: Follow along with the slides and answer the questions in **bold** font in your journal.
+Directions: Follow along with the slides and answer the questions in **bold** in your journal.
 
 ###**Welcome to the labs!**
 
 * Throughout the year, you'll be putting your data science skills to work by completing the labs.
 
-* You'll learn how to program in the ```R``` programming language.
+* You'll learn how to program in ```R```, the programming language used by actual data scientists.
 
-    – The programming language used by actual data scientists.
-
-* Your code will be written in RStudio which is an easy to use interface for coding using ```R```.
+* Your code will be written in RStudio, which is an easy-to-use interface for coding using ```R```.
 
 ###**So let's get started!**
 
-* The data for our first few labs comes from the Centers for Disease Control (CDC).
-
-    – The CDC is a federal institution that studies public health.
+* The data for our first few labs comes from the Centers for Disease Control and Prevention (CDC), a federal institution that studies public health.
 
 * Type these two commands into the your console:
 
@@ -25,11 +21,11 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
 * **Describe the data that appeared after running ```View(cdc)```:**
 
-    – ***Who* is the information about?**
+    – **Who is the information about?**
 
     – **What sorts of information about them was collected?**
 
-###**Data: Variables & Observations**
+###**Data: Variables & observations**
 
 * Data can be broken up into two parts.
 

@@ -242,6 +242,6 @@
   </tr>
 </table>
 
-^=Data collection window begins.
+^ Data collection window begins.
 
-+=Data collection window ends.
++ Data collection window ends.

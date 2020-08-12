@@ -1,30 +1,29 @@
 #Scope and Sequence
 
-##**<u>Unit 1</u>**
-This unit will introduce the idea of “data,” fundamental to the rest of the course. While most people think
+##**Unit 1**
+This unit will introduce the idea of “data,” which is fundamental to the rest of the course. While most people think
 of data simply as a spreadsheet or a table of numbers, almost anything can be considered data, including
 images, text, GPS coordinates, and much more. Our world has become increasingly data-centric, and we
-are constantly generating data, whether we know it or not. From posts on Facebook, to shopping records
-created when you swipe your credit card, to driving over sensors embedded in highway on-ramps, we
+are constantly generating data whether we know it or not. From posts on Facebook to shopping records
+created when you swipe your credit card to driving over sensors embedded in highway on-ramps, we
 leave behind a stream of data wherever we go. These data are used to generate stories about our world,
 whether it is for political forecasting, marketing, scientific research, or even Netflix recommendations.
 Traditional statistics courses consist of understanding data from only a small subset of data generation
 processes, namely those collected through random sampling or random assignment in scientific
-experiments. This unit exposes students to a wider world of data, and will help students see how to make
-sense of these ubiquitous data types.
+experiments. This unit will show you a wider world of data, and will help you see how to make
+sense of these data types that are everywhere.
 
-This unit will motivate the idea that data and data products (charts, graphs, statistics) can be analyzed
+This unit will show you that data and data products (charts, graphs, statistics) can be analyzed
 and evaluated just like other arguments, such as those used by journalists. We want to know how the
 evidence was collected, what the perspective or bias of the creator might be, and look behind the scenes
 to the process used to create the product. Even the way data are represented embeds within it decisions
 on the part of the data creator.
 
-Using the techniques of descriptive statistics, students will begin learning how to construct multiple views
-of data in an attempt to uncover new insights about the world. This will require the introduction of the
-computational tool R through the interface of RStudio. Standard graphical displays like histograms and
-scatterplots will be introduced in RStudio, as well as measures of center and spread.
+Using the techniques of descriptive statistics, you will begin learning how to construct multiple views
+of data in an attempt to uncover new insights about the world. To do this, you will use the **R**
+computational tool through an interface called RStudio. In RStudio you will explore standard graphical displays like histograms and scatterplots, as well as measures of center and spread.
 
-###**<u>Focus Statistics CCSS-M</u>**
+###**Focus Statistics CCSS-M**
 S-ID 1. Represent data with plots on the real number line (dotplots, histograms, and boxplots).
 
 S-ID 2: Use statistics appropriate to the shape of the data distribution to compare center (median,

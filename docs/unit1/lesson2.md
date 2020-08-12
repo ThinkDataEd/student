@@ -8,7 +8,7 @@ collect, record, organize, representations, variables
 
 ###**Essential Concepts**
 
-!!! note "Essential Concepts:"
+!!! note "Lesson 2 Essential Concepts"
     Data consist of records of particular characteristics of people or objects. Data can
     be organized in many different ways, and some ways make it easier than others for achieving particular
     purposes.
@@ -32,16 +32,16 @@ of people who appear to be completely two-dimensional. Your goal is to **record*
 information as possible about these people, and then **organize** the information in any way you
 choose.
 
-3. Meet the *Stick Figures* ([LMR_1.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.2_Stick Figures.pdf))
+3. Meet the Stick Figures (Click here to access this document and download a copy: [LMR_1.2](https://docs.google.com/document/d/1S8LDPiSP0YdwRzwy4dPszzMQoyLwY9BewXqWcVs5GqY/copy?usp=sharing)):
    
-     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.2_Stick Figures.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.2_Stick Figures.pdf)</div>
+     <div align="center"><iframe src="https://drive.google.com/file/d/1KY6z50gTZNOXo2cE6buhLzHfU_Qai5rk/preview" width="640" height="480"></iframe><br>[LMR_1.2](https://docs.google.com/document/d/1S8LDPiSP0YdwRzwy4dPszzMQoyLwY9BewXqWcVs5GqY/copy?usp=sharing)</div>
 
 
-4. <strong style="color: red;">Select one of the stick figures and record all possible information.</strong>
+4. <strong style="color: red;">Select one of the Stick Figures and record all possible information about that Stick Figure.</strong>
 
-5. <strong style="color: red;">Organize the data from all 8 stick figures into a visual that you think represents the data.</strong>
+5. <strong style="color: red;">Organize the data from all 8 Stick Figures into a visual that you think represents the data.</strong>
 
-6. The images below are representations of the Stick Figures' Data created by previous IDS students:<iframe src="https://drive.google.com/file/d/1a3xup47akWvHuXnCLvpkf3A4aIRGpJ2I/preview" width="640" height="480"></iframe>
+6. The images below are **representations** of the Stick Figures' data created by previous IDS students:<iframe src="https://drive.google.com/file/d/1ewr8UZ04CNXjKl7FEnpT_q3hu1ho6xy1/preview" width="640" height="480"></iframe></iframe>
 
 7. As you look at the representations:
 
@@ -51,19 +51,19 @@ choose.
     100. <strong style="color: red;">Describe some differences among the team posters and your visualization. How were the data organized
     differently across the visualizations?</strong>
  
-    100. <strong style="color: red;">What information was available about the stick figures on each card?</strong>
+    100. <strong style="color: red;">What information was available about the Stick Figures on each card?</strong>
 
     100. <strong style="color: red;">Which representations made it easy to see what (or who) the objects were that were
-    observed? Which representations made it easy to see whether different stick figures had
+    observed? Which representations made it easy to see whether different Stick Figures had
     different characteristics?</strong>
 
-    100. <strong style="color: red;">Which representation makes it easiest to see which stick figure is tallest?</strong>
+    100. <strong style="color: red;">Which representation makes it easiest to see which Stick Figure is tallest?</strong>
 
-    100. <strong style="color: red;">If you were handed a blank stick figure and knew only the person's name, could you fill in
+    100. <strong style="color: red;">If you were handed a blank Stick Figure and knew only the person's name, could you fill in
     the rest of the information?</strong>
 
-8. The general categories of information, such as a person’s height, are
+8. The general categories of information about a person or thing, such as a person’s height, are
 called **variables**. Variables are simply characteristics of an object or person. As statisticians, we
 use variable names to organize data into a simplified form so that a computer can read them.
-This will be discussed further in Lesson 3.
+This will be discussed further in [Lesson 3](lesson3.md).
 

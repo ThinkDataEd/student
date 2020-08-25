@@ -18,9 +18,7 @@ bias
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: "
-    In the short-term, actual outcomes of chance experiments vary from what is 'ideal.'
-    An ideal die has equally likely outcomes. But that does not mean we will see exactly the same number of
-    one-dots, two-dots, etc.
+    In the short-term, actual outcomes of chance experiments vary from what is considered ideal. For example, an ideal die has equally likely outcomes, but that does not mean we will see exactly the same number of one dots, two dots, etc.
 
 ###**Lesson:**
 

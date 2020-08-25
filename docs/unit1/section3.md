@@ -1,4 +1,4 @@
-#Unit1, Section3: Would You Look at the Time! 
+#Unit 1, Section 3: Would You Look at the Time! 
 Instructional Days: 9
 
 ##<p style="background: black; color: white; text-align: center;">**Enduring Understandings**</p>
@@ -44,26 +44,26 @@ Make claims that are based on data and begin to evaluate reports that make claim
 
 ##<p style="background: black; color: white; text-align: center;">**Language Objectives**</p>
 
-1. Students will use complex sentences to construct summary statements about their understanding
+1. You will use complex sentences to construct summary statements about your understanding
 of data, how it is collected, how it is used, and how to work with it.
 
-2. Students will engage in partner and whole group discussions and presentations to express their
+2. You will engage in partner and whole group discussions and presentations to express your
 understanding of data science concepts.
 
-3. Students will use complex sentences to write informative short reports that use data science
+3. You will use complex sentences to write informative short reports that use data science
 concepts and skills.
 
-4. Students will read informative texts to evaluate claims based on data.
+4. You will read informative texts to evaluate claims based on data.
 
 ##<p style="background: black; color: white; text-align: center;">**Data File or Data Collection Method**</p>
 *<u>Data Collection Method:</u>*
 
-**Time-Use Participatory Campaign:** Students will monitor the amount of time they devote to activities
+**Time-Use Participatory Campaign:** You will monitor the amount of time you devote to activities
 such as sleeping, studying, eating, and partaking in media.
 
 *<u>Data Files:</u>*
 
-1. Students’ *Time-Use* campaign data
+1. Your *Time-Use* campaign data
 
 2. American Time-Use Survey (ATUS) data
 

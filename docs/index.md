@@ -66,11 +66,11 @@ Learning". Lead Principal Investigator: Robert Gould (UCLA, Statistics).
 Co-Principal Investigators: Deborah Estrin (UCLA, CENS), Joanna Goode (University of Oregon), Mark
 Hansen (UCLA, Statistics), Jane Margolis (UCLA, Center X), Thomas Philip (UCLA, Center X), Jody
 Priselac (UCLA, GSEIS), Derrick Chau (LAUSD), Gerardo Loera (LAUSD) and Todd Ullah (LAUSD);
-Mobilize Project Director: LeeAnn Trusela
+Mobilize Project Director: LeeAnn Trusela; IDS Project Coordinator: Brendan Chang
 
 ### <u>LAUSD IDS Pilot Teachers</u>
 
-Robert Montgomery, Carole Sailer, Joy Lee, Monica Casillas, Roberta Ross, Velia Valle, Jose Guzman, Pamela Amaya, Arlene Pascua, Christopher Marangopoulos
+Robert Montgomery, Carole Sailer, Joy Lee, Monica Casillas, Roberta Ross, Velia Valle, Jose Guzman, Pamela Amaya, Arlene Pascua, Chris Marangopoulos
 
 *This material is based upon work supported by the National Science Foundation under Grant Number
 0962919.*
@@ -91,24 +91,22 @@ National Science Foundation to develop barrier-breaking curriculum in science, m
 and computer science to teach students to think creatively, constructively, and critically about
 the role of data in science and in everyday life. The Mobilize curricula center around
 Participatory Sensing campaigns, through which students use their mobile devices to collect
-and share data about their community and their lives, and analyze these data to gain a greater
+and share data about their community and their lives, and to analyze these data to gain a greater
 understanding about their world. Mobilize broke barriers by teaching students to apply concepts
 and practices from computer science and statistics to learning science and mathematics, and it
 was uniquely dynamic in that each Mobilize class collects its own data, and each class has the
 opportunity to make unique discoveries. Across all Mobilize curricula, mobile devices are used
 not as gimmicks to capture students' attention, but as legitimate tools that bring scientific
-enquiry into their everyday lives. <span style="color:grey">Since 2011, LAUSD high school mathematics, science, and
+inquiry into their everyday lives. Since 2011, LAUSD high school mathematics, science, and
 computer science teachers have attended the summer institutes designed by the Mobilize grant
 to learn to use the participatory sensing (PS) methods, tools, and materials to deepen their
 knowledge of computer science (CS) concepts and to support student CS, math, and science
-learning.</span>
+learning.
 
 First implemented in 2014 under the auspices of the Mobilize grant, Introduction to Data
 Science (IDS) began as a pilot program with 10 LAUSD mathematics teachers, and by the 5<sup>th</sup>
-printing of the curriculum in 2018 has expanded to 30+ schools in seven Southern California
-public school districts, serving over 4,000 students and counting. In addition to addressing the
-<span style="color:grey">Common Core State Standards (CCSS) for High School Statistics and Probability IDS leads
-students to:</span>
+printing of the curriculum in 2018, IDS has expanded to 30+ schools in seven Southern California
+public school districts, serving over 4,000 students and counting. In addition to addressing the Common Core State Standards (CCSS) for High School Statistics and Probability IDS leads students to:</span>
 
 * understand how data are used by professionals to address real-world problems;
 

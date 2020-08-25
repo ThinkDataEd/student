@@ -17,8 +17,7 @@ rectangular format.
 
 ###**<u>[Lesson 4: The Data Cycle](lesson4.md)</u>**
 A statistical investigation consists of cycling through the four stages of the Data Cycle. Statistical
-questions (the Ask Questions phase of the Data Cycle) are questions that address variability and are productive in that they motivate data
-collection, analysis, and interpretation. The Data Collection phase might consist of collecting data
+questions (the Ask Questions phase of the Data Cycle) are questions that address variability and are productive in that they motivate data collection, analysis, and interpretation. The Data Collection phase might consist of collecting data
 through Participatory Sensing or some other means, or it might consist of examining previously
 collected data to determine the quality of the data for answering the statistical questions. Data
 Analysis is almost always done on the computer and consists of creating relevant graphics and

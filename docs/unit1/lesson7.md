@@ -114,6 +114,10 @@ submitting surveys regularly.
     <strong style="color: red;"> Now that you've had the opportunity to collect and record data for the *Food Habits* campaign, what are some predictions you have about possible responses to your 2 simple statistical questions and 2 complex statistical questions? </strong>
 
 
+###**Reflection**
+<strong style="color: red;">What are the essential learnings you are taking away from this lesson?</strong>
+
+
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
 For the next 9 days, you will collect nutritional facts data using the *Food Habits* Participatory
 Sensing campaign on your smart device or via web browser.

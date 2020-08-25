@@ -17,11 +17,10 @@ typical, center, shape, spread
 ###**Lesson**
 1. **<u>Food Habits Campaign Survey Responses:</u>**
 
-    100. You will be using the **Campaigns Tool** to view your survey responses. The IDS **Campaigns Tool** is found on your IDS Homepage, found at
-[https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org").
+    100. You will be using the Campaigns Tool to view your survey responses. The IDS Campaigns Tool is found on your IDS Homepage: [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org").
     Click on **Campaigns** and sign in if prompted. Find the *Food Habits* campaign and click on **Responses**. If you haven't submitted any data, the page will be blank. 
 
-    100. Click on the blue plus sign to expand the surveys you have submitted.
+    100. Click on the blue plus sign (<strong style="color: blue;">+</strong>) to expand the surveys you have submitted.
 
         200. <strong style="color: red;">Do the values for the variables seem reasonable?</strong>
 
@@ -29,28 +28,28 @@ typical, center, shape, spread
         
         200. <strong style="color: red;">What can you do to increase your data collection?</strong> 
 
-        **Note**: If there is a survey that you want to delete, click the check box on the left-hand side of the survey, go to <i>Actions</i>, and choose <i>Delete Selected</i> from the drop-down menu.
+        **Note**: If there is a survey that you want to delete, click the check box on the left-hand side of the survey, go to **Actions**, and choose **Delete Selected** from the drop-down menu.
 
 2. Today you will be learning about a distribution’s **typical** value.
 
-3. Brainstorm characteristics of the "typical" student. 
+3. <strong style="color: red;">If someone asked you about a typical student at your school, how would you describe them?</strong>
 
-    <strong style="color: red;">Does the typical 12th grader
-differ from the typical 9th grader? How so?</strong>
-
-4. <strong style="color: red;">Write down synonyms for the word “typical” in your Data Science Journal.</strong>
+4. <strong style="color: red;">Write down synonyms for the word “typical” in your IDS Journal.</strong>
 
 5. Below is a bubble map with synonyms that the Stick Figures brainstormed for "typical". 
     
-    <strong style="color: red;">Using these synonyms and the ones you brainstormed in #3 above, indicate which terms apply best to categorical variables and which terms apply 
-best to numerical variables.</strong>
 
+    <strong style="color: red;">Using these synonyms and the ones you brainstormed in #4 above, indicate which terms apply best to categorical variables and which terms apply best to numerical variables.</strong>
+
+
+    
     <iframe src="https://drive.google.com/file/d/1NvdEolLBRZrwmcThWB6A3Dpo-MffmRYh/preview" width="640" height="480"></iframe>
 
 
 6. Consider the dotplot of the distribution of calories from [Lesson 8](lesson8.md).
 
-    <iframe src="https://drive.google.com/file/d/13tlfZDbiUCQ_caqAqhgpHWVFo_CWVc1S/preview" width="640" height="480"></iframe>
+    
+    <iframe src="https://drive.google.com/file/d/1scD86vy1DasNBqhrG3TRl8pnLblKlmWS/preview" width="640" height="480"></iframe>
 
     100. <strong style="color: red;">What value might you consider to be the typical value of this distribution? Why?</strong>
 
@@ -62,7 +61,7 @@ best to numerical variables.</strong>
 
         200. Overall range of the data.
 
-7. Now that you've been provided with some hints as to how to estimate the typical value of a distribution, reconsider the typical number of calories in the dotplot that you reported in 6a. <strong style="color: red;">Do you still feel that what you reported is the typical number or calories in the Stick Figures' snacks? Why or why not?</strong>
+7. Now that you've been provided with some hints for how to estimate the typical value of a distribution, reconsider the typical number of calories in the dotplot that you reported in 6a. <strong style="color: red;">Do you still feel that what you reported is the typical number or calories in the Stick Figures' snacks? Why or why not?</strong>
 
 8. Another synonym for the term "typical" is **center**. Center, however, is useful for numerical variables. For example, the typical number of calories in the Stick Figures' snacks is centered around 100 calories.
 
@@ -89,7 +88,7 @@ as the **spread**).
 variability? Why or why not?</strong> 
 
     
-    <iframe src="https://drive.google.com/file/d/1PsvaeF1kxItVithSd1O-R8yNrjbu4TeH/preview" width="640" height="480"></iframe>
+    <iframe src="https://drive.google.com/file/d/18IKIfzGvKGEpPuLXXhdHpmalKnIyMbzK/preview" width="640" height="480"></iframe>
 
 
 13. If you were to ask the same group of high school students to write down the number of hours they plan to sleep on a Saturday...
@@ -98,7 +97,7 @@ variability? Why or why not?</strong>
 and spread of the distributions.</strong>
 
 ###**Reflection**
-<strong style="color: red;"> Write a paragraph summarizing the most important things you learned in the last 3 lessons. </strong>
+<strong style="color: red;">What are the essential learnings you are taking away from this lesson?</strong> 
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
 Continue to collect nutritional facts data using the *Food Habits* Participatory Sensing

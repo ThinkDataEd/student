@@ -75,7 +75,7 @@ differences in the variables collected and the data structure used.
 10. In the next lesson you will begin collecting and recording data. To be prepared for this, make sure to have your mobile device or other device with an internet browser or app capability.
 
 ###**Reflection**
-<strong style="color: red;"> Write a paragraph summarizing the most important things you learned in the last 3 lessons. </strong>
+<strong style="color: red;">What are the essential learnings you are taking away from this lesson?</strong> 
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
 Examine the data in your *Food Habits Data Collection* handout ([LMR_1.8](https://docs.google.com/document/d/12ot_oa3WTyocwan3-maFAYKNgkHLrk9_58yj-SSBVgI/copy?usp=sharing)) and

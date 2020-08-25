@@ -76,4 +76,4 @@ of the table should represent one person on a card.</strong>
 13. In the table you created, the values for each variable vary, or change, depending on which person we are observing.  For example, the values for the variable GPA are not the same for all of the Stick Figures.  This shows that the data has a lot of **variability** for the variable GPA. The first step in any investigation is to notice variability.
 
 ###**Reflection**
-<strong style="color: red;"> Write a paragraph summarizing the most important things you learned in the last 3 lessons. </strong>
+<strong style="color: red;">What are the essential learnings you are taking away from this lesson?</strong>

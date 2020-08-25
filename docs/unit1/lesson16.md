@@ -28,7 +28,7 @@ two-way frequency table, joint relative frequency
 
 3. <strong style="color: red;">Based on the questions that you came up with for #2, what could be the variables that Rosa collected information about? For example, if "owns a cat" is a variable, what value or number of students represents that variable? What were the values of the other variables?</strong>
 
-4. <strong style="color: red;">In your Data Science Journal, summarize Rosa’s findings in one table. Your last row and your last column should show totals that add each row across and each column down. Make sure that you add the totals in each row and the totals in each column. Totals from each row and totals from each column should add up to 35. Use your knowledge of data structures from [Lesson 2](lesson2.md), especially organizing in rows
+4. <strong style="color: red;">In your IDS Journal, summarize Rosa’s findings in one table. Your last row and your last column should show totals that add each row across and each column down. Make sure that you add the totals in each row and the totals in each column. Totals from each row and totals from each column should add up to 35. Use your knowledge of data structures from [Lesson 2](lesson2.md), especially organizing in rows
 and columns.</strong>
 
 5. In this lesson you will be looking at associations in categorical variables. Recall from [Lesson 3](lesson3.md) that categorical variables represent values that have words.
@@ -42,7 +42,7 @@ data Rosa collected from the students in her art class. Compare your table to th
 
     **Cat Ownership and Instruments**
 
-    <iframe src="https://drive.google.com/file/d/1hlUvC7z0rJieGqn1pvU2rg-rTwGlD-Up/preview" width="640" height="480"></iframe>
+    <iframe src="https://drive.google.com/file/d/1fFY6eOnIfDYtZpYtOQSfFuW6Uqwj_Bfa/preview" width="640" height="480"></iframe>
 
 7. <strong style="color: red;">Based on the Cat Ownership and Instruments table, generate a couple of questions that
 can be asked and answered by the data.</strong>
@@ -59,10 +59,10 @@ a cat and play an instrument is 7/35 or 0.2 or 20%.
     **Cat Ownership and Instruments: Relative Frequencies**
 
     
-    <iframe src="https://drive.google.com/file/d/1kj9TDUQaV0EeCzdy5mroN5rh72EbPyeE/preview" width="640" height="480"></iframe>
+    <iframe src="https://drive.google.com/file/d/1iTNnAIikiXSflTLP2qvXwtjwrQLDMsv-/preview" width="640" height="480"></iframe>
 
 
-  <strong style="color: red;">Compare the two-way frequency table in #6 and the relative frequency table in #9. What is the difference between a two-way frequency table and a two-way relative frequency table?  When would it be better to use one over the other?</strong>
+    <strong style="color: red;">Compare the two-way frequency table in #6 and the relative frequency table in #9. What is the difference between a two-way frequency table and a two-way relative frequency table?  When would it be better to use one over the other?</strong>
     
 
 10. Using the *Cat Ownership and Instruments: Relative Frequencies* table, answer the following questions about relative frequencies:
@@ -73,9 +73,12 @@ a cat and play an instrument is 7/35 or 0.2 or 20%.
 
     100. <strong style="color: red;">What does the **relative frequency** 18/35 represent?</strong>
 
+
 11. <strong style="color: red;">Choose two categorical variables that you predict might be
 associated. Then generate two questions about the two categorical variables that you chose. Do not choose two random categorical
-variables.</strong> Here's an example:
+variables.</strong> 
+
+    Here's an example:
 
     I think there is a relationship between watching scary movies and drinking soda, so I am going to survey family and friends by asking them if 1)they like watching scary movies, and 2)they drink soda.
 
@@ -89,6 +92,10 @@ variables.</strong> Here's an example:
 
 
 12. <strong style="color: red;">Now it's your turn. Come up with your own two questions about two categorical variables, then create a two-way table for organizing your data.</strong>
+
+
+###**Reflection**
+<strong style="color: red;">What are the essential learnings you are taking away from this lesson?</strong> 
      
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>

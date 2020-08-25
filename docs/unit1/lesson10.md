@@ -19,12 +19,10 @@ algorithm, input, output, histogram, bin(s), bin widths, left-hand rule, right-h
 
 ###**Lesson**
 
-1. Giving clear, concise
-instructions to others is an important skill for you to learn. In this activity, you will
-practice using descriptive vocabulary, communicating ideas to others, recognizing steps in a
-process, and recognizing the importance of the use of clear language.
+1. Giving clear, concise instructions to others is an important skill for you to learn. In this activity you will practice using descriptive vocabulary, communicating ideas to others, recognizing steps in a
+process, and recognizing the importance of using clear language.
 
-2. In order for you to understand how important giving clear and precise directions is, you will watch a video of a student reading directions to their teacher on how to make a sandwich.
+2. In order for you to understand how important giving clear and precise directions is, you will watch a video of a student reading directions to their teacher for how to make a sandwich.
 
 3. Think back to a time when you followed a recipe. If you have not followed a recipe before, think about what it might look like.
 
@@ -34,9 +32,9 @@ process, and recognizing the importance of the use of clear language.
 
     100. <strong style="color: red;">Would you be able to teach someone else how to make one?</strong>
 
-    100. <strong style="color: red;">Would you be able to list the steps to make a sandwich?</strong>
+    100. <strong style="color: red;">Would you be able to list the steps for making a sandwich?</strong>
 
-4. Typically, the materials you need to make a peanut butter and jelly sandwich are: peanut butter, jelly, sliced bread, a butter knife, and a plate for making a sandwich. 
+4. The materials you typically need to make a peanut butter and jelly sandwich are: peanut butter, jelly, sliced bread, a butter knife, and a plate for making a sandwich. 
 
     <strong style="color: red;">Write down your instructions for making
     a peanut butter and jelly sandwich using these materials.</strong> 
@@ -70,20 +68,21 @@ are some instructions he might have given differently? </strong>
 Why? </strong>
 
 12. You will develop an algorithm for building a **histogram** to represent
-the sleep dotplot you saw in the previous lesson.
+the sleep dotplot you saw in [Lesson 9](lesson9.md).
 
-    <iframe src="https://drive.google.com/file/d/1PsvaeF1kxItVithSd1O-R8yNrjbu4TeH/preview" width="640" height="480"></iframe>
+    <iframe src="https://drive.google.com/file/d/1BffM29u9F6Ns4z76deJA3mQZum5stnrL/preview" width="640" height="480"></iframe>
     
-13. A histogram, rather than showing the frequency for each value, shows the frequency
+13. Rather than showing the frequency for each value, a histogram shows the frequency
 (or percent, but we will focus on frequency) of all the values that fall in a certain range, called a
 **bin**. For example, we might choose bins that go from 0-5, 5-10, 10-15, 15-20, 20-25.
 
-14. Modeled below is a histogram using the data from the “hours of sleep last night” dotplot from Lesson 9. The x-axis has **bin widths** of 0-3, 3-6, 6-9, etc. with marks on the plot at
+14. Modeled below is a histogram using the data from the *Hours of Sleep Last Night* dotplot from [Lesson 9](lesson9.md). The x-axis has **bin widths** of 0-3, 3-6, 6-9, etc., with marks on the plot at
 those intervals. The first bin has a frequency of 1, which means that one student got between 0 to 3 hours of sleep.
 
     <strong style="color: red;">Determine the frequencies of each bin and interpret what they mean.</strong>
 
-    <iframe src="https://drive.google.com/file/d/13pY1ObFBYB0feSr2m52NNgkKZZJw1prP/preview" width="640" height="480"></iframe>
+
+    <iframe src="https://drive.google.com/file/d/14l68stTcznQOL0T_YqrfV-SQQzLYOTCC/preview" width="640" height="480"></iframe>
 
  15. Notice that multiples of three appear in more than one bin. Let’s take the value of 6 hours as an
     example. Should those observations be included in the second bin (3-6) or the third bin (6-9)?
@@ -91,30 +90,22 @@ those intervals. The first bin has a frequency of 1, which means that one studen
     * If you include the values of 6 hours in the second bin (3-6), you are using the
         **left-hand rule** because when choosing between the two bins that are next to each other, (3-6) and (6-9), you chose the bin on the left.
 
-        <iframe src="https://drive.google.com/file/d/1ADl6YoE4M-mokBsEtH6Lxiy2rx7P6Aes/preview" width="640" height="480"></iframe>
+        <iframe src="https://drive.google.com/file/d/14tBgcSHiE7hV94szrrCQ40GuZlfcbnPn/preview" width="640" height="480"></iframe>
 
     * If you include the values of 6 hours in the third bin (6-9), you are using the
         **right-hand rule** because when choosing between the two bins that are next to each other, (3-6) and (6-9), you chose the bin on the right.
 
-        <iframe src="https://drive.google.com/file/d/1F1MJhthTXuTsZj5SRmws_YbfcQ5g-ZiI/preview" width="640" height="480"></iframe>
+        <iframe src="https://drive.google.com/file/d/1Pi_p8LTfqwL0hLnnZHpOMIPsGbrWt2mc/preview" width="640" height="480"></iframe>
 
-16. Similar to the way you wrote a process for
-making a PB&J sandwich, you will write a process - or an algorithm - for creating a histogram. Create an algorithm that gives directions for how to construct a histogram
-for the data from the “hours of sleep last night" dotplot from Lesson 9. Remember, an
-algorithm is a set of rules that can always be applied.  Continue thinking of the process to transform the dotplot data to create a histogram. The input will be the dotplot data, the algorithm provides the instructions for creating the histogram, and the output is the histogram.
+16. Similar to the way you wrote a process for making a PB&J sandwich, you will write a process - or an algorithm - for creating a histogram. Create an algorithm that gives directions for constructing a histogram for the data from the *Hours of Sleep Last Night* dotplot from [Lesson 9](lesson9.md). Remember, an algorithm is a set of rules that can always be applied.  Continue thinking of the process for transforming the dotplot data to create a histogram. The input will be the dotplot data, the algorithm provides the instructions for creating the histogram, and the output is the histogram.
 
-17. Make sure your algorithm works no matter how wide the bin will be. For instance, it
-might be 5 hours, it might be 1 hour, or it might be 10 hours (or even half an hour). Whatever it is, your
-algorithm should work for any input value.
+17. Make sure your algorithm works no matter how wide the bin will be. For instance, it might be 5 hours, it might be 1 hour, or it might be 10 hours (or even half an hour). Whatever it is, your algorithm should work for any input value.
 
 18. <strong style="color: red;">Write out your algorithm as a set of steps: Step 1, Step 2, etc. Try to create a histogram with your instructions and a bin width of 4.</strong>
 
 19. <strong style="color: red;">Sketch the histogram based very literally on your instructions.</strong> 
 
-    For example, if you did not say
-exactly where the bins should start, you could start one way off to the left. If you are vague and say "Divide
-the number line into groups of 10,” then the bins could be arbitrary sizes. If they have to be the same
-size, how would you do that? Points to consider:
+    For example, if you did not say exactly where the bins should start, you could start one way off to the left. If you are vague and say something like "Divide the number line into groups of 10,” then the bins could be arbitrary sizes. If they have to be the same size, how would you do that? Points to consider:
 
     100. Where will you start drawing the bins? Always at the location of the smallest dotplot?
     Always at the greatest? A little to the left?
@@ -123,7 +114,7 @@ size, how would you do that? Points to consider:
     left or on the right? Does it matter? 
 
     100. Remember that you cannot do it differently every time. You need to be consistent. You'll follow
-    either the left-hand rule or the right-hand rule, depending on which is chosen.
+    either the left-hand rule or the right-hand rule, depending on which one you choose.
 
 20. <strong style="color: red;"> After following your algorithm to create your sketch, do you feel your algorithm is precise enough? Revise your algorithm as needed.</strong>
 
@@ -134,6 +125,10 @@ size, how would you do that? Points to consider:
     100. <strong style="color: red;"> What have we lost?</strong>
 
 
+###**Reflection**
+<strong style="color: red;">What are the essential learnings you are taking away from this lesson?</strong> 
+
+
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-You should continue to collect nutritional facts data using the *Food Habits* Participatory Sensing
+Continue to collect nutritional facts data using the *Food Habits* Participatory Sensing
 campaign on your smart device or via web browser.

@@ -22,7 +22,7 @@
     <td class="tg-aw21">Page</td>
   </tr>
   <tr>
-    <td class="tg-zv4m" colspan="3"><a href="../../overview">Overview and Philosophy</a></td>
+    <td class="tg-zv4m" colspan="3"><a href="../../overview">Overview</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
     <td class="tg-8jgo"><a href="../../overview">9</a></td>

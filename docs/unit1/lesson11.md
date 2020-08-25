@@ -1,7 +1,7 @@
 ##***<u>Lesson 11: What Shape Are You In?</u>***
  
 ###**Objective**
-You will learn to classify distributions in terms of shape, and can suggest theories for why a
+You will learn to classify distributions in terms of shape, and to suggest theories for why a
 distribution might be one shape or another.
 
 ###**Vocabulary**
@@ -15,19 +15,22 @@ symmetric, right-skewed, left-skewed, unimodal, bimodal
 
 ###**Lesson**
 
-1. For this lesson you will be sorting histograms.
+1. For this lesson you will be sorting 18 histograms into groups according to their shapes.
+
+
+    <iframe src="https://drive.google.com/file/d/1Fi124gbqbsOv60b64RJF8z-sudNRKOoI/preview" width="640" height="480"></iframe>
+
 
 2. In a histogram, the type of data being measured is represented on the horizontal axis, and the
 vertical axis represents how many observations are in each bar.
 
-3. You will sort the histograms into different groups according to their shapes.
-Histograms that have similar shapes should be placed together in one of the six boxes. The activity has been formatted so that you can place the histograms directly on top of each other to verify whether or not their shapes are similar.
+3. Histograms that have similar shapes should be placed together in one of the six boxes. This activity has been formatted so that you can place the histograms directly on top of each other to verify whether or not their shapes are similar.
 
-    **Note:** Open the document below using Google Slides and make a copy onto your Google Drive. Find **View** on the menu option, then go to **Zoom** and choose **50%** to view the 18 histograms that need to be sorted. 
 
-    <iframe src="https://drive.google.com/file/d/1S-ZWu003iZ_LmeMWMtlMEys0KRPm14CA/copy" width="640" height="480"></iframe>
+    **Directions:** Copy the [Histogram Sort](https://docs.google.com/presentation/d/13zV2aIMvO7HMZQ3hhFsqGba2r6P0qhua5ult62q2P6E/copy?usp=sharing) PowerPoint slide to your Google Slides. Find **View** on the menu option, then go to **Zoom** and choose **50%** to view the 18 histograms that need to be sorted. 
 
-4. Once you have sorted the histograms into groups, answer the following questions in your Data Science Journals:
+
+4. Once you have sorted the histograms into groups, answer the following questions in your IDS Journal:
 
     100. <strong style="color: red;"> Describe what’s similar about the plots in each group.</strong>
 
@@ -35,8 +38,7 @@ Histograms that have similar shapes should be placed together in one of the six 
 
     100. <strong style="color: red;"> Give the group a name that you think describes the general shape. </strong>
 
-    100. <strong style="color: red;"> If there are graphs that do not fit into any group, try to determine why it was difficult to
-    place them. What is different or confusing about them?</strong>
+    100. <strong style="color: red;"> If there are graphs that do not fit into any group, try to determine why it was difficult to place them. What is different or confusing about them?</strong>
 
 5. After writing down your observations, think about how your classmates may have grouped their histograms. Do you think their groupings and general shapes would be similar to yours?
 
@@ -54,6 +56,10 @@ Histograms that have similar shapes should be placed together in one of the six 
     
     **Answer**: The distribution of grades on an easy test would be left-skewed and unimodal. Since the test was easy, a lot of students will score high, so most scores will be in the 80s and 90s with a single peak around 90. There will only be a few students that have low scores like 60s and 70s, so there will be a tail on the left.
 
+
+    <iframe src="https://drive.google.com/file/d/11-3NawrSHrV7hxPqx4SbzG18f2XeYFZB/preview" width="640" height="480"></iframe>
+
+
 8. <strong style="color: red;">Now read the following scenarios and try to determine what a corresponding
 histogram might look like. You should use statistical terms to describe your answer and provide a justification.</strong>
 
@@ -69,9 +75,11 @@ histogram might look like. You should use statistical terms to describe your ans
 
     100. <strong style="color: red;">The salaries of all persons employed at a school district.</strong>
 
-    <iframe src="https://drive.google.com/file/d/1wdU33qW_ZyBd3KV_PaeW09fesNHbc5QR/preview" width="640" height="480"></iframe>
+
+###**Reflection**
+<strong style="color: red;">What are the essential learnings you are taking away from this lesson?</strong> 
 
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-You should continue to collect nutritional facts data using the *Food Habits* Participatory Sensing
+Continue to collect nutritional facts data using the *Food Habits* Participatory Sensing
 campaign on your smart device or via web browser.

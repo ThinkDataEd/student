@@ -1,11 +1,11 @@
 ##**IDS Unit 2: Essential Concepts**
 
 ###**<u>[Lesson 1: What Is Your True Color?](lesson1.md)</u>**
-Students will understand that the 'typical' value is a value that can represent the entire group, even
+You will learn that the "typical" value is a value that can represent the entire group, even
 though we know that not all members of the group share the same value.
 
 ###**<u>[Lesson 2: What Does Mean Mean?](lesson2.md)</u>**
-The center of a distribution is the 'typical' value. One way of measuring the center is with the mean,
+The center of a distribution is the "typical" value. One way of measuring the center is with the mean,
 which finds the balancing point of the distribution. The mean gives us the typical value, but does not tell
 the whole story. We need a way to measure the variability to understand how observations might differ
 from the typical value.
@@ -13,12 +13,10 @@ from the typical value.
 ###**<u>[Lesson 3: Median In the Middle](lesson3.md)</u>**
 Another measure of center is the median, which can also be used to represent the typical value of a
 distribution. The median is preferred for skewed distributions or when there are outliers, because it better
-matches what we think of as 'typical.'
+matches what we think of as "typical".
 
 ###**<u>[Lesson 4: How Far Is It from Typical?](lesson4.md)</u>**
-MAD measures the variability in a sample of data - the larger the value, the greater the variability. More
-precisely, the MAD is the typical distance of observations from the mean. There are other measures of
-spread as well, notably the standard deviation and the interquartile range (IQR).
+The mean of the absolute deviations, or MAD, is the typical distance of observations from the mean. MAD measures the variability in a sample of data - the larger the value, the greater the variability. There are other measures of spread as well, notably the standard deviation and the interquartile range (IQR).
 
 ###**<u>[Lesson 5: Human Boxplots](lesson5.md)</u>**
 A common statistical question is “How does this group compare to that group?” This is a hard question to
@@ -37,12 +35,12 @@ features we can see in a dot plot or histogram.
 
 ###**<u>[Lesson 8: How Likely Is It?](lesson8.md)</u>**
 Probability is an area about which we humans have poor intuition. Probability measures a long-run
-proportion: 50% chance means the event happens 50% of the time if you repeated it forever. When we
+proportion: 50% chance means the event happens 50% of the time if you were to repeat it forever. When we
 don't repeat forever, we see variability.
 
 ###**<u>[Lesson 9: Bias Detective](lesson9.md)</u>**
-In the short-term, actual outcomes of chance experiments vary from what is 'ideal.' An ideal die has
-equally likely outcomes. But that does not mean we will see exactly the same number of one dots, two
+In the short-term, actual outcomes of chance experiments vary from what is considered ideal. For example, an ideal die has
+equally likely outcomes, but that does not mean we will see exactly the same number of one dots, two
 dots, etc.
 
 ###**<u>[Lesson 10: Marbles, Marbles…](lesson10.md)</u>**

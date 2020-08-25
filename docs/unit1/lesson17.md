@@ -16,10 +16,9 @@ marginal (relative) frequency, joint (relative) frequency, conditional relative 
 ###**Lesson**
 1. **<u>Time Use Campaign Data Collection Responses:</u>**
 
-    100. Today is the last day to collect data for the *Time Use* campaign. You will be using the **Campaigns** tool to view your survey responses. Click on the **Campaigns** tool on your IDS Homepage, found at
-[https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org") and sign in if prompted. Find the *Time Use* campaign and click on **Responses**.
+    100. Today is the last day to collect data for the *Time Use* campaign. You will be using the Campaigns Tool to view your survey responses. Click on **Campaigns** on your IDS Homepage, found at [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org") and sign in if prompted. Find the *Time Use* campaign and click on **Responses**.
 
-    100. Click on the blue plus sign to expand the surveys you have submitted. 
+    100. Click on the blue plus sign (<strong style="color: blue;">+</strong>) to expand the surveys you have submitted. 
         200. <strong style="color: red;">For which days have you collected data?</strong>
 
         200. <strong style="color: red;">Do the total number of minutes for each day add up to approximately 1440?</strong> 
@@ -37,7 +36,7 @@ to look at other ways of understanding a two-way frequency table.
 
 5. Here are the *Cat Ownership and Instruments* tables from [Lesson 16](lesson16.md):
 
-    <iframe src="https://drive.google.com/file/d/1vaMX4BOSX00aYFzQRGMKHH3wOyu7QDTS/preview" width="640" height="480"></iframe>
+    <iframe src="https://drive.google.com/file/d/19LDzPRB7594PvxHivlaF_ouUb2uKFXiK/preview" width="640" height="480"></iframe>
 
 6. Suppose that we want to know the following information:
 
@@ -50,7 +49,7 @@ to look at other ways of understanding a two-way frequency table.
 7. Notice that the answers to the questions were located in the margins of the table and therefore are called **marginal frequencies**. The margins are the row and the column that show the total. Questions 6b and 6c are **marginal relative frequencies** because they are calculated from a subtotal that is divided by the grand total.
 
 
-    <iframe src="https://drive.google.com/file/d/1f-6ZVQHSBZeHviYKtVui71GDHV3JUbhr/preview" width="640" height="480"></iframe>
+    <iframe src="https://drive.google.com/file/d/1Gqg_gsL9LDq8r6esJDJiSwg0zyB38icS/preview" width="640" height="480"></iframe>
 
 8. Now suppose that we want to know the following information:
 
@@ -63,7 +62,8 @@ to look at other ways of understanding a two-way frequency table.
 
 9. Notice that the answers to the questions were located in the cells in the body of the table and therefore are called **joint frequencies**. Questions 8b and 8c are **joint relative frequencies** since they are being expressed out of a total number of occurrences.
 
-    <iframe src="https://drive.google.com/file/d/12yuTTCRV2QHFrraYEA-HFab6psPnC3A8/preview" width="640" height="480"></iframe>
+
+    <iframe src="https://drive.google.com/file/d/1do8Mneto38dMxDLJxt0nRWHK1L7xvBdv/preview" width="640" height="480"></iframe>
 
 
 10. Finally, suppose that we wanted to answer this question: Do a greater proportion of students in
@@ -72,7 +72,8 @@ Rosa’s art class who do *not* own cats prefer to play an instrument than those
 11. In this case, the total for the “No cats” row
 is important because we are only concerned with that subset of the group. Compare the values that show the **conditional relative frequency** for the row. Slightly more non-cat owners than cat owners play an instrument (53% vs 44%).
 
-    <iframe src="https://drive.google.com/file/d/1cczCmgbGN8-VnpHKr2JOg7QX0VLFWfSg/preview" width="640" height="480"></iframe>
+
+    <iframe src="https://drive.google.com/file/d/1YvLMv624gr-6Etr-Pqgg2LScuDgHzRQQ/preview" width="640" height="480"></iframe>
 
     
     **Note**: This is a conditional relative frequency by row. We can also calculate conditional relative frequencies by column if we were interested in knowing the difference in cat ownership for those students who play instruments.
@@ -99,8 +100,10 @@ is important because we are only concerned with that subset of the group. Compar
 
     100. <strong style="color: red;">conditional relative frequency (either by row or column)</strong>
 
+
 ###**Reflection**
-<strong style="color: red;"> Write a paragraph summarizing the most important things you learned in the last 2 lessons. </strong>
+<strong style="color: red;">What are the essential learnings you are taking away from this lesson?</strong> 
+
 
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
 

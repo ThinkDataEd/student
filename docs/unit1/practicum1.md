@@ -1,15 +1,17 @@
 ##***<u>Practicum: The Data Cycle & My Food Habits</u>***
 
-###**Objective:**
+###**Objective**
 You will apply what you have learned by engaging in the Data Cycle using the data your class
-collected from the Food Habits campaign. You will present your findings to the class.
+collected from the *Food Habits* campaign. You will present your findings to the class.
 
-###**Instructions:**
-With a partner, you will engage in the Data Cycle to address the Research Topic:
+###**Instructions**
+With a partner, you will engage in the Data Cycle to address the following Research Topic:
 
-<center>**How good are we at identifying healthy and unhealthy snacks?**</center>
 
-###**Task:**
+**How good are we at identifying healthy and unhealthy snacks?**
+
+
+###**Task**
 1. Create a Data Cycle poster.
 
 2. The poster should illustrate how the Data Cycle is used to address the Research Topic.
@@ -19,7 +21,7 @@ poster.
 
 4. You and your partner will present your findings with appropriate evidence from the data.
 
-###**Awards:**
+###**Awards**
 
 Your teacher will select the top posters in the following categories:
 
@@ -29,7 +31,7 @@ Your teacher will select the top posters in the following categories:
 
 * Best Illustration of the Data Cycle
 
-###**Scoring Guide:**
+###**Scoring Guide**
 
 Below you will find some parameters to assist you in scoring. They are meant only as a
 guide.
@@ -38,7 +40,7 @@ guide.
 
 * The poster correctly illustrates how the Data Cycle is used to address the big question.
 
-* A histogram, bar chart, scatterplot, or other graphical representation was correctly created.
+* A histogram, bar chart, scatterplot, or other graphical representation is correctly created.
 
 * An answer and a justification for the answer to the statistical question are presented.
 
@@ -50,7 +52,7 @@ variables are…” **<u>AND</u>** it includes acknowledgment of variability. Fo
 
 * The poster correctly illustrates how the Data Cycle is used to address the big question.
 
-* A histogram, bar chart, scatterplot, or other graphical representation was correctly created.
+* A histogram, bar chart, scatterplot, or other graphical representation is correctly created.
 
 * An answer and a justification for the answer to the statistical question are presented.
 
@@ -62,7 +64,7 @@ variables are…” **<u>OR</u>** it includes acknowledgment of variability. For
 
 * The poster partially illustrates how the Data Cycle is used to address the big question.
 
-* A histogram, bar chart, scatterplot, or other graphical representation was created.
+* A histogram, bar chart, scatterplot, or other graphical representation is created.
 
 * An answer and a justification for the answer to the statistical question are presented.
 
@@ -70,14 +72,14 @@ variables are…” **<u>OR</u>** it includes acknowledgment of variability. For
 
 * The poster incorrectly illustrates how the Data Cycle addresses the big question.
 
-* An answer to the statistical question is presented but a justification is missing.
+* An answer to the statistical question is presented, but a justification is missing.
 
-* A histogram, bar chart, scatterplot, or other graphical representation was correctly created.
+* A histogram, bar chart, scatterplot, or other graphical representation is correctly created.
 
 0-point response:
 
 * The Data Cycle is missing **<u>OR</u>** does not show how it addresses the big question.
 
-* A histogram, a dot plot, or other graphical representation was incorrectly created OR is missing.
+* A histogram, dot plot, or other graphical representation is incorrectly created OR is missing.
 
 * No answer **<u>AND/OR</u>** no justification for the answer to the statistical question is presented.

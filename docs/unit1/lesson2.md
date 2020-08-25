@@ -21,7 +21,7 @@ collect, record, organize, representations, variables
 ###**Lesson**
 1. Reflect on your data collection homework:
 
-    * <strong style="color: red;">How many observations did you make?</strong>
+    * <strong style="color: red;">How many entries did you record?</strong>
 
     * <strong style="color: red;">Where do you leave the most data trails?</strong>
 
@@ -66,4 +66,8 @@ choose.
 called **variables**. Variables are simply characteristics of an object or person. As statisticians, we
 use variable names to organize data into a simplified form so that a computer can read them.
 This will be discussed further in [Lesson 3](lesson3.md).
+
+
+###**Reflection**
+<strong style="color: red;">What are the essential learnings you are taking away from this lesson?</strong> 
 

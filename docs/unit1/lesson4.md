@@ -50,7 +50,7 @@ graphic of *The Data Cycle* (Click here to access this document and make a copy:
     
         <strong style="color: red;">Organize the data the same way it would appear on a spreadsheet, with the columns Tips, Payment Method, and Time.</strong>
 
-        <iframe src="https://drive.google.com/file/d/15LDT27mHw8ipMmJ1vLfQG8u2swT50ttC/preview" width="640" height="480"></iframe>
+        <iframe src="https://drive.google.com/file/d/15xDtvWaP2CZIz5loK6Rs4JwZBiARMXkW/preview" width="640" height="480"></iframe>
 
     100. **Data Analysis:** Pizza Girl made an attempt to analyze her data but wasn't completely satisfied. Coincidentally, a statistician who was searching for good pizza came across her blog and helped her with her analysis. He created the plot below. You'll learn later how to interpret these boxes, but for now it's enough to know that each box shows the variety of tips observed for each payment method. For example, the tips from those who prepaid ("Pre") ranged from $1 to just over $5, with half of the values between $2 and $4.50.
 
@@ -103,7 +103,10 @@ show how common certain terms are throughout the United States when referring to
 
     <strong style="color: red;">Choose one of the graphics and come up with 2 questions that could be asked given the graphic you chose.</strong>
 
-12. <strong style="color: red;">Using ONE of your questions from #11, create a Data Cycle graphic (on a regular piece of paper) to turn in. The cycle should be clearly labeled and should
-    have appropriate responses for each of the 4 components.</strong> Some examples have been provided below:
+12. <strong style="color: red;">Using ONE of your questions from #11, create a Data Cycle graphic (on a regular piece of paper) to turn in. The cycle should be clearly labeled and should have appropriate responses for each of the 4 components.</strong> Some examples have been provided below:
 
     <iframe src="https://drive.google.com/file/d/1fXNR32sw8EJfboppuW0l_r-k-lGdOLL-/preview" width="640" height="480"></iframe>
+
+
+    ###**Reflection**
+<strong style="color: red;">What are the essential learnings you are taking away from this lesson?</strong> 

@@ -17,7 +17,7 @@ data( ), View( ), names( ), help( ), dim( ), tally( ), load_labs( )
     The computer has a syntax, and it can only understand if you speak its language.
     
 
-###**Lesson:**
+###**Lesson**
 1. The Dashboard and PlotApp are data visualization tools that are coded in R,
 the statistical programming software that academics and professional statisticians use. The
 Introduction to Data Science course utilizes RStudio, which also runs on R. You will learn the
@@ -45,13 +45,16 @@ then click on the RStudio icon on the page.
 Prevention (CDC), a government agency that collects data on a broad range of topics, including issues concerning and about teenagers.
 
 6. You can load and view the CDC data file to the workspace by typing the following
-command into the console, then typing the **Enter** or **Return** key on your keyboard. 
+commands into the console, then typing the **Enter** or **Return** key on your keyboard:
 
-    **Note:** You will be taking notes in an RScript. On the **Menu** tab, go to **File** and click on **New**, then click on **RScript**. Type the commands below in your RScript and Run your commands. Refer back to the video to learn how to use an RScript.
 
     **>data(cdc)**
 
     **>View(cdc)**
+
+
+    **Note:** You will be taking notes in an RScript. On the **Menu** tab, go to **File** and click on **New**, then click on **RScript**. Type the commands below in your RScript and Run your commands. Refer back to the video to learn how to use an RScript.
+
 
 7. <strong style="color: red;"> Examine the environment pane and describe how the data are displayed. </strong> 
 
@@ -97,12 +100,14 @@ command into the console, then typing the **Enter** or **Return** key on your ke
 
     100. Type the following command: **>tally(~height, data = cdc)**
 
-    100. <strong style="color: red;"> What do you notice? Describe the output. </strong> <span style="color:grey">***The levels are missing. It happened
+    100. <strong style="color: red;"> What do you notice? Describe the output. </strong> 
+    
+    <span style="color:grey">***The levels are missing. It happened
     because the variable height contains numbers, not categories.***</span>
 
 13. Let’s take a closer look at the variables <strong style="color: purple;">seat belt</strong> and <strong style="color: purple;">height</strong>. Maximize the console. Brainstorm the following question:
 
-    <strong style="color: red;"> What is the difference between the data from the variables seat_belt and height?</strong>
+    <strong style="color: red;"> What is the difference between the data from the variables <strong style="color: purple;">seat belt</strong> and <strong style="color: purple;">height</strong>?</strong>
 
 14. To summarize: In data science, the variable <strong style="color: purple;">seat belt</strong> is what we call a **categorical variable**, and
 the variable <strong style="color: purple;">height</strong> is what we call a **numerical variable**.
@@ -112,13 +117,13 @@ the variable <strong style="color: purple;">height</strong> is what we call a **
     <strong style="color: red;"> Categorize each variable as categorical
 or numerical: </strong>
 
-    100. <strong style="color: red;"> eat_fruit </strong>
+    100. <strong style="color: purple;">eat_fruit </strong>
 
-    100. <strong style="color: red;"> weight </strong>
+    100. <strong style="color: purple;"> weight </strong>
 
-    100. <strong style="color: red;"> grade </strong>
+    100. <strong style="color: purple;"> grade </strong>
 
-    100. <strong style="color: red;"> gender </strong>
+    100. <strong style="color: purple;"> gender </strong>
 
 16. Throughout the IDS course you will be completing RStudio labs and learning RStudio code to work with data.
 
@@ -132,7 +137,7 @@ type the number "1" after the selection prompt.
 20. Click on the arrows at the bottom right-hand side of the presentation to view each slide. Pause on
 the slide titled “R’s most important syntax.” You should see 3 boxes, each containing a line of code.
 
-21. Every time you see a grey box with a line of code, you must type the code in the
+21. Every time you see a grey box with a line of code, you must type the code into the
 console. The output will appear either on the console itself or on the plot pane.
 
 22. Type in one of the lines of code. In this particular case, the output will be a plot. Notice that the location of the plot is in the same area of the slides, but under the **Plots** tab. You can toggle between the **Plots** and **Presentation** tabs by clicking each tab.
@@ -140,12 +145,15 @@ console. The output will appear either on the console itself or on the plot pane
 23. You will be completing the first lab, Lab 1A, tomorrow in class.
 
 
+###**Reflection**
+<strong style="color: red;">What are the essential learnings you are taking away from this lesson?</strong> 
+
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-You should continue to collect nutritional facts data using the *Food Habits* Participatory Sensing
+Continue to collect nutritional facts data using the *Food Habits* Participatory Sensing
 campaign on your smart device or via web browser.
 
 ###<p style="background: black; color: white; text-align: center;">**Lab Time**</p>
-It's time to begin learning how to do data analysis on RStudio! Before going on to the next lesson, you must complete Lab 1A, Lab 1B, and Lab 1C using RStudio. The following video will show you how to log in to your RStudio account and complete Lab 1A.
+It's time to begin learning how to do data analysis in RStudio! Before going on to the next lesson, you must complete Lab 1A, Lab 1B, and Lab 1C using RStudio. The following video will show you how to log in to your RStudio account and complete Lab 1A.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v3qPfE4ruQA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -155,4 +163,4 @@ It's time to begin learning how to do data analysis on RStudio! Before going on 
 
 [<u>***Lab 1C: Export, Upload, Import***</u>](lab1c.md)
 
-Complete [Labs 1A](lab1a.md), [1B](lab1b.md) and [1C](lab1c.md) prior to [Lesson 14](lesson14.md)
+Complete [Labs 1A](lab1a.md), [1B](lab1b.md) and [1C](lab1c.md) prior to [Lesson 14](lesson14.md).

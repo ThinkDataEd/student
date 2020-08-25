@@ -1,18 +1,16 @@
-#Unit1, Section2: Visualizing Data
+#Unit 1, Section 2: Visualizing Data
 Instructional Days: 14
 
 ##<p style="background: black; color: white; text-align: center;">**Enduring Understandings**</p>
 Data collection methods affect what we can know about the real world. Visual representations help tell
-stories with data. Distributions of numerical and categorical variables help describe variability in the data.
-Technology and computers allow us to visualize complex relationships in data.
+stories with data. Distributions of numerical and categorical variables help describe variability in the data. Technology and computers allow us to visualize complex relationships in data.
 
 ##<p style="background: black; color: white; text-align: center;">**Engagement**</p>
-Students will view the video called *The Value of Data Visualization* to help them understand the
-importance of graphical representations of data. Discussion questions will allow students to begin to think
-about how they would want see a data set visualized. The video can be found at:
+You will watch the video called *The Value of Data Visualization* to help you to understand the
+importance of graphical representations of data. You will then discuss with your class how you might want to see a data set visualized. The video can be found at:
 [https://www.youtube.com/watch?v=xekEXM0Vonc](https://www.youtube.com/watch?v=xekEXM0Vonc "https://www.youtube.com/watch?v=xekEXM0Vonc")
 
-  <div align="right"><iframe width="420" height="315"
+  <div align="center"><iframe width="420" height="315"
   src="https://www.youtube.com/embed/xekEXM0Vonc" allowfullscreen>
   </iframe><br><a href="https://www.youtube.com/embed/xekEXM0Vonc">https://www.youtube.com/embed/xekEXM0Vonc</a></div>
 
@@ -44,23 +42,23 @@ variables. Interpret and understand graphs of distributions for numerical and ca
 
 *<u>Real-World Connections:</u>*
 
-Students will continue to understand that data on its own is just collected; but once interpreted, it can lead
+You will continue to understand that data on its own is just collected; but once interpreted, it can lead
 to discoveries or understandings.
 
 ##<p style="background: black; color: white; text-align: center;">**Language Objectives**</p>
-1. Students will use complex sentences to construct summary statements about their understanding
-of data, how it is collected, how it is used and how to work with it.
+1. You will use complex sentences to construct summary statements about your understanding
+of data, how it is collected, how it is used, and how to work with it.
 
-2. Students will engage in partner and whole group discussions and presentations to express their
+2. You will engage in partner and whole group discussions and presentations to express your
 understanding of data science concepts.
 
-3. Students will use complex sentences to write informative short reports that use data science
+3. You will use complex sentences to write informative short reports that use data science
 concepts and skills.
 
 ##<p style="background: black; color: white; text-align: center;">**Data File or Data Collection Method**</p>
 *<u>Data Files:</u>*
 
-1. Students’ *Food Habits Campaign* Data
+1. Your *Food Habits Campaign* Data
 
 2. CDC Data File
 

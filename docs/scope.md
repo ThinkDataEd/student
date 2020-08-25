@@ -39,18 +39,17 @@ frequencies). Recognize possible associations and trends in the data.
 S-ID 6. Represent data on two quantitative variables on a scatterplot, and describe how the
 variables are related.
 
-S-IC 6. Evaluate reports based on data.\*
-\*This standard is woven throughout the course. It is a recurring standard for every unit.
+S-IC 6. Evaluate reports based on data. This standard is woven throughout the course. It is a recurring standard for every unit.
 
-###**<u>Focus Standards for Mathematical Practices</u>**
+###**Focus Standards for Mathematical Practices**
 
 SMP-3. Construct viable arguments and critique the reasoning of others.
 
 SMP-5. Use appropriate tools strategically.
 
-###<u>Upon completion of Unit 1, students will be able to:</u>
+<u>Upon completion of Unit 1 you will be able to:</u>
 
-* Give examples of where they leave data traces.
+* Give examples of where you leave data traces.
 
 * Understand that rows and columns are a form of data structure.
 
@@ -66,10 +65,9 @@ factors).
 
 * Calculate conditional and marginal probabilities using frequency tables.
 
-* Provide a real-world explanation for why the conditional or independent probabilities make sense,
-using critical thinking skills and background knowledge.
+* Using critical thinking skills and background knowledge, provide a real-world explanation for why the conditional or independent probabilities make sense.
 
-* Communicate their evaluations in written or verbal form using different types of media.
+* Communicate your evaluations in written or verbal form using different types of media.
 
 * Load data into RStudio.
 
@@ -77,20 +75,20 @@ using critical thinking skills and background knowledge.
 
 * Create frequency tables in RStudio.
 
-##**<u>Unit 2</u>**
-This unit deepens the informal reasoning skills developed in Unit 1 by enriching students' technical
+##**Unit 2**
+This unit deepens the informal reasoning skills developed in Unit 1 by enriching your technical
 vocabulary and developing more precise analytical tools. Most importantly, this unit introduces the formal
 concept of probability as a tool for understanding that sometimes patterns observed in data are not "real."
 Traditional courses attempt to develop this understanding through the development of abstract
-mathematical probability concepts, but IDS creates enduring understanding by teaching students to
+mathematical probability concepts, but IDS creates enduring understanding by showing you how to
 design and implement simulations using pseudo-random number generators. This activity also develops
-computational thinking by teaching students about some basic programming structures. Then, the use of
-models will come to the foreground. Students will be introduced to linear models - the most common form
+computational thinking by teaching you about some basic programming structures. Then, the use of
+models will come to the foreground. You will be introduced to linear models - the most common form
 of modeling in introductory statistics classes - which will serve as the foundation to learn more complex
-modeling techniques that use the computer technology available to them later in the course, including
+modeling techniques that use the computer technology available to you later in the course, including
 smoothing techniques and tree-based models.
 
-###**<u>Focus Statistics CCSS-M</u>**
+###**Focus Statistics CCSS-M**
 S-ID 2: Use statistics appropriate to the shape of the data distribution to compare center (median,
 mean) and spread (interquartile range, standard deviation) of two or more different data
 sets.
@@ -104,24 +102,23 @@ procedure is not appropriate. Use calculators, spreadsheets, and tables to estim
 under the normal curve.
 
 S-IC 2. Decide if a specified model is consistent with results from a given data-generating
-process, e.g., using simulation.
+process (e.g., using simulation).
 
-S-IC 6. Evaluate reports based on data.\*
-\*This standard is woven throughout the course. It is a recurring standard for every unit.
+S-IC 6. Evaluate reports based on data. This standard is woven throughout the course. It is a recurring standard for every unit.
 
 S-CP 2. Understand that two events A and B are independent if the probability of A and B
 occurring together is the product of their probabilities, and use this characterization to
 determine if they are independent.
 
-S-CP 9. (+) Use permutations to perform [informal] inference.
-\*This standard will be addressed in the context of data science.
+S-CP 9. (+) Use permutations to perform [informal] inference. This standard will be addressed in the context of data science.
 
-###**<u>Focus SMPs</u>**
+###**Focus SMPs**
 SMP-4. Model with mathematics.
 
 SMP-5. Use appropriate tools strategically.
 
-###<u>Upon completion of Unit 2, students will be able to:</u>
+<u>Upon completion of Unit 2 you will be able to:</u>
+
 * Create a boxplot by calculating the five-number summary, upper and lower fences, and
 determining outliers.
 
@@ -153,11 +150,11 @@ may not.
 
 * Create functions.
 
-##**<u>Unit 3</u>**
+##**Unit 3**
 Unit 3 focuses on data collection methods, including traditional methods of designed experiments and
-observational studies and surveys. It introduces students to sampling error and bias, which cause
+observational studies and surveys. It introduces you to sampling error and bias, which cause
 problems in analysis made from survey data. Participatory Sensing is presented as another method of
-data collection, and students learn to design Participatory Sensing campaigns that will allow them to
+data collection, and you will learn to design Participatory Sensing campaigns that will allow you to
 address particular statistical questions. Participatory Sensing is a unique data collection method because
 it uses sensors. Furthermore, this method emphasizes the involvement of citizens and community groups
 in the process of sensing and documenting where they live, work, and play. Triggers play an important
@@ -166,25 +163,25 @@ the same each time. Data takes on a variety of forms online and requires a diffe
 representation. Students enhance computing skills by learning about modern data structures, and by
 learning to "scrape" data stored in XML format.
 
-###**<u>Focus Statistics CCSS-M</u>**
+###**Focus Statistics CCSS-M**
 S-IC 1. Understand statistics as a process for making inferences about population parameters
 based on a random sample from that population.
 
 S-IC 3. Recognize the purposes of and differences among sample surveys, experiments, and
-observational studies; explain how randomization relates to each.
+observational studies. Explain how randomization relates to each.
 
-S-IC 6. Evaluate reports based on data.\*
-\*This standard is woven throughout the course. It is a recurring standard for every unit.
+S-IC 6. Evaluate reports based on data. This standard is woven throughout the course. It is a recurring standard for every unit.
 
-###**<u>Focus SMPs</u>**
+###**Focus SMPs**
 SMP-1. Make sense of problems and persevere in solving them.
 
 SMP-4. Model with mathematics.
 
 SMP-8. Look for and express regularity in repeated reasoning.
 
-###<u>Upon completion of Unit 3, students will be able to:</u>
-* Provide a loose definition of “statistics” in their own words.
+<u>Upon completion of Unit 3 you will be able to:</u>
+
+* Provide a loose definition of “statistics” in your own words.
 
 * Compare and contrast population vs. sample.
 
@@ -197,7 +194,7 @@ SMP-8. Look for and express regularity in repeated reasoning.
 * Explain situations where one measure of central tendency or spread may be more appropriate than
 others.
 
-* Read/interpret boxplots (In-depth look into samples size and their relationship to the population
+* Read/interpret boxplots (in-depth look into samples size and their relationship to the population
 parameters).
 
 * Identify reports that use special data structures (census, survey, observational study, and randomized
@@ -211,20 +208,20 @@ experiment).
 
 * Compute measures of central tendency and spread in RStudio.
 
-##**<u>Unit 4</u>**
-This unit will develop modeling skills, beginning with learning to fit and interpret least squares regression
-lines and learning to use regression to make predictions. Students will learn to evaluate the success of
-these predictions and so compare models for their predictive accuracy. Modern algorithmic approaches to
-regression are presented, and students will strengthen algorithmic thinking skills by understanding how
-and why these algorithms help data scientists make accurate predictions from data. Students engage in a
-complete modeling experience in which they apply the skills and concepts learned in the previous units.
-The modeling experience is designed to make students’ thinking visible and audible by encouraging them
-to be metacognitive about the process of inventing and testing a model, ask questions as they go through
+##**Unit 4**
+This unit will develop your modeling skills, beginning with learning to fit and interpret least squares regression
+lines and learning to use regression to make predictions. You will learn to evaluate the success of
+these predictions and so compare models for their predictive accuracy. You will learn about modern algorithmic approaches to
+regression, and you will strengthen your algorithmic thinking skills by understanding how
+and why these algorithms help data scientists make accurate predictions from data. You will engage in a
+complete modeling experience in which you will apply the skills and concepts learned in the previous units.
+The modeling experience is designed to make your thinking visible and audible by encouraging you
+to be metacognitive about the process of inventing and testing a model, ask questions as you go through
 the process, and recognize the iterative nature of modeling.
 
-###**<u>Focus Statistics Standards</u>**
+###**Focus Statistics Standards**
 S-IC 2. Decide if a specified model is consistent with results from a given data-generating
-process, e.g., using simulation.
+process, (e.g., using simulation).
 
 S-ID 6. Represent data on two quantitative variables on a scatter plot, and describe how the
 variables are related.
@@ -248,21 +245,20 @@ the context of the data.
 
 S-ID 8. Compute (using technology) and interpret the correlation coefficient of a linear fit.
 
-S-IC 6. Evaluate reports based on data.\*
-\*This standard is woven throughout the course. It is a recurring standard for every unit.
+S-IC 6. Evaluate reports based on data. This standard is woven throughout the course. It is a recurring standard for every unit.
 
-###**<u>Focus SMPs</u>**
+###**Focus SMPs**
 SMP-2. Reason abstractly and quantitatively.
 
 SMP-4. Model with mathematics.
 
 SMP-7. Look for and make use of structure.
 
-###<u>Upon completion of Unit 4, students will be able to:</u>
+<u>Upon completion of Unit 4, you will be able to:</u>
+
 * Describe how well the linear model fits the data (or does not).
 
-* Provide a real-world explanation of why the model may or may not fit, using critical thinking skills and
-background knowledge.
+* Using critical thinking skills and background knowledge, provide a real-world explanation of why the model may or may not fit.
 
 * Interpret the slope and intercept on a plot.
 
@@ -284,7 +280,7 @@ RStudio.
 * Explore what happens to the line and the response variable if we multiply (divide) or add (subtract) a
 constant from the predictor.
 
-* Design and execute their own Participatory Sensing Campaigns.
+* Design and execute your own Participatory Sensing Campaigns.
 
 * Use RStudio to compute permutations and combinations.
 

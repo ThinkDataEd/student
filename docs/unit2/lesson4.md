@@ -19,9 +19,7 @@ measures of variability (spread), deviation, mean of absolute deviations (MAD)
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: "
-    MAD measures the variability in a sample of data - the larger the value, the greater
-    the variability. More precisely, the MAD is the typical distance of observations from the mean. There are
-    other measures of spread as well, notably the standard deviation and the interquartile range (IQR).
+    The mean of the absolute deviations, or MAD, is the typical distance of observations from the mean. MAD measures the variability in a sample of data - the larger the value, the greater the variability. There are other measures of spread as well, notably the standard deviation and the interquartile range (IQR).
 
 ###**Lesson:**
 1. Remind students that they learned about 2 different measures of center during the previous 2

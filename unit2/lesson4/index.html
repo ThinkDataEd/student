@@ -1,19 +1,40 @@
 
 
 
+
 <!doctype html>
 <html lang="en" class="no-js">
   <head>
     
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
       
       
         <link rel="canonical" href="http://student.idsucla.org/unit2/lesson4/">
       
       
+      
+        <meta name="lang:clipboard.copy" content="Copy to clipboard">
+      
+        <meta name="lang:clipboard.copied" content="Copied to clipboard">
+      
+        <meta name="lang:search.language" content="en">
+      
+        <meta name="lang:search.pipeline.stopwords" content="True">
+      
+        <meta name="lang:search.pipeline.trimmer" content="True">
+      
+        <meta name="lang:search.result.none" content="No matching documents">
+      
+        <meta name="lang:search.result.one" content="1 matching document">
+      
+        <meta name="lang:search.result.other" content="# matching documents">
+      
+        <meta name="lang:search.tokenizer" content="[\s\-]+">
+      
       <link rel="shortcut icon" href="../../assets/images/favicon.png">
-      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-5.5.0">
+      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-4.4.3">
     
     
       
@@ -21,9 +42,9 @@
       
     
     
-      <link rel="stylesheet" href="../../assets/stylesheets/main.b5d04df8.min.css">
+      <link rel="stylesheet" href="../../assets/stylesheets/application.30686662.css">
       
-        <link rel="stylesheet" href="../../assets/stylesheets/palette.9ab2c1f8.min.css">
+        <link rel="stylesheet" href="../../assets/stylesheets/application-palette.a8b3c06d.css">
       
       
         
@@ -32,98 +53,231 @@
       
     
     
+      <script src="../../assets/javascripts/modernizr.74668098.js"></script>
+    
     
       
         <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
-        <style>body,input{font-family:"Roboto",-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono",SFMono-Regular,Consolas,Menlo,monospace}</style>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700|Roboto+Mono&display=fallback">
+        <style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
       
     
+    <link rel="stylesheet" href="../../assets/fonts/material-icons.css">
     
     
     
       
         
-<script>window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)},ga.l=+new Date,ga("create","UA-149684808-1","curriculum.idsucla.org"),ga("set","anonymizeIp",!0),ga("send","pageview"),document.addEventListener("DOMContentLoaded",function(){document.forms.search&&document.forms.search.query.addEventListener("blur",function(){if(this.value){var e=document.location.pathname;ga("send","pageview",e+"?q="+this.value)}})}),document.addEventListener("DOMContentSwitch",function(){ga("send","pageview",document.location.pathname)})</script>
+<script>
+  window.ga = window.ga || function() {
+    (ga.q = ga.q || []).push(arguments)
+  }
+  ga.l = +new Date
+  /* Setup integration and send page view */
+  ga("create", "UA-149684808-1", "curriculum.idsucla.org")
+  ga("set", "anonymizeIp", true)
+  ga("send", "pageview")
+  /* Register handler to log search on blur */
+  document.addEventListener("DOMContentLoaded", () => {
+    if (document.forms.search) {
+      var query = document.forms.search.query
+      query.addEventListener("blur", function() {
+        if (this.value) {
+          var path = document.location.pathname;
+          ga("send", "pageview", path + "?q=" + this.value)
+        }
+      })
+    }
+  })
+</script>
 <script async src="https://www.google-analytics.com/analytics.js"></script>
       
     
     
   </head>
   
+    
+    
+    <body dir="ltr" data-md-color-primary="red" data-md-color-accent="red">
   
-    
-    
-    
-    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="red" data-md-color-accent="red">
-  
-    
+    <svg class="md-svg">
+      <defs>
+        
+        
+      </defs>
+    </svg>
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
-    <label class="md-overlay" for="__drawer"></label>
-    <div data-md-component="skip">
-      
-        
-        <a href="#lesson-4-how-far-is-it-from-typical" class="md-skip">
-          Skip to content
-        </a>
-      
-    </div>
-    <div data-md-component="announce">
-      
-    </div>
+    <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
+    
+      <a href="#lesson-4-how-far-is-it-from-typical" tabindex="1" class="md-skip">
+        Skip to content
+      </a>
+    
     
       <header class="md-header" data-md-component="header">
-  <nav class="md-header-nav md-grid" aria-label="Header">
-    <a href="http://student.idsucla.org" title="Introduction to Data Science Curriculum v_5.0" class="md-header-nav__button md-logo" aria-label="Introduction to Data Science Curriculum v_5.0">
-      
-  
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 003-3 3 3 0 00-3-3 3 3 0 00-3 3 3 3 0 003 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
-
-    </a>
-    <label class="md-header-nav__button md-icon" for="__drawer">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
-    </label>
-    <div class="md-header-nav__title" data-md-component="header-title">
-      
-        <div class="md-header-nav__ellipsis">
-          <span class="md-header-nav__topic md-ellipsis">
-            Introduction to Data Science Curriculum v_5.0
-          </span>
-          <span class="md-header-nav__topic md-ellipsis">
-            
-              Lesson 4: How Far is it from Typical?
-            
-          </span>
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href="http://student.idsucla.org" title="Introduction to Data Science Curriculum v_5.0" class="md-header-nav__button md-logo">
+          
+            <i class="md-icon"></i>
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="__drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+          
+            <span class="md-header-nav__topic">
+              Introduction to Data Science Curriculum v_5.0
+            </span>
+            <span class="md-header-nav__topic">
+              
+                Lesson 4: How Far is it from Typical?
+              
+            </span>
+          
         </div>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+      </div>
       
     </div>
-    
-    
   </nav>
 </header>
     
-    <div class="md-container" data-md-component="container">
+    <div class="md-container">
       
         
       
       
         
+
+  
+
+<nav class="md-tabs md-tabs--active" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
       
-      <main class="md-main" data-md-component="main">
-        <div class="md-main__inner md-grid">
+        
+  <li class="md-tabs__item">
+    
+      <a href="../.." class="md-tabs__link">
+        Home
+      </a>
+    
+  </li>
+
+      
+        
+      
+        
+      
+        
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../unit1/overview/" class="md-tabs__link">
+          Unit1
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../overview/" class="md-tabs__link md-tabs__link--active">
+          Unit2
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../unit3/overview/" class="md-tabs__link">
+          Unit3
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../unit4/overview/" class="md-tabs__link">
+          Unit4
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../download/curriculum/" class="md-tabs__link">
+          PDF
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../download/IDS_Curriculum_v_5.0/" class="md-tabs__link">
+          Downloads
+        </a>
+      
+    </li>
+  
+
+      
+        
+      
+        
+      
+    </ul>
+  </div>
+</nav>
+      
+      <main class="md-main" role="main">
+        <div class="md-main__inner md-grid" data-md-component="container">
           
             
               <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
-                    <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
-  <label class="md-nav__title" for="__drawer">
-    <a href="http://student.idsucla.org" title="Introduction to Data Science Curriculum v_5.0" class="md-nav__button md-logo" aria-label="Introduction to Data Science Curriculum v_5.0">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="__drawer">
+    <a href="http://student.idsucla.org" title="Introduction to Data Science Curriculum v_5.0" class="md-nav__button md-logo">
       
-  
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 003-3 3 3 0 00-3-3 3 3 0 00-3 3 3 3 0 003 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
-
+        <i class="md-icon"></i>
+      
     </a>
     Introduction to Data Science Curriculum v_5.0
   </label>
@@ -185,19 +339,13 @@
 
   <li class="md-nav__item md-nav__item--nested">
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-5" type="checkbox" id="nav-5">
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-5" type="checkbox" id="nav-5">
     
     <label class="md-nav__link" for="nav-5">
       Unit1
-      <span class="md-nav__icon md-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42z"/></svg>
-      </span>
     </label>
-    <nav class="md-nav" aria-label="Unit1" data-md-level="1">
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
       <label class="md-nav__title" for="nav-5">
-        <span class="md-nav__icon md-icon">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
-        </span>
         Unit1
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
@@ -234,19 +382,13 @@
 
   <li class="md-nav__item md-nav__item--nested">
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-5-3" type="checkbox" id="nav-5-3">
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-5-3" type="checkbox" id="nav-5-3">
     
     <label class="md-nav__link" for="nav-5-3">
       Section 1
-      <span class="md-nav__icon md-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42z"/></svg>
-      </span>
     </label>
-    <nav class="md-nav" aria-label="Section 1" data-md-level="2">
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
       <label class="md-nav__title" for="nav-5-3">
-        <span class="md-nav__icon md-icon">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
-        </span>
         Section 1
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
@@ -372,19 +514,13 @@
 
   <li class="md-nav__item md-nav__item--nested">
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-5-4" type="checkbox" id="nav-5-4">
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-5-4" type="checkbox" id="nav-5-4">
     
     <label class="md-nav__link" for="nav-5-4">
       Section 2
-      <span class="md-nav__icon md-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42z"/></svg>
-      </span>
     </label>
-    <nav class="md-nav" aria-label="Section 2" data-md-level="2">
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
       <label class="md-nav__title" for="nav-5-4">
-        <span class="md-nav__icon md-icon">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
-        </span>
         Section 2
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
@@ -570,19 +706,13 @@
 
   <li class="md-nav__item md-nav__item--nested">
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-5-5" type="checkbox" id="nav-5-5">
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-5-5" type="checkbox" id="nav-5-5">
     
     <label class="md-nav__link" for="nav-5-5">
       Section 3
-      <span class="md-nav__icon md-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42z"/></svg>
-      </span>
     </label>
-    <nav class="md-nav" aria-label="Section 3" data-md-level="2">
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
       <label class="md-nav__title" for="nav-5-5">
-        <span class="md-nav__icon md-icon">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
-        </span>
         Section 3
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
@@ -727,19 +857,13 @@
 
   <li class="md-nav__item md-nav__item--active md-nav__item--nested">
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-6" type="checkbox" id="nav-6" checked>
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-6" type="checkbox" id="nav-6" checked>
     
     <label class="md-nav__link" for="nav-6">
       Unit2
-      <span class="md-nav__icon md-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42z"/></svg>
-      </span>
     </label>
-    <nav class="md-nav" aria-label="Unit2" data-md-level="1">
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
       <label class="md-nav__title" for="nav-6">
-        <span class="md-nav__icon md-icon">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
-        </span>
         Unit2
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
@@ -778,19 +902,13 @@
 
   <li class="md-nav__item md-nav__item--active md-nav__item--nested">
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-6-3" type="checkbox" id="nav-6-3" checked>
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-6-3" type="checkbox" id="nav-6-3" checked>
     
     <label class="md-nav__link" for="nav-6-3">
       Section 1
-      <span class="md-nav__icon md-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42z"/></svg>
-      </span>
     </label>
-    <nav class="md-nav" aria-label="Section 1" data-md-level="2">
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
       <label class="md-nav__title" for="nav-6-3">
-        <span class="md-nav__icon md-icon">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
-        </span>
         Section 1
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
@@ -853,14 +971,11 @@
 
   <li class="md-nav__item md-nav__item--active">
     
-    <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
     
     
       <label class="md-nav__link md-nav__link--active" for="__toc">
         Lesson 4: How Far is it from Typical?
-        <span class="md-nav__icon md-icon">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 9h14V7H3v2m0 4h14v-2H3v2m0 4h14v-2H3v2m16 0h2v-2h-2v2m0-10v2h2V7h-2m0 6h2v-2h-2v2z"/></svg>
-        </span>
       </label>
     
     <a href="./" title="Lesson 4: How Far is it from Typical?" class="md-nav__link md-nav__link--active">
@@ -868,16 +983,11 @@
     </a>
     
       
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+<nav class="md-nav md-nav--secondary">
   
   
   
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
-      </span>
-      Table of contents
-    </label>
+    <label class="md-nav__title" for="__toc">Table of contents</label>
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
@@ -885,19 +995,12 @@
     Lesson 4: How Far is it from Typical?
   </a>
   
-    <nav class="md-nav" aria-label="Lesson 4: How Far is it from Typical?">
+    <nav class="md-nav">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
   <a href="#objective" class="md-nav__link">
     Objective:
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#materials" class="md-nav__link">
-    Materials:
   </a>
   
 </li>
@@ -924,13 +1027,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#class-scribes" class="md-nav__link">
-    Class Scribes:
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#homework-next-day" class="md-nav__link">
     Homework &amp; Next Day
   </a>
@@ -941,6 +1037,10 @@
     </nav>
   
 </li>
+      
+      
+      
+      
       
     </ul>
   
@@ -1033,19 +1133,13 @@
 
   <li class="md-nav__item md-nav__item--nested">
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-6-4" type="checkbox" id="nav-6-4">
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-6-4" type="checkbox" id="nav-6-4">
     
     <label class="md-nav__link" for="nav-6-4">
       Section 2
-      <span class="md-nav__icon md-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42z"/></svg>
-      </span>
     </label>
-    <nav class="md-nav" aria-label="Section 2" data-md-level="2">
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
       <label class="md-nav__title" for="nav-6-4">
-        <span class="md-nav__icon md-icon">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
-        </span>
         Section 2
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
@@ -1159,19 +1253,13 @@
 
   <li class="md-nav__item md-nav__item--nested">
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-6-5" type="checkbox" id="nav-6-5">
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-6-5" type="checkbox" id="nav-6-5">
     
     <label class="md-nav__link" for="nav-6-5">
       Section 3
-      <span class="md-nav__icon md-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42z"/></svg>
-      </span>
     </label>
-    <nav class="md-nav" aria-label="Section 3" data-md-level="2">
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
       <label class="md-nav__title" for="nav-6-5">
-        <span class="md-nav__icon md-icon">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
-        </span>
         Section 3
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
@@ -1309,19 +1397,13 @@
 
   <li class="md-nav__item md-nav__item--nested">
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-6-6" type="checkbox" id="nav-6-6">
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-6-6" type="checkbox" id="nav-6-6">
     
     <label class="md-nav__link" for="nav-6-6">
       Section 4
-      <span class="md-nav__icon md-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42z"/></svg>
-      </span>
     </label>
-    <nav class="md-nav" aria-label="Section 4" data-md-level="2">
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
       <label class="md-nav__title" for="nav-6-6">
-        <span class="md-nav__icon md-icon">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
-        </span>
         Section 4
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
@@ -1428,19 +1510,13 @@
 
   <li class="md-nav__item md-nav__item--nested">
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-7" type="checkbox" id="nav-7">
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-7" type="checkbox" id="nav-7">
     
     <label class="md-nav__link" for="nav-7">
       Unit3
-      <span class="md-nav__icon md-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42z"/></svg>
-      </span>
     </label>
-    <nav class="md-nav" aria-label="Unit3" data-md-level="1">
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
       <label class="md-nav__title" for="nav-7">
-        <span class="md-nav__icon md-icon">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
-        </span>
         Unit3
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
@@ -1477,19 +1553,13 @@
 
   <li class="md-nav__item md-nav__item--nested">
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-7-3" type="checkbox" id="nav-7-3">
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-7-3" type="checkbox" id="nav-7-3">
     
     <label class="md-nav__link" for="nav-7-3">
       Section 1
-      <span class="md-nav__icon md-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42z"/></svg>
-      </span>
     </label>
-    <nav class="md-nav" aria-label="Section 1" data-md-level="2">
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
       <label class="md-nav__title" for="nav-7-3">
-        <span class="md-nav__icon md-icon">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
-        </span>
         Section 1
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
@@ -1603,19 +1673,13 @@
 
   <li class="md-nav__item md-nav__item--nested">
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-7-4" type="checkbox" id="nav-7-4">
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-7-4" type="checkbox" id="nav-7-4">
     
     <label class="md-nav__link" for="nav-7-4">
       Section 2
-      <span class="md-nav__icon md-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42z"/></svg>
-      </span>
     </label>
-    <nav class="md-nav" aria-label="Section 2" data-md-level="2">
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
       <label class="md-nav__title" for="nav-7-4">
-        <span class="md-nav__icon md-icon">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
-        </span>
         Section 2
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
@@ -1693,19 +1757,13 @@
 
   <li class="md-nav__item md-nav__item--nested">
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-7-5" type="checkbox" id="nav-7-5">
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-7-5" type="checkbox" id="nav-7-5">
     
     <label class="md-nav__link" for="nav-7-5">
       Section 3
-      <span class="md-nav__icon md-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42z"/></svg>
-      </span>
     </label>
-    <nav class="md-nav" aria-label="Section 3" data-md-level="2">
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
       <label class="md-nav__title" for="nav-7-5">
-        <span class="md-nav__icon md-icon">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
-        </span>
         Section 3
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
@@ -1843,19 +1901,13 @@
 
   <li class="md-nav__item md-nav__item--nested">
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-7-6" type="checkbox" id="nav-7-6">
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-7-6" type="checkbox" id="nav-7-6">
     
     <label class="md-nav__link" for="nav-7-6">
       Section 4
-      <span class="md-nav__icon md-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42z"/></svg>
-      </span>
     </label>
-    <nav class="md-nav" aria-label="Section 4" data-md-level="2">
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
       <label class="md-nav__title" for="nav-7-6">
-        <span class="md-nav__icon md-icon">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
-        </span>
         Section 4
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
@@ -1945,19 +1997,13 @@
 
   <li class="md-nav__item md-nav__item--nested">
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-7-7" type="checkbox" id="nav-7-7">
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-7-7" type="checkbox" id="nav-7-7">
     
     <label class="md-nav__link" for="nav-7-7">
       Section 5
-      <span class="md-nav__icon md-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42z"/></svg>
-      </span>
     </label>
-    <nav class="md-nav" aria-label="Section 5" data-md-level="2">
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
       <label class="md-nav__title" for="nav-7-7">
-        <span class="md-nav__icon md-icon">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
-        </span>
         Section 5
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
@@ -2076,19 +2122,13 @@
 
   <li class="md-nav__item md-nav__item--nested">
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-8" type="checkbox" id="nav-8">
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-8" type="checkbox" id="nav-8">
     
     <label class="md-nav__link" for="nav-8">
       Unit4
-      <span class="md-nav__icon md-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42z"/></svg>
-      </span>
     </label>
-    <nav class="md-nav" aria-label="Unit4" data-md-level="1">
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
       <label class="md-nav__title" for="nav-8">
-        <span class="md-nav__icon md-icon">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
-        </span>
         Unit4
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
@@ -2125,19 +2165,13 @@
 
   <li class="md-nav__item md-nav__item--nested">
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-8-3" type="checkbox" id="nav-8-3">
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-8-3" type="checkbox" id="nav-8-3">
     
     <label class="md-nav__link" for="nav-8-3">
       Section 1
-      <span class="md-nav__icon md-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42z"/></svg>
-      </span>
     </label>
-    <nav class="md-nav" aria-label="Section 1" data-md-level="2">
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
       <label class="md-nav__title" for="nav-8-3">
-        <span class="md-nav__icon md-icon">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
-        </span>
         Section 1
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
@@ -2347,19 +2381,13 @@
 
   <li class="md-nav__item md-nav__item--nested">
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-8-4" type="checkbox" id="nav-8-4">
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-8-4" type="checkbox" id="nav-8-4">
     
     <label class="md-nav__link" for="nav-8-4">
       Section 2
-      <span class="md-nav__icon md-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42z"/></svg>
-      </span>
     </label>
-    <nav class="md-nav" aria-label="Section 2" data-md-level="2">
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
       <label class="md-nav__title" for="nav-8-4">
-        <span class="md-nav__icon md-icon">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
-        </span>
         Section 2
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
@@ -2461,19 +2489,13 @@
 
   <li class="md-nav__item md-nav__item--nested">
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-8-5" type="checkbox" id="nav-8-5">
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-8-5" type="checkbox" id="nav-8-5">
     
     <label class="md-nav__link" for="nav-8-5">
       Section 3
-      <span class="md-nav__icon md-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42z"/></svg>
-      </span>
     </label>
-    <nav class="md-nav" aria-label="Section 3" data-md-level="2">
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
       <label class="md-nav__title" for="nav-8-5">
-        <span class="md-nav__icon md-icon">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
-        </span>
         Section 3
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
@@ -2539,19 +2561,13 @@
 
   <li class="md-nav__item md-nav__item--nested">
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-8-6" type="checkbox" id="nav-8-6">
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-8-6" type="checkbox" id="nav-8-6">
     
     <label class="md-nav__link" for="nav-8-6">
       Section 4
-      <span class="md-nav__icon md-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42z"/></svg>
-      </span>
     </label>
-    <nav class="md-nav" aria-label="Section 4" data-md-level="2">
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
       <label class="md-nav__title" for="nav-8-6">
-        <span class="md-nav__icon md-icon">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
-        </span>
         Section 4
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
@@ -2617,19 +2633,13 @@
 
   <li class="md-nav__item md-nav__item--nested">
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-8-7" type="checkbox" id="nav-8-7">
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-8-7" type="checkbox" id="nav-8-7">
     
     <label class="md-nav__link" for="nav-8-7">
       Section 5
-      <span class="md-nav__icon md-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42z"/></svg>
-      </span>
     </label>
-    <nav class="md-nav" aria-label="Section 5" data-md-level="2">
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
       <label class="md-nav__title" for="nav-8-7">
-        <span class="md-nav__icon md-icon">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
-        </span>
         Section 5
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
@@ -2712,19 +2722,13 @@
 
   <li class="md-nav__item md-nav__item--nested">
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-9" type="checkbox" id="nav-9">
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-9" type="checkbox" id="nav-9">
     
     <label class="md-nav__link" for="nav-9">
       PDF
-      <span class="md-nav__icon md-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42z"/></svg>
-      </span>
     </label>
-    <nav class="md-nav" aria-label="PDF" data-md-level="1">
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
       <label class="md-nav__title" for="nav-9">
-        <span class="md-nav__icon md-icon">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
-        </span>
         PDF
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
@@ -2790,19 +2794,13 @@
 
   <li class="md-nav__item md-nav__item--nested">
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-10" type="checkbox" id="nav-10">
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-10" type="checkbox" id="nav-10">
     
     <label class="md-nav__link" for="nav-10">
       Downloads
-      <span class="md-nav__icon md-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42z"/></svg>
-      </span>
     </label>
-    <nav class="md-nav" aria-label="Downloads" data-md-level="1">
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
       <label class="md-nav__title" for="nav-10">
-        <span class="md-nav__icon md-icon">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
-        </span>
         Downloads
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
@@ -2896,16 +2894,11 @@
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
                     
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+<nav class="md-nav md-nav--secondary">
   
   
   
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
-      </span>
-      Table of contents
-    </label>
+    <label class="md-nav__title" for="__toc">Table of contents</label>
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
@@ -2913,19 +2906,12 @@
     Lesson 4: How Far is it from Typical?
   </a>
   
-    <nav class="md-nav" aria-label="Lesson 4: How Far is it from Typical?">
+    <nav class="md-nav">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
   <a href="#objective" class="md-nav__link">
     Objective:
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#materials" class="md-nav__link">
-    Materials:
   </a>
   
 </li>
@@ -2952,13 +2938,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#class-scribes" class="md-nav__link">
-    Class Scribes:
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#homework-next-day" class="md-nav__link">
     Homework &amp; Next Day
   </a>
@@ -2969,6 +2948,10 @@
     </nav>
   
 </li>
+      
+      
+      
+      
       
     </ul>
   
@@ -2983,182 +2966,159 @@
               
                 
                 
-                  
-                
-                
                   <h1>Lesson 4: How Far is it from Typical?</h1>
                 
                 <h2 id="lesson-4-how-far-is-it-from-typical"><strong><em><u>Lesson 4: How Far is it from Typical?</u></em></strong></h2>
 <h3 id="objective"><strong>Objective:</strong></h3>
-<p>Students will understand that the mean of the absolute deviations (MAD) is a way to assess the degree of
+<p>You will understand that the mean of the absolute deviations (MAD) is a way to assess the degree of
 variation in the data from the mean and adjusts for differences in the number of points in the data set (<em>n</em>).
 The MAD measures the total distance between all the data values from the mean and divides it by the
 number of observations in the data set.</p>
-<h3 id="materials"><strong>Materials:</strong></h3>
-<ol>
-<li>
-<p>Masking tape (or painter’s tape) – approximately 4-5 feet long – one for each student team</p>
-</li>
-<li>
-<p><em>How Far Apart?</em> handout (<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit%202_v_5.0/LMR_2.6_How%20Far%20Apart.pdf">LMR_2.6_How Far Apart</a>) – will be used again in <a href="../lesson17/">Lesson 17</a></p>
-</li>
-<li>
-<p>Exported, printed, and reproduced class’s <em>Personality Color</em> survey data</p>
-</li>
-</ol>
 <h3 id="vocabulary"><strong>Vocabulary:</strong></h3>
 <p>measures of variability (spread), deviation, mean of absolute deviations (MAD)</p>
 <h3 id="essential-concepts"><strong>Essential Concepts:</strong></h3>
 <div class="admonition note">
 <p class="admonition-title">Essential Concepts: </p>
-<p>The mean of the absolute deviations, or MAD, is the typical distance of observations from the mean. MAD measures the variability in a sample of data - the larger the value, the greater the variability. There are other measures of spread as well, notably the standard deviation and the interquartile range (IQR).</p>
+<p>MAD measures the variability in a sample of data - the larger the value, the greater
+the variability. More precisely, the MAD is the typical distance of observations from the mean. There are
+other measures of spread as well, notably the standard deviation and the interquartile range (IQR).</p>
 </div>
 <h3 id="lesson"><strong>Lesson:</strong></h3>
 <ol>
 <li>
-<p>Remind students that they learned about 2 different measures of center during the previous 2
-lessons: the mean and the median. Have the students recall when it is appropriate to use each
-value based on the shape of the distribution.</p>
+<p>You learned about 2 different measures of center during the previous 2
+lessons: the mean and the median. <strong style="color: red;">Copy the sentence frames in your DS Journal and fill the blanks with the appropriate word/words:</strong></p>
 <ol>
 <li>
-<p>Mean – use with symmetric distributions.</p>
+<p><strong style="color: red;">Mean – is used with <strong><em>_</em></strong>______ distributions.</p>
 </li>
 <li>
-<p>Median – use with skewed distributions or when there are outliers.</p>
+<p>Median – is used with <strong><em>_</em></strong><strong><em>_ distributions or when there are </em></strong><strong><em>_</em></strong>.</strong></p>
 </li>
 </ol>
 </li>
 <li>
-<p>Inform the students that, during today’s lesson, they will learn about <strong>measures of variability</strong> –
+<p>In today's lesson, you will learn about <strong>measures of variability</strong> –
 also known as measures of <strong>spread</strong>. These values show us how much the quantitative data varies
-from the center of a distribution. Similar to measures of center, we will use two different measures
+from the center of a distribution. Similar to measures of center, you will use two different measures
 of spread: (1) the mean of absolute deviations (MAD), and (2) the interquartile range (IQR).</p>
-<p><strong><u>Note:</u></strong> IQR will be discussed in detail during <a href="../lesson5/">Lesson 5</a>.</p>
 </li>
 <li>
-<p>Introduce the term <strong>deviation*<em>. Using <em>Think</em>, <em>Pair</em>, <em>Share</em>, ask students what they think this word
-means and how it could relate to variability. <span style="color:grey"></em></strong>A deviation is the act of departing from an
-established course or accepted standard. Common synonyms include departure, detour,
-difference, digression, divergence, fluctuation, inconsistency, modification, shift, etc.***</span></p>
+<p><strong style="color: red;"> In your DS Journal, write what you think the word <strong>deviation</strong> means and how it could relate to variability and give at least 3 common synonyms like: fluctuation, modification, etc.</strong></p>
 </li>
 <li>
-<p>On the classroom floor next to each student team, place a 4-5 foot long piece of masking tape (or
-painter’s tape). Then, propose the following scenario:</p>
-<p>Your team has been invited to guest star at the circus! You have been asked to perform
+<p>Find an open floor space in your house and on the floor,<strong style="color: red;"> place a 4-5 foot long piece of masking tape (or painter’s tape). </strong> You will need the help of your family members to complete the activity. <strong style="color: red;">Read to the following scenario to them:</strong></p>
+<p>Your family team has been invited to guest star at the circus! You have been asked to perform
 as part of the tightrope act – a routine that requires tremendous focus and balance to
 walk across a tightly pulled rope that is suspended high in the air. In order to practice
 your balancing skills, the circus has provided your team with a line of tape that will
 represent the tightrope.</p>
 </li>
 <li>
-<p>Have the students consider the piece of tape (aka the rope) to be the “typical” path they must
-take to finish the circus act. Since they do not want to fall from the suspended tightrope while
-performing at the actual circus, they will need to practice walking directly on the middle of the line
-at all times. If they <em>deviate</em> from the line, they will no longer be walking the “typical” path, and will
+<p>Have the entire family consider the piece of tape (aka the rope) to be the “typical” path you all must
+take to finish the circus act. Since nobody wants to fall from the suspended tightrope while
+performing at the actual circus, you will all need to practice walking directly on the middle of the line
+at all times. If anyone <em>deviates</em> from the line, he/she will no longer be walking the “typical” path, and will
 likely fall.</p>
 </li>
 <li>
-<p>Each team should select one student to be their starting performer.</p>
+<p>You should select who will be the starting performer.</p>
 </li>
 <li>
-<p>In teams of 4, one student is the performer, two are measuring the distance of the deviation (one
+<p>There should be at least 4 of you working together in this activity, one is the performer, two are measuring the distance of the deviation (one
 on each side of the tape), and one is the recorder.</p>
 </li>
 <li>
 <p>Place a ruler perpendicular to the “rope” and measure the distance, in centimeters, from the path
-to the center of the back of their heel as the student walks and attempts to balance across the
+to the center of the back of their heel as one family member walks and attempts to balance across the
 “rope.”</p>
 </li>
 <li>
-<p>The performer will walk the tightrope by looking straight up to the sky – first they look to place a
+<p>The performer will walk the tightrope by looking straight up to the sky – first looking to place a
 foot on the line, then walk naturally while looking up to the sky, and repeating one step at a time
 for 4 steps, measuring after each step. Any time the performer missteps, this is considered a
-variation from the typical value. <em>You can have students take turns so everyone gets a chance to
-balance, walk, and to measure, depending on time in your class.</em></p>
+variation from the typical value. You will take turns so everyone gets a chance to
+balance, walk, measure and to record your observations in the DS Journal.</p>
+</li>
+</ol>
+<p><strong style="color: blue;">Insert video of the process here</strong></p>
+<ol>
+<li>
+<p>Now that you have an idea about what it means to deviate from something you consider
+“typical,” you can start looking at distributions to see how data points vary from your typical value.</p>
 </li>
 <li>
-<p>Now that the students have an idea about what it means to deviate from something they consider
-“typical,” they can start looking at distributions to see how data points vary from their typical value.</p>
-</li>
-<li>
-<p>Inform students that they were observing deviations from typical while calculating actual
+<p>In this activity, you were observing deviations from typical while calculating actual
 differences between the rope and the performer’s steps. When data are quantified with numbers,
-we can then calculate how far away each value is from the center.</p>
+you can then calculate how far away each value is from the center.</p>
 </li>
 <li>
 <p>One such calculation that is popular among data scientists is the mean of absolute deviations
-(MAD). Ask students to consider the components of the MAD in math terms, and brainstorm what
-the MAD value might represent.</p>
-<p><span style="color:grey"><strong><em>mean – an average</em></strong></span></p>
-<p><span style="color:grey"><strong><em>absolute – in mathematics, we talk about absolute value, the positive difference
-between 2 numerical values</em></strong></span></p>
-<p><span style="color:grey"><strong><em>deviation – as discussed earlier in the lesson, deviation represents how much
-things vary</em></strong></span></p>
+(MAD). Consider the components of the MAD in math terms, and in your DS Journal, write what the MAD value might represent.</p>
+<p><strong style="color: red;"><strong><em>mean – average</em></strong></p>
+<p><strong><em>absolute – <em><strong>_</strong></em><em><strong>_</strong></em>____</em></strong></p>
+<p><strong><em>deviation – <em><strong>_</strong></em><em><strong>_</strong></em>___</em></strong></strong></p>
 </li>
 <li>
-<p>Using the 3 concepts in Step 10, explain that the MAD measures the absolute distance of each
-data point from the mean, and then finds the average of all those distances.</p>
+<p>Using the 3 concepts in Step 10, the MAD measures the absolute distance of each data point from the mean, and then finds the average of all those distances.</p>
 </li>
 <li>
-<p>Display the formula for the MAD distribution for the whole class to see.
+<p>Below is the formula for the MAD distribution:
 <center><img src="https://latex.codecogs.com/gif.latex?MAD=\frac{ &space;\sum_{x=1}^{n}&space;|x_i-\bar{x}|}{n}" title="MAD=\frac{ \sum_{x=1}^{n} |x_i-\bar{x}|}{n}" /></center></p>
 </li>
 <li>
-<p>Discuss what each symbol in the formula means and how we use it to perform the calculation. <span style="color:grey"><strong><em>x<sub>i</sub>
-represents each individual data point, x̄ represents the mean value, and n represents
-the total number of observations. The symbol Σ represents the summation – this tells us
-to add up all the absolute distances from each point to the mean.</em></strong></span></p>
+<p><strong style="color: red;">Copy the formula in your DS Journal and write what each symbol in the formula means and how we use it to perform the calculation by completing the table below:</p>
+<p><strong><em>x<sub>i</sub> - represents each individual data point</em></strong></p>
+<p><strong><em>x̄             - represents the mean value</em></strong></p>
+<p><strong><em>n             - <em><strong>_</strong></em><em><strong>_</strong></em><em><strong>_</strong></em>____</em></strong></p>
+<p><strong><em>Σ             -<em><strong>_</strong></em><em><strong>_</strong></em><em><strong>_</strong></em>_____</em></strong></strong></p>
 </li>
 <li>
-<p>To practice using this formula with actual data, students will calculate and compare the MAD
-values for 2 distributions.</p>
+<p>To practice using this formula with actual data, you will calculate and compare the MAD values for 2 distributions.</p>
 </li>
 <li>
-<p>Distribute the <em>How Far Apart?</em> handout (<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit%202_v_5.0/LMR_2.6_How%20Far%20Apart.pdf">LMR_2.6</a>), which contains 2 of the dot plots - plots (a)
-and (c) from the <em>Where is the Middle?</em> handout (<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit%202_v_5.0/LMR_2.5_Where%20is%20the%20Middle.pdf">LMR_2.5</a>) used in <a href="../lesson3/">Lesson 3</a>. As before, the dot
+<p>Download  the <em>How Far Apart?</em> handout  (<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.6_How Far Apart.pdf">LMR_2.6</a>), which contains 2 of the dot plots - plots (a)
+and (c) from the <em>Where is the Middle?</em> handout (<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.5_Where is the Middle.pdf">LMR_2.5</a>) used in <a href="../lesson3/">Lesson 3</a>. As before, the dot
 plots depict the number of candies eaten by a group of 17 high school students on different days
 of the week. The means are also given.
-<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.6_How Far Apart.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br><a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit%202_v_5.0/LMR_2.6_How%20Far%20Apart.pdf">LMR_2.6</a></div></p>
-<p><span style="color:grey"><strong>The calculations for each plot are shown below for the teacher’s reference.</strong></span></p>
+<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.6_How Far Apart.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br><a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.6_How Far Apart.pdf">LMR_2.6</a></div></p>
+<p><span style="color:grey"><strong>The calculations for each plot are shown below for your reference reference.</strong></span></p>
 <p><u><span style="color:grey"><strong><em>MAD for plot (a)</em></strong></span></u></p>
 <p><img src="https://latex.codecogs.com/gif.latex?\begin{align*}&space;MAD&space;&=&space;\frac{1|0-2|&plus;5|1-2|&plus;6|2-2|&plus;3|3-2|&plus;2|4-2|}{17}&space;\\&space;&=&space;\frac{1(2)&plus;5(1)&plus;6(0)&plus;3(1)&plus;2(2)}{17}\\&space;&=&space;\frac{2&plus;5&plus;0&plus;3&plus;4}{17}\\&space;&=&space;\frac{14}{17}\\&space;&\approx&space;0.8235&space;\end{align*}" title="\begin{align*} MAD &= \frac{1|0-2|+5|1-2|+6|2-2|+3|3-2|+2|4-2|}{17} \\ &= \frac{1(2)+5(1)+6(0)+3(1)+2(2)}{17}\\ &= \frac{2+5+0+3+4}{17}\\ &= \frac{14}{17}\\ &\approx 0.8235 \end{align*}" /></p>
 <p><u><span style="color:grey"><strong><em>MAD for plot (c)</em></strong></span></u></p>
 <p><img src="https://latex.codecogs.com/gif.latex?\begin{align*}&space;MAD&space;&=&space;\frac{3|0-2.53|&plus;0|1-2.53|&plus;4|2-2.53|&plus;5|3-2.53|&plus;5|4-2.53|}{17}&space;\\&space;&=&space;\frac{3(2.53)&plus;0(1.53)&plus;4(0.53)&plus;5(0.47)&plus;5(1.47)}{17}\\&space;&=&space;\frac{7.59&plus;0&plus;2.12&plus;2.35&plus;7.35}{17}\\&space;&=&space;\frac{19.41}{17}\\&space;&\approx&space;1.1418&space;\end{align*}" title="\begin{align*} MAD &= \frac{3|0-2.53|+0|1-2.53|+4|2-2.53|+5|3-2.53|+5|4-2.53|}{17} \\ &= \frac{3(2.53)+0(1.53)+4(0.53)+5(0.47)+5(1.47)}{17}\\ &= \frac{7.59+0+2.12+2.35+7.35}{17}\\ &= \frac{19.41}{17}\\ &\approx 1.1418 \end{align*}" /></p>
 </li>
 <li>
-<p>Students may work in pairs to complete the handout. After all student pairs have come to an
-agreement on their answers, pose the following questions to the class as a whole:</p>
+<p><strong style="color: red;">Complete the handout and answer the following questions in your DS Journal: </strong></p>
 <ol>
 <li>
-<p>Which MAD value did you think would be larger based only on the look/shape of the
-distributions? Why? <span style="color:grey"><strong><em>Since plot (c) is skewed to the left, it probably has a larger MAD
+<p><strong style="color: red;">Which MAD value did you think would be larger based only on the look/shape of the
+distributions? Why? </strong>
+<span style="color:grey"><strong><em>Since plot (c) is skewed to the left, it probably has a larger MAD
 because more points will be further away from the mean than in plot (a).</em></strong></span></p>
 </li>
 <li>
-<p>Which MAD value was actually larger when you calculated it? <span style="color:grey"><strong><em>The MAD value for plot
-(c) was larger (1.1418 &gt; 0.8253).</em></strong></span></p>
+<p><strong style="color: red;">Which MAD value was actually larger when you calculated it? </strong></p>
 </li>
 <li>
-<p>Did your prediction match the actual calculated values, or were you surprised by the
-results? <span style="color:grey"><strong><em>Yes. The distribution with the wider spread (more variability) had the larger
-MAD value.</em></strong></span></p>
+<p><strong style="color: red;">Did your prediction match the actual calculated values, or were you surprised by the
+results? </strong></p>
 </li>
 </ol>
 </li>
 <li>
-<p>To continue exploring with the class’s Personality Color survey data, student teams should
-calculate the MAD value for their <span style="color:blue"><strong><em>Blue</em></strong></span> scores. Does the MAD value seem reasonable based on
-the dot plot they created during <a href="../lesson2/">Lesson 2</a>?</p>
+<p>To continue exploring with the class’s Personality Color survey data, let's revisit the same dot plot visuals that we used in Lesson 2.<br />
+<strong style="color: blue;">Insert visuals here</strong>
+<strong style="color: red;">Compute the MAD value for the <span style="color:blue"><strong><em>Blue</em></strong></span> scores Does the MAD value seem reasonable based on the dot plot?</strong></p>
 </li>
 </ol>
-<h3 id="class-scribes"><strong>Class Scribes:</strong></h3>
-<p>One team of students will give a brief talk to discuss what they think the 3 most important topics of the
-day were.</p>
 <h3 id="homework-next-day"><p style="background: black; color: white; text-align: center;"><strong>Homework &amp; Next Day</strong></p></h3>
-<p>Students should calculate the MAD values for each of the other 3 personality color scores and
+<p>Calculate the MAD values for each of the other 3 personality color scores and
 compare the values of the 4 color scores.</p>
 <p><a href="../lab2a/"><u><strong><em>LAB 2A: All About Distributions</em></strong></u></a></p>
 <p>Complete <a href="../lab2a/">Lab 2A</a> prior to <a href="../lesson5/">Lesson 5</a>.</p>
+                
+                  
                 
               
               
@@ -3175,34 +3135,34 @@ compare the values of the 4 color scores.</p>
 <footer class="md-footer">
   
     <div class="md-footer-nav">
-      <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
+      <nav class="md-footer-nav__inner md-grid">
         
-          <a href="../lesson3/" title="Lesson 3: Median in the Middle" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
-            <div class="md-footer-nav__button md-icon">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+          <a href="../lesson3/" title="Lesson 3: Median in the Middle" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
             </div>
-            <div class="md-footer-nav__title">
-              <div class="md-ellipsis">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
                 <span class="md-footer-nav__direction">
                   Previous
                 </span>
                 Lesson 3: Median in the Middle
-              </div>
+              </span>
             </div>
           </a>
         
         
-          <a href="../lab2a/" title="Lab 2A - All About Distributions" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
-            <div class="md-footer-nav__title">
-              <div class="md-ellipsis">
+          <a href="../lab2a/" title="Lab 2A - All About Distributions" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
                 <span class="md-footer-nav__direction">
                   Next
                 </span>
                 Lab 2A - All About Distributions
-              </div>
+              </span>
             </div>
-            <div class="md-footer-nav__button md-icon">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
             </div>
           </a>
         
@@ -3213,10 +3173,11 @@ compare the values of the 4 color scores.</p>
     <div class="md-footer-meta__inner md-grid">
       <div class="md-footer-copyright">
         
-        Made with
-        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
-          Material for MkDocs
-        </a>
+        powered by
+        <a href="https://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
       </div>
       
     </div>
@@ -3225,18 +3186,9 @@ compare the values of the 4 color scores.</p>
       
     </div>
     
-      <script src="../../assets/javascripts/vendor.92ffa368.min.js"></script>
-      <script src="../../assets/javascripts/bundle.5123e3d4.min.js"></script><script id="__lang" type="application/json">{"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents"}</script>
+      <script src="../../assets/javascripts/application.ac79c3b0.js"></script>
       
-      <script>
-        app = initialize({
-          base: "../..",
-          features: [],
-          search: Object.assign({
-            worker: "../../assets/javascripts/worker/search.a68abb33.min.js"
-          }, typeof search !== "undefined" && search)
-        })
-      </script>
+      <script>app.initialize({version:"1.0.4",url:{base:"../.."}})</script>
       
     
   </body>

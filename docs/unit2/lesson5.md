@@ -1,21 +1,9 @@
 ##***<u>Lesson 5: Human Boxplots</u>***
 
 ###**Objective:**
-Students will learn how and when to use boxplots to compare groups of data. They will learn how to
+You will learn how and when to use boxplots to compare groups of data. You will also learn how to
 compute and interpret another measure of spread: the IQR.
 
-###**Materials:**
-1. Poster paper, 3-4 feet long
-
-    **Advanced preparation required** (see Step 9 below)
-
-2. Tape
-
-3. Poster paper
-
-4. Markers
-
-5. *Ages of Oscar Winners* handout ([LMR_2.7_Oscar Ages](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.7_Oscar Ages.pdf))
 
 ###**Vocabulary:**
 boxplot, quartiles, first quartile (Q<sub>1</sub>), third quartile (Q<sub>3</sub>), quantiles, minimum, maximum, five-number
@@ -30,7 +18,7 @@ summary, range, interquartile range (IQR)
     distributions from different groups when all of the distributions are unimodal (one hump).
 
 ###**Lesson:**
-1. Remind students that we have been using the following numerical and graphical summaries to
+1. We have been using the following numerical and graphical summaries to
 look at data:
 
     100. Measures of center – mean, median
@@ -39,45 +27,33 @@ look at data:
 
     100. Graphing – dotPlots, histograms
 
-2. Explain that all of these tools help us describe data to someone who may not actually be viewing
-it. Today, we will explore another way to summarize and describe data to others with the use of
+2. All of these tools help us describe data to someone who may not actually be viewing it. Today, we will explore another way to summarize and describe data to others with the use of
 another type of statistical plot that involves breaking data up into distinct pieces: a **boxplot**.
 
-3. For the next activity, students will need to carry their DS journals and a pen with them.
+3. For the next activity, you will need your DS journals and a pen.
 
-4. Instruct students to stand up and move their chairs away from the longest wall in the classroom.
-Ask them to line up against the wall (in no particular order).
+4. You will have to go to your kitchen area at home and gather food containers (plastic, canned or glass bottles) of different sizes and heights. They do not have to be empty (check your refrigerator, cabinets, under the sink). Place all the food containers that you have gathered on top of the counter or table.You will need at least 19 of them.
 
-    **<u>Note:</u>** If there isn’t enough room for everyone to line up together inside the classroom, you may
-    do this activity outside along a building wall.
+    **<u>Note:</u>** If there isn’t enough food containers, you may use also check your laundry area.
 
-5. Say, “I want to know which person represents the typical height of students in our class. Can I tell
-by looking at the line as it currently stands? How would I be able to tell?” Students should discuss
-with a partner.
+5. After you have gathered all the food containers and by just looking as they currently stand, will you be able to tell which of them represents the typical height of food containers in your home? How would you be able to tell?” 
 
-6. Ask students to share their discussions. Call on students to contribute to what has been shared if
-needed. Guide students to see that organizing the data (in other words, themselves) can give you
-a visual for their heights. Then tell them to line up in height order from shortest to tallest along the
-wall.
+  100. Do a Quickwrite on your DS Journal on how you will be able to "spot" a better visual for the heights of the food containers.
 
-7. Once students are arranged (and this may take a little time—allow students to develop their own
-algorithm for finding the ordering), ask them how they might be able to describe their distribution
-of heights. <span style="color:grey">***Possible answers include: mean, median, MAD.***</span>
+6. Line the food "bottles" up in height order from shortest to tallest.
 
-8. Ask them to split themselves into two groups, one half that is taller and one half that is shorter,
-and have them decide which student represents the class’s median height.
+7. Once you have arranged them, how do you describe the distribution
+of heights. Is there any trend that you are observing?
 
-9. Have the median student stand next to the wall directly in front of the poster paper.
+8. Split the your distribution into two groups, one half that is taller and one half that is shorter,
+and decide which "bottle" or can represents the median height.
 
-    **Advanced preparation required:** Before class begins, tape a piece of poster paper,
-    approximately 3-4 feet long, vertically to a wall in the classroom. The students will be
-    creating a plot using lines drawn at certain students’ heights.
+9.  Tape a piece of paper, vertically to a wall in your kitchen. Place the "median" container stand next to the wall directly in front of the paper. You will be creating a plot using lines drawn at certain heights.
 
-10. Draw a horizontal line on the poster paper to mark the location of the median by having the actual
-student stand in front of the poster paper so you can mark his/her exact height. Be sure to label
-this point as the median and include the student’s actual height, in inches.
+10. Draw a horizontal line on the poster paper to mark the location of the median. Be sure to label
+this point as the median and include the container's actual height, in centimeters.
 
-11. Next, ask the two halves to split again, so there are now four groups of students.
+11. Next, split the two halves to again, so there are now four groups of containers.
 
 12. The breaks between each group are called **quartiles** because they break the data into four
 groups (*quartile* comes from the Latin word *quartus*, which is also the root of the Spanish word
@@ -86,70 +62,67 @@ this student’s height), and the upper break represents the **third quartile** 
 class is shorter than this height). Another term that can be used in place of percentiles is
 **quantiles** because they represent the *quantity* of data that is lower than that value.
 
-13. Using the student who represents the first quartile, draw another horizontal line on the poster
-paper marking his/her height. The student should stand in the same spot as the student who
-represented the median so that the line for this student is drawn underneath the median line. Be
-sure to label this point as the first quartile (or **Q<sub>1</sub>**) and include the student’s actual height, in
-inches.
+13. Using the container that represents the first quartile, draw another horizontal line on the 
+paper marking its height. You should place the container in the same spot as the container which
+represented the median so that the line for this container is drawn underneath the median line. Be
+sure to label this point as the first quartile (or **Q<sub>1</sub>**) and include the container'ss actual height, in
+centimeters.
 
-14. Using the student who represents the third quartile, draw another horizontal line on the poster
-paper marking his/her height. The student should stand in the same spot as the student who
-represented the median so that the line for this student is drawn above the median line. Be sure
-to label this point as the third quartile (or **Q<sub>3</sub>**) and include the student’s actual height, in inches.
+14. Using the container that represents the third quartile, draw another horizontal line on the
+paper marking its height. The container should stand in the same spot as the container that
+represented the median so that the line for this container is drawn above the median line. Be sure
+to label this point as the third quartile (or **Q<sub>3</sub>**) and include the container’s actual height, in centimeters.
 
-15. Finally, ask the tallest and shortest student to stand in front of the poster paper and draw
-horizontal lines at their heights. The shortest person represents the **minimum** height of the
-students in the class, and the tallest person represents the **maximum** height. Be sure to label the
-points as the minimum and maximum, and include the students’ actual heights, in inches.
+15. Finally, use the tallest and shortest container to stand in front of the paper and draw
+horizontal lines at their heights. The shortest container represents the **minimum** height of the
+containers in your kitchen, and the tallest represents the **maximum** height. Be sure to label the
+points as the minimum and maximum, and include the containers’ actual heights, in centimeters.
 
 16. When you finish, you should have five lines, which represent the **five-number summary**:
 minimum, first quartile, median, third quartile, and maximum. Draw a box using the first and third
 quartiles as the edges of the box. The median line will be contained within the box. Extend a line
 from the first quartile down to the minimum and extend a line from the third quartile up to the
-maximum. Your class’s boxplot should look similar to the following:
+maximum. Your boxplot should look similar to the following:
 
-    <img src="../../img/20516.png" />
+    <strong style="color: blue;">Insert picture of a boxplot and video of the process for students to refer</strong>
 
-17. Students should now be facing the newly created boxplot. Allow students time to sketch the
-boxplot in their DS journals, with the appropriate labels.
+17. Sketch the boxplot in your DS journals, with the appropriate labels.
 
-18. Ask students:
+18. Answer the following questions in your DS Journal using the boxplot that you just created:
 
-    100. What is the difference between the largest and smallest heights? Is there a large
-    difference between the tallest and shortest person? <span style="color:grey">***Students should calculate
-    maximum – minimum.***</span> Inform students that this difference is known as the **range** of the
-    data set.
+    <strong style="color: red;">100. Inform students that this difference is known as the **range** of the
+    data set. What is the difference between the largest and smallest heights? Is there a large
+    difference between the tallest and shortest container? </strong>
+    
+    <strong style="color: red;">101. What is the difference between the quartiles Q<sub>1</sub> and Q<sub>3</sub>? What percent of your distribution falls
+    within these two values? When you calculate Q<sub>3</sub> – Q<sub>1</sub>. 50% of the class falls
+    between these two height values.This difference is known as the
+    **interquartile range (or IQR)**.</strong>
 
-    100. What is the difference between the quartiles Q<sub>1</sub> and Q<sub>3</sub>? What percent of our class falls
-    within these two values? <span style="color:grey">***Students should calculate Q<sub>3</sub> – Q<sub>1</sub>. 50% of the class falls
-    between these two height values.***</span> Inform students that this difference is known as the
-    **interquartile range (or IQR)**.
+19. You learned about one measure of spread (the MAD) during the previous
+lesson, and you now have another measure of spread – the IQR. Do a quickwrite in your DS Journal about to answer the following questions:
 
-19. Remind students that they learned about one measure of spread (the MAD) during the previous
-lesson, and tell them that we now have another measure of spread – the IQR. Pose the following
-questions to the students:
+  <strong style="color: red;">100. What does it mean when the IQR is small? Circle one of the underlined words </strong>
+        
+The middle 50% of heights are <u>close/spread-out</u> to each other.
 
-    100. What does it mean when the IQR is small? <span style="color:grey">***The middle 50% of heights are close to
-    each other.***</span>
+  <strong style="color: red;">101. What does it mean when the IQR is large? Circle one of the underlined word</strong>
+         
+The middle 50% of heights are <u>close/spread-out</u>spread out.
 
-    100. What does it mean when the IQR is large? <span style="color:grey">***The middle 50% of heights are more
-    spread out.***</span>
+20. Finally, subset the distribution into canned and plastic/glass. You will create each a boxplot of  heights on a piece of paper using the techniques you just learned in today's session.
 
-20. Finally, subset the class into males and females. Ask each group of students (the males and
-females) to create a boxplot of their group’s heights on a piece of poster paper using the
-techniques they just learned as a class.
+21. In your DS Journal:
 
-21. Ask each group to share their boxplot with the class. Lead a discussion about the similarities and
-differences between the plots, and be sure to include how they compare to the overall combined
-boxplot of heights they created earlier. In the discussion, have the students calculate the IQR for
-both plots and make a comparison by asking: What does the IQR tell us about each group?
-<span style="color:grey">***Answers will vary by class.***</span>
+    <strong style="color: red;">100. Copy your boxplots.
+    101. Write about the similarities and differences between the plots. 
+    102. Compare to the overall combined boxplot of heights that you created earlier. 
+    103. Calculate the IQR for both plots.
+    104. What does the IQR tell us about each group?</strong>
 
-###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics of the
-day were.
 
-###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Students should complete the *Ages of Oscar Winners* handout ([LMR_2.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.7_Oscar Ages.pdf)) for homework using their
+
+
+###<p style="background: black; color: white; text-align: center;">**Homework**</p>You should complete the *Ages of Oscar Winners* handout ([LMR_2.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.7_Oscar Ages.pdf)) for your homework your
 newly acquired knowledge of boxplots
 <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.7_Oscar Ages.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.7_Oscar Ages.pdf)</div>

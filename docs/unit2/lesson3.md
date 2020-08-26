@@ -39,114 +39,86 @@ numbers in numerical order (from lowest to highest).
 
 A class of 28 students were randomly given sticky notes with numbers 0 on all of them but one, which is 1,000,000. 
 
-7. If you were to create a dot plot by placing the sticky
-notes at the corresponding values on the axis, write your answers to the following questions in your DS Journal:
+7. Below is a visualization (dot plot)created by a class by placing the sticky
+notes at the corresponding values on the x-axis. write your answers to the following questions in your DS Journal:
+
+<strong style="color: blue;"> Insert chart/picture here</strong>
+
 
     100. <strong style="color: red;">What is the typical value of these data? </strong>
     
-    101. <strong style="color: red;">Using the formula we learned in class, what's the mean, or average, value of this
-    distribution. </strong>
+    101. <strong style="color: red;"> Using the formula we learned in class, what's the mean, or average, value of this distribution. </strong>
     
-    102. <strong style="color: red;">Does the mean you calculated match your understanding of “typical?</strong>
+    102. <strong style="color: red;"> Does the mean you calculated match your understanding of “typical?</strong>
     
-    103<strong style="color: red;"> Why is the mean not capturing our notion of “typical?” </strong>
+    103. <strong style="color: red;"> Why is the mean not capturing our notion of “typical?” </strong>
+  
 
-8. Since you were introduced to the idea of the median as a measure of center at the beginning of class,
-have the students find the median value of the data on their sticky notes. If time permits, have
-them place the sticky notes in a line across the board in order (from least to greatest) and have
-them find the middle number. The median value will be 0.
+8. Since you were introduced to the idea of the median as a measure of center at the beginning of class, what do you think will be the median value for this data set?
 
-9. Ask students why there is such a large difference between the mean and median values even
-though they are both measures of center? Is there a specific reason why the mean is larger than
-the median for this particular set of data? <span style="color:grey">***In this case, there was an outlier value that skewed
-the distribution and forced the balancing point to move to the right.***</span>
+9. In your DS Journal, write the answers to the following questions:
 
-10. Display the first 2 plots in the *Medians – Dotplots or Histograms*? file ([LMR_2.4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.4_Medians - Dotplots or Histograms.pdf)). They are
-labeled as plots for discussion for the *beginning* of class. Both the dotplot and histogram depict
+    100. <strong style="color: red;">Why is there such a large difference between the mean and median values even though they are both measures of center? </strong>
+
+    101. <strong style="color: red;">Is there a specific reason why the mean is larger than the median for this particular set of data? </strong>
+
+10. Download your material for the next activity *Medians – Dotplots or Histograms*? file ([LMR_2.4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.4_Medians - Dotplots or Histograms.pdf)). Both the dotplot and histogram depict
 the number of candies eaten by a group of 17 high school students.
 <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.4_Medians - Dotplots or Histograms.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.4_Medians - Dotplots or Histograms.pdf)</div>
 
-11. For the first 2 plots, ask students:
+11. <strong style="color: red;">For the first 2 plots, write your answers to the following questions in your DS Journal:</strong>
 
-    100. Which plot makes it easier to find the median number of candies eaten – the dot plot or
-    the histogram? Why? <span style="color:grey">***The dot plot is easier because we can simply find the middle
-    dot and record the value. It is harder on the histogram, because we would have to
-    add up amount in each bar to find the middle person.***</span>
+    100. <strong style="color: red;">Which plot makes it easier to find the median number of candies eaten – the dot plot or the histogram? Why? </strong>
 
-    100. What is the median value? <span style="color:grey">***The median number of candies eaten is 1 candy.***</span>
+    101. <strong style="color: red;">What is the median number of candies eaten? </strong>
 
-12. Inform the students that they will practice finding medians of distributions using the *Where is the
-Middle?* handout ([LMR_2.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.5_Where is the Middle.pdf)). They will be determining medians when distributions have different
+12. You will practice finding medians of distributions using the *Where is the
+Middle?* handout ([LMR_2.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.5_Where is the Middle.pdf)). You will be determining medians when distributions have different
 shapes (e.g., symmetric, left-skewed, right-skewed).
 
-13. Distribute the *Where is the Middle?* handout ([LMR_2.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.5_Where is the Middle.pdf)). Students should complete the handout
-individually first, then compare answers with their team members. Once each team has agreed
-upon their answers, discuss the handout as a class.
+13. Download the *Where is the Middle?* handout ([LMR_2.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.5_Where is the Middle.pdf)). Follow the instructions in your handout and complete it. 
+
 <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.5_Where is the Middle.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.5_Where is the Middle.pdf)</div>
 
-14. Ask the following questions to elicit a team discussion about the relationship between means and
-medians:
+14. In your DS journal, answer the following questions:
 
-    100. What did you notice about the relationship between the mean and median values for the
-    symmetric distributions? <span style="color:grey">***The mean and median values in the symmetric distributions - 
-    plots (a) and (d) - are fairly similar. For plot (a), the mean and median are exactly
-    equal. For plot (d), the mean is actually larger than the median, but not by much
-    (2.29 > 2).***</span>
+    100. <strong style="color: red;">What did you notice about the relationship between the mean and median values for the
+    symmetric distributions? </strong>
 
-    100. What did you notice about the relationship between the mean and median values for the
-    left-skewed distributions? <span style="color:grey">***The mean value was smaller than the median value in both
-    of the left-skewed distributions - plots (c) and (f). Both plots had the same values
-    for the mean (2.53) and the median (3.00) - clearly, the mean is much smaller than
-    the median (2.53 &lt; 3).***</span>
+    101. <strong style="color: red;">What did you notice about the relationship between the mean and median values for the
+    left-skewed distributions? </strong>
 
-    100. What did you notice about the relationship between the mean and median values for the
-    right-skewed distributions? <span style="color:grey">***The mean value was larger than the median value in both
-    of the right-skewed distributions - plots (b) and (e). For plot (b), the mean was only
-    slightly higher than the median (1.18 > 1). For plot (e), the mean was a decent
-    amount higher than the median (0.47 > 0).***</span>
+    102. <strong style="color: red;">What did you notice about the relationship between the mean and median values for the
+    right-skewed distributions? </strong>
 
-15. Steer the discussion towards the relationship between the shape of a distribution and its
+15. Continue referring back to the activity sheet that you just answered, focus on the  relationship between the shape of a distribution and its
 corresponding mean and median values.
 
-    100. Is there a pattern that emerges between the mean and median values for differently
-    shaped distributions? <span style="color:grey">***Yes! It seems that symmetric distributions will produce similar
-    mean and median values, left-skewed distributions will produce smaller means and
-    higher medians, and right-skewed distributions will produce higher means and
-    smaller medians.***</span>
+    100. <strong style="color: red;">Is there a pattern that emerges between the mean and median values for differently
+    shaped distributions? </strong>
 
-    100. For each of the plots in the *Where is the Middle?* handout ([LMR_2.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.5_Where is the Middle.pdf)), which value better
-    matches your idea of “typical” for that specific distribution? <span style="color:grey">***For plot (a), both the mean
-    and median agree and appear to be the balancing point of the distribution – both
-    match what we think is typical. For plot (b), the median seems to be more typical,
-    but the values are very close. For plot (c), the median appears to be a more typical
-    value. For plot (d), both the mean and median appear to be capturing our idea of
-    typical. For plot (e), the median is a better match to typical. For plot (f), the median
-    is also a better match.***</span>
+    101. <strong style="color: red;">For each of the plots in the *Where is the Middle?* handout ([LMR_2.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.5_Where is the Middle.pdf)), which value better
+    matches your idea of “typical” for that specific distribution? </strong>
 
-16. Steer the discussion so that students recognize that the better measures of center for skewed
-distributions are typically medians, and the better measures for center for symmetric distributions
-are typically means.
+16. <strong style="color: red;"> What patterns can we recognize to be the better measures of center for skewed
+distributions, and for symmetric distributions?</strong>
 
-17. Display the last 2 plots in the *Medians – Dotplots or Histograms* file ([LMR_2.4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.4_Medians - Dotplots or Histograms.pdf)). They are labeled
-as plots for discussion for the end of class. Both the dot plot and histogram depict the number of
+17. Consider the last 2 plots in the *Medians – Dotplots or Histograms* file ([LMR_2.4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.4_Medians - Dotplots or Histograms.pdf)).  Both the dot plot and histogram depict the number of
 candies eaten by a group of 330 high school students.
 
-18. For the last 2 plots, ask students:
+18. <strong style="color: red;">Answer the following questions in your DS journal:</strong>
     
-    100. Which plot makes it easier to find the median number of candies eaten – the dot plot or
-    the histogram? Why? <span style="color:grey">***The histogram is easier because we can estimate based on the
-    distribution’s shape. There are too many dots in the dot plot to find the exact
-    middle person.***</span>
+    100. <strong style="color: red;">Which plot makes it easier to find the median number of candies eaten – the dot plot or the histogram? Justify your answer.</strong>
     
-    100. What is the median value? <span style="color:grey">***The median number of candies eaten is 7 candies.***</span>
+    101. <strong style="color: red;">What is the median value? </strong>
     
 
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-In you DS journal, do a quick write about what you think are the 3 most important topics you learned on this lesson.
+<strong style="color: red;">Do a quick write in your DS journal about what you think are the 3 most important topics you learned on this lesson.
 
 Calculate the median values for each of the personality color scores. 
 
 
 Compare the median values to the mean values (calculated in [Lesson 2](lesson2.md)) and make a decision about
-the possible shape of the distribution if we were to create a dot plot of the scores. Justify your answer.
+the possible shape of the distribution if we were to create a dot plot of the scores. Justify your answer.</strong>

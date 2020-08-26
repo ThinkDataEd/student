@@ -1,16 +1,8 @@
 ##***<u>Lesson 9: Bias Detective</u>***
 
 ###**Objective:**
-Students will learn how to use simulations to detect biased probability.
+You will learn how to use simulations to detect biased probability.
 
-###**Materials:**
-1. Poster paper – with 6 columns labeled 1, 2, 3, 4, 5, 6
-
-2. 2 dice (number cubes)
-
-    **<u>Note:</u>** You can use regular hard dice, or soft foam dice (can be found at dollar stores)
-
-3. Projector for RStudio functions
 
 ###**Vocabulary:**
 bias
@@ -18,40 +10,35 @@ bias
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: "
-    In the short-term, actual outcomes of chance experiments vary from what is considered ideal. For example, an ideal die has equally likely outcomes, but that does not mean we will see exactly the same number of one dots, two dots, etc.
+    In the short-term, actual outcomes of chance experiments vary from what is 'ideal.'
+    An ideal die has equally likely outcomes. But that does not mean we will see exactly the same number of one-dots, two-dots, etc.
 
 ###**Lesson:**
 
-1. In pairs, ask students to quickly share their Tweets from the previous lesson’s homework. Collect
-the Tweets and select a few to share with the class. Of the Tweets shared, ask students which
-one is closest to the definition: probability measures how often something happens in the “long
-run.”
+1. In your IDS journal, write down your Tweet from the previous lesson’s homework and one or two of your classmates' tweets.Consider the Tweets shared and answer this question in your journal: 
+<strong style="color:red;">Which one is closest to the definition: probability measures how often something happens in the “long run.”</strong>
 
-2. Remind students that, during the previous lesson, they were introduced to simulations. The
-progression following this path: chance → probability → simulations. The motivation for using
-simulations is that we can use the calculated sample proportions to estimate probabilities of reallife
-events.
+2. Recall that during the previous lesson, you were introduced to simulations. The progression following this path: chance → probability → simulations. The motivation for using
+simulations is that we can use the calculated sample proportions to estimate probabilities of real life events.
 
-3. During today’s lesson, we will be continuing to learn about probability and simulations to
+3. During today’s lesson, you will be continuing to learn about probability and simulations to
 determine if an event is not fair (one example: a coin is weighted and lands on heads more often
 than tails).
 
-4. Ask students what they know about dice (number cubes). If they have never heard of them, show
-one to the class and explain how it works. <span style="color:grey">***A die (number cube) is a 6-sided cube. Each face of
+4. Think about what you know about dice (number cubes) or if you have heard of them, look at this picture. <span style="color:grey">***A die (number cube) is a 6-sided cube. Each face of
 the cube is labeled with dots to represent a number between 1 and 6. For example, if the
 face has 3 dots, then it represents the number 3. The cube itself is weighted so that there
 is an equal probability of rolling each of the 6 numbers.***</span>
 
-5. Have a discussion about what the students would expect the probability of rolling the number 1
-should be if a die (number cube) were tossed into the air and allowed to fall back to the ground
-(or table). <span style="color:grey">***Since there are 6 numbers on the die, each number should be equally likely to
+5. In your DS journal answer this question. <strong style="color:red;"> What would you expect the probability of rolling the number 1 should be if a die (number cube) were tossed into the air and allowed to fall back to the ground
+(or table).</strong> <span style="color:grey">***Since there are 6 numbers on the die, each number should be equally likely to
 occur, so the probability of rolling a 1 is 1/6.***</span>
 
 6. Display a piece of poster paper on the board with columns labeled 1, 2, 3, 4 5, 6. Explain that
 each column represents the numbers on the die (number cube). We will be using poster to tally
 the results of actual dice (number cube) rolls.
 
-7. Select two students to be dice (number cube) rollers and give each student one die. As noted in
+7. https://freeonlinedice.com/ Select two students to be dice (number cube) rollers and give each student one die. As noted in
 the *<u>Materials</u>* section above, you can have the students use either regular hard dice, or softer
 foam ones (can be found at dollar stores).
 8. Tell the class that each student roller will be rolling the dice 6 times (so there will be a total of 12

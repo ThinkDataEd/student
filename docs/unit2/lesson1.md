@@ -9,8 +9,8 @@ subsets
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: "
-    Understand that the 'typical' value is a value that can represent the
-    entire group, even though we know that not all members of the group share the same value.
+    The 'typical' value is a value that can represent the
+    entire group, even though not all members of the group share the same value.
 
 ###**Lesson:**
 1. Consider the following questions:
@@ -64,17 +64,17 @@ what each color means at the end of the lesson.
 10. Copy and finish the two-way frequency table below to record the results from the data set.
 <strong style="color: blue;">Insert two-way frequency table with the first column filled out </strong>
 
-11. A useful way of anaylizing data is to create visuals by comparing subsets. The students were asked to create visualizations that subset the color variable by gender. Observe those visualizations.
+11. A useful way of anaylizing data is to create visuals by comparing subsets. The students were asked to create visualizations that subset the variables. Observe their first visualization in which they subset the orange variable by gender.
 <strong style="color: blue;">Insert visualization that subsets the orange variable by gender</strong> 
 Copy and finish the following sentence in your DS journal.
 <strong style="color: red;">The typical gender in the Orange personality color group is ______________. </strong>
-In your DS journal, create a visualization that subset gender by color and write a sentence comparing the two variables you used.
+In your DS journal, create a visualization that subsets gender by color and write a sentence comparing the two variables you used.
 
 12. If you are confused or stuck, recall the topic of two-way tables and relative
-frequencies from [Unit 1](../unit1/overview.md) ([Lessons 16](../unit1/lesson16.md) & [17](../unit1/lesson17.md)). The Orange and Gold groups were asked to look at the
-columns and compare genders, while the Blue and Green groups were asked to look at the rows and compare colors.
+frequencies from [Unit 1](../unit1/overview.md) ([Lessons 16](../unit1/lesson16.md) & [17](../unit1/lesson17.md)). Notice that the students looked at the
+columns and compared genders. You need to look at the rows and compare colors to create your visual.
 
-13. They came up with the following visuals.<strong style="color: blue;">Insert two additional visualizations </strong>
+13. The students came up with two additional visuals.<strong style="color: blue;">Insert two additional visualizations </strong>
 
 14. Observe their similarities and differences. Analyze and interpret the visualizations by answering the following questions for each of the visualizations in your IDS journal:
 
@@ -91,9 +91,9 @@ columns and compare genders, while the Blue and Green groups were asked to look 
 16. The document below provides the description of each personality color (page 3 of [LMR_2.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.1_True Colors Personality Test.pdf)). Remember that the highest score is considered your predominant color and the second highest score is considered your secondary color. If there is a tie for your predominant or secondary colors, choose the color that describes your personality better.
 <strong style="color: blue;">Insert page 3 of LMR_2.1 </strong>
 
-17. Compare the given descriptions on the handout to the characteristics listed for each group during step 7. Do the descriptions match what the students originally thought? How accurate are the descriptions? 
+17. Compare the given descriptions on the handout to the characteristics listed for each group during step 7. Do the descriptions match what you originally thought? How accurate are the descriptions? 
 
-18. You will now record your data by completing the *Personality Color* campaign on the UCLA
+18. You will now record your own data by completing the *Personality Color* campaign on the UCLA
 [IDS UCLA App](../download/app.md) or via web browser at [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org").
 
 

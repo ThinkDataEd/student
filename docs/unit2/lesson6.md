@@ -1,18 +1,10 @@
 ##***<u>Lesson 6: Face Off</u>***
 
 ###**Objective:**
-Students will informally compare two or more distributions using their knowledge of shape, center, and
-spread to answer statistical questions. They will learn how to find the difference between two means and
+You will informally compare two or more distributions using your knowledge of shape, center, and
+spread to answer statistical questions. You will learn how to find the difference between two means and
 two medians using a histogram or dotplot.
 
-###**Materials:**
-1. *Comparing Commute Times with Dotplots* handout ([LMR_2.8_Commute Times – Dotplots](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.8_Commute Times - Dotplots.pdf))
-
-2. *Comparing Exam Scores with Histograms* handout ([LMR_2.9_Exam Scores – Histograms](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.9_Exam Scores - Histograms.pdf))
-
-3. Timer
-
-4. *Comparing Fuel Efficiency with Boxplots* handout ([LMR_2.10_Fuel Efficiency – Boxplots](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.10_Fuel Efficiency - Boxplots.pdf))
 
 ###**Vocabulary:**
 rebuttal
@@ -26,63 +18,53 @@ rebuttal
     "about the same as," etc.
 
 ###**Lesson:**
-1. Poll students about the method of transportation they use for their daily school commute. How
-many of them walk, ride in a car, take the bus, ride a bike, etc.? Record their responses on the
-board. Ask them to estimate the typical amount of time it takes for them to get to school, in
-minutes.
+1. What method of transportation did you use for your daily school commute before the COVID-19 lockdown. Did you walk, ride in a car, take the bus, ride a bike, etc.? Do you remember how long it took you to get to school (in minutes)?
 
-2. Inform students that they have learned important features of distributions that will allow them to
-make decisions when working with data. More specifically, they will be able to use their
+2. You have learned important features of distributions that will allow you to
+make decisions when working with data. More specifically, you will be able to use your
 knowledge of measures of center and measures of spread to compare 2 distributions in order to
 make a decision.
 
-3. In teams, have students complete the *Comparing Commute Times with Dotplots* handout
-([LMR_2.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.8_Commute Times - Dotplots.pdf)). Allow students time to read the “Background” portion of the handout, and then
-discuss what statistical question(s) the student in the scenario is trying to answer.
+3. Complete the *Comparing Commute Times with Dotplots* handout
+([LMR_2.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.8_Commute Times - Dotplots.pdf)). Read the “Background” portion of the handout, and then
+<strong style="color: red;">in your DS Journal, write down what statistical question(s) the student in the scenario is trying to answer.</strong>
 <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.8_Commute Times - Dotplots.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.8_Commute Times - Dotplots.pdf)</div>
 
-4. Once teams decide on their recommendation, engage half of the class in an *Active Debate*. Half
-of the students will stand in a debate line and the other half will “fishbowl” the debate. Roles will
-reverse later in the lesson (see Step14).
+4. Once you have completed the handout, write your recommendations in your DS Journal. Imagine that you are to engage  in an *Active Debate* with your classmates.
 
-5. Of those students standing on the debate line, half will argue the reasons why they recommend
-street travel and the other half will argue the reasons why they recommend freeway travel.
+5. <strong style="color: red;"> First, you will write in your DS Journal the benefits of street travel over freeway travel by using academic language based on the dotplot. List as many reasons as you can why you claim that street travel is better.</strong>
 
-6. On the debate line, each student will stand face to face with a student who has the opposite
-recommendation. In other words, a student who recommends street travel will stand facing a
-student who recommends freeway travel.
+6. <strong style="color: red;"> Next, below your first claim, you will write (in your DS Journal) the benefits of freeway travel over street travel by using academic language based on the dotplot. List as many reasons as you can why you claim that freeway travel is better.</strong>
 
-7. Using a timer, allow one minute for students who recommend freeway travel to argue their point
-to the person they are facing. Then, repeat for students who recommend street travel. Students
-should not interrupt or respond; they should only listen to the other side.
+7. <strong style="color: red;">Give yourself time to compare and contrast the two choices and it is suggested that you may write a two-column list starting with the first column about street travel from the strongest reason or claim using academic language.</strong>
 
-8. Next, give debaters two minutes to prepare a **rebuttal** of the other person’s argument. For
-example, if one student claimed that freeway travel is better, the other student may ask where the
-evidence is in the data or show that the data does not support the claim.
+8. Complete your **rebuttal** of your first claim by writing your reasons why freeway travel is better, from the strongest reason that supports your claim using academic language.
 
-9. Allow each debater two minutes to present his/her rebuttal.
+<strong style="color: blue;"> insert an example of a  Two column Rebuttal here. Use the possible answers in the handout and remove page 2 </strong>
 
-10. Finally, ask debaters if any of them changed their recommendations after engaging in the debate.
+9. Go over the claim and rebuttal process.Make sure that you only used statistical data based on the handout and not include your own opinions.
 
-11. In teams, have students complete the *Comparing Exam Scores with Histograms* handout
-([LMR_2.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.9_Exam Scores - Histograms.pdf)). Allow students time to read the “Background” portion of the handout, and then
-discuss what statistical question(s) the student in the scenario is trying to answer.
+10. Finalize your recommendations and answer the following questions in your DS Journal:<strong style="color: red;"> Did your initial choice of claim change after you made the data analysis? Why or why not? </strong>
+
+
+11. You will  complete the *Comparing Exam Scores with Histograms* handout
+([LMR_2.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.9_Exam Scores - Histograms.pdf)). Read the “Background” portion of the handout, and then <strong style="color: red;">in your DS Journal, write what statistical question(s) the student in the scenario is trying to answer.</strong>
 <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.9_Exam Scores - Histograms.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.9_Exam Scores - Histograms.pdf)</div>
 
-12. Repeat debate process (Steps 4 - 10) with the other half of the class.
+12. Repeat "debate process"" (Steps 4 - 10).
 
-13. Summarize the lesson by conducting a class discussion about what to look for when comparing
-distributions. Students should be precise when estimating values of means, medians, MAD, and
-IQR. They should also be able to comment on when it is most appropriate to use each measure
-of center and spread. <span style="color:grey">***If a distribution is symmetric, it is best to use the mean as a measure
-of center and the MAD as a measure of spread. If a distribution is skewed, or has outliers,
+13. Summarize the lesson by doing a Quickwrite in your DS Journal. <strong style="color: red;">What are the pieces of information that we are looking for when comparing
+distributions?  You should be precise when estimating values of means, medians, MAD, and
+IQR. You should also be able to comment on when it is most appropriate to use each measure
+of center and spread. 
+
+<span style="color:grey">***For example: If a distribution is symmetric, it is best to use the _______ as a measure
+of center and the MAD as a measure of spread. If a distribution is ____________, or has outliers,
 it is best to use the median as a measure of center and the IQR as a measure of spread.***</span>
 
-###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics of the
-day were.
+<strong style="color: blue;"> insert an example of a  Two column Rebuttal here. Use the possible answers in the handout and remove page 2 </strong>
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Similar to the activities they did during class today, for homework, students should complete the
+Similar to the activities you did during class today, for homework, you will complete the
 *Comparing Fuel Efficiency with Boxplots* handout ([LMR_2.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.10_Fuel Efficiency - Boxplots.pdf)).
 <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.10_Fuel Efficiency - Boxplots.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.10_Fuel Efficiency - Boxplots.pdf)</div>

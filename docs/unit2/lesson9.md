@@ -15,7 +15,7 @@ bias
 
 ###**Lesson:**
 
-1. In your IDS journal, write down your Tweet from the previous lesson’s homework and one or two of your classmates' tweets.Consider the Tweets shared and answer this question in your journal: 
+1. Find your Tweet from the previous lesson’s homework. and one or two of your classmates' tweets. Consider the Tweets shared and answer this question in your journal: 
 <strong style="color:red;">Which one is closest to the definition: probability measures how often something happens in the “long run.”</strong>
 
 2. Recall that during the previous lesson, you were introduced to simulations. The progression following this path: chance → probability → simulations. The motivation for using

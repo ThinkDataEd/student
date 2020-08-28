@@ -1,7 +1,7 @@
 ##***<u>Lesson 13: The Horror Movie Shuffle</u>***
 
 ###**Objective:**
-Students will understand that, just by chance, we will see differences between two groups. They will
+You will understand that, just by chance, we will see differences between two groups. You will
 understand that these differences are usually small. Specifically, they will learn that we can determine if
 outcomes are due to chance for categorical variables by calculating differences in the proportions
 between two groups.
@@ -23,6 +23,7 @@ chance, simulations, randomness, shuffle
     the apparent difference between groups is caused by chance.
 
 ###**Lesson:**
+<strong style="color: blue;">LeeAnn, refert to U1, lesson 8 for the rewrite below.</strong>
 1. **<u>Data Collection Monitoring:</u>** Display the IDS Campaign Monitoring Tool, found at
 [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org"). Click on **Campaign Monitor** and sign in.
 
@@ -38,44 +39,41 @@ chance, simulations, randomness, shuffle
 
     100. Using TPS, ask students to think about what can they do to increase their data collection.
 
-3. Conduct a discussion about the data that has been collected.
+3. Quickwrite: In your DS journal, write down how you can be more accurate in your data collecting for the stress/chill .
 
-4. Have students recall what they have learned about **chance** (see [Lesson 8](lesson8.md)). <span style="color:grey">***Synonyms:
+4. Recall what you have learned about **chance** (see [Lesson 8](lesson8.md)). <span style="color:grey">***Synonyms:
 possibility, prospect, expectation, unintentional, unplanned. The actual definition of
 chance is “a possibility of something happening.”***</span>
 
-5. To expand on the flow chart from [Lesson 9](lesson9.md) (chance → probability → simulations), explain that
-we can use **simulations** to show that sometimes, when we think two groups are different, the
-difference is really just because of chance, or **randomness**, and does not mean anything. This
-brings us back to “chance” in the flow chart.
+5. Think back to the path you saw in [Lesson 9](lesson9.md) item #2 (chance → probability → simulations). We can use **simulations** to show that sometimes, when we think two groups are different, the
+difference is really just because of chance, or **randomness**, and does not mean anything.
 
-6. Remind students that a simulation is a model for creating random outcomes. Randomness means
+6. Remember that a simulation is a model for creating random outcomes. Randomness means
 that something just happens without a specific order.
 
-7. In pairs, ask students to name situations where two groups could be compared, and then have
-the students record these situations in their DS journals. Some examples include:
+7. Below are some examples in which two groups could be compared:
 
-    • <span style="color:grey">***Men earn more money than women for some work.***</span>
+    100. <span style="color:grey">***Men earn more money than women for some work.***</span>
 
-    • <span style="color:grey">***Basketball players are faster runners than baseball players.***</span>
+    100. <span style="color:grey">***Basketball players are faster runners than baseball players.***</span>
 
-    • <span style="color:grey">***Los Angeles students are smarter than <u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u></u>.***</span>
+    100. <span style="color:grey">***Los Angeles students are smarter than <u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u></u>.***</span>
 
-    • <span style="color:grey">***UCLA football players are better athletes than USC football players.***</span>
+    100. <span style="color:grey">***UCLA football players are better athletes than USC football players.***</span>
 
-    • <span style="color:grey">***You and a friend flipped a coin 10 times, and you got more "heads."***</span>
+    100. <span style="color:grey">***You and a friend flipped a coin 10 times, and you got more "heads."***</span>
 
-8. Then, ask students to write next to each situation whether they think the differences are either
-real or due to chance because sometimes differences between two groups are real, but
-sometimes they might just be due to chance, and they will be learning ways to tell the difference.
+<strong style="color: red;"> In your DS journal list other situations where two groups could be compared.</strong>  
 
-9. Explain to the class that we are interested in finding out who will survive by the end of a horror
-movie. Ask the students:
+8. Sometimes differences between two groups are real, but
+sometimes they might just be due to chance. For each of the situations in #7 and the situations you came up with, state whether you think the differences are either
+real or due to chance. Click on the examples in #7 to check your answers. You will be learning ways to tell the difference.
 
-    100. Do you think men and women have an equal likelihood of surviving by the end of a horror
-    movie? <span style="color:grey">***Answers will vary by class.***</span>
+9. In this lesson we are interested in finding out who will survive by the end of a horror movie. Think about the following question:
 
-10. Have a few students share out their opinions along with their reasoning.
+    * Do you think men and women have an equal likelihood of surviving by the end of a horror movie?
+
+10. <strong style="color: red;">In your DS Journal write down your thoughts on the question above.</strong>
 
 11. Inform the students that they will be pretending to be actors from horror movies during today’s
 lesson.

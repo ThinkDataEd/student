@@ -3051,20 +3051,20 @@ then click on the RStudio icon on the page.</p>
 </li>
 <li>
 <p>You will be looking at a data set from The Centers for Disease Control and
-Prevention (CDC), a government agency that collects data on a broad range of topics, including issues concerning and about teenagers.</p>
+Prevention (CDC), a government agency that collects data on a broad range of topics, including issues concerning teenagers.</p>
 </li>
 <li>
 <p>You can load and view the CDC data file to the workspace by typing the following
-commands into the console, then typing the <strong>Enter</strong> or <strong>Return</strong> key on your keyboard:</p>
+commands into the console, then pressing the <strong>Enter</strong> or <strong>Return</strong> key on your keyboard:</p>
 <p><strong>&gt;data(cdc)</strong></p>
 <p><strong>&gt;View(cdc)</strong></p>
-<p><strong>Note:</strong> You will be taking notes in an RScript. On the <strong>Menu</strong> tab, go to <strong>File</strong> and click on <strong>New</strong>, then click on <strong>RScript</strong>. Type the commands below in your RScript and Run your commands. Refer back to the video to learn how to use an RScript.</p>
+<p><strong>Note:</strong> If you wish, you can take notes in an RScript. As a reminder, to create an R script, find the <strong>Menu</strong> tab, go to <strong>File</strong> and click on <strong>New File</strong>, then click on <strong>RScript</strong>. Type the commands below in your RScript and Run your commands. Refer back to the video to learn how to use an RScript.</p>
 </li>
 <li>
-<p><strong style="color: red;"> Examine the environment pane and describe how the data are displayed. </strong> </p>
+<p><strong style="color: red;"> Examine the preview pane and describe how data are displayed.</strong> </p>
 </li>
 <li>
-<p><strong style="color: red;"> Since the data are displayed in rows and columns, where do you think you can find the variables in the CDC data set? </strong> </p>
+<p><strong style="color: red;"> Where on the spreadsheet can you find the variables?</strong> </p>
 <ol>
 <li>
 <p>Type the following command in the console: <strong>&gt;names(cdc)</strong></p>
@@ -3080,6 +3080,7 @@ there? How does this output compare to the information in the preview pane?  </s
 <ol>
 <li>
 <p>Type the following command in the console: <strong>&gt;help(cdc)</strong></p>
+<p>A document should appear on the bottom right-hand pane under the <strong>Help</strong> tab with more details about the CDC dataset.</p>
 </li>
 <li>
 <p><strong style="color: red;"> What unit of measurement is height reported in? </strong></p>
@@ -3093,55 +3094,49 @@ there? How does this output compare to the information in the preview pane?  </s
 <p>Type the following command in the console: <strong>&gt;dim(cdc)</strong></p>
 </li>
 <li>
-<p><strong style="color: red;"> Which number do you think represents the rows? Which one represents the
-columns? How does this output compare to the information in the preview and
+<p><strong style="color: red;"> Which number do you think represents the rows? Which one represents the columns? How does this output compare to the information in the preview and
 environment panes? How many observations are there in the data set? How many
 variables does this data set contain? </strong> </p>
 </li>
 </ol>
 <p><span style="color:grey"><strong><em>There are 15,624 rows, or 15,624 observations;
 and there are 33 columns, or 33 variables. This information is also visible in the
-preview pane.</em></strong></span></p>
+environment pane.</em></strong></span></p>
 </li>
 <li>
-<p>You can also access the number of observations of a specific variable. </p>
+<p>You can also obtain the number of observations of a specific variable. </p>
 <ol>
-<li>
-<p>Type the following command to get the number of observations for seat belt wearers: <strong>&gt;tally(~seat_belt, data = cdc)</strong></p>
-</li>
-<li>
-<p><strong style="color: red;"> What do you notice? Describe the output. </strong> </p>
-</li>
+<li>Type the following command to get the number of observations for seat belt wearers: <strong>&gt;tally(~seat_belt, data = cdc)</strong></li>
 </ol>
 <p><span style="color:grey"><strong><em>Notice that six categories are
 displayed. Each category shows the number of observations contained in it. For example,
 “Never” has 326 observations, meaning 326 teens reported never wearing their
 seat belt as a passenger in a motor vehicle. &lt;NA&gt; = Not Available, represents teens
 that did not provide information about their seat belt habits.</em></strong></span></p>
+<ol>
+<li><strong style="color: red;"> What else do you notice?</strong> </li>
+</ol>
 </li>
 <li>
 <p>Now change the variable to height:</p>
 <ol>
-<li>
-<p>Type the following command: <strong>&gt;tally(~height, data = cdc)</strong></p>
-</li>
-<li>
-<p><strong style="color: red;"> What do you notice? Describe the output. </strong> </p>
-</li>
+<li>Type the following command: <strong>&gt;tally(~height, data = cdc)</strong></li>
 </ol>
-<p><span style="color:grey"><strong><em>The levels are missing. It happened
+<p><span style="color:grey"><strong><em>Notice that categories are missing. This happened
 because the variable height contains numbers, not categories.</em></strong></span></p>
+<ol>
+<li><strong style="color: red;"> What else do you notice?</strong> </li>
+</ol>
 </li>
 <li>
-<p>Let’s take a closer look at the variables <strong style="color: purple;">seat belt</strong> and <strong style="color: purple;">height</strong>. Maximize the console. Brainstorm the following question:</p>
+<p>Let’s take a closer look at the variables <strong style="color: purple;">seat belt</strong> and <strong style="color: purple;">height</strong>. Brainstorm the following question:</p>
 <p><strong style="color: red;"> What is the difference between the data from the variables <strong style="color: purple;">seat belt</strong> and <strong style="color: purple;">height</strong>?</strong></p>
 </li>
 <li>
-<p>To summarize: In data science, the variable <strong style="color: purple;">seat belt</strong> is what we call a <strong>categorical variable</strong>, and
-the variable <strong style="color: purple;">height</strong> is what we call a <strong>numerical variable</strong>.</p>
+<p>To summarize: In data science, the variable <strong style="color: purple;">seat belt</strong> is what we call a <strong>categorical variable</strong>, and the variable <strong style="color: purple;">height</strong> is what we call a <strong>numerical variable</strong>.</p>
 </li>
 <li>
-<p>Let’s look at the other variables in this data set. </p>
+<p>Let’s look at the other variables in this dataset. </p>
 <p><strong style="color: red;"> Categorize each variable as categorical
 or numerical: </strong></p>
 <ol>
@@ -3168,23 +3163,26 @@ or numerical: </strong></p>
 <li>
 <p>The <strong>load labs</strong> command displays a list of available labs and a selection prompt. To select Lab 1A,
 type the number "1" after the selection prompt.</p>
+<p><iframe src="https://drive.google.com/file/d/1SYO8OZvbFi1jOt69WbKrU3C-qwRWIYfN/preview" width="640" height="480"></iframe></p>
 </li>
 <li>
 <p>Next direct your attention to the plot pane, and notice the location of Lab 1A’s presentation. If you do not see it, click on <strong>Viewer</strong> or refresh the page.</p>
 </li>
 <li>
 <p>Click on the arrows at the bottom right-hand side of the presentation to view each slide. Pause on
-the slide titled “R’s most important syntax.” You should see 3 boxes, each containing a line of code.</p>
+the slide titled “Syntax in action”. You should see 3 boxes, each containing a line of code.</p>
+<p><iframe src="https://drive.google.com/file/d/19_QUunJUJEcV0T6-yo5GshL2fdBUwrkl/preview" width="640" height="480"></iframe></p>
 </li>
 <li>
 <p>Every time you see a grey box with a line of code, you must type the code into the
 console. The output will appear either on the console itself or on the plot pane.</p>
 </li>
 <li>
-<p>Type in one of the lines of code. In this particular case, the output will be a plot. Notice that the location of the plot is in the same area of the slides, but under the <strong>Plots</strong> tab. You can toggle between the <strong>Plots</strong> and <strong>Presentation</strong> tabs by clicking each tab.</p>
+<p>Type in one of the lines of code. In this particular case, the output will be a plot. Notice that the location of the plot is in the same area of the slides, but under the <strong>Plots</strong> tab. You can toggle between the <strong>Plots</strong> and <strong>Viewer</strong> tabs by clicking each tab.</p>
+<p><iframe src="https://drive.google.com/file/d/1eSFpzWRVwn7UcVipqjzA4o_7Af85zPnq/preview" width="640" height="480"></iframe></p>
 </li>
 <li>
-<p>You will be completing the first lab, Lab 1A, tomorrow in class.</p>
+<p>You are now ready to complete Lab 1A.</p>
 </li>
 </ol>
 <h3 id="reflection"><strong>Reflection</strong></h3>

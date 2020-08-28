@@ -23,8 +23,11 @@ turn it into something useful to us?
 
 2. Today you will be learning about the **Data Cycle**. The Data Cycle is a guide
 we can use when learning to think about data. We typically start with asking questions. Here is a
-graphic of *The Data Cycle* (Click here to access this document and make a copy: [LMR_1.3](https://docs.google.com/document/d/1_GdEdjuarC3Akz3CF8jpuWg63_iA0_w0hvD1GaotWMs/copy?usp=sharing)):
-<div align="center"><iframe src="https://drive.google.com/file/d/1MBI-PW-sLTkfhxyOZWygN9lz3OXcmLQa/preview" width="640" height="480"></iframe><br>[LMR_1.3](https://docs.google.com/document/d/1_GdEdjuarC3Akz3CF8jpuWg63_iA0_w0hvD1GaotWMs/copy?usp=sharing)</div>
+graphic of *The Data Cycle*: 
+
+
+       <div align="center"><iframe src="https://drive.google.com/file/d/1MBI-PW-sLTkfhxyOZWygN9lz3OXcmLQa/preview" width="640" height="480"></iframe><br></div>
+
 
 3. Below is an overview of each component of the Data Cycle. We will explore each component more explicitly throughout the course.
 
@@ -96,11 +99,15 @@ graphic of *The Data Cycle* (Click here to access this document and make a copy:
 
 10. You can enter the Data Cycle at any stage. For example, you can be given a data set and, after considering the variables, come up with statistical questions that can be answered with the data. In the exercise below, you will enter the Data Cycle at the analysis stage because a graph has been created from the data that was collected.
 
-11.  The *Bros & Dudes Graphics* handout contains 10 pairings of graphs. The graphics were created for the *Quartz* website by Nikhil Sonnad as a data visualization. He collected the data via Twitter. The graphics
-show how common certain terms are throughout the United States when referring to friends (Click here to access this document and make a copy: [LMR_1.5](https://docs.google.com/document/d/1ZZN7rI43i_dzue4fjYq8pJCLWWj4VSPRcBGlM7nqhBk/copy?usp=sharing)):
+11.  The *Bros & Dudes Graphics* handout contains 10 pairings of graphs. The graphics were created for the *Quartz* website by Nikhil Sonnad as a data visualization. He collected the data via Twitter. The graphics show how common certain terms are throughout the United States when referring to friends. 
+
+
+    <strong style="color: blue;"> Click on the document name to download a fillable copy:</strong> [LMR_1.5](https://docs.google.com/document/d/1ZZN7rI43i_dzue4fjYq8pJCLWWj4VSPRcBGlM7nqhBk/copy?usp=sharing)
+
 
     <div align="center"><iframe src="https://drive.google.com/file/d/1DbiCdbynvD3VSoLNlzEkp9I2mwMOAzjN/preview" width="640" height="480"></iframe><br>[LMR_1.5](https://docs.google.com/document/d/1ZZN7rI43i_dzue4fjYq8pJCLWWj4VSPRcBGlM7nqhBk/copy?usp=sharing)</div>
 
+    
     <strong style="color: red;">Choose one of the graphics and come up with 2 questions that could be asked given the graphic you chose.</strong>
 
 12. <strong style="color: red;">Using ONE of your questions from #11, create a Data Cycle graphic (on a regular piece of paper) to turn in. The cycle should be clearly labeled and should have appropriate responses for each of the 4 components.</strong> Some examples have been provided below:

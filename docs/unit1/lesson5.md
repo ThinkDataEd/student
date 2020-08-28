@@ -28,12 +28,15 @@ statistical questions
     see the data to answer the question?* The following are examples of non-statistical questions that can be modified to be statistical questions:<ul><li> **Non-statistical**: What is LeeAnn's favorite color?  While this can be answered with data (by asking LeeAnn), it does not address variability, since LeeAnn presumably has only one favorite color.</li> <li>**Statistical**: What is the most common favorite color in our classroom?  This can be answered by collecting data (asking each student his or her favorite color), and through recognizing that different students may have different answers.
     </li> <li>**Non-statistical**: Did anyone select red as a favorite color? Although the question can be answered with data, this question can be answered with a single observation. Statistical questions require looking at all of the data available (or a substantial portion) for a variable.</li><li>**Statistical**: What proportion of people selected red as their favorite color? Now we need to examine everyone.</li><li>**Non-statistical**: What is the airspeed velocity of an eagle?  This is non-statistical because it assumes all eagles have the same velocity. A follow-up question, such as "African or European?" might point out that there is variation between species, but were we to collect data, we would see variation between individuals.  This question could be rephrased into a statistical question.</li><li>**Statistical**: What is the typical (or most common, or most extreme, etc.) airspeed velocity of a European Eagle?</li></ul>
 
-4. The *Statistical Questions Scenarios* handout contains 4 different scenarios with a set of statistical questions. Read through Scenario #1 ([LMR_1.6](https://drive.google.com/file/d/1b-kVEHn06t03Fs2Y2cXw2AuPbfUymS3X/view?usp=sharing)):
-<div align="center"><iframe src="https://drive.google.com/file/d/1b-kVEHn06t03Fs2Y2cXw2AuPbfUymS3X/preview" width="640" height="480"></iframe><br>[LMR_1.6](https://drive.google.com/file/d/1b-kVEHn06t03Fs2Y2cXw2AuPbfUymS3X/view?usp=sharing)</div>
+4. The *Statistical Questions Scenarios* handout contains 4 different scenarios with a set of statistical questions. Read through Scenario #1:
+
+
+    <div align="center"><iframe src="https://drive.google.com/file/d/1b-kVEHn06t03Fs2Y2cXw2AuPbfUymS3X/preview" width="640" height="480"></iframe><br></div>
 
 5. Below you will find a student's responses to Scenario #1. 
 
     <strong style="color: red;">Do you agree or disagree with the student's assessment of statistical questions?</strong>
+    
     <iframe src="https://drive.google.com/file/d/1Gt8wdCCMpRetP0E5Nmz8ILU1WtBhI6jX/preview" width="640" height="480"></iframe>
 
 6. Go back to the *Statistical Scenarios* handout. Read Scenarios 2-4 and choose the scenario that most interests you.

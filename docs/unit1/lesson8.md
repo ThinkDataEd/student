@@ -133,9 +133,12 @@ occurs. There is no need to place tick-marks on the y-axis. The frequency will b
 
     <strong style="color: red;">How/why is the dotplot a better representation of the data?</strong>
 
-21. The *Tangible Plot* handout ([LMR_1.9](https://docs.google.com/document/d/1D5Rvq7ZAqEk8GSB0zklaV4yle--Kj0sygbSX0GkDedA/copy?usp=sharing)) contains the nutritional information for the total grams of fat in the Stick Figures' snacks. 
+21. The *Tangible Plot* handout contains the nutritional information for the total grams of fat in the Stick Figures' snacks. 
 
+
+    <strong style="color: blue;"> Click on the document name to download a fillable copy:</strong> [LMR_1.9](https://docs.google.com/document/d/1D5Rvq7ZAqEk8GSB0zklaV4yle--Kj0sygbSX0GkDedA/copy?usp=sharing)
     
+
     <div align="center"><iframe src="https://drive.google.com/file/d/1E7L5UOk1tKGwfljK3_f_MX_dBFK-3HzQ/preview" width="640" height="480"></iframe><br>[LMR_1.9](https://docs.google.com/document/d/1D5Rvq7ZAqEk8GSB0zklaV4yle--Kj0sygbSX0GkDedA/copy?usp=sharing)</div>
 
 

@@ -45,9 +45,7 @@ analyze your classmates’ and your own snacking habits.
     **Note**: You should **NOT** collect data for full meals like breakfast, lunch, or dinner. Data should
     only be collected for anything eaten in between meals, like fruit, chips, cookies, nuts, sodas, etc.
 
-7. <strong style="color: red;">Why does it makes sense to study snacks specifically? Brainstorm some questions that
-could be answered using the snack-only data that would be hard to answer if the data included
-meals as well. </strong>
+7. <strong style="color: red;">Why does it makes sense to study snacks specifically? Brainstorm some questions that could be answered using the snack-only data that would be hard to answer if the data included meals as well. </strong>
 
 8. You will be taking part in a specific data collection method known as
 Participatory Sensing via a mobile application. This application can gather data via **surveys**,
@@ -61,20 +59,17 @@ you are providing data to external researchers, such as UCLA. This is not the ca
 10. You are now going to engage in your own first Participatory Sensing data
 collection experience in which you will collect your own data using a smart device. You'll have 3 different options for collecting data, depending upon the device you'll be using.
 
-    100. **Android:** A native Android application called “[IDS UCLA](https://play.google.com/store/apps/details?id=edu.ucla.oit.idsucla)” is available from the [Google
-    Play Store](https://play.google.com/store?hl=en).
+    100. **Android:** A native Android application called “[IDS UCLA](https://play.google.com/store/apps/details?id=edu.ucla.oit.idsucla)” is available from the [Google Play Store](https://play.google.com/store?hl=en).
 
-    100. **iOS (Apple devices):** The mobile application called “[IDS UCLA](https://itunes.apple.com/us/app/ids-ucla/id1422869521)” is available from the iOS
-    App Store.
+    100. **iOS (Apple devices):** The mobile application called “[IDS UCLA](https://itunes.apple.com/us/app/ids-ucla/id1422869521)” is available from the iOS App Store.
 
-    100. **Browser-based version:** If you do not have a mobile
-    device (or if you're using an unsupported device like a Windows phone or Blackberry), a browser-based
-    version to perform data collection is available at [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org")<br>
+    100. **Browser-based version:** If you do not have a mobile device (or if you're using an unsupported device like a Windows phone or Blackberry), a browser-based version to perform data collection is available at [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org")<br>
     Click on the **Survey Taking icon** on the page.
 
-    The video below shows a detailed explanation of how to download and use the IDSUCLA app to take a survey. Your teacher will tell you which server you will be using.
+    The video below provides a detailed explanation of how to download and use the IDSUCLA app to take a survey. Your teacher will tell you which server you will be using.
     
-    <iframe src="https://drive.google.com/file/d/1Z6QkqOOXvutwiCsX97rZAouGARuCc5-l/preview" width="640" height="480"></iframe>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/GbR22R32mhU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 11. Once you have downloaded the app or have found the website, take out your login information to log into the app. You need to keep this information in a safe place for the

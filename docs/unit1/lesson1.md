@@ -44,7 +44,9 @@ You will learn about your own data trails by keeping a Data Diary for 24 hours. 
 
 5. For the next 24 hours, you will log entries into a Data Diary.
 
-    You will write down everything that you do over the next 24 hours that could potentially provide someone with electronic personal data about you, without you necessarily choosing to give him/her your information. Be sure to read the directions and look at the examples in the *Data Diary* document (Click here to access this document, then make a copy and fill it in: [LMR_1.1](https://docs.google.com/document/d/1A4TTCyrjb5nY0MkQXYKkjubNt-yGETqGBrFTiqMp7wE/copy?usp=sharing)):
+    You will write down everything that you do over the next 24 hours that could potentially provide someone with electronic personal data about you, without you necessarily choosing to give him/her your information. Be sure to read the directions and look at the examples in the *Data Diary* document.
+    
+    <strong style="color: blue;"> Click on the document name to download a fillable copy:</strong> [LMR_1.1](https://docs.google.com/document/d/1A4TTCyrjb5nY0MkQXYKkjubNt-yGETqGBrFTiqMp7wE/copy?usp=sharing)
     <div align="center"><<iframe src="https://drive.google.com/file/d/1Qtmky4H7zmOSZWCdME_6cDLF6zaNE9Gq/preview" width="640" height="480"></iframe><br>[LMR_1.1](https://docs.google.com/document/d/1A4TTCyrjb5nY0MkQXYKkjubNt-yGETqGBrFTiqMp7wE/copy?usp=sharing)</div>
 
 6. Your teacher will check your Data Diary in order to assess your understanding of data.

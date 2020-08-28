@@ -42,10 +42,10 @@ then click on the RStudio icon on the page.
     100. **environment** - where you will see values and objects
 
 5. You will be looking at a data set from The Centers for Disease Control and
-Prevention (CDC), a government agency that collects data on a broad range of topics, including issues concerning and about teenagers.
+Prevention (CDC), a government agency that collects data on a broad range of topics, including issues concerning teenagers.
 
 6. You can load and view the CDC data file to the workspace by typing the following
-commands into the console, then typing the **Enter** or **Return** key on your keyboard:
+commands into the console, then pressing the **Enter** or **Return** key on your keyboard:
 
 
     **>data(cdc)**
@@ -53,12 +53,12 @@ commands into the console, then typing the **Enter** or **Return** key on your k
     **>View(cdc)**
 
 
-    **Note:** You will be taking notes in an RScript. On the **Menu** tab, go to **File** and click on **New**, then click on **RScript**. Type the commands below in your RScript and Run your commands. Refer back to the video to learn how to use an RScript.
+    **Note:** If you wish, you can take notes in an RScript. As a reminder, to create an R script, find the **Menu** tab, go to **File** and click on **New File**, then click on **RScript**. Type the commands below in your RScript and Run your commands. Refer back to the video to learn how to use an RScript.
 
 
-7. <strong style="color: red;"> Examine the environment pane and describe how the data are displayed. </strong> 
+7. <strong style="color: red;"> Examine the preview pane and describe how data are displayed.</strong> 
 
-8. <strong style="color: red;"> Since the data are displayed in rows and columns, where do you think you can find the variables in the CDC data set? </strong> 
+8. <strong style="color: red;"> Where on the spreadsheet can you find the variables?</strong> 
     
     100. Type the following command in the console: **>names(cdc)**
 
@@ -69,50 +69,57 @@ commands into the console, then typing the **Enter** or **Return** key on your k
 
     100. Type the following command in the console: **>help(cdc)**
 
+        A document should appear on the bottom right-hand pane under the **Help** tab with more details about the CDC dataset.
+
+
     100. <strong style="color: red;"> What unit of measurement is height reported in? </strong>
 
 10. You can also find the number of rows and columns in the data set. 
     
     100. Type the following command in the console: **>dim(cdc)**
 
-    100. <strong style="color: red;"> Which number do you think represents the rows? Which one represents the
-    columns? How does this output compare to the information in the preview and
+    100. <strong style="color: red;"> Which number do you think represents the rows? Which one represents the columns? How does this output compare to the information in the preview and
     environment panes? How many observations are there in the data set? How many
     variables does this data set contain? </strong> 
     
     <span style="color:grey">***There are 15,624 rows, or 15,624 observations;
     and there are 33 columns, or 33 variables. This information is also visible in the
-    preview pane.***</span>
+    environment pane.***</span>
 
-11. You can also access the number of observations of a specific variable. 
+11. You can also obtain the number of observations of a specific variable. 
 
     100. Type the following command to get the number of observations for seat belt wearers: **>tally(~seat_belt, data = cdc)**
 
-    100. <strong style="color: red;"> What do you notice? Describe the output. </strong> 
-    
+
     <span style="color:grey">***Notice that six categories are
     displayed. Each category shows the number of observations contained in it. For example,
     “Never” has 326 observations, meaning 326 teens reported never wearing their
     seat belt as a passenger in a motor vehicle. &lt;NA> = Not Available, represents teens
     that did not provide information about their seat belt habits.***</span>
 
+
+    100. <strong style="color: red;"> What else do you notice?</strong> 
+    
+
 12. Now change the variable to height:
 
     100. Type the following command: **>tally(~height, data = cdc)**
 
-    100. <strong style="color: red;"> What do you notice? Describe the output. </strong> 
-    
-    <span style="color:grey">***The levels are missing. It happened
+
+    <span style="color:grey">***Notice that categories are missing. This happened
     because the variable height contains numbers, not categories.***</span>
 
-13. Let’s take a closer look at the variables <strong style="color: purple;">seat belt</strong> and <strong style="color: purple;">height</strong>. Maximize the console. Brainstorm the following question:
+
+    100. <strong style="color: red;"> What else do you notice?</strong> 
+    
+    
+13. Let’s take a closer look at the variables <strong style="color: purple;">seat belt</strong> and <strong style="color: purple;">height</strong>. Brainstorm the following question:
 
     <strong style="color: red;"> What is the difference between the data from the variables <strong style="color: purple;">seat belt</strong> and <strong style="color: purple;">height</strong>?</strong>
 
-14. To summarize: In data science, the variable <strong style="color: purple;">seat belt</strong> is what we call a **categorical variable**, and
-the variable <strong style="color: purple;">height</strong> is what we call a **numerical variable**.
+14. To summarize: In data science, the variable <strong style="color: purple;">seat belt</strong> is what we call a **categorical variable**, and the variable <strong style="color: purple;">height</strong> is what we call a **numerical variable**.
 
-15. Let’s look at the other variables in this data set. 
+15. Let’s look at the other variables in this dataset. 
 
     <strong style="color: red;"> Categorize each variable as categorical
 or numerical: </strong>
@@ -132,17 +139,29 @@ or numerical: </strong>
 18. The **load labs** command displays a list of available labs and a selection prompt. To select Lab 1A,
 type the number "1" after the selection prompt.
 
+
+    <iframe src="https://drive.google.com/file/d/1SYO8OZvbFi1jOt69WbKrU3C-qwRWIYfN/preview" width="640" height="480"></iframe>
+
+
 19. Next direct your attention to the plot pane, and notice the location of Lab 1A’s presentation. If you do not see it, click on **Viewer** or refresh the page.
 
 20. Click on the arrows at the bottom right-hand side of the presentation to view each slide. Pause on
-the slide titled “R’s most important syntax.” You should see 3 boxes, each containing a line of code.
+the slide titled “Syntax in action”. You should see 3 boxes, each containing a line of code.
+
+
+    <iframe src="https://drive.google.com/file/d/19_QUunJUJEcV0T6-yo5GshL2fdBUwrkl/preview" width="640" height="480"></iframe>
+
 
 21. Every time you see a grey box with a line of code, you must type the code into the
 console. The output will appear either on the console itself or on the plot pane.
 
-22. Type in one of the lines of code. In this particular case, the output will be a plot. Notice that the location of the plot is in the same area of the slides, but under the **Plots** tab. You can toggle between the **Plots** and **Presentation** tabs by clicking each tab.
+22. Type in one of the lines of code. In this particular case, the output will be a plot. Notice that the location of the plot is in the same area of the slides, but under the **Plots** tab. You can toggle between the **Plots** and **Viewer** tabs by clicking each tab.
 
-23. You will be completing the first lab, Lab 1A, tomorrow in class.
+
+    <iframe src="https://drive.google.com/file/d/1eSFpzWRVwn7UcVipqjzA4o_7Af85zPnq/preview" width="640" height="480"></iframe>
+
+
+23. You are now ready to complete Lab 1A.
 
 
 ###**Reflection**

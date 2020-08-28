@@ -32,9 +32,10 @@ of people who appear to be completely two-dimensional. Your goal is to **record*
 information as possible about these people, and then **organize** the information in any way you
 choose.
 
-3. Meet the Stick Figures (Click here to access this document and download a copy: [LMR_1.2](https://docs.google.com/document/d/1S8LDPiSP0YdwRzwy4dPszzMQoyLwY9BewXqWcVs5GqY/copy?usp=sharing)):
+3. Meet the Stick Figures. 
+
    
-     <div align="center"><iframe src="https://drive.google.com/file/d/1KY6z50gTZNOXo2cE6buhLzHfU_Qai5rk/preview" width="640" height="480"></iframe><br>[LMR_1.2](https://docs.google.com/document/d/1S8LDPiSP0YdwRzwy4dPszzMQoyLwY9BewXqWcVs5GqY/copy?usp=sharing)</div>
+     <div align="center"><iframe src="https://drive.google.com/file/d/1KY6z50gTZNOXo2cE6buhLzHfU_Qai5rk/preview" width="640" height="480"></iframe><br></div>
 
 
 4. <strong style="color: red;">Select one of the Stick Figures and record all possible information about that Stick Figure.</strong>

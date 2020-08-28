@@ -15,8 +15,14 @@ You will use two tools that are easy to learn: the Dashboard and the PlotApp.
 
 ###**Lesson**
 1. Reflect about your experience so far with the *Food Habits* Participatory Sensing
-campaign by completing the *Food Habits Check-In* handout ([LMR_1.11](https://docs.google.com/document/d/1_9I8S1CPoFU3iZDQKy7QIys4gbT0Ihk_kX9s3K6i7m0/copy?usp=sharing)).
-<div align="center"><iframe src="https://drive.google.com/file/d/1G3hzKpezsOzUye6-Qwn0ukGPG4E2qpEy/preview" width="640" height="480"></iframe><br>[LMR_1.11](https://docs.google.com/document/d/1_9I8S1CPoFU3iZDQKy7QIys4gbT0Ihk_kX9s3K6i7m0/copy?usp=sharing)</div>
+campaign by completing the *Food Habits Check-In* handout.
+
+
+    <strong style="color: blue;"> Click on the document name to download a fillable copy:</strong> [LMR_1.11](https://docs.google.com/document/d/1_9I8S1CPoFU3iZDQKy7QIys4gbT0Ihk_kX9s3K6i7m0/copy?usp=sharing).
+
+
+    <div align="center"><iframe src="https://drive.google.com/file/d/1G3hzKpezsOzUye6-Qwn0ukGPG4E2qpEy/preview" width="640" height="480"></iframe><br>[LMR_1.11](https://docs.google.com/document/d/1_9I8S1CPoFU3iZDQKy7QIys4gbT0Ihk_kX9s3K6i7m0/copy?usp=sharing)</div>
+    
 
 2. Today you will engage in a full Data Cycle with your class's food habits data. You will use the Dashboard and the Plot App to generate visualizations of the variables collected about your snacks. You will then formulate and answer statistical questions that can be answered by the visualizations.
 
@@ -25,10 +31,16 @@ campaign by completing the *Food Habits Check-In* handout ([LMR_1.11](https://do
 4. First let's learn how to access and navigate the Dashboard by watching this video:
 
 
-    <strong style="color: blue;"> Insert video #1 here. </strong>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/d0BDaHKOqOg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 
-5.  Now that you've gotten an overview of how to use the Dashboard, you will be navigating the Dashboard using the *Exploring Our Food Habits, Part 1* handout as a guide ([LMR_1.12a](https://docs.google.com/document/d/1c1zvSjVBhet7TDuL5rSrymWMz26L8fsEBraMP4-eZLs/copy?usp=sharing)). <div align="center"><iframe src="https://drive.google.com/file/d/1v4vfN84Gb9y0Wt5_I-X-BM0LKx9M5ibQ/preview" width="640" height="480"></iframe><br>[LMR_1.12a](https://docs.google.com/document/d/1c1zvSjVBhet7TDuL5rSrymWMz26L8fsEBraMP4-eZLs/copy?usp=sharing)</div>
+5.  Now that you've gotten an overview of how to use the Dashboard, you will be navigating the Dashboard using the *Exploring Our Food Habits, Part 1* handout as a guide.
+
+
+    <strong style="color: blue;"> Click on the document name to download a fillable copy:</strong> [LMR_1.12a](https://docs.google.com/document/d/1vVrPkUJ9XTyEY8cz9fpHly0FSaOf2d2t-3qAvxrGSaM/copy?usp=sharing)
+
+
+    <div align="center"><iframe src="https://drive.google.com/file/d/1zeymXTGlsX3rQZB-Xl0xyePG_2Ahtujf/preview" width="640" height="480"></iframe><br>[LMR_1.12a](https://docs.google.com/document/d/1vVrPkUJ9XTyEY8cz9fpHly0FSaOf2d2t-3qAvxrGSaM/edit?usp=sharing)</div>
 
 
      **Note**: If you are unable to print the handout or access it electronically, you can create a table in your IDS Journal that follows the same format.
@@ -37,11 +49,11 @@ campaign by completing the *Food Habits Check-In* handout ([LMR_1.11](https://do
 6. Watch this video to get you started on completing LMR_1.12a *Exploring Our Food Habits, Part 1*:
 
 
-    <strong style="color: blue;"> Insert video #2 here. </strong>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/UW9yARYvPEE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 7. Now it's your turn! Go to the IDS Homepage, found at
-[https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org"). All of the IDS web tools can be accessed through this page. Click on **Dashboard** and log in if prompted. Once logged in, notice that you are redirected to the **Campaign Manager**. This happens so that you can select the campaign containing the data that you want to analyze. Find the *Food Habits* campaign and click on **Dashboard**
+[https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org"). All of the IDS web tools can be accessed through this page. Click on **Dashboard** and log in if prompted. Once logged in, notice that you are redirected to the **Campaign Manager**. This happens so that you can select the campaign containing the data that you want to analyze. Find the *Food Habits* campaign and click on **Dashboard**.
 
 
 8. Following are instructions for creating the visuals to analyze the variables mentioned in LMR_1.12a:
@@ -56,9 +68,18 @@ campaign by completing the *Food Habits Check-In* handout ([LMR_1.11](https://do
 
 10. Let's learn how to access and navigate the Plot App to complete LMR_1.12b by watching this video:
 
-    <strong style="color: blue;"> Insert Plot App video here. </strong>
 
-11. Before you begin using the Plot App, download a copy of the *Exploring Our Food Habits, Part 2* handout: ([LMR_1.12b](https://docs.google.com/document/d/1bU6sF6dLHwAcD3-bkal_eWKtL95iWNpFRmhsUEqfG-U/copy?usp=sharing)). <div align="center"><iframe src="https://drive.google.com/file/d/1AP1rtSBQ1Jcaoc-HmLe2-0EzVGrtKC64/preview" width="640" height="480"></iframe><br>[LMR_1.12b](https://docs.google.com/document/d/1bU6sF6dLHwAcD3-bkal_eWKtL95iWNpFRmhsUEqfG-U/copy?usp=sharing)</div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Jks39Gxi6dA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+11. Before you begin using the Plot App, download a copy of the *Exploring Our Food Habits, Part 2* handout:
+
+
+    <strong style="color: blue;"> Click on the document name to download a fillable copy:</strong>  [LMR_1.12b](https://docs.google.com/document/d/1FC6jIJSiqYHyvXI2_x7PBih-N-AehNhHtBPCXNOyndY/copy?usp=sharing). 
+    
+    
+    <div align="center"><iframe src="https://drive.google.com/file/d/1TkO0E7Yw13g2A7xqrfR5N5-6tdZ8v6_1/preview" width="640" height="480"></iframe><br>[LMR_1.12b](https://docs.google.com/document/d/1FC6jIJSiqYHyvXI2_x7PBih-N-AehNhHtBPCXNOyndY/copy?usp=sharing)</div>
+
 
 12. To access the Plot App, go to the IDS Homepage, found at
 [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org"). All of the IDS web tools can be accessed through this page. Click on **Plot App** and log in if prompted. Once logged in, notice that you are redirected to the **Campaign Manager**. This happens so that you can select the campaign containing the data that you want to analyze. Find the *Food Habits* campaign and click on **PlotApp**.

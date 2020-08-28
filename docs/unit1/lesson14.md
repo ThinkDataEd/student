@@ -26,8 +26,14 @@ variable. Begin by pondering the following questions:
 
     100. <strong style="color: red;">Are taller people heavier? Always? Or is this just a tendency?</strong>
 
-2. Let's look at the following plot ([LMR_1.13](https://docs.google.com/document/d/1iTVpJEHNblHjN-7An0U8c_HfuorgRfB5nobkM0-eTSQ/copy?usp=sharing)), which has real data relevant to these questions:
-<div align="center"><iframe src="https://drive.google.com/file/d/1cDs9nnLyrEZHphVW3SWXJ0vZeRB0cHcF/preview" width="640" height="480"></iframe><br>[LMR_1.13](https://docs.google.com/document/d/1iTVpJEHNblHjN-7An0U8c_HfuorgRfB5nobkM0-eTSQ/copy?usp=sharing)</div>
+2. Let's look at the following plot, which has real data relevant to these questions.
+
+
+    <strong style="color: blue;"> Click on the document name to download a fillable copy: </strong>[LMR_1.13](https://docs.google.com/document/d/1iTVpJEHNblHjN-7An0U8c_HfuorgRfB5nobkM0-eTSQ/copy?usp=sharing)
+
+
+    <div align="center"><iframe src="https://drive.google.com/file/d/1cDs9nnLyrEZHphVW3SWXJ0vZeRB0cHcF/preview" width="640" height="480"></iframe><br>[LMR_1.13](https://docs.google.com/document/d/1iTVpJEHNblHjN-7An0U8c_HfuorgRfB5nobkM0-eTSQ/copy?usp=sharing)</div>
+
 
 3. In your IDS Journal, answer the following questions about the plot from the handout
 ([LMR_1.13](https://docs.google.com/document/d/1iTVpJEHNblHjN-7An0U8c_HfuorgRfB5nobkM0-eTSQ/copy?usp=sharing)):
@@ -58,8 +64,14 @@ additional information would be helpful? </strong>
 
     <strong style="color: red;"> Where do you think most of the girls' dots would be relative to the boys? </strong>
 
-7. Look at the following plot that addresses this question ([LMR_1.14](https://docs.google.com/document/d/1ShxLyZ8BQr9WsQ6Fv9tYjZyRPpCphM0JlVKL4mAt1ds/copy?usp=sharing)):
-<div align="center"><iframe src="https://drive.google.com/file/d/1pP_Dkoq6kyr2TIl2l-cTlYscTFOCxODS/preview" width="640" height="480"></iframe><br>[LMR_1.14](https://docs.google.com/document/d/1ShxLyZ8BQr9WsQ6Fv9tYjZyRPpCphM0JlVKL4mAt1ds/copy?usp=sharing)</div>
+7. Look at the following plot that addresses this question.
+
+
+    <strong style="color: blue;"> Click on the document name to download a fillable copy: </strong>[LMR_1.14](https://docs.google.com/document/d/1ShxLyZ8BQr9WsQ6Fv9tYjZyRPpCphM0JlVKL4mAt1ds/copy?usp=sharing)
+
+
+    <div align="center"><iframe src="https://drive.google.com/file/d/1pP_Dkoq6kyr2TIl2l-cTlYscTFOCxODS/preview" width="640" height="480"></iframe><br>[LMR_1.14](https://docs.google.com/document/d/1ShxLyZ8BQr9WsQ6Fv9tYjZyRPpCphM0JlVKL4mAt1ds/copy?usp=sharing)</div>
+
 
 8. In your IDS Journal, answer the following questions about the plot from the handout
 ([LMR_1.14](https://docs.google.com/document/d/1ShxLyZ8BQr9WsQ6Fv9tYjZyRPpCphM0JlVKL4mAt1ds/copy?usp=sharing)):
@@ -84,11 +96,16 @@ additional information would be helpful? </strong>
         
         **Note**: When the data are split into categories, it is called **grouping**.
 
-10. <strong style="color: red;">Now that you have explored some components of this plot, what questions might you have about it? What
-additional information would be helpful? </strong>
+10. <strong style="color: red;">Now that you have explored some components of this plot, what questions might you have about it? What additional information would be helpful? </strong>
 
-11. Let's look at another type of plot ([LMR_1.15](https://docs.google.com/document/d/1tMWYUz0JVq9LOrhQxsB2ZUsrsz5tUrpUmLqBpBe9T_c/copy?usp=sharing)):
-<div align="center"><iframe src="https://drive.google.com/file/d/1gsHDfp8YKiCIVlHmwZXF93jqnbTYhgfU/preview" width="640" height="480"></iframe><br>[LMR_1.15](https://docs.google.com/document/d/1tMWYUz0JVq9LOrhQxsB2ZUsrsz5tUrpUmLqBpBe9T_c/copy?usp=sharing)</div>
+11. Let's look at another type of plot.
+
+
+    <strong style="color: blue;"> Click on the document name to download a fillable copy: </strong>[LMR_1.15](https://docs.google.com/document/d/1tMWYUz0JVq9LOrhQxsB2ZUsrsz5tUrpUmLqBpBe9T_c/copy?usp=sharing)
+
+
+    <div align="center"><iframe src="https://drive.google.com/file/d/1gsHDfp8YKiCIVlHmwZXF93jqnbTYhgfU/preview" width="640" height="480"></iframe><br>[LMR_1.15](https://docs.google.com/document/d/1tMWYUz0JVq9LOrhQxsB2ZUsrsz5tUrpUmLqBpBe9T_c/copy?usp=sharing)</div>
+
 
 12. In your IDS Journal, answer the following questions about the plot from the handout ([LMR_1.15](https://docs.google.com/document/d/1tMWYUz0JVq9LOrhQxsB2ZUsrsz5tUrpUmLqBpBe9T_c/copy?usp=sharing)):
 
@@ -102,6 +119,9 @@ additional information would be helpful? </strong>
 
 13. Check your understanding of this plot. Here are some possible responses:
     100. <span style="color:grey">***Side-by-side bar plot.***</span>
+
+        **Note**: The terms **side-by-side bar plot**, **side-by-side bar chart**, and **side-by-side bar graph** can be used interchangeably.
+
     100. <span style="color:grey">***Two variables. Whether or not someone is Hispanic, and how often they wear sunscreen.***</span>
     100. <span style="color:grey">***The x-axis shows how often a student wears sunscreen, and the y-axis shows the percentage of the total that fall into that category (broken into two bars, one for Hispanic and one for non-Hispanic).***</span>
     100. <span style="color:grey">***Some questions might be "Do Hispanics and non-Hispanics have different approaches to sunscreen?", "What percent of Hispanics always/never wear sunscreen?", or "How does that compare to non-Hispanics?"***</span> 
@@ -111,8 +131,14 @@ additional information would be helpful? </strong>
 14. <strong style="color: red;"> After exploring this plot, what additional questions might you have about it? What
 additional information would be helpful? </strong>
 
-15. Now look at the following plot ([LMR_1.16](https://docs.google.com/document/d/1AMOMA7adqdULqi0tNEELXzDM_x4bIaBFUNjQnt-pCY0/copy?usp=sharing))
-<div align="center"><iframe src="https://drive.google.com/file/d/1YOYhUPA4L-GVlvl4AvA3fKHF6okLF7Mz/preview" width="640" height="480"></iframe><br>[LMR_1.16](https://docs.google.com/document/d/1AMOMA7adqdULqi0tNEELXzDM_x4bIaBFUNjQnt-pCY0/copy?usp=sharing)</div>
+15. Now look at the following plot.
+
+
+    <strong style="color: blue;"> Click on the document name to download a fillable copy: </strong>[LMR_1.16](https://docs.google.com/document/d/1AMOMA7adqdULqi0tNEELXzDM_x4bIaBFUNjQnt-pCY0/copy?usp=sharing)
+
+
+    <div align="center"><iframe src="https://drive.google.com/file/d/1YOYhUPA4L-GVlvl4AvA3fKHF6okLF7Mz/preview" width="640" height="480"></iframe><br>[LMR_1.16](https://docs.google.com/document/d/1AMOMA7adqdULqi0tNEELXzDM_x4bIaBFUNjQnt-pCY0/copy?usp=sharing)</div>
+
 
 16. In your IDS Journal, answer the following questions about the plot from the handout ([LMR_1.16](https://docs.google.com/document/d/1AMOMA7adqdULqi0tNEELXzDM_x4bIaBFUNjQnt-pCY0/copy?usp=sharing)):
 
@@ -126,6 +152,9 @@ additional information would be helpful? </strong>
 
 17. Check your understanding of this plot. Here are some possible responses:
     100. <span style="color:grey">***Split histogram (you learned about a split histogram in [Lab 1B](lab1b.md)).***</span>
+
+    **Note**: The terms **faceted histogram** and **split histogram** will be used interchangeably. 
+
     100. <span style="color:grey">***Two variables. Height and gender.***</span>
     100. <span style="color:grey">***The x-axis shows height in feet, and the y-axis shows the total that fall into a certain range of heights (broken into two histograms, one for males and one for females).***</span>
     100. <span style="color:grey">***Some questions might be "Do males and females differ in height?", "What is the typical female height?", or "What is the typical male height?".***</span> 
@@ -134,7 +163,11 @@ additional information would be helpful? </strong>
 
 18. <strong style="color: red;"> Using the notes and sketches in your IDS Journal, summarize your learning of how
 to read and interpret basic multiple variable plots by completing the *Summarizing Multiple Variable Plots* fourfold
-graphic organizer </strong> </strong> ([LMR_1.17](https://docs.google.com/document/d/1_oBcnZ-hvzSw5bEO0vIjVVUNtPBZIPL7f1unEn1rCmc/copy?usp=sharing)).
+graphic organizer </strong> </strong> 
+
+
+    <strong style="color: blue;"> Click on the document name to download a fillable copy: </strong>[LMR_1.17](https://docs.google.com/document/d/1_oBcnZ-hvzSw5bEO0vIjVVUNtPBZIPL7f1unEn1rCmc/copy?usp=sharing)
+
 
     **Note**: If you are unable to print the handout or access it electronically, you can create a table in your IDS Journal that follows the same format.
 

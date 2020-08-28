@@ -48,20 +48,20 @@ following questions:
     100. <span style="color:grey">***Some examples might be: The graphic shows how much time Americans over the age of 15 are spending doing these activities. This information is broken down by different categories of Americans (e.g., gender, ethnicity), and the percentage of Americans doing a particular activity at a particular time (e.g., 5% of Americans are working at 6:00 am). The average time spent on a particular activity is also shown (e.g., average time spent at work for all Americans is 3 hours and 25 minutes).***</span>
     100. <span style="color:grey">***The data came from thousands of Americans over the age of 15 who took a survey recalling every minute of a day in 2008.***</span>
 
-7. You will continue to investigate Americans’ daily time use and use the KLW
-graphic organizer as a way to organize your thoughts. 
+7. You will continue to investigate Americans’ daily time use and use the KLW graphic organizer as a way to organize your thoughts. 
 
 
     **Note**: If this is your first time using a KLW organizer, the **K** column is where you write what you already KNOW about a topic, the **L** column is where you write anything new that you LEARNED after reading/investigating about how teens spend their time, and the **W**
     column is where you write what you still WANT TO LEARN (or wonderings that you might have) about how teens spend their time.
 
 
-    | **K** | **L** | **W** |
-    | ------------ | ------------- | ------------ |
+    <strong style="color: blue;"> Click on the document name to download a fillable copy: </strong>[KLW Graphic Organizer](https://docs.google.com/document/d/1juiVl34uE27NqERYUP4vKEmV3UqMJ-o0aS_F3sfOYd0/copy?usp=sharing)
 
-    <strong style="color: red;">Before you read the The Washington Post article, *Teens Are Spending
-More Time Consuming Social Media*, *on Mobile Devices*, write what you already know
-about the topic in the *Know* column.</strong>
+
+    <div align="center"><iframe src="https://drive.google.com/file/d/1kBzp4cNJro8pmcBrjVPAeJV38jRXr9F2/preview" width="640" height="480"></iframe><br>[KLW Graphic Organizer](https://docs.google.com/document/d/1juiVl34uE27NqERYUP4vKEmV3UqMJ-o0aS_F3sfOYd0/copy?usp=sharing)</div>
+
+
+    <strong style="color: red;">Before you read the The Washington Post article, *Teens Are Spending More Time Consuming Social Media*, *on Mobile Devices*, write what you already know about the topic in the *Know* column.</strong>
   
 
 8. Now read the article:<br>
@@ -103,24 +103,21 @@ begin to collect data about your own time use. Follow the *Time Use Campaign Gui
     **Campaigns** to see the full list of campaigns. You can then choose/add the
     campaign you want (in this case, the *Time Use* campaign). If no campaigns are visible, click the **Refresh** option.
 
-15. Just as you explored time use via the New York Times interactive graphic, you will now be observing and recording your own daily time use. You should download and fill out the [*Time Use Data Collection Template*](https://docs.google.com/document/d/1I2uIY3968pjulYsdemHtwYPKisXMSL3bEgQZon5S5ho/copy?usp=sharing) to organize your time use data before submitting it to the *Time Use* campaign. 
+15. Just as you explored time use via the New York Times interactive graphic, you will now be observing and recording your own daily time use. You will be using the *Time Use Data Collection Worksheet* to organize your time use data before submitting it to the *Time Use* campaign. 
 
 
-    <iframe src="https://drive.google.com/file/d/1eBNL7uMZAkw3QMSTQi-acqlmUkvh-fZV/preview" width="640" height="480"></iframe>
+    <strong style="color: blue;"> Click on the document name to download a fillable copy: </strong>[*Time Use Data Collection Worksheet*](https://docs.google.com/spreadsheets/d/1VB1oPIk9zxaVUnOy1O_WVxbk8lSCWu4h2wiKas03M6E/copy?usp=sharing) 
+
+    <div align="center"><iframe src="https://drive.google.com/file/d/1VRpw3JGRaHOAiQumwmmIzC0buuRwIddf/preview" width="640" height="480"></iframe><br>[*Time Use Data Collection Worksheet*](https://docs.google.com/spreadsheets/d/1VB1oPIk9zxaVUnOy1O_WVxbk8lSCWu4h2wiKas03M6E/copy?usp=sharing)</div>
     
-    
-    <center>([*Time Use Data Collection Template*](https://docs.google.com/document/d/1I2uIY3968pjulYsdemHtwYPKisXMSL3bEgQZon5S5ho/copy?usp=sharing))</center>
 
-    
-    <strong style="color: blue;"> Insert how-to video for filling out *Time Use Data Collection Template*</strong>
-
-    So that you may calculate your overall daily time use more easily, the template is split into 3 sections: 
+    So that you can remember your overall daily time use more easily, the worksheet is split into 3 sections: 
 
     100. 6am-3pm (should total 540 minutes)
     100. 3pm-9pm (should total 360 minutes)
     100. 9pm-6am (should total 540 minutes)
 
-    You'll add across each activity row to get the total time spent doing that activity. The final total for each entire day should add to 1440 minutes. These numbers will go in the TOTALS sections of the template.
+    Once you've filled in the times for each activity, the form will autocalcuate your daily and final totals for each activity. The final total for each entire day should add to 1,440 minutes. These numbers will appear in the TOTAL sections of the worksheet.
 
 
 ###**Reflection**

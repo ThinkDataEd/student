@@ -18,6 +18,13 @@ marginal (relative) frequency, joint (relative) frequency, conditional relative 
 
     100. Today is the last day to collect data for the *Time Use* campaign. You will be using the Campaigns Tool to view your survey responses. Click on **Campaigns** on your IDS Homepage, found at [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org") and sign in if prompted. Find the *Time Use* campaign and click on **Responses**.
 
+
+    Watch this video to learn how to use the Campaigns Tool:
+
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/G2r96VAkliw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
     100. Click on the blue plus sign (<strong style="color: blue;">+</strong>) to expand the surveys you have submitted. 
         200. <strong style="color: red;">For which days have you collected data?</strong>
 

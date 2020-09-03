@@ -32,8 +32,11 @@ daily time use.
     <iframe src="https://drive.google.com/file/d/1qRq3BLnLQSe-f16ini8ctwMrCW0G_HYw/preview" width="640" height="480"></iframe>
 
 
-5. Spend some time exploring the interactive graphic, then answer the
-following questions:
+5. Spend some time exploring the interactive graphic. Try clicking on the activities represented by different colors, and on the boxes to filter by group (Everyone, men, women, etc.), then answer the following questions:
+
+
+    <iframe src="https://drive.google.com/file/d/1g6XxlTX4Kchhg2jrao6P2QTPKMPeqlwG/preview" width="640" height="480"></iframe>
+
 
     100. <strong style="color: red;"> What variables are represented in this graphic? </strong>
 
@@ -42,6 +45,7 @@ following questions:
     100. <strong style="color: red;">Where did the data come from? </strong>
 
     100. <strong style="color: red;"> What are some interesting findings?</strong>
+
 
 6. Check your understanding of the above questions. Here are some possible responses:
     100. <span style="color:grey">***The variables represented are activities that Americans spend their time doing. These include sleeping, eating, traveling, socializing, etc.***</span>
@@ -106,9 +110,15 @@ begin to collect data about your own time use. Follow the *Time Use Campaign Gui
 15. Just as you explored time use via the New York Times interactive graphic, you will now be observing and recording your own daily time use. You will be using the *Time Use Data Collection Worksheet* to organize your time use data before submitting it to the *Time Use* campaign. 
 
 
+    Watch this video to learn how to fill out the *Time Use Data Collection Worksheet*.
+
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/KjSIKDBImNY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
     <strong style="color: blue;"> Click on the document name to download a fillable copy: </strong>[*Time Use Data Collection Worksheet*](https://docs.google.com/spreadsheets/d/1VB1oPIk9zxaVUnOy1O_WVxbk8lSCWu4h2wiKas03M6E/copy?usp=sharing) 
 
-    <div align="center"><iframe src="https://drive.google.com/file/d/1VRpw3JGRaHOAiQumwmmIzC0buuRwIddf/preview" width="640" height="480"></iframe><br>[*Time Use Data Collection Worksheet*](https://docs.google.com/spreadsheets/d/1VB1oPIk9zxaVUnOy1O_WVxbk8lSCWu4h2wiKas03M6E/copy?usp=sharing)</div>
+    <div align="center"><iframe src="https://drive.google.com/file/d/11RZ64kp6NrRBEuC-JvQnUFruPUVe0NEG/preview" width="640" height="480"></iframe><br>[*Time Use Data Collection Worksheet*](https://docs.google.com/spreadsheets/d/1VB1oPIk9zxaVUnOy1O_WVxbk8lSCWu4h2wiKas03M6E/copy?usp=sharing)</div>
     
 
     So that you can remember your overall daily time use more easily, the worksheet is split into 3 sections: 

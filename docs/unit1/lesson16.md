@@ -5,7 +5,9 @@ You will learn to construct, interpret, and calculate the joint relative frequen
 tables.
 
 ###**Vocabulary**
-two-way frequency table, joint relative frequency                                           
+two-way frequency table, joint relative frequency
+
+
 ###**Essential Concepts**
 
 !!! note "Lesson 16 Essential Concepts"
@@ -33,24 +35,18 @@ and columns.</strong>
 
 5. In this lesson you will be looking at associations in categorical variables. Recall from [Lesson 3](lesson3.md) that categorical variables represent values that have words.
 
-6. There are many ways to organize the data that Rosa collected. The table below shows a **two-way frequency table**. A two-way
-frequency table displays the data related to two categories from one group. One category is
-represented in rows and the other is represented in columns.
+6. There are many ways to organize the data that Rosa collected. The table below shows a **two-way frequency table**. A two-way frequency table displays the data related to two categories from one group. One category is represented in rows and the other is represented in columns.
 
     The *Cat Ownership and Instruments* two-way frequency table below represents the
 data Rosa collected from the students in her art class. Compare your table to the one below. It might be organized a little differently, but the totals should add to 35.
 
     **Cat Ownership and Instruments**
 
-    <iframe src="https://drive.google.com/file/d/1fFY6eOnIfDYtZpYtOQSfFuW6Uqwj_Bfa/preview" width="640" height="480"></iframe>
+    <iframe src="https://drive.google.com/file/d/1VeE8SwZsYXPu7Qbetx-njpmgi-ZrIV6m/preview" width="640" height="480"></iframe>
 
-7. <strong style="color: red;">Based on the Cat Ownership and Instruments table, generate a couple of questions that
-can be asked and answered by the data.</strong>
+7. <strong style="color: red;">Based on the Cat Ownership and Instruments table, generate a couple of questions that can be asked and answered by the data.</strong>
 
-8. A two-way frequency table can show relative frequencies. A **relative frequency** is
-how often something occurs in relation to the total number of occurrences, and is expressed as a
-proportion or percentage of a total. For example, the **relative frequency** of those who own
-a cat and play an instrument is 7/35 or 0.2 or 20%.
+8. A two-way frequency table can show relative frequencies. A **relative frequency** is how often something occurs in relation to the total number of occurrences. A relative frequency is a fancy term for a ratio/proportion and can be expressed as a fraction, decimal or percent. For example, the relative frequency of those who own a cat and play an instrument is 7/35 = 0.2 = 20%.
 
 
 9. The relative frequencies have been calculated in the two-way frequency table below.
@@ -59,7 +55,7 @@ a cat and play an instrument is 7/35 or 0.2 or 20%.
     **Cat Ownership and Instruments: Relative Frequencies**
 
     
-    <iframe src="https://drive.google.com/file/d/1iTNnAIikiXSflTLP2qvXwtjwrQLDMsv-/preview" width="640" height="480"></iframe>
+    <iframe src="https://drive.google.com/file/d/1oPTd6zovX8K41Rf3z87rd51gt0YOxOC_/preview" width="640" height="480"></iframe>
 
 
     <strong style="color: red;">Compare the two-way frequency table in #6 and the relative frequency table in #9. What is the difference between a two-way frequency table and a two-way relative frequency table?  When would it be better to use one over the other?</strong>

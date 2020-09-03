@@ -19,13 +19,12 @@ data, observations, data trails
 
 ###**Lesson**
 
-1. Watch the *Target Story* video:<br>
-    [https://www.youtube.com/watch?v=XvSA-6BJkx4](https://www.youtube.com/watch?v=XvSA-6BJkx4 "https://www.youtube.com/watch?v=XvSA-6BJkx4")
+1. Data are all around us. This *Data Story* video involving the Target store chain tells you how data collected about you can be used:<br><iframe width="560" height="315" src="https://www.youtube.com/embed/dxuKPJnq6gk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-2. Now that you've watched the *Target Story*, answer the question at the end of the video in your IDS Journal: 
 
-    <strong style="color: red;">How do you think Target knew about the daughter? In other words, how did Target know
-    the daughter was pregnant before her father did?</strong>
+2. Now that you've watched the *Data Story* video, answer the question at the end of the video in your IDS Journal: 
+
+    <strong style="color: red;">How do you think Target knew about the daughter? In other words, how did Target know the daughter was pregnant before her father did?</strong>
 
 3. Ponder the following questions about **data** (respond in your IDS Journal):
 

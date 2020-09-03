@@ -2,12 +2,12 @@
 
 ###**Objective:**
 You will understand that, just by chance, we will see differences between two groups. You will
-understand that these differences are usually small. Specifically, they will learn that we can determine if
-outcomes are due to chance for categorical variables by calculating differences in the proportions
+understand that these differences are usually small. Specifically, you will learn that we can determine if
+outcomes are due to chance for categorical variables by calculating differences in the percentages
 between two groups.
 
 ###**Materials:**
-1. 3” x 5” cards (1 per student)
+1. Paper, pen/pencil, scissors
 
 ###**Vocabulary:**
 chance, simulations, randomness, shuffle
@@ -16,30 +16,30 @@ chance, simulations, randomness, shuffle
 
 !!! note "Essential Concepts: " 
     We can "shuffle" data based on categorical variables. The statistic we use is the
-    difference in proportions. The distribution we form by shuffling represents what happens if chance were
-    the only factor at play. If the actual observed difference in proportions is near the center of this shuffling
+    difference in percents. The distribution we form by shuffling represents what happens if chance were
+    the only factor at play. If the actual observed difference in percents is near the center of this shuffling
     distribution, then we would conclude that chance is a good explanation for the difference. But if it is
     extreme (in the tails or off the charts), then we should conclude that chance is NOT to blame. Sometimes,
     the apparent difference between groups is caused by chance.
 
 ###**Lesson:**
-<strong style="color: blue;">LeeAnn, refert to U1, lesson 8 for the rewrite below.</strong>
-1. **<u>Data Collection Monitoring:</u>** Display the IDS Campaign Monitoring Tool, found at
-[https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org"). Click on **Campaign Monitor** and sign in.
 
-2. Inform students that you will be monitoring their data collection. Ask:
+1. <u>**Stress/Chill Campaign Data Collection Monitoring:**</u>
+    
+    Your teacher will be monitoring your class's data collection using the Campaign Monitoring Tool. Keep in mind that this tool will inform your teacher about whether or not you are collecting data.
 
-    100. Who has collected the most data so far? *See User List and sort by Total.*
+2.  The monitoring tool will allow your teacher to answer the following:
 
-    100. How many active users are there? How many inactive users are there? *Click on pie chart.*
+    100. Who has collected the most data so far? 
 
-    100. How many responses were submitted yesterday and today? *See Total Responses.*
+    100. How many active users are there? How many inactive users are there?
 
-    100. How many responses have been shared? How many remain private? *Click on pie chart.*
+    100. How many responses were submitted yesterday and today?
 
-    100. Using TPS, ask students to think about what can they do to increase their data collection.
+    100. How many responses have been shared? How many remain private?
 
-3. Quickwrite: In your DS journal, write down how you can be more accurate in your data collecting for the stress/chill .
+3. <strong style="color: red;">Quickwrite: In your DS journal, write down how you can be more accurate in your data 
+    collecting for the stress/chill campaign.<strong>
 
 4. Recall what you have learned about **chance** (see [Lesson 8](lesson8.md)). <span style="color:grey">***Synonyms:
 possibility, prospect, expectation, unintentional, unplanned. The actual definition of
@@ -53,21 +53,23 @@ that something just happens without a specific order.
 
 7. Below are some examples in which two groups could be compared:
 
-    100. <span style="color:grey">***Men earn more money than women for some work.***</span>
+    100. Men earn more money than women for some work.
 
-    100. <span style="color:grey">***Basketball players are faster runners than baseball players.***</span>
+    100. Basketball players are faster runners than baseball players.
 
-    100. <span style="color:grey">***Los Angeles students are smarter than <u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u></u>.***</span>
+    100. UCLA football players are better athletes than USC football players.
 
-    100. <span style="color:grey">***UCLA football players are better athletes than USC football players.***</span>
+    100. You and a friend flipped a coin 10 times, and you got more "heads."
 
-    100. <span style="color:grey">***You and a friend flipped a coin 10 times, and you got more "heads."***</span>
+<strong style="color: red;">In your DS journal list other situations where two groups could be compared.</strong>  
 
-<strong style="color: red;"> In your DS journal list other situations where two groups could be compared.</strong>  
+8. Sometimes differences between two groups are real, but sometimes they might just be due to chance. 
 
-8. Sometimes differences between two groups are real, but
-sometimes they might just be due to chance. For each of the situations in #7 and the situations you came up with, state whether you think the differences are either
-real or due to chance. Click on the examples in #7 to check your answers. You will be learning ways to tell the difference.
+<strong style="color: red;">For each of the situations in #7 and the situations you came up with, state whether you think the differences are either real or due to chance.</strong> You will be learning ways to tell the difference. A sample response is provided below:
+
+    Example: Men earn more money than women for some work.
+
+    <span style="color:grey">***I think this is real espcecially in jobs where there is physical labor involved. I would guess that male construction workers make more than female construction workers because their boss might feel that male construction workers exert themselves more physically.***
 
 9. In this lesson we are interested in finding out who will survive by the end of a horror movie. Think about the following question:
 
@@ -75,15 +77,13 @@ real or due to chance. Click on the examples in #7 to check your answers. You wi
 
 10. <strong style="color: red;">In your DS Journal write down your thoughts on the question above.</strong>
 
-11. Inform the students that they will be pretending to be actors from horror movies during today’s
-lesson.
+11. Today you will be pretending to be the producer of a horror movie.
 
-12. Explain that data from horror movies (sometimes called slasher films) were collected of 485
-characters from 50 films. For each character, 2 variables were recorded: Gender and Survival.
+12. As a producer you obtained data from 50 horror movies (sometimes called slasher films). There were a total of 485 characters in these 50 films. For each character, 2 variables were recorded: Gender and Survival.
 The values for Gender were “Male” and “Female.” The values for Survival were “Dies” and
 “Survives.”
 
-13. From this data, the proportion of survivors was calculated for each gender. In other words, for all
+13. From this data, a few summary statistics were calculated. The percent of total survivors was calculated by dividing the total number of survivors by the total number of characters using the following code: tally(~survived, data=slasher, type="percent"). Only 18% of all characters survived in these slasher films! The percent of survivors was calculated for each gender. In other words, for all
 female characters, the number of female survivors was divided by the total number of females.
 Similarly, for all male characters, the number of male survivors was divided by the total number of
 males.

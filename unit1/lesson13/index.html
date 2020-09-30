@@ -3097,35 +3097,32 @@ there? How does this output compare to the information in the preview pane?  </s
 <p><strong style="color: red;"> Which number do you think represents the rows? Which one represents the columns? How does this output compare to the information in the preview and
 environment panes? How many observations are there in the data set? How many
 variables does this data set contain? </strong> </p>
+<p><span style="color:grey"><strong><em>There are 15,624 rows, or 15,624 observations;and there are 33 columns, or 33 variables. This information is also visible in the environment pane.</em></strong></span></p>
 </li>
 </ol>
-<p><span style="color:grey"><strong><em>There are 15,624 rows, or 15,624 observations;
-and there are 33 columns, or 33 variables. This information is also visible in the
-environment pane.</em></strong></span></p>
 </li>
 <li>
 <p>You can also obtain the number of observations of a specific variable. </p>
 <ol>
-<li>Type the following command to get the number of observations for seat belt wearers: <strong>&gt;tally(~seat_belt, data = cdc)</strong></li>
-</ol>
-<p><span style="color:grey"><strong><em>Notice that six categories are
-displayed. Each category shows the number of observations contained in it. For example,
-“Never” has 326 observations, meaning 326 teens reported never wearing their
-seat belt as a passenger in a motor vehicle. &lt;NA&gt; = Not Available, represents teens
-that did not provide information about their seat belt habits.</em></strong></span></p>
-<ol>
-<li><strong style="color: red;"> What else do you notice?</strong> </li>
+<li>
+<p>Type the following command to get the number of observations for seat belt wearers: <strong>&gt;tally(~seat_belt, data = cdc)</strong></p>
+<p><span style="color:grey"><strong><em>Notice that six categories are displayed. Each category shows the number of observations contained in it. For example, “Never” has 326 observations, meaning 326 teens reported never wearing their seat belt as a passenger in a motor vehicle. &lt;NA&gt; = Not Available, represents teens that did not provide information about their seat belt habits.</em></strong></span></p>
+</li>
+<li>
+<p><strong style="color: red;"> What else do you notice?</strong> </p>
+</li>
 </ol>
 </li>
 <li>
 <p>Now change the variable to height:</p>
 <ol>
-<li>Type the following command: <strong>&gt;tally(~height, data = cdc)</strong></li>
-</ol>
-<p><span style="color:grey"><strong><em>Notice that categories are missing. This happened
-because the variable height contains numbers, not categories.</em></strong></span></p>
-<ol>
-<li><strong style="color: red;"> What else do you notice?</strong> </li>
+<li>
+<p>Type the following command: <strong>&gt;tally(~height, data = cdc)</strong></p>
+<p><span style="color:grey"><strong><em>Notice that categories are missing. This happened because the variable height contains numbers, not categories.</em></strong></span></p>
+</li>
+<li>
+<p><strong style="color: red;"> What else do you notice?</strong> </p>
+</li>
 </ol>
 </li>
 <li>

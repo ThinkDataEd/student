@@ -1097,7 +1097,7 @@
         
           <li class="md-nav__item">
   <a href="#sample-with-or-without" class="md-nav__link">
-    Sample with? Or without?
+    Sample with or without?
   </a>
   
 </li>
@@ -2967,7 +2967,7 @@
         
           <li class="md-nav__item">
   <a href="#sample-with-or-without" class="md-nav__link">
-    Sample with? Or without?
+    Sample with or without?
   </a>
   
 </li>
@@ -3049,82 +3049,74 @@
 <h3 id="where-we-left-off"><strong>Where we left off</strong></h3>
 <ul>
 <li>
-<p>In the last lab, we looked at how we can use computer simulations to compute estimates of simple probabilities.</p>
-</li>
-<li>
-<p>Like the probability of drawing a song genre from a playlist.</p>
-</li>
-<li>
-<p>We also saw that performing <em>more</em> simulations:</p>
-<p>– Took <em>longer</em> to finish.</p>
-<p>– Had estimates that <em>varied less</em>.</p>
+<p>In the last lab we looked at how we can use computer simulations to compute estimates of simple probabilities, like the probability of drawing a song genre from a playlist. We also saw that performing <em>more</em> simulations took <em>longer</em> to finish, and had estimates that <em>varied less</em>.</p>
 </li>
 <li>
 <p>In this lab, we'll extend our simulation methods to cover situations that are more complex.</p>
-<p>– We'll learn how to estimate their probabilities.</p>
-<p>– We also look at the roll of sampling <em>with</em> or <em>without replacement</em>.</p>
+<p>– We will learn how to estimate their probabilities.</p>
+<p>– We will also look at the roll of sampling <em>with</em> or <em>without replacement</em>.</p>
 </li>
 </ul>
 <h3 id="back-to-songs"><strong>Back to songs</strong></h3>
 <ul>
 <li>
-<p>In <code>R</code>, simulate a <em>playlist</em> of <em>songs</em> containing 30 <code>"rap"</code> songs, 23 <code>"country"</code> songs and 47 <code>"rock"</code>
-songs.</p>
-<p>– <em>Assign</em> the combined playlist the name <code>songs</code>.</p>
+<p>In <code>R</code>, simulate a <em>playlist</em> of <em>songs</em> containing 30 <code>"rap"</code> songs, 23 <code>"country"</code> songs, and 47 <code>"rock"</code> songs. <em>Assign</em> the combined playlist the name <code>songs</code>.</p>
 </li>
 <li>
-<p>Simulate choosing a single song 50 times. Then use your simulated draws to estimate the
-probability of choosing a <em>rap</em> song.</p>
-<p>– The actual (theoretical) probability of choosing a <em>rap</em> song in this case is <code>0.30</code>.</p>
-<p>– <strong>Write a sentence comparing your estimated probability to the actual probability.</strong></p>
+<p>Simulate choosing a single song 50 times. Then use your simulated draws to estimate the probability of choosing a <em>rap</em> song. The actual (theoretical) probability of choosing a <em>rap</em> song in this case is <code>0.30</code>.</p>
+</li>
+<li>
+<p><strong>Write a sentence comparing your estimated probability to the actual probability.</strong></p>
 </li>
 </ul>
 <h3 id="with-or-without"><strong>With or without?</strong></h3>
 <ul>
 <li>
-<p>So far, you've selected songs <em>with replacement</em>.</p>
-<p>– We called it that, because each time you made a selection, you started with the same
-playlist. That is, you chose a song, wrote down its data, and then placed it back on the
-list.</p>
+<p>So far, you've selected songs <em>with replacement</em>. We call it that because each time you made a selection, you started with the same playlist. That is, you chose a song, wrote down its data, and then placed it back on the list.</p>
 </li>
 <li>
-<p>It's also possible to select <em>without replacement</em> by setting the <code>replace</code> option in the <code>sample</code>
-function to <code>FALSE</code>.</p>
+<p>It's also possible to select <em>without replacement</em> by setting the <code>replace</code> option in the <code>sample</code> function to <code>FALSE</code>.</p>
 </li>
 <li>
 <p>Take a sample of <code>size</code> 100 from our playlist of songs <em>without replacement</em>. Assign this sample the
 name <code>without</code>.</p>
-<p>– <strong>What do you notice if you run <code>tally(~without)</code>? Does something similar happen if
-you sample <em>with replacement</em>?</strong></p>
-<p>– <strong>What happens if <code>size = 101</code> and <code>replace = FALSE</code>?</strong></p>
+</li>
+<li>
+<p><strong>What do you notice if you run <code>tally(~without)</code>? Does something similar happen if
+    you sample <em>with replacement</em>?</strong></p>
+</li>
+<li>
+<p><strong>What happens if <code>size = 101</code> and <code>replace = FALSE</code>?</strong></p>
 </li>
 </ul>
-<h3 id="sample-with-or-without"><strong>Sample with? Or without?</strong></h3>
+<h3 id="sample-with-or-without"><strong>Sample with or without?</strong></h3>
 <ul>
 <li>
-<p>Imagine the following two scenarios.</p>
-<p>`1. You have a coin with two sides: <em>Heads</em> and <em>Tails</em>. You're not sure if the coin is fair and so
-    you want to estimate the probability of getting a <em>Head</em>.</p>
-<p>`2. A child reaches into a candy jar with 10 <em>strawberry</em>, 50 <em>chocolate</em> and 25 <em>watermelon</em>
-    candies. The child is able to grab three candies with their hand and you're interested in
-    probability that all three candies will be chocolate.</p>
+<p>Imagine the following two scenarios:</p>
+<ul>
+<li>
+<p>You have a coin with two sides: <em>Heads</em> and <em>Tails</em>. You're not sure if the coin is fair, so you want to estimate the probability of getting a <em>Head</em>.</p>
 </li>
 <li>
-<p><strong>Which of these scenarios would you sample <em>with replacement</em> and which would you
-sample <em>without replacement</em>? Why?</strong></p>
-<p>– <strong>Write down the line of code you would run to <code>sample</code> from the candy jar. Assume
-the simulated jar is named <code>candies</code>.</strong></p>
+<p>A child reaches into a candy jar with 10 <em>strawberry</em>, 50 <em>chocolate</em>, and 25 <em>watermelon</em> candies. The child is able to grab three candies with their hand. You're interested in the probability that all three candies will be chocolate.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Which of these scenarios would you sample <em>with replacement</em> and which would you sample <em>without replacement</em>? Why?</strong></p>
+</li>
+<li>
+<p><strong>Write down the line of code you would run to <code>sample</code> from the candy jar. Assume the simulated jar is named <code>candies</code>.</strong></p>
 </li>
 </ul>
 <h3 id="simulations-at-work"><strong>Simulations at work</strong></h3>
 <ul>
 <li>
-<p>In reality, songs from a playlist are chosen without replacement.</p>
-<p>– This way, you won't hear the same song several times in a row.</p>
+<p>In reality, songs from a playlist are chosen without replacement so that you won't hear the same song several times in a row.</p>
 </li>
 <li>
 <p>Let's write a more realistic simulation and estimate the probability that if we select two songs at
-random, without replacement, that both are rap songs.</p>
+random, without replacement, both will be rap songs.</p>
 <p>– Use the <code>do</code> function to perform 10 simulated <code>sample</code>s of <code>size</code> 2, with replacement and
 <em>assign</em> the simulations the name draws.</p>
 </li>
@@ -3132,15 +3124,13 @@ random, without replacement, that both are rap songs.</p>
 <h3 id="simulations-and-probability"><strong>Simulations and probability</strong></h3>
 <ul>
 <li>
-<p>To estimate the probability from our simulations, we need to find the proportion of times that the
-event we're interested in occurs in the simulations.</p>
+<p>To estimate the probability from our simulations, we need to find the proportion of times that the event we're interested in occurs in the simulations.</p>
 </li>
 <li>
-<p>In other words, we need to count the number of times the desired events occurred, divided by the
-number of attempts we made (the number of simulations).</p>
+<p>In other words, we need to count the number of times the desired events occurred, divided by the number of attempts we made (the number of simulations).</p>
 </li>
 <li>
-<p>The next slides will show you two ways to do this.</p>
+<p>Next you will learn two ways to do this.</p>
 </li>
 </ul>
 <h3 id="counting-similar-outcomes"><strong>Counting similar outcomes</strong></h3>
@@ -3152,8 +3142,7 @@ following trick to count the number of <em>rap</em> songs in each of the 10 simu
 </code></pre>
 </li>
 <li>
-<p><strong>For each of the lines of code below, describe how the output of the code changes as we
-move from line to line.</strong></p>
+<p><strong>For each line of code below, describe how the output of the code changes as we move from line to line.</strong></p>
 <pre><code>draws == "rap"
 rowSums(draws == "rap")
 mutate(draws, nrap = rowSums(draws=="rap"))
@@ -3163,14 +3152,13 @@ mutate(draws, nrap = rowSums(draws=="rap"))
 <h3 id="counting-other-outcomes"><strong>Counting other outcomes</strong></h3>
 <ul>
 <li>
-<p>Another method we can use to estimate the probability of complex events is to use the following
-2-step procedure:</p>
+<p>Another method we can use to estimate the probability of complex events is to use the following 2-step procedure:</p>
 <p>`1. Subset the rows of the simulations that match our desired outcomes.</p>
 <p>`2. Count the number of rows in the subset and divide by the number of simulations.</p>
 </li>
 <li>
 <p>The result that you obtain is an estimate of the probability that a specific combination of events
-occured.</p>
+occurred.</p>
 </li>
 <li>
 <p>We'll see an example of this method on the next slide.</p>
@@ -3181,8 +3169,8 @@ occured.</p>
 <li>
 <p>Fill in the blanks below to:</p>
 <p>`1. Create a subset of our simulations when both draws were <code>"rap"</code> songs.</p>
-<p>`2. Count the number of rows in this subset</p>
-<p>`3. And divide by the total number of repeated simulations.</p>
+<p>`2. Count the number of rows in this subset.</p>
+<p>`3. Divide by the total number of repeated simulations.</p>
 <pre><code>    draws_sub &lt;- filter(draws, ___ == "rap", ___ == "rap")
     nrow(___) / ___
 </code></pre>
@@ -3197,16 +3185,15 @@ occured.</p>
 </li>
 <li>
 <p><strong>Create a histogram that displays the number of times a <code>"rap"</code> song occurred in each
-simulation. That is, how often were zero rap songs drawn? A single rap song? Two rap
-songs?</strong></p>
+simulation. That is, how often were zero rap songs drawn? A single rap song? Two rap songs?</strong></p>
 </li>
 </ul>
 <h3 id="on-your-own"><strong>On your own</strong></h3>
 <ul>
 <li>Using what you've learned in the previous two labs, answer the following question by performing
-two computer simulations with 500 repetitions a piece:</li>
+two computer simulations with 500 repetitions for each simulation:</li>
 </ul>
-<p><strong><em>If we draw 5 songs from a playlist of 30 rap, 23 country and 47 rock songs, how does the
+<p><strong><em>If we draw 5 songs from a playlist of 30 rap, 23 country, and 47 rock songs, how does the
 estimated probability of all 5 songs being rap songs change if we draw the songs with or without
 replacement?</em></strong></p>
 <ul>
@@ -3216,8 +3203,9 @@ replacement?</em></strong></p>
 repetitions.</strong></p>
 </li>
 <li>
-<p><strong>Describe how the distribution of the number of <em>rap</em> songs changes depending on if we use
-replacement or not.</strong></p>
+<ul>
+<li><strong>Describe how the distribution of the number of <em>rap</em> songs changes depending on whether or not we use replacement.</strong></li>
+</ul>
 </li>
 </ul>
                 

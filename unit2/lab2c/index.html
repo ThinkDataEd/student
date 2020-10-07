@@ -3063,10 +3063,10 @@
 <h3 id="a-new-direction"><strong>A new direction</strong></h3>
 <ul>
 <li>
-<p>For the past two labs, we've looked at ways that we can summarize data with numbers. You learned how to describe the <em>center</em>, <em>shape</em> and <em>spread</em> of variables in our data.</p>
+<p>In <a href="../lab2a/">Lab 2A</a> and <a href="../lab2b/">Lab 2B</a>, we looked at ways that we can summarize data with numbers. You learned how to describe the <em>center</em>, <em>shape</em> and <em>spread</em> of variables in our data.</p>
 </li>
 <li>
-<p>In this lab, we're going to <em>estimate the probability</em> that a rap song will be chosen from a playlist that includes both rap and rock songs, if the choice is made at random. The playlist we'll work with has 100 songs: 39 are rap and 61 are rock.</p>
+<p>In this lab we're going to <em>estimate the probability</em> that a rap song will be chosen from a playlist that includes both rap and rock songs, if the choice is made at random. The playlist we'll work with has 100 songs: 39 are rap and 61 are rock.</p>
 </li>
 </ul>
 <h3 id="estimate-what"><strong>Estimate what...?</strong></h3>
@@ -3143,15 +3143,14 @@
 </code></pre>
 </li>
 <li>
-<p>Run this code 10 times and compute the proportion of <code>"rap"</code> songs you drew from the 10. Once everyone in your class has computed their proportions, calculate the <em>range</em> of proportions (The largest proportion minus the smallest proportion) for your class and write it down.</p>
+<p>Run this code 10 times and compute the proportion of <code>"rap"</code> songs you drew from the 10. Once everyone in your class has computed their proportions, calculate the <em>range</em> of proportions (the largest proportion minus the smallest proportion) for your class and write it down.</p>
 </li>
 </ul>
 <h3 id="now-do-it-some-more"><strong>Now do() it some more</strong></h3>
 <ul>
 <li>
-<p>Instead of running the same line of code multiple times ourselves we can use <code>R</code> to <code>do()</code>
-multiple repetitions for us.</p>
-<p>– Fill in the blanks below to <code>do</code> the <code>sample</code> code from the previous slide <em>50</em> times run:</p>
+<p>Instead of running the same line of code multiple times ourselves, we can use <code>R</code> to <code>do()</code>
+multiple repetitions for us. Fill in the blanks below to <code>do</code> the <code>sample</code> code from the previous slide's <em>50</em> times run:</p>
 <pre><code>do(___) * sample(___, ___ = ___, ___ = ___)
 </code></pre>
 </li>
@@ -3186,8 +3185,7 @@ your class's proportions is bigger or smaller than when we drew 10 songs.</stron
 <p>We've seen that random simulations can produce many different outcomes. Some estimated probabilities in your class were smaller/larger relative to others.</p>
 </li>
 <li>
-<p>There are instances where you might like the same random events to occur for everyone.</p>
-<p>– We can do this by using <code>set.seed()</code>.</p>
+<p>There are instances where you might like the same random events to occur for everyone. We can do this by using <code>set.seed()</code>.</p>
 </li>
 <li>
 <p>For example, the output of this code will always be the same:</p>
@@ -3201,7 +3199,7 @@ sample(songs, size = 1, replace = TRUE)
 <h3 id="playing-with-seeds"><strong>Playing with seeds</strong></h3>
 <ul>
 <li>
-<p>With a partner, choose a number to include in <code>set.seed</code> then redo the simulation of 5 songs.</p>
+<p>With a partner, choose a number to include in <code>set.seed</code>, then redo the simulation of 5 songs.</p>
 <p>– Both partners should run <code>set.seed(___)</code> just before simulating the 50 draws.</p>
 <p>– The blank in <code>set.seed(___)</code> should be the same number for both partners.</p>
 <p>– Verify that both partners compute the same proportion of <code>"rap"</code> songs.</p>
@@ -3218,11 +3216,10 @@ sample(songs, size = 1, replace = TRUE)
 <h3 id="on-your-own"><strong>On your own</strong></h3>
 <ul>
 <li>
-<p>Suppose there are 1,200 students at your school. 400 of them went to the movies last Friday, 600 went to the park, and the rest read at home.</p>
+<p>Suppose there are 1,200 students at your school. Last Friday, 400 of them went to the movies, 600 went to the park, and the rest read at home.</p>
 </li>
 <li>
-<p><strong>If we select a student at random, what is the probability that this student is one of the students who went to
-the movies last Friday? Answer this by estimating the probability that a randomly chosen student went to the movies using 500 simulations.</strong></p>
+<p><strong>If we select a student at random, what is the probability that this student is one of the students who went to the movies last Friday? Using 500 simulations, answer this by estimating the probability that a randomly chosen student went to the movies.</strong></p>
 </li>
 <li>
 <p><strong>Write down both the estimated probability and the code you used to compute your estimate. You might find it helpful to write your answer in an R Script

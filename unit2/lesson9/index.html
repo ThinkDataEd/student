@@ -3055,84 +3055,67 @@ opposite). (2) We could chip the edge of one corner of the die. This would throw
 <p>One die in the function is fair and the other has been created with <strong>bias</strong>. You will attempt to determine which die is the biased one by doing multiple simulations. They will attempt to determine which dice is the biased one by doing multiple simulations.</p>
 </li>
 <li>
-<p>Many simulations require multiple functions, or code, to perform. This is where RScripts are helpful. An RScript can be used to test code, write notes, and let us easily execute multiple lines of code at one time. To open a new RScript, click on the icon with the green plus sign under File. Then select <strong>New RScript</strong>. Once the RScript opens, click on the blue save icon to save it. When prompted, name your new RScript <em>roll_die</em>. </p>
+<p>Many simulations require multiple functions, or code, to perform. This is where RScripts are helpful. An RScript can be used to test code, write notes, and let us easily execute multiple lines of code at one time. To open a new RScript, click on the icon with the green plus sign under File. Then select <strong>New RScript</strong>. Once the RScript opens, click on the blue save icon to save it. When prompted, name your new RScript <em>roll_die</em>. Type the function below on your RScript, then click <strong>Run</strong>. Clicking <strong>Run</strong> automatically pastes the code onto the console (the pane where you would type your code):</p>
+<p><strong>&gt; roll_die(“A”, times = 1)</strong></p>
 <p><img src="../../img/20912.png" /></p>
 </li>
 <li>
-<p>Type the following function on your RScript, then click Run to paste the code onto the console (the pane where you would type your code):</p>
-<p><strong>&gt; roll_die(“A”, times = 1)</strong></p>
-</li>
-<li>
-<p>The output will show one number that represents what value on the die the computer rolled. Go
-back to your script and modify the function to roll die A 12 times.</p>
+<p>The output will show one number that represents what value on the die the computer rolled. Go back to your script and modify the function to roll die A 12 times.</p>
 <p><strong>&gt; roll_die(“A”, times = 12)</strong></p>
 </li>
 <li>
-<p>Compare the results of these 12 simulated rolls to the results of the 12 actual rolls completed by
-the two students during Step 9. If there is space available on the tally chart, you can add the
-computer results to it for an easy comparison.</p>
+<p>Compare the results of these 12 simulated rolls to the results of the 12 actual rolls completed in Step 9. If there is space available in the table, you can add the computer results to it for an easy comparison.</p>
 </li>
 <li>
-<p>Ask students how we could record data from these simulations if we wanted to roll the die 100
-times. Would they want to hand count the number of times each value occurred? Is there a
-function in RStudio that will count them for us? <span style="color:grey"><strong><em>It would be difficult to count every individual value in the output on the screen. However, we can use the tally() function to find out how many times each die value appeared.</em></strong></span></p>
+<p>If you wanted to roll a die 100 times:</p>
+<ol>
+<li>
+<p><strong style="color:red;"> How can you record the data?</strong> </p>
 </li>
 <li>
-<p>To make using the <strong>tally()</strong> function easier, we should assign a name to each simulation so we
-don’t have to type the entire function multiple times. We can also have it calculate the proportions
-for each value. Add the functions below to your RScript and run them one at a time.</p>
+<p><strong style="color:red;"> How do you think RStudio count the simulation results?</strong> </p>
+</li>
+</ol>
+</li>
+<li>
+<p>RStudio's tally ( ) function will count the number of times each value on the die appears in a simulation. To make using the <strong>tally()</strong> function easier, you should assign a name to each simulation so you don’t have to type the entire function multiple times. You can also have it calculate the proportions for each value. Add the functions below to your RScript and run them one at a time.</p>
 <p><strong>&gt; sample1 &lt;- roll_die(“A”, times = 100)</strong></p>
 <p><strong>&gt; tally(sample1)</strong></p>
 <p><strong>&gt; tally(sample1, format = “proportion”)</strong></p>
 </li>
 <li>
-<p>Remind the students that if the die is fair, then the each side of the die should appear roughly the
-same amount of times. Therefore, the proportions should be fairly similar to each other and to the
-true probability of 1/6.</p>
+<p>Remember that if the die is fair, then the each side of the die should appear roughly the same amount of times. Therefore, the proportions should be fairly similar to each other and to the true probability of 1/6.</p>
 </li>
 <li>
-<p>Add the function below to your script, but before running it, ask the students what they think a
-histogram of the simulated data might look like and then run the command on your screen. Note:
-Be sure to include the argument <strong>nint = 6*<em> so that the resulting histogram has six bars. <span style="color:grey"></em></strong>If the die
-is fair, each of the bars in the histogram should be roughly the same height.***</span></p>
+<p>In your IDS Journal, make a sketch of what you think the histogram will look like as a result of rolling a die 100 times. Then add the function below on your RScript, then click <strong>Run</strong>. The argument <strong>nint = 6</strong>  tells R to include 6 bars in the histogram:</p>
 <p><strong>&gt; histogram(sample1, nint = 6)</strong></p>
-<p>Note to teacher: Show students how to save an RScript. Inform students that they can take notes
-on their RScript by including a hashtag (also known as a pound sign or #) at the beginning of the
-note. Data scientists refer to these types of notes as “code comments” or simply “comments”. See
-image below.</p>
+<p><strong>Note:</strong> You can save comments or notes in your RScripts to remind you about your code by including a hashtag (#) at the beginning of the note. Data scientists refer to these as "code comments", or just "comments". See image below. </p>
 <p><img src="../../img/20919.png" /></p>
-<p>The Script will be stored in the files tab. To run each function individually, place your cursor on
-the line and hit the Run button. To run multiple lines of code at once, highlight them and hit Run.</p>
+<p>The RScript will be stored in the files tab. To run each function individually, place your cursor on
+the line and hit the <strong>Run</strong> button. To run multiple lines of code at once, highlight them and hit <strong>Run</strong>.</p>
 </li>
 <li>
-<p>Allow the students to access their school computers now to start creating their own simulations in
-an RScript using die B. Students can pair up, if needed. Have them begin by asking RStudio to
-roll the die 100 times. They should note their output from both the <strong>tally()*<em> function and the
-histogram. They can then compare the results to those from Step 14. Are they similar? Can they
-determine which die is unfair yet? <span style="color:grey"></em></strong>Answers will vary by class. The results will be similar, but
-not exact. With the sample sizes of each simulation being fairly small, we cannot see a
-clear difference between the two dice yet.***</span></p>
+<p>Now you will become a bias detective by running a simulation of die B. Use your RScript to write and run your code. Begin by rolling die B 100 times. Make a tally and a histogram for this roll. Compare the results of this roll with the results in step 12. As you compare them, notice any similarities or differences. Notice if you can tell which die is biased (unfair) yet. Write down you noticing about the die A and die B rolls in your IDS Journal.</p>
 </li>
 <li>
-<p>Let the students explore by changing the number of times RStudio rolls the dice. Remind them
-that the goal is to determine which of the two dice is biased. <strong><u>Note:</u></strong> The sample sizes need to be very large in order for them to see a clear difference between the 2 histograms. The pattern
-becomes more visible when <strong>times = 2000</strong>.</p>
+<p>You will repeat rolling die B at least 4 more times by changing the number of times RStudio rolls the die. Tally and make a histogram each time you change the number of times you roll the die. The goal is for you to determine which die is biased (unfair).</p>
 </li>
 <li>
-<p>When students have had enough time to make a decision regarding which dice is biased and how,
-engage the class in a discussion to verify that everyone agrees. <span style="color:grey"><strong><em>Die B is biased; Die A is fair.
-Die B favors the number 3.</em></strong></span></p>
+<p>You will now make a decision. Which die is biased? Does the biased die tend to favor one of the outcomes (numbers)? If so, which one? <strong style="color:blue;">Repeat rolling die B at least 4 more times by changing the number of times RStudio rolls the die. Tally and make a histogram each time you change the number of times you roll the die. The goal is for you to determine which die is biased (unfair).</strong>  Below are the histograms of die A and die B rolled 2000 times.  </p>
+<p><strong style="color:red;"> Which one is the biased die? How do you know?</strong>  </p>
+<p>&lt;iframe src="https://app.box.co<iframe src="https://app.box.com/embed/s/qf181pxvr2hypdlnjnesy7zfa84a36nx?sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe></p>
 </li>
 <li>
-<p>Then, steer the conversation towards why the sample size affected the results. <span style="color:grey"><strong><em>The sample size needed to be large because the difference between the probabilities of the die rolls was very small. In order to detect small differences, we must have larger sample sizes.</em></strong></span></p>
+<p>As you saw in step 22, sample sizes affect the results. Die B is biased; die A is fair. Die B favors the number 3.</p>
+</li>
+<li>
+<p>The sample size needed to be large because the difference between the probabilities of the die rolls was very small. In order to detect small differences, you must have larger sample sizes.</p>
 </li>
 </ol>
 <h3 id="reflection"><strong>Reflection</strong></h3>
 <p><strong style="color:red;">What are the essential learnings you are taking away from this lesson? </strong></p>
 <h3 id="homework"><p style="background: black; color: white; text-align: center;"><strong>Homework</strong></p></h3>
-<p>Students will consider a four-sided die and imagine rolling it 20 times. They should sketch a
-histogram of (a) the ideal, expected outcome, (b) an outcome that they think is “realistic,” and (c) an
-outcome they might see if the die were biased to produce more 4’s.</p>
+<p>Imagine you had a four-sided die and rolled it 20 times. You should sketch a histogram of (a) the ideal, expected outcome, (b) an outcome that you think is “realistic,” and (c) an outcome you might see if the die were biased to produce more 4’s.</p>
                 
               
               

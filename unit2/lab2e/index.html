@@ -3049,35 +3049,25 @@
 <h3 id="playing-with-permutations"><strong>Playing with permutations</strong></h3>
 <ul>
 <li>
-<p><em>Slasher</em> films are notoriously gory and are said to contain recurring biases.</p>
-<p>– One such bias, is that women in slasher films are more likely to survive than men.</p>
+<p><em>Slasher</em> films are notoriously gory and are said to contain recurring biases. One such bias is that women in slasher films are more likely to survive than men.</p>
 </li>
 <li>
-<p>This lab will focus on the statistical question: <em>Are women in slasher films more likely to
-survive until the end of the film than men?</em></p>
+<p>This lab will focus on the statistical question: <em>Are women in slasher films more likely than men to survive until the end of the film?</em></p>
 </li>
 <li>
-<p>To answer this question, we'll learn how to use permuted data to gauge how likely an event
-occurs by chance.</p>
+<p>To answer this question, we'll learn how to use permuted data to gauge how likely an event occurs by chance.</p>
 </li>
 <li>
-<p>To begin, use the <code>data</code> function to load the <code>slasher</code> data file.</p>
-<p>– The data contains information about 485 characters from a random sample of 50
-<em>slasher</em> horror films.</p>
+<p>To begin, use the <code>data</code> function to load the <code>slasher</code> data file. The data contains information about 485 characters from a random sample of 50 <em>slasher</em> horror films.</p>
 </li>
 </ul>
 <h3 id="initial-thoughts"><strong>Initial thoughts...</strong></h3>
 <ul>
 <li>
 <p>To familiarize yourself with the data, answer the following:</p>
-<p>– <strong>How many variables and observations are contained in the data and what are
-the possible values of the variables?</strong></p>
-<p>– <strong>Which gender had more survivors? Write down a few sentences as to how
-you came to your conclusion. Be sure to look at both the <em>counts</em> and
-<em>proportion</em> of survivors before deciding.</strong></p>
-<p>– <strong>Calculate the difference between the proportion of females who survived and
-the proportion of males who survived. Is the difference large enough to
-conclude that women tend to survive more often than men?</strong></p>
+<p>– <strong>How many variables and observations are contained in the data, and what are the possible values of the variables?</strong></p>
+<p>– <strong>Which gender had more survivors? Write down a few sentences about how you came to your conclusion. Be sure to look at both the <em>counts</em> and <em>proportion</em> of survivors before deciding.</strong></p>
+<p>– <strong>Calculate the difference between the proportion of females who survived and the proportion of males who survived. Is the difference large enough to conclude that women tend to survive more often than men?</strong></p>
 </li>
 </ul>
 <h3 id="tally-whoa"><strong>Tally whoa ... !</strong></h3>
@@ -3089,42 +3079,36 @@ tally(survival ~ gender, data = slasher)
 </code></pre>
 </li>
 <li>
-<p>One of these lines takes the group of <em>survivors</em> and tells us how many of them were <code>Male</code> or
-<code>Female</code>.</p>
+<p>One of these lines takes the group of <em>survivors</em> and tells us how many of them were <code>Male</code> or <code>Female</code>.</p>
 </li>
 <li>
 <p>The other takes the group of <em>females</em> and tells us how many of them <code>Dies</code> or <code>Survives</code>.</p>
 </li>
 <li>
-<p><strong>The last question on the previous slide can be answered using the 2nd line of code.
-Why?</strong></p>
+<p><strong>The last question on the previous slide can be answered using the 2nd line of code. Why?</strong></p>
 </li>
 </ul>
 <h3 id="examining-differences"><strong>Examining differences</strong></h3>
 <ul>
 <li>
-<p>When we're comparing the difference between two quantities, such as survival rates of
-slasher films, it can be difficult to decide how <em>different</em> two values need to be before we can
-conclude that the difference didn't just happen by chance.</p>
-<p>– To help us decide when a difference is not due to chance, we'll use repeated
-random shuffling.</p>
+<p>When we're comparing the difference between two quantities, such as survival rates of slasher films, it can be difficult to decide how <em>different</em> two values need to be before we can conclude that the difference didn't just happen by chance.</p>
 </li>
 <li>
-<p>By using repeated random shuffling, we'll estimate how often our <em>actual</em> difference occurs by
-<em>chance</em>.</p>
+<p>To help us decide when a difference is not due to chance, we'll use repeated random shuffling.</p>
+</li>
+<li>
+<p>By using repeated random shuffling, we'll estimate how often our <em>actual</em> difference occurs by <em>chance</em>.</p>
 </li>
 </ul>
 <h3 id="do-the-shuffle"><strong>Do the shuffle!</strong></h3>
 <ul>
 <li>
-<p>When we shuffle data, we use our original data set as a starting point.</p>
-<p>– Run the following and write down the resulting table on a piece of paper.</p>
+<p>When we shuffle data, we use our original data set as a starting point. Run the following and write down the resulting table on a piece of paper.</p>
 <pre><code>tally(survival ~ gender, data = slasher)
 </code></pre>
 </li>
 <li>
-<p>Now run the following to randomly reassign each <code>survival</code> status to each observation.
-Compare the resulting table to the one you wrote down.</p>
+<p>Now run the following to randomly reassign each <code>survival</code> status to each observation. Compare the resulting table to the one you wrote down.</p>
 <pre><code>tally(shuffle(survival) ~ gender,
     data = slasher)
 </code></pre>
@@ -3133,49 +3117,45 @@ Compare the resulting table to the one you wrote down.</p>
 <h3 id="lets-compare"><strong>Let's compare ...</strong></h3>
 <ul>
 <li>
-<p><strong>How many people survived, in total, the slasher film before shuffling? How many
-people survived after shuffling?</strong></p>
+<p><strong>How many people, in total, survived the slasher film before shuffling? How many people survived after shuffling?</strong></p>
 </li>
 <li>
-<p><strong>How has shuffling our data changed the proportion of women who survived
-compared to men who survived?</strong></p>
-<p>– <strong>Is the difference in proportions from your shuffled data larger or smaller than
-the difference from the original data? Interpret what this means.</strong></p>
+<p><strong>How has shuffling our data changed the proportion of women who survived compared to the proportion of men who survived?</strong></p>
 </li>
 <li>
-<p><strong>Explain why shuffling our data one time is not enough to decide if the difference seen
-in our <em>actual</em> data occurs by chance or not.</strong></p>
+<p><strong>Is the difference in proportions from your shuffled data larger or smaller than the difference from the original data? Interpret what this means.</strong></p>
+</li>
+<li>
+<p><strong>Explain why shuffling our data one time is not enough to decide if the difference seen in our <em>actual</em> data occurs by chance or not.</strong></p>
 </li>
 </ul>
 <h3 id="detecting-differences"><strong>Detecting differences</strong></h3>
 <ul>
 <li>
-<p>To help us decide if the difference in proportions in our actual data occurs by chance or not,
-we can use the <code>do()</code> function to shuffle our data many times and see how often our <em>actual</em>
-difference occurred by chance.</p>
+<p>To help us decide if the difference in proportions in our actual data occurs by chance or not, we can use the <code>do()</code> function to shuffle our data many times and see how often our <em>actual</em> difference occurred by chance.</p>
 </li>
 <li>
-<p>Use <code>do</code>, <code>tally</code> and <code>shuffle</code> functions to <code>shuffle</code> the <code>survival</code> variable and <code>tally</code> the
-proportion of women who survived 500 times. <code>Assign</code> your 500 shuffles the name <code>shuffles</code></p>
+<p>Use <code>do</code>, <code>tally</code>, and <code>shuffle</code> functions to <code>shuffle</code> the <code>survival</code> variable and <code>tally</code> the
+proportion of women who survived 500 times. <code>Assign</code> your 500 shuffles the name <code>"shuffles"</code>.</p>
 </li>
 <li>
 <p><strong><code>View</code> your shuffled data and explain what the rows and each column represents.</strong></p>
 </li>
 <li>
-<p><strong>For the first row of shuffled data in the <code>shuffles</code>, what is the difference between
-proportion of females who survived and the proportion of males who survived?</strong></p>
+<p><strong>For the first row of shuffled data in the <code>shuffles</code>, what is the difference between the proportion of females who survived and the proportion of males who survived?</strong></p>
 </li>
 </ul>
 <h3 id="now-what"><strong>Now what?</strong></h3>
 <ul>
 <li>
-<p>The next step to find out how often our <em>actual</em> difference occurs by chance is to compare it
-to the differences in our shuffled data.</p>
+<p>The next step in finding out how often our <em>actual</em> difference occurs by chance is to compare it to the differences in our shuffled data.</p>
 </li>
 <li>
 <p>To compute the differences for each shuffle we can use the <code>mutate</code> function.</p>
-<p>– Fill in the blanks to add the difference between <code>Survives.Female</code> and
-<code>Survives.Male</code> to our <code>shuffles</code> data.</p>
+</li>
+<li>
+<p>Fill in the blanks to add the difference between <code>Survives.Female</code> and
+    <code>Survives.Male</code> to our <code>shuffles</code> data.</p>
 <pre><code>    shuffles &lt;- mutate(shuffles,
             diff = ____ - ____)
 </code></pre>
@@ -3184,52 +3164,39 @@ to the differences in our shuffled data.</p>
 <h3 id="time-to-decide"><strong>Time to decide</strong></h3>
 <ul>
 <li>
-<p>Create a <code>histogram</code> of the <code>difference</code>s in our <code>shuffles</code> data. Based on your plot, answer
-the following</p>
-<p>– <strong>What was the typical difference in proportions between men and women
-survivors?</strong></p>
-<p>– <strong>Locate the value of the <em>actual</em> difference in the plot. Does the actual difference
-occur very often by chance alone?</strong></p>
+<p>Create a <code>histogram</code> of the <code>difference</code>s in our <code>shuffles</code> data. Based on your plot, answer the following:</p>
+<p>– <strong>What was the typical difference in proportions between men and women survivors?</strong></p>
+<p>– <strong>Locate the value of the <em>actual</em> difference in the plot. Does the actual difference occur very often by chance alone?</strong></p>
 </li>
 <li>
-<p><strong>Does <code>gender</code> play a role in whether or not a character will survive in a horror film?
-Explain your reasoning.</strong></p>
+<p><strong>Does <code>gender</code> play a role in whether or not a character will survive in a horror film? Explain your reasoning.</strong></p>
 </li>
 <li>
-<p><strong>If you wanted to survive in a horror film, would you want to play a female character or
-a male character?</strong></p>
+<p><strong>If you wanted to survive in a horror film, would you want to play a female character or a male character?</strong></p>
 </li>
 </ul>
 <h3 id="summary"><strong>Summary</strong></h3>
 <ul>
 <li>
-<p>By shuffling the <code>survival</code> label, we made it so that the proportion of males and females
-who survived the slasher film was random.</p>
-<p>– The males and females survived by chance alone.</p>
+<p>By shuffling the <code>survival</code> label, we made it so that the proportion of males and females who survived the slasher film was random. The males and females survived by chance alone.</p>
 </li>
 <li>
-<p>If surviving the film occurred purely by chance, then most of the time the difference in
-survival proportions was close to zero.</p>
-<p>– Notice how most values in the histogram occur close to zero.</p>
+<p>If surviving the film occurred purely by chance, then most of the time the difference in survival proportions was close to zero. Notice how most values in the histogram occur close to zero.</p>
 </li>
 <li>
-<p>When we look to see how often our actual difference occurs in our shuffled data, if the
-actual difference doesn't occur very often then perhaps there is something more going on
-than just chance alone ...</p>
+<p>When we look to see how often our actual difference occurs in our shuffled data, if the actual difference doesn't occur very often, then perhaps there is something more going on than just chance alone...</p>
 </li>
 </ul>
 <h3 id="on-your-own"><strong>On your own</strong></h3>
 <ul>
 <li>
-<p>Carry out another 500 simulations but this time shuffle the <code>gender</code> variable instead of the
-<code>survival</code> variable.</p>
-<p>– Include the code <code>set.seed(1)</code> before your 500 simulations to make your answer
-reproducible.</p>
+<p>Carry out another 500 simulations, but this time shuffle the <code>gender</code> variable instead of the<code>survival</code> variable.</p>
 </li>
 <li>
-<p><strong>Does shuffling the <code>gender</code> variable instead of the <code>survival</code> variable change your
-answer to the question: <em>Does gender play a role in whether or not a character will
-survive in a horror film?</em> </strong></p>
+<p>Include the code <code>set.seed(1)</code> before your 500 simulations to make your answer reproducible.</p>
+</li>
+<li>
+<p><strong>Does shuffling the <code>gender</code> variable instead of the <code>survival</code> variable change your answer to the question <em>"Does gender play a role in whether or not a character will survive in a horror film?"</em> </strong></p>
 <p>– <strong>Why or why not?</strong></p>
 </li>
 </ul>

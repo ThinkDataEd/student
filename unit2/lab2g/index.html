@@ -3021,107 +3021,86 @@
 <h3 id="putting-data-together"><strong>Putting data together</strong></h3>
 <ul>
 <li>
-<p>In the labs so far, we've only ever looked at individual data files.</p>
+<p>So far in the labs you've only looked at individual data files.</p>
 </li>
 <li>
-<p>But often times, we gain additional insights by including additional information from a separate
-data set.</p>
+<p>However, you can gain additional insights by including information from a separate data set.</p>
 </li>
 <li>
-<p>In this lab, we will learn how to merge information from our <em>personality color</em> data with our
-<em>stress/chill</em> data.</p>
+<p>In this lab you will learn how to merge information from your <em>personality color</em> data with your <em>stress/chill</em> data.</p>
 </li>
 <li>
-<p><em>Export</em>, <em>upload</em>, <em>import</em> your <em>Personality Color</em> data set and name it <code>colors</code>.</p>
+<p><em>Export</em>, <em>upload</em>, and <em>import</em> your <em>Personality Color</em> data set and name it <code>colors</code>.</p>
 </li>
 <li>
-<p>Then, <em>export</em>, <em>upload</em>, <em>import</em> your <em>Stress/Chill</em> data set and name it <code>stress</code>.</p>
+<p>Then, <em>export</em>, <em>upload</em>, and <em>import</em> your <em>Stress/Chill</em> data set and name it <code>stress</code>.</p>
 </li>
 </ul>
 <h3 id="looking-at-stresschill"><strong>Looking at stress/chill</strong></h3>
 <ul>
 <li>
-<p>We would like to analyze the research question:</p>
+<p>Now you'll analyze the research question:</p>
 <p><em>How do people's personality colors and/or sports participation affect their stress levels?</em></p>
 </li>
 <li>
-<p>We already have data about <em>personality color</em> and a seperate data set about <em>stress</em>.</p>
-<p>– What we don't have is a single data set with information from both ... yet.</p>
-</li>
-<li>
-<p>We'll start then by strategizing how to merge our data together.</p>
+<p>You already have data about <em>personality color</em> and a seperate data set about <em>stress</em>. What you don't have is a single data set with information from both...yet. You'll start by strategizing on how to merge your data together.</p>
 </li>
 </ul>
 <h3 id="deciding-how-to-merge"><strong>Deciding how to merge</strong></h3>
 <ul>
 <li>
-<p>Before we merge data, we need to decide <em>how</em> we plan to merge it:</p>
+<p>Before you merge data, you'll need to decide <em>how</em> you plan to merge it:</p>
 </li>
 <li>
-<p>We can <em>stack</em> our data sets, that is, take one data set's rows and add them to the bottom of the
-other data set.</p>
+<p>You can <em>stack</em> your data sets, which means you can take the rows from one data set and add them to the bottom of the other data set.</p>
 </li>
 <li>
-<p>We can also <em>join</em> our data sets horizontally. This is where we take one data set's columns and
-add them to the end of the other data set's columns based on matching an <em>ID</em> variable.</p>
-<p>– The <em>ID</em> variable will have entries that we use to <em>match</em> observations in both data sets.</p>
+<p>You can also <em>join</em> your data sets horizontally. You do this my taking one data set's columns and adding them to the end of the other data set's columns, based on matching an <em>ID</em> variable. The <em>ID</em> variable will have entries that you use to <em>match</em> observations in both data sets.</p>
 </li>
 <li>
-<p><strong>To answer the statistical question of interest, would it make more sense to <em>stack</em> or <em>join</em>
-our <code>colors</code> and <code>stress</code> data?</strong></p>
+<p><strong>To answer the statistical question of interest, would it make more sense to <em>stack</em> or <em>join</em> your <code>colors</code> and <code>stress</code> data?</strong></p>
 </li>
 </ul>
 <h3 id="finding-variables-in-common"><strong>Finding variables in common</strong></h3>
 <ul>
 <li>
-<p>Look at the <code>names</code> of the variables in each data set.</p>
-<p>– To merge different data sets together, we need to find variables they have in common.</p>
+<p>Look at the <code>names</code> of the variables in each data set. To merge different data sets together, you need to find variables they share in common.</p>
 </li>
 <li>
 <p><strong>Which variables do the data sets have in common?</strong></p>
 </li>
 <li>
-<p><strong>Which variable would make sense to merge the data sets together with? Why not the
-others?</strong></p>
+<p><strong>Which variable would make sense to merge the data sets together with? Why not the others?</strong></p>
 </li>
 </ul>
 <h3 id="caution-required"><strong>Caution required</strong></h3>
 <ul>
 <li>
-<p>Whether <em>stacking</em> or <em>joining</em>, we need to be careful when we merge data:</p>
+<p>Whether <em>stacking</em> or <em>joining</em>, you need to be careful when you merge data:</p>
 </li>
 <li>
-<p>When <em>stacking</em> data, we need to be absolutely certain that the variables we're stacking represent
-the exact same measurements.</p>
-<p>– We wouldn't want to stack <code>height</code> in meters and <code>height</code> in inches, for instance (without
-converting one to the other).</p>
+<p>When <em>stacking</em> data, you must be absolutely certain that the variables you're stacking represent the exact same measurements For example, you wouldn't want to stack <code>height</code> in meters and <code>height</code> in inches, (without converting one to the other).</p>
 </li>
 <li>
-<p>When <em>joining</em> data, we need to make sure that the <em>id</em> variable in our primary data set matches to
-<em>one</em> and <em>only one</em> observation in the joining data.</p>
-<p>– Otherwise, <code>R</code> won't know which observation to match to.</p>
+<p>When <em>joining</em> data, you must make sure that the <em>id</em> variable in your primary data set matches to <em>one</em> and <em>only one</em> observation in the joining data. Otherwise, <code>R</code> won't know which observation to match to.</p>
 </li>
 </ul>
 <h3 id="getting-ready"><strong>Getting ready</strong></h3>
 <ul>
 <li>
-<p>Our goal is to add the variables from the <code>colors</code> data onto the <code>stress</code> data.</p>
+<p>The goal is to add the variables from the <code>colors</code> data onto the <code>stress</code> data.</p>
 </li>
 <li>
-<p>Start by ensuring that every <code>user.id</code> in the <code>colors</code> data is unique.</p>
-<p>– If there's a duplicate, have your teacher remove the duplicate from the IDS <em>Response
-Manager</em> and then re-export, <em>upload</em>, <em>import</em> your <code>colors</code> data.</p>
+<p>Start by ensuring that every <code>user.id</code> in the <code>colors</code> data is unique. If there's a duplicate, have your teacher remove the duplicate from the IDS <em>Response Manager</em>, then re-export, <em>upload</em>, and <em>import</em> your <code>colors</code> data.</p>
 </li>
 <li>
-<p><strong>After we add the data from <em>colors</em> to <em>stress</em>, how many rows should our merged data
-have? Write this number down.</strong></p>
+<p><strong>After you add the data from <em>colors</em> to <em>stress</em>, how many rows should your merged data have? Write this number down.</strong></p>
 </li>
 </ul>
 <h3 id="putting-them-together"><strong>Putting them together</strong></h3>
 <ul>
 <li>
-<p>We can use the <code>merge</code> function to join our data sets together using the variables that appear in
-both sets.</p>
+<p>You can use the <code>merge</code> function to join your data sets together using the variables that appear in both sets.</p>
 </li>
 <li>
 <p><strong>Fill in the blanks below to join the information from the <code>colors</code> data onto the <code>stress</code>.</strong></p>
@@ -3129,9 +3108,7 @@ both sets.</p>
 </code></pre>
 </li>
 <li>
-<p><code>Assign</code> this <code>merged</code> data set the name <code>stress_colors</code>.</p>
-<p>– Make sure your data has the same number of observations that you wrote down on the
-previous slide.</p>
+<p><code>Assign</code> this <code>merged</code> data set the name <code>stress_colors</code>. Make sure your data has the same number of observations that you wrote down on the previous slide.</p>
 </li>
 </ul>
 <h3 id="saving-your-data"><strong>Saving your data</strong></h3>
@@ -3140,13 +3117,13 @@ previous slide.</p>
 <p><code>View</code> your merged data and make sure nothing appears to be blatantly wrong with it.</p>
 </li>
 <li>
-<p><strong>Why didn't we stack the rows of data instead?</strong></p>
+<p><strong>Why didn't you stack the rows of data instead?</strong></p>
 </li>
 <li>
 <p><strong>What happens if you swap the order of the data sets in the <code>merge</code> function?</strong></p>
 </li>
 <li>
-<p>Fill in the blank below to save our <code>stress_color</code> data for later use.</p>
+<p>Fill in the blank below to save your <code>stress_color</code> data for later use.</p>
 <pre><code>save(stress_colors, file = "stress_colors.rda")
 </code></pre>
 </li>
@@ -3157,18 +3134,16 @@ previous slide.</p>
 <h3 id="moving-on"><strong>Moving on</strong></h3>
 <ul>
 <li>
-<p>In the next lab, we'll begin analyzing our merged data. In the meantime:</p>
+<p>In the next lab, you'll begin analyzing your merged data. In the meantime:</p>
 </li>
 <li>
-<p><strong>Make a few plots using variables from the <code>stress</code> data and <em>facet</em> or <em>group</em> the plots based
-on variables from the <code>colors</code> data.</strong></p>
-<p>– <strong>Write down the most interesting discovery you make by just exploring your data.
-Write out how you found your discovery and interpret what it means for the
-people in your class.</strong></p>
+<p><strong>Make a few plots using variables from the <code>stress</code> data and <em>facet</em> or <em>group</em> the plots based on variables from the <code>colors</code> data.</strong></p>
 </li>
 <li>
-<p><strong>With our <em>colors</em> data, we could answer questions about the <em>typical</em> color scores in your
-class. Why can we no longer answer this question in our <code>stress_color</code> data?</strong></p>
+<p><strong>Write down the most interesting discovery you make by just exploring your data. Write out how you found your discovery and interpret what it means for the people in your class.</strong></p>
+</li>
+<li>
+<p><strong>With your <em>colors</em> data, you could answer questions about the <em>typical</em> color scores in your class. Why can this question no longer be answered in your <code>stress_color</code> data?</strong></p>
 </li>
 </ul>
                 

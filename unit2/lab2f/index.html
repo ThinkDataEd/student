@@ -1202,7 +1202,7 @@
         
           <li class="md-nav__item">
   <a href="#previously" class="md-nav__link">
-    Previously ...
+    Previously...
   </a>
   
 </li>
@@ -2904,7 +2904,7 @@
         
           <li class="md-nav__item">
   <a href="#previously" class="md-nav__link">
-    Previously ...
+    Previously...
   </a>
   
 </li>
@@ -2962,23 +2962,20 @@
                 
                 <h2 id="lab-2f-the-titanic-shuffle"><strong><em><u>Lab 2F - The Titanic Shuffle</u></em></strong></h2>
 <p>Directions: Follow along with the slides and answer the questions in <strong>bold</strong> font in your IDS Journal.</p>
-<h3 id="previously"><strong>Previously ...</strong></h3>
+<h3 id="previously"><strong>Previously...</strong></h3>
 <ul>
 <li>
-<p>In the previous lab, we learned that by using a <code>do</code>-loop and the <code>shuffle</code> function, we could
-simulate randomly shuffling our data many times.</p>
+<p>In the previous lab we learned that by using a <code>do</code>-loop and the <code>shuffle</code> function, we could simulate randomly shuffling our data many times.</p>
 </li>
 <li>
 <p>This helps us determine how likely it is that a difference between groups is due to chance.</p>
 </li>
 <li>
-<p>For this lab, will extend these ideas to <em>numerical</em> variables by using random shuffling and
-numerical summaries.</p>
+<p>For this lab, will extend these ideas to <em>numerical</em> variables by using random shuffling and numerical summaries.</p>
 </li>
 <li>
 <p>The question we will investigate in this lab is:</p>
-<p><em>Is there any evidence to suggest that wealthier passengers on the Titanic were more likely to
-survive than poorer passengers?</em></p>
+<p><em>Is there any evidence to suggest that wealthier passengers on the Titanic were more likely to survive than poorer passengers?</em></p>
 </li>
 <li>
 <p>We will consider wealthier passengers to be those that paid a higher <code>fare</code> for their ticket.</p>
@@ -2987,18 +2984,17 @@ survive than poorer passengers?</em></p>
 <h3 id="the-titanic"><strong>The Titanic</strong></h3>
 <ul>
 <li>
-<p>The Titanic was a ship that sank en route to the U.S.A. from England after hitting an Iceberg in
-1912.</p>
-<p>– At the time, it was claimed that the Titanic was <em>unsinkable</em> ... it wasn't ... because it did.</p>
+<p>The Titanic was a ship that sank en route to the United States from England after hitting an iceberg in 1912. At the time, it was claimed that the Titanic was <em>unsinkable</em>...but it wasn't...because it did.</p>
 </li>
 <li>
 <p>Use the <code>data</code> function to load the <code>titanic</code> passenger and survival data.</p>
 </li>
 <li>
-<p>Create a boxplot of the <code>fare</code>s paid by passengers and facet the plot based on whether the
+<p>Create a boxplot of the <code>fare</code>s paid by passengers, and facet the plot based on whether the
 passenger survived or not.</p>
-<p>– <strong>Based on the plot, do you believe richer passengers were more likely to survive?
-Explain why and describe how certain you are of being correct.</strong></p>
+</li>
+<li>
+<p><strong>Based on the plot, do you believe richer passengers were more likely to survive? Explain why and describe how certain you are of being correct.</strong></p>
 </li>
 </ul>
 <h3 id="the-search-begins"><strong>The search begins!</strong></h3>
@@ -3006,25 +3002,25 @@ Explain why and describe how certain you are of being correct.</strong></p>
 <li>
 <p>Start your analysis by calculating how much more the <em>typical</em> survivor paid than the <em>typical</em> nonsurvivor
 in our data.</p>
-<p>– Based on the distributions of fares paid, which numerical summary that describes the
-<em>typical</em> value might be preferred?</p>
 </li>
 <li>
-<p><strong>What was the <em>typical</em> fare paid by survivors? Non-survivors? How much more did the
-typical survivor pay?</strong></p>
+<p><strong>Based on the distributions of fares paid, which numerical summary that describes the <em>typical</em> value might be preferred?</strong></p>
+</li>
+<li>
+<p><strong>What was the <em>typical</em> fare paid by survivors? Non-survivors? How much more did the typical survivor pay?</strong></p>
 </li>
 </ul>
 <h3 id="do-the-shuffle"><strong>Do the shuffle!</strong></h3>
 <ul>
 <li>
-<p>Use the <code>do</code> and the <code>shuffle</code> functions to shuffle the passenger's survival status 500 times.</p>
+<p>Use the <code>do</code> and the <code>shuffle</code> functions to shuffle the passengers' survival status 500 times.</p>
 <p>– Use the previous lab if you need some help on how to do this.</p>
 <p>– For each shuffle, compute each group's <code>median</code> fare paid.</p>
 <p>– <code>Assign</code> your shuffled data the name <code>shuffles</code>.</p>
 </li>
 <li>
 <p>After shuffling your data, use the <code>mutate</code> function to create a variable called <code>diff</code> to the shuffled
-medians you just calculated. (Assign your mutated data the name <code>shuffles</code> again).</p>
+medians you just calculated. Assign your mutated data the name <code>shuffles</code> again.</p>
 </li>
 </ul>
 <h3 id="put-your-simulations-to-use"><strong>Put your simulations to use</strong></h3>

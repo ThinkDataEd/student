@@ -2978,7 +2978,7 @@
 <h3 id="objective"><strong>Objective</strong></h3>
 <p>You will understand that random events vary. Therefore, the percentage predicted by a probability isn't exact - it varies. You will also practice converting percentages to proportions.</p>
 <h3 id="vocabulary"><strong>Vocabulary</strong></h3>
-<p>proportion, percentage, event, with replacement, without replacement</p>
+<p>percent (percentage), event, with replacement, without replacement</p>
 <h3 id="essential-concepts"><strong>Essential Concepts</strong></h3>
 <div class="admonition note">
 <p class="admonition-title">Lesson 10 Essential Concepts</p>
@@ -2991,72 +2991,78 @@ and without replacement. Larger samples tend to be closer to the "true" probabil
 <p>In the previous two lessons you learned how to estimate probabilities for a population with the help of simulations to create sample data. Both lessons had nice, prepackaged functions already available in RStudio, which made the simulations fairly quick and easy. In <a href="../lesson8/">Lesson 8</a> the <strong>rflip()</strong> function was used to simulate flipping a coin; and in <a href="../lesson9/">Lesson 9</a> the <strong>roll_die()</strong> function was used to simulate rolling one of two dice.</p>
 </li>
 <li>
-<p>What if we don’t have a nice function to perform a simulation for us? Can you create your own method? Yes! You will actually learn to create a simulation from scratch in <a href="../lab2c/">Lab 2C</a>.</p>
+<p>What if we don’t have a nice function to perform a simulation for us? Can you create your own method? Yes! You will learn to create a simulation from scratch in the next RStudio task, <a href="../lab2c/">Lab 2C</a>.</p>
 </li>
 <li>
 <p>In your IDS Journal, respond to the following question:</p>
-<p><strong style="color:red;"> If you have a bag of 50 marbles and 20 of them are blue and 30 of them are red, what is the probability of drawing a red marble? </strong></p>
+<p><strong style="color:red;"> If you have a bag of 50 marbles and 20 of them are blue and 30 of them are red, what is the probability of drawing a red marble? What is the probability of drawing a blue marble?</strong></p>
 </li>
 <li>
-<p>How do you convert the <strong>proportion</strong> you calculated in question 3 to a  <strong>percentage</strong>? How do you turn a fraction into a percentage?</p>
+<p>How do you convert a fraction into a <strong>percent</strong>? As you may recall from <a href="unit1lesson16.md">Unit 1, Lesson 16</a>, a fraction is also called a proportion. Convert the proportions (fraction) you calculated in step 3 to a percent. </p>
 </li>
 <li>
 <p>Respond to the following question in your IDS Journal:</p>
-<p><strong style="color:red;">What if we actually drew out one marble, recorded its color, then replaced it back in the
-bag, and did this 10 times?   Would the percentage of red marbles in this sample necessarily be exactly the same as the probability? Explain why or why not. </strong>  </p>
-<p>Each time a marble is drawn, you are creating an <strong>event</strong>. An event is the set of outcomes of an experiment (a subset of the sample space) to which a probability is assigned.</p>
+<p><strong style="color:red;">If we actually drew out one marble, recorded its color, then replaced it back in the
+bag and did this 10 times, would the percentage of red marbles in this sample be exactly the same as the probability that you calculated in step 3? Explain why or why not. </strong>  </p>
+<p>Each time a marble is drawn, you are creating an <strong>event</strong>. An event is an outcome or result of an experiment.</p>
 </li>
 <li>
 <p>You will now use an online simulator to practice drawing marbles from a bag. Go to: <a href="http://www.shodor.org/interactivate/activities/Marbles/" title="http://www.shodor.org/interactivate/activities/Marbles/">http://www.shodor.org/interactivate/activities/Marbles/</a>. As you go through the steps below, record your work in the <em>Marbles Marbles</em> handout.</p>
-<p><strong style="color: black;">Click on the document name to download a fillable copy of the <a href="https://ucla.box.com/s/p0etkmrat7r7x3h3yfa0mnsfd3jmig25"><em>Marbles, Marbles</em> handout</a></strong>.</p>
-<p><iframe src="https://app.box.com/embed/s/p0etkmrat7r7x3h3yfa0mnsfd3jmig25?sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe></p>
 <ol>
 <li>
-<p>In the " Marble Info" portion of the screen, input 30 red marbles and 20 blue (set green and purple marbles to 0). Be sure the settings are set to: <em>draw 1 marble at a time</em>, <em>1 trial</em>, and <em>replace marbles</em>. </p>
+<p>In the " Marble Info" portion of the screen, input 30 red marbles and 20 blue (set green and purple marbles to 0). Be sure the settings are set to: <em>draw 1 marble at a time</em>, <em>1 trial</em>, and <em>replace marbles</em>. Set <em>Order</em> button to <em>Order does not Matter</em>.</p>
 </li>
 <li>
-<p>Press the <strong>Run Trials</strong> button to simulate drawing a marble from the bag.</p>
+<p>Press the <em>Run Trials</em> button to simulate drawing a marble from the bag. A trial is an action that is done to create an event (also referred to as an experiment). </p>
 </li>
 <li>
 <p>Record the marble’s color in your <em>Marbles Marbles</em> handout.</p>
 </li>
 <li>
-<p>Replace the marble back into the bag. This is called sampling <strong>with replacement</strong>. “With replacement” means that after you select a marble from the bag, you have to put it back into the bag (replace it) before you select another marble.</p>
+<p>When you selected Replace Marbles in the Marble Info, you are telling the simulator to put the marble back after the trial. This is called sampling <strong>with replacement</strong>. "With replacement" means that after you get the result from your trial, the simulator puts the marble back before running another trial.</p>
 </li>
 </ol>
+<p><strong style="color: black;">Click on the document name to download a fillable copy of the <a href="https://ucla.box.com/s/p0etkmrat7r7x3h3yfa0mnsfd3jmig25"><em>Marbles, Marbles</em> handout</a></strong>.</p>
+<p><iframe src="https://app.box.com/embed/s/p0etkmrat7r7x3h3yfa0mnsfd3jmig25?sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe></p>
 </li>
 <li>
-<p>Change the number of trials to <strong>10 trials</strong>. Press the <strong>Run Trials</strong> button.  Record the number of red and blue marbles drawn.</strong> Repeat this process 10 times. Record the results the <em>Marbles Marbles</em> handout. Be sure to <strong>Clear Trials</strong> after you run each trial. </p>
+<p>Change the number of trials to <strong>10 trials</strong>. Press the <strong>Run Trials</strong> button.  This means that a marble was drawn and replaced 10 times. Record the number of red and blue marbles drawn.</strong> Press the <strong>Clear Trials</strong> button. Repeat this process 10 times. Record the results the <em>Marbles Marbles</em> handout. Be sure to <strong>Clear Trials</strong> after you run each trial. </p>
 <ol>
 <li>
 <p>Calculate and record the corresponding sample proportions for the proportion of red and blue marbles drawn. </p>
-<p><span style="color:grey"> For example, if you drew 7 red marbles out of their 10 draws, your sample proportion is 7/10 = 0.70 (which is the same as a sample percentage of 70%).</span></p>
+<p><span style="color:grey"> For example, if you drew 7 red marbles out of their 10 draws, your sample proportion is 7/10 = 0.70 (which is the same as 70%).</span></p>
 </li>
 <li>
-<p>Are all of your proportions the same? Are the proportions different from the “true” probability of drawing each color marble?     </p>
+<p>Are all of your proportions the same? Are the proportions different from the “true” probability of drawing each color marble that you calculated in step 3?     </p>
 </li>
 </ol>
 </li>
 <li>
-<p>Change the number of trials to <strong>50 trials</strong>. Press the <strong>Run Trials</strong> button. Record the number of red and blue marbles drawn. Repeat this process 10 times. Record the results. Be sure to <strong>Clear Trials</strong> after you run each trial.</p>
+<p>Change the number of trials to <strong>50 trials</strong>. Press the <em>Run Trials</em> button. This means that a marble was drawn and replaced 50 times. Record the number of red and blue marbles drawn. Repeat this process 10 times. Press the <em>Clear Trials</em> button. Record the results. Be sure to <em>Clear Trials</em> after you run each trial.</p>
 <ol>
 <li>
-<p>Calculate and record the corresponding sample proportions for the proportion of red and blue marbles drawn. </p>
+<p><strong style="color: red;">Calculate and record the corresponding sample proportions for the proportion of red and blue marbles drawn.</strong> </p>
 </li>
 <li>
-<p>Are all of your proportions the same? Are the proportions different from the “true” probability of drawing each color marble?</p>
+<p><strong style="color: red;">Are all of your proportions the same? Are the proportions different from the “true” probability of drawing each color marble that you calculated in step 3?</strong></p>
 </li>
 </ol>
 </li>
 <li>
-<p>How does the sample size affect the sample proportion? </p>
-<p><span style="color:grey"> You should see that as you draw more marbles, your sample probability gets closer and closer to the true probability. If we were to continue drawing marbles forever, in the long run our sample proportion should equal our true probability.</span></p>
+<p>Compare the proportions of drawing a red marble for each of your 10 trials versus each of your 50 trials. What do you notice?</p>
 </li>
 <li>
-<p>Will you get the same or different results if you do not replace the marble back into the bag? This is sampling <strong>without replacement</strong>.  “Without replacement” means that after you select a marble from the bag, you never put it back into the bag (you do not replace it). Instead, you simply select another marble from the bag immediately. You should recognize that, by not replacing the marble each time, the probabilities will change. This means each draw from the marble bag is NOT independent from another draw because removing one marble impacts the next event.</p>
+<p>In the comparison on step 9, you should see that sample size affects the sample proportion. In your own words, explain what happens to the sample probability as the sample size changes? Write this in your IDS Journal.</p>
+<p><span style="color:grey"> You should see that as you draw more marbles, your sample probability gets closer and closer to the true probability. If we were to continue drawing marbles forever, in the long run our sample proportion should equal the</p>
 </li>
 <li>
-<p>In your IDS Journal, describe an event with replacement and without replacement, and a sample with replacement and without.</p>
+<p>Think back to your bag of 50 marbles with 20 blue and 30 red marbles. Suppose you will be drawing marbles again, but this time you will not replace the marble back into the bag. On your first trial, you draw a red marble. What happens to the number of marbles in the bag after the first trial? </p>
+</li>
+<li>
+<p>In your IDS Journal, write down what you think it might mean to sample without replacement. In the scenario in step 11, you did not put the red marble back in the bag. This is sampling <strong>without replacement</strong>.  “Without replacement” means that after you select a marble from the bag, you never put it back into the bag (you do not replace it). Instead, you simply select another marble from the bag immediately. You should recognize that, by not replacing the marble each time, the probabilities will change. This means each draw from the marble bag is NOT independent from another draw because removing one marble impacts the next event.</p>
+</li>
+<li>
+<p>A 5th grader wants to know what the following words mean: sample, event, sample with replacement, and sample without replacement. In your IDS Journal, write the meaning of each so that a 5th grade student can understand them. </p>
 </li>
 </ol>
 <h3 id="reflection"><strong>Reflection</strong></h3>

@@ -3049,13 +3049,13 @@
 <h3 id="deciding-how-to-merge"><strong>Deciding how to merge</strong></h3>
 <ul>
 <li>
-<p>Before you merge data, you'll need to decide <em>how</em> you plan to merge it:</p>
+<p>Before you merge data, you'll need to decide <em>how</em> you plan to merge it.</p>
 </li>
 <li>
 <p>You can <em>stack</em> your data sets, which means you can take the rows from one data set and add them to the bottom of the other data set.</p>
 </li>
 <li>
-<p>You can also <em>join</em> your data sets horizontally. You do this my taking one data set's columns and adding them to the end of the other data set's columns, based on matching an <em>ID</em> variable. The <em>ID</em> variable will have entries that you use to <em>match</em> observations in both data sets.</p>
+<p>You can also <em>join</em> your data sets horizontally. You do this by taking one data set's columns and adding them to the end of the other data set's columns, based on matching an <em>ID</em> variable. The <em>ID</em> variable will have entries that you use to <em>match</em> observations in both data sets.</p>
 </li>
 <li>
 <p><strong>To answer the statistical question of interest, would it make more sense to <em>stack</em> or <em>join</em> your <code>colors</code> and <code>stress</code> data?</strong></p>
@@ -3070,16 +3070,16 @@
 <p><strong>Which variables do the data sets have in common?</strong></p>
 </li>
 <li>
-<p><strong>Which variable would make sense to merge the data sets together with? Why not the others?</strong></p>
+<p><strong>If you merge data sets based on a shared variable, which variable would you choose? Why not the others?</strong></p>
 </li>
 </ul>
 <h3 id="caution-required"><strong>Caution required</strong></h3>
 <ul>
 <li>
-<p>Whether <em>stacking</em> or <em>joining</em>, you need to be careful when you merge data:</p>
+<p>Whether <em>stacking</em> or <em>joining</em>, you need to be careful when you merge data.</p>
 </li>
 <li>
-<p>When <em>stacking</em> data, you must be absolutely certain that the variables you're stacking represent the exact same measurements For example, you wouldn't want to stack <code>height</code> in meters and <code>height</code> in inches, (without converting one to the other).</p>
+<p>When <em>stacking</em> data, you must be absolutely certain that the variables you're stacking represent the exact same measurements For example, you wouldn't want to stack <code>height</code> in meters and <code>height</code> in inches without converting one to the other.</p>
 </li>
 <li>
 <p>When <em>joining</em> data, you must make sure that the <em>id</em> variable in your primary data set matches to <em>one</em> and <em>only one</em> observation in the joining data. Otherwise, <code>R</code> won't know which observation to match to.</p>
@@ -3103,7 +3103,7 @@
 <p>You can use the <code>merge</code> function to join your data sets together using the variables that appear in both sets.</p>
 </li>
 <li>
-<p><strong>Fill in the blanks below to join the information from the <code>colors</code> data onto the <code>stress</code>.</strong></p>
+<p><strong>Fill in the blanks below to join the information from the <code>colors</code> data onto the <code>stress</code> data.</strong></p>
 <pre><code>merge(____, ____, by = "____")
 </code></pre>
 </li>
@@ -3114,7 +3114,7 @@
 <h3 id="saving-your-data"><strong>Saving your data</strong></h3>
 <ul>
 <li>
-<p><code>View</code> your merged data and make sure nothing appears to be blatantly wrong with it.</p>
+<p><code>View</code> your merged data and make sure nothing appears to be obviously wrong with it.</p>
 </li>
 <li>
 <p><strong>Why didn't you stack the rows of data instead?</strong></p>
@@ -3135,15 +3135,9 @@
 <ul>
 <li>
 <p>In the next lab, you'll begin analyzing your merged data. In the meantime:</p>
-</li>
-<li>
-<p><strong>Make a few plots using variables from the <code>stress</code> data and <em>facet</em> or <em>group</em> the plots based on variables from the <code>colors</code> data.</strong></p>
-</li>
-<li>
-<p><strong>Write down the most interesting discovery you make by just exploring your data. Write out how you found your discovery and interpret what it means for the people in your class.</strong></p>
-</li>
-<li>
-<p><strong>With your <em>colors</em> data, you could answer questions about the <em>typical</em> color scores in your class. Why can this question no longer be answered in your <code>stress_color</code> data?</strong></p>
+<p>– <strong>Make a few plots using variables from the <code>stress</code> data and <em>facet</em> or <em>group</em> the plots based on variables from the <code>colors</code> data.</strong></p>
+<p>– <strong>Write down the most interesting discovery you make by just exploring your data. Write out how you found your discovery and interpret what it means for the people in your class.</strong></p>
+<p>– <strong>With your <em>colors</em> data, you could answer questions about the <em>typical</em> color scores in your class. Why can this question no longer be answered in your <code>stress_color</code> data?</strong></p>
 </li>
 </ul>
                 

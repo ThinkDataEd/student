@@ -2977,7 +2977,7 @@
                 <h2 id="lesson-18-whats-your-z-score"><strong><em><u>Lesson 18: What’s Your Z-Score?</u></em></strong></h2>
 <h3 id="objective"><strong>Objective</strong></h3>
 <p>You will understand that a z-score can be used to measure how far away - or how many standard
-deviations - an observation is away from the mean. Usually, z-scores will range between -3 and +3. For
+deviations - an observation is away from the mean. Z-scores will usually range between -3 and +3. For
 simulations involving shuffling, if you compute a z-score that lies far away from the mean, then you might
 conclude that the outcome was not due to chance. If you see a z-score that lies close to the mean, then
 you might conclude it was by chance.</p>
@@ -2986,7 +2986,7 @@ you might conclude it was by chance.</p>
 <h3 id="essential-concepts"><strong>Essential Concepts</strong></h3>
 <div class="admonition note">
 <p class="admonition-title">Lesson 18 Essential Concepts</p>
-<p>Z-scores offer us a way to measure how extreme a value is, regardless of the units of measurement. Usually, z-scores will range between -3 and +3, so values that are at or are more extreme than -3 or +3 standard deviations are considered extremely rare.</p>
+<p>Z-scores offer us a way to measure how extreme a value is, regardless of the units of measurement. Z-scores usually range between -3 and +3, so values that are at or are more extreme than -3 or +3 standard deviations are considered extremely rare.</p>
 </div>
 <h3 id="lesson"><strong>Lesson</strong></h3>
 <ol>
@@ -3009,12 +3009,20 @@ deviations of the mean</p>
 </li>
 <li>
 <p>Open RStudio and load the cdc data. Use the codes provided to do the following:  </p>
-<p>• Create a new variable and call it height_in: </p>
+<ol>
+<li>
+<p>Create a new variable and call it <strong style="color: purple;">height_in</strong>: </p>
 <p><strong>&gt; cdc &lt;- mutate(cdc, height_in = height * 39.3701)</strong></p>
-<p>• Subset the data for the males:</p>
+</li>
+<li>
+<p>Subset the data for the males:</p>
 <p><strong>&gt; males &lt;- filter(cdc, gender == “Male”)</strong></p>
-<p>• Create a histogram for the new variable, height_in:</p>
+</li>
+<li>
+<p>Create a histogram for the new variable, <strong style="color: purple;">height_in</strong>:</p>
 <p><strong>&gt; histogram(~height_in, data = males, nint = 30)</strong></p>
+</li>
+</ol>
 </li>
 <li>
 <p>Answer the following questions in your IDS Journal:</p>
@@ -3028,15 +3036,24 @@ deviations of the mean</p>
 </ol>
 </li>
 <li>
-<p>Use RStudio to calculate the mean:</p>
+<p>Use RStudio to calculate:</p>
+<ol>
+<li>
+<p>The mean:</p>
 <p><strong>&gt; mean(~height_in, data = males)</strong></p>
-<p>Use RStudio to calculate the standard deviation:</p>
+</li>
+<li>
+<p>The standard deviation:</p>
 <p><strong>&gt; sd(~height_in, data = males)</strong></p>
+</li>
+</ol>
 <p>Compare your approximations from 5b to the actual values.</p>
 </li>
 <li>
-<p>In your IDS Journal, draw a number line with seven equally spaced intervals and label it “Teen male
-height in inches.” Make sure you leave about 5 centimeters of space above the number line to draw a normal curve. Label the middle tick mark with the mean male height (round to the nearest tenth of an inch=69 inches). See the example below, then answer the following:</p>
+<p>In your IDS Journal, draw a number line with seven equally spaced intervals and label it <em>Teen male
+height in inches</em>. Make sure you leave about 5 centimeters of space above the number line to draw a normal curve. Label the middle tick mark with the mean male height (round to the nearest tenth of an inch=69 inches). See the example below:</p>
+<p><strong style="color: blue;"> Insert number line example. </strong> </p>
+<p>Then answer the following questions in your IDS Journal:</p>
 <ol>
 <li>
 <p><strong style="color: red;">What height is one standard deviation above the mean? To obtain your answer, add the standard deviation value to the mean value.</strong></p>
@@ -3046,7 +3063,6 @@ height in inches.” Make sure you leave about 5 centimeters of space above the 
 </li>
 </ol>
 <p>Label your number line with these values.</p>
-<p><strong style="color: blue;"> Insert number line example. </strong></p>
 </li>
 <li>
 <p>Continue filling your number line with the corresponding heights that are 2 and 3 standard deviations from the mean. </p>
@@ -3055,13 +3071,13 @@ height in inches.” Make sure you leave about 5 centimeters of space above the 
 <p>According to the Empirical Rule, if the distribution of male heights is approximately normal, about 68% of males should be between 65.6 inches and 72.4 inches tall.</p>
 </li>
 <li>
-<p>Use RStudio to confirm if the distribution of male heights is approximately normal. The following code will subset the males whose height is between 65.6 inches and 72.4 inches tall:</p>
+<p>Use RStudio to confirm whether or not the distribution of male heights is approximately normal. The following code will subset the males whose height is between 65.6 inches and 72.4 inches tall:</p>
 <p><strong>&gt; one_sd_males &lt;- filter(males, height_in &gt; 65.6, height_in &lt; 72.4)</strong></p>
 <p>There are <strong><em>_</em></strong><em> males in this sample of 7749 males whose heights are one standard deviation from the mean, so <strong><em>_</em></strong></em>/7749 = <strong><em>_</em>_. This means that around </strong>___% of males’ heights in this sample fall within one standard deviation from the mean male height. This is close to 68%, so it seems that the distribution of male heights is approximately normally distributed.</p>
 </li>
 <li>
 <p>Now that you have verified that a normal distribution is an appropriate model for this distribution,
-draw a normal curve above the number line from step 7. Below is a suggested method to obtain a decent
+draw a normal curve above the number line from step 7. Below is a suggested method for obtaining a decent
 normal curve:</p>
 <p>• Step 1: Draw a dot 4 centimeters above the mean height</p>
 <p>• Step 2: Draw dots 2.4 cm above the heights that are 1 standard deviation from the mean</p>
@@ -3072,7 +3088,7 @@ deviations from the mean</p>
 <p>• Step 5: Connect the dots with a smooth curve</p>
 </li>
 <li>
-<p>We are using this normal curve as a model to represent the distribution of all teenage male heights. This will allow us to make comparisons, draw conclusions, and make predictions about male heights. Let’s see:</p>
+<p>You're using this normal curve as a model to represent the distribution of all teenage male heights. This will allow you to make comparisons, draw conclusions, and make predictions about male heights. Answer the following questions in your IDS Journal:</p>
 <ol>
 <li>
 <p><strong style="color: red;">What proportion of teenage males are shorter than 69 inches? Explain.</strong></p>
@@ -3086,8 +3102,8 @@ deviations from the mean</p>
 </ol>
 </li>
 <li>
-<p>You will now investigate the distribution of teenage female heights. Use Rstudio to run
-each of the following functions one by one. Once you run the second function, check if the distribution of teen female heights looks approximately normal. The approach we are going to take to verify whether it is or not is to overlay the histogram with a normal curve. That can be done by running the third function.</p>
+<p>You will now investigate the distribution of teenage female heights. Use RStudio to run
+each of the following functions. Once you've run the second function, check if the distribution of teen female heights looks approximately normal. The approach you'll take to verify whether it is or not is to overlay the histogram with a normal curve. That can be done by running the third function.</p>
 <p><strong>&gt; females &lt;- filter(cdc, gender == “Female”)</strong></p>
 <p><strong>&gt; histogram(~height_in, data = females)</strong></p>
 <p><strong>&gt; histogram(~height_in, data = females, fit = “normal”)</strong></p>
@@ -3098,16 +3114,16 @@ each of the following functions one by one. Once you run the second function, ch
 <p>Repeat steps 7, 8, and 11 with the distribution of teenage female heights.</p>
 </li>
 <li>
-<p>Statisticians use something called a <strong>z-score</strong> to compare values. A z-score tells us how many standard deviations above or below from the mean an observation is. Another name for z-score is a <strong>standardized score</strong>.</p>
+<p>Statisticians use something called a <strong>z-score</strong> to compare values. A z-score tells us how many standard deviations above or below the mean an observation is. Another name for z-score is a <strong>standardized score</strong>.</p>
 </li>
 <li>
-<p>Observe the formula for calculating a z-score below, where z represents the z-score, x represents the value of an observation, bar{x} represents the mean of the observations and s represents the standard deviation.</p>
+<p>Observe the formula below for calculating a z-score, where <em>z</em> represents the z-score, <em>x</em> represents the value of an observation, <em>bar{x}</em> represents the mean of the observations, and <em>s</em> represents the standard deviation.</p>
 <p><center><img src="https://latex.codecogs.com/gif.latex?z=\frac{x-\bar{x}}{s}" title="z=\frac{x-\bar{x}}{s}" /></center></p>
 <p>The following examples demonstrate how to find the z-score for a female height and a male height:</p>
 <p><strong style="color: blue;"> Insert examples how to find the z-score for a female height and a male height. </strong></p>
 </li>
 <li>
-<p>Z-scores answer the question, "How typical is x?" If x is the same as the typical value (the mean), then z = 0. If x is one standard deviation away from the mean, then z = -1 if it is below or +1 if it is above. Recall from the normal curve that as you move farther from the center (from the mean), there are fewer observations. Therefore, a large z-score is considered an unusual value.</p>
+<p>Z-scores answer the question, "How typical is x?" If x is the same as the typical value (the mean), then z = 0. If x is one standard deviation away from the mean, then z = -1 if it is below, or +1 if it is above. Recall from the normal curve that as you move farther from the center (or the mean), there are fewer observations. Therefore, a large z-score is considered an unusual value.</p>
 </li>
 <li>
 <p>Calculate your z-score and record it in your IDS Journal. Then answer the following:</p>
@@ -3128,7 +3144,7 @@ each of the following functions one by one. Once you run the second function, ch
 </li>
 <li>
 <p>The shaded area represents your percentile in the distribution. A percentile is the exact value in which the desired proportion of observations lie below the specific value in a distribution. For example, with regard to people’s heights, the 70<sup>th</sup> percentile would be the height that is taller than exactly 70% of the observations. </p>
-<p>Let's use RStudio to find the percentile for the height for a teen male who is 70 inches tall.</p>
+<p>Now use RStudio to find the percentile for the height for a teen male who is 70 inches tall.</p>
 <p><strong>&gt; pnorm(70, mean = 69, sd = 3.4) = 0.615666</strong></p>
 <p>Use the following sentence frame to interpret the percentile:</p>
 <p><em>This male student is at the <strong><em>_</em></strong><em> percentile in the distribution of teen male heights. That means that he is taller than <strong><em>_</em></strong>__ of all teen males, but shorter than <strong><em>_</em></strong></em> of all teen males.</em></p>
@@ -3142,7 +3158,7 @@ each of the following functions one by one. Once you run the second function, ch
 <h3 id="next-2-days"><p style="background: black; color: white; text-align: center;"><strong>Next 2 Days</strong></p></h3>
 <p><a href="../lab2h/"><u><strong><em>LAB 2H: Eyeballing Normal</em></strong></u></a></p>
 <p><a href="../lab2i/"><u><strong><em>LAB 2I: R’s Normal Distribution Alphabet</em></strong></u></a></p>
-<p>Complete <a href="../lab2h/">Labs 2H</a> and <a href="../lab2i/">2I</a> prior to the <a href="../end/">End of Unit Design Project</a>.</p>
+<p>Complete <a href="../lab2h/">Labs 2H</a> and <a href="../lab2i/">2I</a> prior to the <a href="../end/">End of Unit Project</a>.</p>
                 
               
               

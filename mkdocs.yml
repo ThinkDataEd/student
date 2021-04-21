@@ -335,18 +335,18 @@ nav:
         # - Practicums:
         #     - 'Practicum: Predictions' : unit4/practicum1.md
         # - 'End of Unit 3 and 4 Design Project and Oral Presentation: Water Usage' : unit4/end.md
-    - PDF: 
-        - 'IDS_Curriculum' : download/curriculum.md
-        - 'IDS_LMRs' : download/lmrs.md
-        - 'IDS_Lab Response Sheets' : download/labs.md
-        - 'IDS_Teacher Resources' : download/resources.md
-    - Downloads:
-        - 'IDS_Curriculum_v_5.0' : download/IDS_Curriculum_v_5.0.md 
-        - 'IDS_Curriculum_v_4.0 for LAUSD' : download/IDS_Curriculum_v_4.0.md 
-        - 'Mobilize Algebra I' : download/Algebra.md
-        - 'Mobilize Biology' : download/Biology.md
-    - App Downloads: download/app.md
-    - About: about.md
+    #- PDF: 
+    #   - 'IDS_Curriculum' : download/curriculum.md
+    #   - 'IDS_LMRs' : download/lmrs.md
+    #   - 'IDS_Lab Response Sheets' : download/labs.md
+    #   - 'IDS_Teacher Resources' : download/resources.md
+    #- Downloads:
+    #   - 'IDS_Curriculum_v_5.0' : download/IDS_Curriculum_v_5.0.md 
+    #   - 'IDS_Curriculum_v_4.0 for LAUSD' : download/IDS_Curriculum_v_4.0.md 
+    #   - 'Mobilize Algebra I' : download/Algebra.md
+    #   - 'Mobilize Biology' : download/Biology.md
+    #- App Downloads: download/app.md
+    #- About: about.md
 
 google_analytics: ['UA-149684808-1', 'curriculum.idsucla.org']
 

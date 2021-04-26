@@ -25,6 +25,7 @@ nav:
     - Table of Contents: table.md
     - Overview & Philosophy: overview.md
     - Scope and Sequence: scope.md
+    
     - Unit1:
         - Daily Overview: unit1/overview.md
         - Essential Concepts: unit1/essential.md
@@ -294,6 +295,7 @@ nav:
             - 'LAB 4H: Finding Clusters' : unit4/lab4h.md            
             - 'Lesson 21: Our Class Network' : unit4/lesson21.md
             - 'End of Unit 3 and 4 Design Project and Oral Presentation: Water Usage' : unit4/end.md
+    - Vocabulary: https://docs.google.com/spreadsheets/d/18KdHSk0z5Jz1LeuqU6ACKtR1qj_1OPnUdAGeK_b8_Qg/edit#gid=0
 
         # - Sections:
         #     - 'Section 1: Predictions and Models' : unit4/section1.md

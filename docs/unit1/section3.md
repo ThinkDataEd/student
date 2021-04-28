@@ -56,10 +56,9 @@ concepts and skills.
 4. You will read informative texts to evaluate claims based on data.
 
 ##<p style="background: black; color: white; text-align: center;">**Data File or Data Collection Method**</p>
-*<u>Data Collection Method:</u>*
+*<u>Data Collection Method:</u>* *Time-Use Participatory Campaign*
 
-**Time-Use Participatory Campaign:** You will monitor the amount of time you devote to activities
-such as sleeping, studying, eating, and partaking in media.
+ You will monitor the amount of time you devote to activities such as sleeping, studying, eating, and partaking in media.
 
 *<u>Data Files:</u>*
 

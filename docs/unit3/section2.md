@@ -1,4 +1,4 @@
-#Unit3, Section2: Would You Look at That?
+#Unit 3, Section 2: Would You Look at That?
 Instructional Days: 4
 
 ##<p style="background: black; color: white; text-align: center;">**Enduring Understandings**</p>
@@ -10,9 +10,8 @@ studies can show associations in the data, but cause and effect relationships ca
 experiments.
 
 ##<p style="background: black; color: white; text-align: center;">**Engagement**</p>
-Students will participate in the *Observational Studies Activity* described in [Lesson 5](lesson5.md). They will record
-information that can be obtained through pictures. The data will then be analyzed to see if there are any
-variables related to the number of friends a person has on social media.
+You will participate in the *Observational Studies Activity* described in [Lesson 5](lesson5.md). You will record
+information that can be obtained through pictures. You will then analyze the data to see if there are any variables related to the number of friends a person has on social media.
 
 ##<p style="background: black; color: white; text-align: center;">**Learning Objectives**</p>
 <ins>*Statistical/Mathematical:*</ins>
@@ -37,8 +36,7 @@ confounding factors.
 
 • Clean data set by adding variable names.
 
-• Create scatterplots of two variables and determine possible relationships between them, as well
-as identify potential confounding variables.
+• Create scatterplots of two variables and determine possible relationships between them, and identify potential confounding variables.
 
 <ins>*Real-World Connections:*</ins>
 
@@ -47,26 +45,18 @@ example, observational studies are used in epidemiology to study outbreaks of il
 behavioral patterns.
 
 ##<p style="background: black; color: white; text-align: center;">**Language Objectives**</p>
-1. Students will use complex sentences to construct summary statements about their understanding
-of data, how it is collected, how it used, and how to work with it.
+1. You will use complex sentences to construct summary statements about your understanding of data, how it is collected, how it used, and how to work with it.
 
-2. Students will engage in partner and whole group discussions and presentations to express their
-understanding of data science concepts.
+2.  You will engage in partner and whole group discussions and presentations to express your understanding of data science concepts.
 
-3. Students will use complex sentences to write informative short reports that use data science
-concepts and skills.
+3. You will use complex sentences to write informative short reports that use data science concepts and skills.
 
-4. Students will read informative texts to evaluate claims based on data.
+4. You will read informative texts to evaluate claims based on data.
 
 ##<p style="background: black; color: white; text-align: center;">**Data File or Data Collection Method**</p>
-<ins>*Data Collection Method:*</ins>
+<ins>*Data Collection Method:*</ins> You will record information about a set of high school students by observing characteristics given in a picture.
 
-1. Students will record information about a set of high school students by observing characteristics
-given in a picture.
-
-<ins>*Data File:*</ins>
-
-1. *Lung Capacity of Children* data set found at<br>
+<ins>*Data File:*</ins> *Lung Capacity of Children* data set found at:<br>
     [http://www.amstat.org/publications/jse/datasets/fev.dat.txt](http://www.amstat.org/publications/jse/datasets/fev.dat.txt "http://www.amstat.org/publications/jse/datasets/fev.dat.txt")
 
 ##<p style="background: black; color: white; text-align: center;">**Legend for Activity Icons**</p>

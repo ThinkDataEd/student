@@ -1,5 +1,5 @@
-##***<u>Lab 1H - Our time.</u>***
-Directions: Follow along with the slides and answer the questions in **bold** font in your journal.
+##***<u>Lab 1H - Our Time</u>***
+Directions: Follow along with the slides and answer the questions in **bold** font in your IDS Journal.
 
 ###**We've come a long way**
 
@@ -14,28 +14,25 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 * In this lab, we're going to combine all of these ideas and topics together to find out how we
 spend out time.
 
-###**First steps first.**
+###**First steps first**
 
 * *Export*, *Upload*, *Import* the class' ```timeuse``` data from the <u>IDS Homepage</u> as ```timeuse_raw```.
 
-* The data, as-is, is very messy and hard to interpret/analyze.
+* The data, as is, is very messy and hard to interpret/analyze.
 
     – Fill in the blank with the name of your imported data to format it:
 
         timeuse <- timeuse_format( ______ )
 
-* This function formats/cleans the data so that each row represents a typical day for each
-student in the class
+* This function formats/cleans the data so that each row represents a typical day for each student in the class.
 
 ###**timeuse_format specifics**
 
 * In case you're wondering, the timeuse_format function:
 
-    – Takes each student's daily data and adds up all of the time spent doing each
-    activity for each day.
+    – Takes each student's daily data and adds up all of the time spent doing each activity for each day.
 
-    – The time spent on each activity for each day is then average together to create a
-    *typical* day in the life of each student.
+    – The time spent on each activity for each day is then average together to create a *typical* day in the life of each student.
 
 ###**Exploring your data**
 
@@ -53,11 +50,11 @@ student in the class
 
     – To do this, we'll perform a statistical investigation.
 
-* **State and answer two statistical questions based on our *research question*.**
+* **State and answer two statistical questions based on our *research question***
 
     – **Also, state one way in which your personal data is typical and one way that it
     *differs* from the rest of the class.**
 
-* **Justify your answers by using appropriate statistical graphics and summary tables.**
+* **Justify your answers by using appropriate statistical graphics and summary tables**
 
     – **If you subset your data, explain why and how it benefited your analysis.**

@@ -26,11 +26,11 @@ visualization, x-axis, y-axis, frequency, minimum, maximum, distribution, range,
 
 2. In this lesson you will be learning about data visualization.
 
-3. Watch the *Value of Data Visualization* video at [https://www.youtube.com/watch?v=xekEXM0Vonc](https://www.youtube.com/watch?v=xekEXM0Vonc "https://www.youtube.com/watch?v=xekEXM0Vonc"), which describes the importance of graphical representations of data. As you watch the video, respond to the following in your IDS Journal:
+3. Watch the *Value of Data Visualization* video at [https://www.youtube.com/watch?v=xekEXM0Vonc](https://www.youtube.com/watch?v=xekEXM0Vonc "https://www.youtube.com/watch?v=xekEXM0Vonc"), which describes the importance of graphical representations of data. As you watch the video, respond to the following questions in your IDS Journal:
 
     100. <strong style="color: red;">What is data visualization?</strong>
 
-    100. <strong style="color: red;">List one example of how visualization can be used to increase data comprehension.</strong>
+    100. <strong style="color: red;">What is one example of how visualization can be used to increase data comprehension?</strong>
 
 4. The video’s last statement was: “Your message is only as good as your ability to share it.”
 
@@ -109,8 +109,7 @@ occurs. There is no need to place tick-marks on the y-axis. The frequency will b
     100. A distribution tells us two things: the values of the variable and the frequency of the
     values. "Frequency" is just another way of saying "the count." 
     
-        <strong style="color: red;">Why is this plot a
-    picture of the distribution of grams of sugar?</strong>
+        <strong style="color: red;">Why is this plot a picture of the distribution of grams of sugar?</strong>
 
 17. You will be provided with an opportunity for feedback on your responses.
 
@@ -136,10 +135,10 @@ occurs. There is no need to place tick-marks on the y-axis. The frequency will b
 21. The *Tangible Plot* handout contains the nutritional information for the total grams of fat in the Stick Figures' snacks. 
 
 
-    <strong style="color: blue;"> Click on the document name to download a fillable copy:</strong> [LMR_1.9](https://docs.google.com/document/d/1D5Rvq7ZAqEk8GSB0zklaV4yle--Kj0sygbSX0GkDedA/copy?usp=sharing)
-    
+    <strong style="color: black;"> Click on the document name to download a fillable copy of the </strong>[*Tangible Plot* handout (LMR_1.9)](https://ucla.box.com/s/z25s2as581wq6nv0qapu1a3dwsf50fbj).
 
-    <div align="center"><iframe src="https://drive.google.com/file/d/1E7L5UOk1tKGwfljK3_f_MX_dBFK-3HzQ/preview" width="640" height="480"></iframe><br>[LMR_1.9](https://docs.google.com/document/d/1D5Rvq7ZAqEk8GSB0zklaV4yle--Kj0sygbSX0GkDedA/copy?usp=sharing)</div>
+
+    <iframe src="https://app.box.com/embed/s/z25s2as581wq6nv0qapu1a3dwsf50fbj?sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
 
 22. Think about the visuals in this lesson. 
@@ -156,6 +155,6 @@ occurs. There is no need to place tick-marks on the y-axis. The frequency will b
 
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Complete the *Tangible Plot* handout ([LMR_1.9](https://docs.google.com/document/d/1D5Rvq7ZAqEk8GSB0zklaV4yle--Kj0sygbSX0GkDedA/copy?usp=sharing)) and turn it in for assessment.
+Complete the *Tangible Plot* handout (LMR_1.9) and turn it in for assessment.
 
 Continue to collect nutritional facts data using the *Food Habits* Participatory Sensing campaign on your smart device or via web browser.

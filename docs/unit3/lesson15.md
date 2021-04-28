@@ -1,9 +1,9 @@
 ##***<u>Lesson 15: Ready, Sense, Go!</u>***
 
-###**Objective:**
+###**Objective**
 Students will learn what sensors are and how they are used to collect data.
 
-###**Materials:**
+###**Materials**
 1. Video: *Smart Tennis Racquet*<br> [http://www.telegraph.co.uk/technology/10827869/Smart-tennis-racquet-records-spin-shots-and-power-in-time-for-Wimbledon.html](http://www.telegraph.co.uk/technology/10827869/Smart-tennis-racquet-records-spin-shots-and-power-in-time-for-Wimbledon.html "http://www.telegraph.co.uk/technology/10827869/Smart-tennis-racquet-records-spin-shots-and-power-in-time-for-Wimbledon.html")
 
 2. Computers (see Step 5)
@@ -14,16 +14,16 @@ Students will learn what sensors are and how they are used to collect data.
 
     **Advanced preparation required** (see Step 10 below)
 
-###**Vocabulary:**
+###**Vocabulary**
 sensor, trigger, algorithm
 
-###**Essential Concepts:**
+###**Essential Concepts**
 
 !!! note "Essential Concepts: "
     Sensors are another data collection method. Unlike what we have seen so far,
     sensors do not involve humans (much). They collect data according to an algorithm.
 
-###**Lesson:**
+###**Lesson**
 1. *Entrance Ticket:* What are some of the data collection methods we have learned about so far in
 this unit? <span style="color:grey">***We have learned about experiments, observational studies, surveys, and getting
 data from a URL (in [Lab 3B](lab3b.md)).***</span>
@@ -146,9 +146,8 @@ Step 3). Have them revise their definition based on the following concepts:
     100. Sensors may also collect data automatically, without anyone’s knowledge or input.
     Examples include GPS location, time, and date.
 
-###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics of the
-day were.
+###**Reflection**
+<strong style="color: red;">What are the essential learnings you are taking away from this lesson?</strong> 
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
 Now that students learned what sensors are, ask them what data would they like to see collected on

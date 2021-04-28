@@ -1,5 +1,5 @@
 ##***<u>Lab 1A - Data, Code & RStudio</u>***
-Directions: Follow along with the slides and answer the questions in **bold** in your journal.
+Directions: Follow along with the slides and answer the questions in **bold** in your IDS Journal.
 
 ###**Welcome to the labs!**
 
@@ -25,7 +25,7 @@ Directions: Follow along with the slides and answer the questions in **bold** in
 
     – **What sorts of information about them was collected?**
 
-###**Data: Variables & observations**
+###**Data: variables & observations**
 
 * Data can be broken up into two parts.
 
@@ -41,7 +41,7 @@ Directions: Follow along with the slides and answer the questions in **bold** in
 
     – **How often did our first observation wear a seatbelt while riding in a car?**
 
-###**Uncovering our Data's Structure**
+###**Uncovering our data's structure**
 
 * Now that we've looked at our data, let's look at how RStudio is organized.
 
@@ -57,7 +57,7 @@ Directions: Follow along with the slides and answer the questions in **bold** in
 
 * **How many variables were measured for each student?**
 
-###**Type the following commands into the console**
+###**Type the following commands into the console:**
 
     dim(cdc)
     nrow(cdc)
@@ -68,7 +68,7 @@ Directions: Follow along with the slides and answer the questions in **bold** in
 
 * **Which of these functions tell us the number of variables?**
 
-###**First Steps**
+###**First steps**
 
 * Typing commands into the console is your first step into the larger world of *programming* or
 *coding* (terms which are often used interchangeably).
@@ -113,7 +113,7 @@ students in the CDC dataset to be taller than 1.8 meters?* **
 * **Do you think it's unusual for students in the data to be taller than 1.8 meters? Why or why
 not?**
 
-###**On your own:**
+###**On your own**
 
 * After completing the lab, answer the following questions:
 

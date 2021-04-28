@@ -31,17 +31,14 @@ graphic of *The Data Cycle*:
 
 3. Below is an overview of each component of the Data Cycle. We will explore each component more explicitly throughout the course.
 
-    100. **Statistical Questions (Ask Questions):** Statistical questions are questions that address variability and
-    can be answered with data.
+    100. **Statistical Questions (Ask Questions):** Statistical questions are questions that a)address variability, and b)can be answered with data.
 
     100. **Consider Data:** This is the process of observing and recording data, or of examining
     previously collected data to make sure it meets the needs of the investigation.
 
-    100. **Data Analysis (Analyze Data):** During analysis, tables, graphs, and summaries of the data are produced
-    to help us find patterns and relationships.
+    100. **Data Analysis (Analyze Data):** During analysis, tables, graphs, and summaries of the data are produced to help us find patterns and relationships.
 
-    100. **Data Interpretation (Interpret Data):** The statistical questions are answered by referring to the tables,
-    graphs, and summaries made in the Data Analysis phase.
+    100. **Data Interpretation (Interpret Data):** The statistical questions are answered by referring to the tables, graphs, and summaries made in the Data Analysis phase.
 
 4. To help you get a firm understanding of the Data Cycle, we will apply it to the story of a pizza delivery person in Austin, Texas. This pizza delivery person kept a blog using the name "Pizza Girl" ([https://slice.seriouseats.com/2010/04/statistical-analysis-of-a-pizza-delivery-shift-20100429.html](https://slice.seriouseats.com/2010/04/statistical-analysis-of-a-pizza-delivery-shift-20100429.html "https://slice.seriouseats.com/2010/04/statistical-analysis-of-a-pizza-delivery-shift-20100429.html"), April 29, 2010). On her blog, Pizza Girl recorded detailed notes of how she spent her time at work. While she was in the pizza shop, Pizza Girl was paid by the hour; but when she went out to make deliveries she had to clock out, and the only money she made was what she received in tips. This got Pizza Girl thinking, <i>"How is my time most profitably spent?"</i> To help her answer this research question, she began considering her tips.
 
@@ -51,7 +48,7 @@ graphic of *The Data Cycle*:
 
     100. **Consider Data:** The image below shows how Pizza Girl recorded her data. The data below represents the first 18  entires in Pizza Girl's data set. Before she can analyze the data using a computer, she needs to organize it in rows and columns. 
     
-        <strong style="color: red;">Organize the data the same way it would appear on a spreadsheet, with the columns Tips, Payment Method, and Time.</strong>
+        Organize the data the same way it would appear on a spreadsheet, with the columns Tips, Payment Method, and Time.
 
         <iframe src="https://drive.google.com/file/d/15xDtvWaP2CZIz5loK6Rs4JwZBiARMXkW/preview" width="640" height="480"></iframe>
 
@@ -64,7 +61,7 @@ graphic of *The Data Cycle*:
 
 5. Now it's your turn! To check your understanding of the Data Cycle, you will create a *Data Cycle Spinner* with your interpretation of each component. To create your own *Data Cycle Spinner*, look for supplies around your home: Cardboard or paper, markers, and something to insert through the center of your spinner to make it spin.
 
-6.  <strong style="color: red;">Create your own spinner. Remember to label each component and to write or draw your interpretation of it (see example below).</strong>
+6.  Create your own spinner. Remember to label each component and to write or draw your interpretation of it (see example below).
 
     <iframe src="https://drive.google.com/file/d/1wuxhSGGhTa7nBpPOF-U722Q64IIvcVoH/preview" width="640" height="480"></iframe>
 
@@ -102,15 +99,16 @@ graphic of *The Data Cycle*:
 11.  The *Bros & Dudes Graphics* handout contains 10 pairings of graphs. The graphics were created for the *Quartz* website by Nikhil Sonnad as a data visualization. He collected the data via Twitter. The graphics show how common certain terms are throughout the United States when referring to friends. 
 
 
-    <strong style="color: blue;"> Click on the document name to download a fillable copy:</strong> [LMR_1.5](https://docs.google.com/document/d/1ZZN7rI43i_dzue4fjYq8pJCLWWj4VSPRcBGlM7nqhBk/copy?usp=sharing)
+    Choose one of the graphics and come up with 2 questions that could be asked given the graphic you chose. Write these in your IDS Journal.
 
 
-    <div align="center"><iframe src="https://drive.google.com/file/d/1DbiCdbynvD3VSoLNlzEkp9I2mwMOAzjN/preview" width="640" height="480"></iframe><br>[LMR_1.5](https://docs.google.com/document/d/1ZZN7rI43i_dzue4fjYq8pJCLWWj4VSPRcBGlM7nqhBk/copy?usp=sharing)</div>
+    <strong style="color: black;"> Click on the document name to download a fillable copy of the </strong>[*Bros & Dudes Graphics* handout (LMR_1.5)](https://ucla.box.com/s/i1pyvf1t9jy52bd34ee2en6puvvhg8ol).
 
-    
-    <strong style="color: red;">Choose one of the graphics and come up with 2 questions that could be asked given the graphic you chose.</strong>
 
-12. <strong style="color: red;">Using ONE of your questions from #11, create a Data Cycle graphic (on a regular piece of paper) to turn in. The cycle should be clearly labeled and should have appropriate responses for each of the 4 components.</strong> Some examples have been provided below:
+    <iframe src="https://app.box.com/embed/s/i1pyvf1t9jy52bd34ee2en6puvvhg8ol?sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+
+
+12. Using ONE of your questions from #11, create a Data Cycle graphic (on a regular piece of paper) to turn in. The cycle should be clearly labeled and should have appropriate responses for each of the 4 components. Some examples have been provided below:
 
     <iframe src="https://drive.google.com/file/d/1fXNR32sw8EJfboppuW0l_r-k-lGdOLL-/preview" width="640" height="480"></iframe>
 

@@ -1,5 +1,5 @@
 ##***<u>Lab 2B - Oh the Summaries ...</u>***
-Directions: Follow along with the slides and answer the questions in **bold** font in your journal.
+Directions: Follow along with the slides and answer the questions in **bold** font in your IDS Journal.
 
 ###**Just the beginning**
 * Means, medians,and MAD are just a few examples of *numerical summaries*.

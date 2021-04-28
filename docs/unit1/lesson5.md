@@ -17,12 +17,9 @@ statistical questions
     Answer the questions in <strong style="color: red;">red</strong> font in your Introduction to Data Science (IDS) Journal.
 
 ###**Lesson**
-1. During the previous lesson, you were introduced to the Data Cycle. 
-    
-    <strong style="color: red;">List the 4 components of the Data Cycle.</strong>
+1. During the previous lesson, you were introduced to the Data Cycle.  In your IDS Journal, list the 4 components of the Data Cycle.
 
-2. You will continue to learn about what makes a question statistical. Recall the definition of a statistical question.         **Statistical questions** are questions that:<ul><li>address
-    variability</li> <li>can be answered with data</li></ul> 
+2. You will continue to learn about what makes a question statistical. Recall the definition of a statistical question.         **Statistical questions** are questions that:<ul><li>address variability</li> <li>can be answered with data.</li></ul> 
     
 3. A good way to determine if a question is a statistical question is to ask: *Do we need to
     see the data to answer the question?* The following are examples of non-statistical questions that can be modified to be statistical questions:<ul><li> **Non-statistical**: What is LeeAnn's favorite color?  While this can be answered with data (by asking LeeAnn), it does not address variability, since LeeAnn presumably has only one favorite color.</li> <li>**Statistical**: What is the most common favorite color in our classroom?  This can be answered by collecting data (asking each student his or her favorite color), and through recognizing that different students may have different answers.
@@ -39,20 +36,17 @@ statistical questions
     
     <iframe src="https://drive.google.com/file/d/1Gt8wdCCMpRetP0E5Nmz8ILU1WtBhI6jX/preview" width="640" height="480"></iframe>
 
-6. Go back to the *Statistical Scenarios* handout. Read Scenarios 2-4 and choose the scenario that most interests you.
-
-    <strong style="color: red;"> Using the definition of a statistical question, explain what makes
-each question in the scenario you chose a statistical question.</strong>
+6. Go back to the *Statistical Scenarios* handout. Read Scenarios 2-4 and choose the scenario that most interests you. Using the definition of a statistical question, write in your IDS Journal what makes each question in the scenario you chose a statistical question.
 
 7. In the [next lesson](lesson6.md), you will begin using the Data Cycle to learn about your
 food habits. To prepare for this, you should begin collecting the “Nutrition Facts” labels from
 foods/snacks you typically eat.
 
 
+###**Reflection**
+<strong style="color: red;">What are the essential learnings you are taking away from this lesson?</strong> 
+
+
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
 Collect at least two cutouts of the “Nutrition Facts” labels of the snacks you typically eat (e.g.,
 chips, yogurt, blended drinks, etc.).
-
-
-###**Reflection**
-<strong style="color: red;">What are the essential learnings you are taking away from this lesson?</strong> 

@@ -1,10 +1,10 @@
 ##***<u>Lesson 9: Survey Says…</u>***
 
-###**Objective:**
-Students will learn that a survey is another data collection method. They will learn what a survey is, what
+###**Objective**
+You will learn that a survey is another data collection method. You will learn what a survey is, what
 types of questions are used in a survey, and how a survey is conducted.
 
-###**Materials:**
+###**Materials**
 1. Video: *Family Feud’s* “Shocking Fast Money” found at:<br>
     [https://www.youtube.com/watch?v=-3Nk9t7-rCs](https://www.youtube.com/watch?v=-3Nk9t7-rCs "https://www.youtube.com/watch?v=-3Nk9t7-rCs") (good quality, but sad ending)
 
@@ -15,16 +15,16 @@ types of questions are used in a survey, and how a survey is conducted.
 
 2. *Designing a Survey* handout ([LMR_3.4_Designing a Survey](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.4_Designing a Survey.pdf))
 
-###**Vocabulary:**
+###**Vocabulary**
 survey, self-reported, open-ended questions, closed-ended questions
 
-###**Essential Concepts:**
+###**Essential Concepts**
 
-!!! note "Essential Concepts: "
+!!! note "Essential Concepts"
     Surveys ask simple, straightforward questions in order to collect data that can be
     used to answer statistical questions. Writing such questions can be hard (but fun)!
 
-###**Lesson:**
+###**Lesson**
 1. Introduce one of the videos listed above by informing students that they will be watching a clip
 from the television game show *Family Feud*. This segment of the show is called *Fast Money*,
 where the winning family plays for an additional $20,000. Two family members are chosen to play
@@ -34,7 +34,7 @@ pet?” were asked, each family member might answer with “dog” or “cat” 
 household pets. The first person accumulates as many points as possible during the 20-second
 first round. The second person is given 25 seconds to earn points with different answers.
 
-2. As students watch the video, have them answer the following questions in their DS journals:
+2. As you watch the video, answer the following questions in your Data Science Journal:
 
     100. How many people were surveyed? <span style="color:grey">***100***</span>
     
@@ -142,9 +142,8 @@ different type (see Step 8).
 19. Have student teams share out their statistical questions and related survey questions with the
 rest of the class.
 
-###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics of the
-day were.
+###**Reflection**
+<strong style="color: red;">What are the essential learnings you are taking away from this lesson?</strong> 
 
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
 For homework, students should choose one of their team’s survey questions and rewrite it 3 ways, using

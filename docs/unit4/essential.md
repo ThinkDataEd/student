@@ -21,7 +21,7 @@ ourselves. These campaigns should be tried before implementing to make sure they
 data they are meant to collect and refined accordingly.
 
 ###**<u>[Lesson 5: Statistical Predictions using One Variable](lesson5.md)</u>**
-Anyone can make a prediction. But statisticians measure the success of their predictions. This lesson
+Anyone can make a prediction,  but statisticians measure the success of their predictions. This lesson
 encourages the classroom to consider different measures of success.
 
 ###**<u>[Lesson 6: Statistical Predictions by Applying the Rule](lesson6.md)</u>**
@@ -30,8 +30,8 @@ values. If we use the mean absolute error rule, then the median of the current d
 of future values.
 
 ###**<u>[Lesson 7: Statistical Predictions Using Two Variables](lesson7.md)</u>**
-When predicting values of a variable y, and if y is associated with x, then we can get improved predictions
-by using our knowledge about x. Basically, we “subset” the data for a given value of x, and use the mean
+When predicting values of a variable y - and if y is associated with x - we can get improved predictions
+by using our knowledge about x. We basically “subset” the data for a given value of x and use the mean
 y for those subset values. If the resulting means follow a trend, we can model this trend to generalize to
 as-yet unseen values of x.
 
@@ -41,7 +41,7 @@ better the prediction we can make. “Better” in this case means that our mean
 made smaller.
 
 ###**<u>[Lesson 9: Spaghetti Line](lesson9.md)</u>**
-We can often use a straight line to summarize a trend. “Eye balling” a straight line to a scatterplot is one
+We can often use a straight line to summarize a trend. “Eyeballing” a straight line to a scatterplot is one
 way to do this.
 
 ###**<u>[Lesson 10: Predicting Values](lesson10.md)</u>**
@@ -58,12 +58,10 @@ We can use scatterplots to assess which variables might lead to strong predictiv
 using several predictors in one model can produce stronger models.
 
 ###**<u>[Lesson 13: Combination of Variables](lesson13.md)</u>**
-If multiple predictors are associated with the response variable, a better predictive model will be produced,
-as measured by the mean absolute error.
+If multiple predictors are associated with the response variable, a better predictive model will be produced, as measured by the mean absolute error.
 
 ###**<u>[Lesson 14: Improving your Model](lesson14.md)</u>**
-If a linear model is fit to a non-linear trend, it will not do a good job of predicting. For this reason, we need
-to identify non-linear trends by looking at a scatterplot or the model needs to match the trend.
+If a linear model is fit to a non-linear trend, it will not do a good job of predicting. For this reason, we need to identify non-linear trends by looking at a scatterplot, or the model needs to match the trend.
 
 ###**<u>[Lesson 15: The Growth of Landfills](lesson15.md)</u>**
 Modeling does not always have to produce an equation. Instead, we can create models to answer real-world

@@ -18,7 +18,8 @@ find how you are similar to and/or different from other people in terms of time 
 single and multivariable plots, summary statistics, and frequency tables to find similarities and
 differences between yourself and other groups of students, as well as other students in the U.S.
 
-###**3. Survey Questions** (you will enter data only for the activities in which you participated):
+###**3. Survey Questions** 
+Enter data only for the activities in which you participated:
 
 | **Prompt**                                                          |**Variable**| **Data Type**                   |
 |---------------------------------------------------------------------|------------|---------------------------------|
@@ -68,10 +69,3 @@ tables.
 ###**7. Report**
 You will complete a practicum in which you answer a statistical question based on the time-use
 data collected.
-
-###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
-For the next 5 days, you will collect data using the *Time Use* campaign on your smart device or via
-web browser. You will also complete [<u>***LAB 1F: A Diamond in the Rough***</u>](lab1f.md).
-
-
-Complete [Lab 1F](lab1f.md) prior to [Lesson 16](lesson16.md).

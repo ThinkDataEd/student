@@ -25,8 +25,8 @@ shapes of the distributions. Boxplots are a useful way of comparing distribution
 when all of the distributions are unimodal (one hump).
 
 ###**<u>[Lesson 6: Face Off](lesson6.md)</u>**
-Writing (and saying) precise comparisons between groups in which variability is present based on the (a)
-center, (b) spread, (c) shape, and (d) unusual outcomes help to make statements in context of the data.
+Writing and making precise comparisons between groups in which variability is present based on the (a)
+center, (b) spread, (c) shape, and (d) unusual outcomes helps to make statements in context of the data.
 Actual comparison statements should use terms such as "less than," "about the same as," etc.
 
 ###**<u>[Lesson 7: Plot Match](lesson7.md)</u>**
@@ -48,7 +48,7 @@ There are two ways of sampling data that model real-life sampling situations: wi
 replacement. Larger samples tend to be closer to the "true" probability.
 
 ###**<u>[Lesson 11: This AND/OR That](lesson11.md)</u>**
-What does "A or B" mean versus "A and B" mean? These are compound events and two-way tables can
+What does "A or B" mean versus "A and B"? These are compound events, and two-way tables can
 be used to calculate probabilities for them.
 
 ###**<u>[Lesson 12: Don’t Take My Stress Away!](lesson12.md)</u>**
@@ -56,32 +56,27 @@ Generating statistical questions is the first step in a Participatory Sensing ca
 observations help create applicable campaign questions.
 
 ###**<u>[Lesson 13: The Horror Movie Shuffle](lesson13.md)</u>**
-We can "shuffle" data based on categorical variables. The statistic we use is the difference in proportions.
-The distribution we form by shuffling represents what happens if chance were the only factor at play. If
-the actual observed difference in proportions is near the center of this shuffling distribution, then we would
-conclude that chance is a good explanation for the difference. But if it is extreme (in the tails or off the
-charts), then we should conclude that chance is NOT to blame. Sometimes, the apparent difference
-between groups is caused by chance.
+We can "shuffle" data based on categorical variables. The statistic we use is the difference in proportions. The distribution we form by shuffling represents what happens if chance were the only factor at play. If the actual observed difference in proportions is near the center of this shuffling distribution, then we would conclude that chance is a good explanation for the difference. But if it is extreme (in the tails or off the charts), then we should conclude that chance is NOT to blame. Sometimes, the apparent difference between groups is caused by chance.
 
 ###**<u>[Lesson 14: The Titanic Shuffle](lesson14.md)</u>**
 We can also "shuffle" data based on numerical variables. The statistic we use is the difference in means.
 The distribution we form by this form of shuffling still represents what happens if chance were the only
 factor at play. When differences are small, we suspect that they might be due to chance. When
-differences are big, we suspect they might be 'real.'
+differences are big, we suspect they might be "real."
 
 ###**<u>[Lesson 15: Tangible Data Merging](lesson15.md)</u>**
 We can enhance the context of a statistical problem by merging related data sets together. To merge
 data, each data set must have a "unique identifier" that tells us how to match up the lines of the data.
 
 ###**<u>[Lesson 16: What Is Normal?](lesson16.md)</u>**
-The Normal curve, also called the Gaussian distribution and the "bell curve," is a model that describes
+The normal curve, also called the "Gaussian distribution" or the "bell curve," is a model that describes
 many real-life distributions and is usually called the Normal Model.
 
 ###**<u>[Lesson 17: A Normal Measure of Spread](lesson17.md)</u>**
-The standard deviation is another measure of spread. This is commonly used by statisticians because of
+The standard deviation is another measure of spread that is commonly used by statisticians because of
 its role in common models and distributions, such as the Normal Model.
 
 ###**<u>[Lesson 18: Shuffling with Normal](lesson18.md)</u>**
-Z-scores allow us a way to measure how extreme a value is, regardless of the units of measurement.
-Usually, z-scores will range between -3 and +3, and so values that are at or more extreme than -3 or +3
+Z-scores offer us a way to measure how extreme a value is, regardless of the units of measurement.
+Usually z-scores range between -3 and +3, so values that are at or more extreme than -3 or +3
 standard deviations are considered large.

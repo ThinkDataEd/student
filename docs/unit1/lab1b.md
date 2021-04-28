@@ -1,7 +1,7 @@
-##***<u>Lab 1B - Get the picture?</u>***
-Directions: Follow along with the slides and answer the questions in **bold** font in your journal.
+##***<u>Lab 1B - Get the Picture?</u>***
+Directions: Follow along with the slides and answer the questions in **bold** font in your IDS Journal.
 
-###**Where'd we leave off ...**
+###**Where'd we leave off...?**
 * In the previous lab, we started to get acquainted with the layout of RStudio and some of the
 commands.
 
@@ -16,7 +16,7 @@ scientists use interchangeably with the word *graph*).
 * Find the *History* tab in RStudio and click on it. Figure out how to use the information to reload the
 ```cdc``` data.
 
-###**Variable Types**
+###**Variable types**
 * Numerical variables have values that are measured in units.
 
 * Categorical Variables have values that describe or categorize our observations.
@@ -40,22 +40,19 @@ code's output to help you complete the following:
 
     – **Write down 3 variables that you think are *numerical* variables and why.**
 
-###**Data Structures**
+###**Data structures**
 * One way to get a good summary of your data is to look at the data's *structure*.
 
-    – One way to view this info would be to click on the little blue arrow next to ```cdc``` in the
-    *Environment* pane.
-
-    – Another way would be to run the following in the console:
+* One way to view this info would be to click on the little blue arrow next to ```cdc``` in the *Environment* pane. Another way would be to run the following in the console:
 
         str(cdc)
 
-* Look at the ```str```ucture of your ```cdc``` data and answer:
+* Look at the ```str```ucture of your ```cdc``` data and answer the following questions:
 
-* **List all the types of info the ```str()``` function outputs**
+    - **What are all the types of info the ```str()``` function outputs?**
 
-* **Were you able to correctly guess which variables were categorical and numeric? Which
-ones did you mis-label?**
+    - **Were you able to correctly guess which variables were categorical and numeric? Which
+ones did you label incorrectly?**
 
 ###**Visualizing data**
 * Visualizing data is a really helpful way to learn about our variables.
@@ -89,7 +86,7 @@ a ```histogram``` for each variable.
 
         bargraph (~ ____ , data = ____ , groups = ____ )
 
-* **Write a sentence explaining how boys and girls differ in their use texting while driving.**
+* **Write a sentence explaining how boys and girls differ when it comes to texting while driving.**
 
 * **Would you say that most girls never text and drive? Would you say that most boys never
 text and drive?**
@@ -129,7 +126,7 @@ answer.**
 * **Just like we did for the histogram, is it possible to create a *split* bargraph? Try to create a
 bargraph of ```drive_text``` that's split by ```gender``` to find out.**
 
-###**On your own:**
+###**On your own**
 * In this lab, we looked at boy's and girl's attitudes about using texting & driving:
 
 * **What other factors do you think might affect how often people text and drive?**

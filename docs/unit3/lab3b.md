@@ -1,25 +1,19 @@
-##***<u>Lab 3B - Confound it all!</u>***
-Directions: Follow along with the slides and answer the questions in **bold** font in your journal.
+##***<u>Lab 3B - Confound It All!</u>***
+Directions: Follow along with the slides and answer the questions in **bold** font in your IDS Journal.
 
 ###**Finding data in new places**
-* Since your first forays into doing data science, you've used data from two-sources:
+* Since your first forays into doing data science, you've used data from two sources:
 
     – Built-in datasets from RStudio.
 
-    – Campaign data from IDS Campaign Manager.
+    – Campaign data from the IDS Campaign Manager.
     
-* Data can be found in many other places though, especially online.
+* Data can be found in many other places, though - especially online.
 
-* In this lab, we'll read an *observational study* dataset from a website.
-
-    – We'll use this data to then explore what factors are associated with a person's lung
-    capacity.
+* In this lab, we'll read an *observational study* dataset from a website. We'll use this data to then explore what factors are associated with a person's lung capacity.
 
 ###**Our new data**
-* You can find the data online here:
-
-    – (Right-click and select *Open in New Window*)<br> 
-    [http://gh.idsucla.org/ids_labs/extras/webdata/fev.dat.txt](http://gh.idsucla.org/ids_labs/extras/webdata/fev.dat.txt "http://gh.idsucla.org/ids_labs/extras/webdata/fev.dat.txt")
+* You can find the data online here (Right-click and select *Open in New Window*):<br>[http://gh.idsucla.org/ids_labs/extras/webdata/fev.dat.txt](http://gh.idsucla.org/ids_labs/extras/webdata/fev.dat.txt "http://gh.idsucla.org/ids_labs/extras/webdata/fev.dat.txt")
 
 * Variables that were measured include:
 
@@ -41,7 +35,7 @@ straight from the webpage into R.
 
     – Then click on the *From CSV* option.
 
-    – Type or copy/paste the URL into the box and then hit *Update*.
+    – Type or copy/paste the URL into the box, then hit *Update*.
 
 * Before importing, change the following Import Options:
 
@@ -52,20 +46,12 @@ straight from the webpage into R.
     – *Change Delimiter* to *Whitespace*
 
 ###**About the data**
-* The data come from the *Forced Expiratory Volume (FEV)* study that took place in the late
-1970's.
-
-    – The observations come from a sample of 654 youths, aged 3 to 19, in/around East
-    Boston.
-
-    – Researchers were interested in answering the *research question*:
-
-    *What is the effect of childhood smoking on lung health?*
+The data come from the *Forced Expiratory Volume (FEV)* study that took place in the late 1970's. The observations come from a sample of 654 youths, aged 3 to 19, in/around East Boston. Researchers were interested in answering the research question, "What is the effect of childhood smoking on lung health?"
 
 ###**Cleaning your data**
 
-* Now that we've got the data loaded, we need to clean it to get it ready for use (*Look at [lab
-1F](../unit1/lab1f.md) for help*). Specifically:
+* Now that we've got the data loaded, we need to clean it to get it ready for use (*Look at [Lab
+1F](../unit1/lab1F.md) for help*). Specifically:
 
     – We want to name the variables: ```"age"```, ```"lung_cap"```, ```"height"```,
     ```"gender"```,```"smoker"```, in that order.
@@ -84,7 +70,7 @@ straight from the webpage into R.
 * **Write down a reason the researchers couldn't use an experiment to test the effects of
 smoking on children's lungs.**
 
-* Observational studies are often helpful for analyzing how variables are related:
+* Observational studies are often helpful for analyzing how variables are related.
 
 * **Do you think that a person's age affects their lung capacity? Make a sketch of what
 you think a scatterplot of the two variables would look like and explain.**
@@ -103,22 +89,20 @@ you think a scatterplot of the two variables would look like and explain.**
 
     – **Were you surprised by the answer? Why?**
 
-    – **Can you suggest a possible confounding factor that might be affecting the
-    result?**
+    – **Can you suggest a possible confounding factor that might be affecting the result?**
 
 ###**Let's compare**
 * Create three subsets of the data:
 
-    – One that includes *only* 13 year olds ...
+    – One that includes *only* 13-year-olds ...
 
-    – One that includes *only* 15 year olds ...
+    – One that includes *only* 15-year-olds ...
 
-    – and one that includes *only* 17 year olds.
+    – and one that includes *only* 17-year-olds.
 
 * Make a plot that compares the lung capacity of smokers and non-smokers for each subset.
 
-* **How does the relationship between smoking and lung capacity change as we
-increase the age from 13 to 15 to 17?**
+* **How does the relationship between smoking and lung capacity change as we increase the age from 13 to 15 to 17?**
 
 ###**Sum it up!**
 * **Does smoking affect lung capacity? If so, how?**

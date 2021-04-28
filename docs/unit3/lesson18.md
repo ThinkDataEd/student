@@ -1,7 +1,7 @@
 ##***<u>Lesson 18: Evaluating Our Own Participatory Sensing Campaign</u>***
 
 ###**Objective:** 
-Students will create statistical questions and evaluate their Participatory Sensing Campaign.
+Students will create statistical questions and evaluate their Participatory Sensing campaign.
 
 ###**Materials:**
 1. *Campaign Creation* handout ([LMR_3.16_Campaign Creation](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.16_Campaign Creation.pdf)) from [previous lesson](lesson17.md)
@@ -10,8 +10,8 @@ Students will create statistical questions and evaluate their Participatory Sens
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: "
-    Statistical questions guide a Participatory Sensing Campaign so that we can learn
-    about a community or ourselves. These Campaigns should be evaluated before implementing to make
+    Statistical questions guide a Participatory Sensing campaign so that we can learn
+    about a community or ourselves. These campaigns should be evaluated before implementing to make
     sure they are reasonable and ethically sound.
 
 ###**Lesson:**

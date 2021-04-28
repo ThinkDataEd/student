@@ -1,35 +1,31 @@
 ##**Campaign Guidelines – Stress/Chill**
 
-###**1. The Issue:**
+###**1. The Issue**
 
-People report being more and more stressed everyday. This trend is extending beyond adults, it is
-also reported by children and teenagers. The amount of work for which people are responsible has
-been increasing. To understand what makes us feel stressed, some important questions to ask are:
+People report being more and more stressed everyday. This trend now extends beyond adults, to children and teenagers as well.  To understand what makes you feel stressed, some important questions to ask are:
 
-a) What factors affect my stress/chill level?
+a) What factors affect your stress/chill level?
 
 b) Do different personality types have different things that make them happy/sad?
 
 c) Do you like to be alone or with people?
 
-d) Is your stress/chill level a function of the environment in which you are?
+d) Do you think that your stress/chill level is a function of your environment?
 
-###**2. Objectives:**
+###**2. Objectives**
 
-Upon completing this campaign, students will have compared groups and gained an understanding of
-variability within and between groups. They will have learned how to conduct and use permutations to
-model variability, perform informal inference, and how to do simulations to make predictions.
+Upon completing this campaign, you will have compared groups and gained an understanding of variability within and between groups. You will learn how to a)conduct and use permutations to model variability, b)perform informal inference, and c)do simulations to make predictions.
 
-###**3. Survey Questions:** (students will enter data for the activities in which they participated only):
+###**3. Survey Questions**
 
-Use a random number generator to generate two random times a day for the next 5 days, including a
-weekend if possible. If a time falls within the school day, it is up to the discretion of the teacher to use
-this time or not.
+Use a random number generator to generate two random times a day for the next 5 days, including a weekend if possible. If a time falls within the school day, it is up to your teacher to use this time or not.
+
+**Note:** Enter data only for the activities in which you participated.
 
 | **Prompt** | **Variable** | **Data Type** |
 | ---------- | ---------- | ---------- |
 |Take a photo of what you are doing right now.| photo |photo|
-|How stressed are you feeling right now (3 is very stressed, 0 is not stressed at all)?|level|integer|
+|How stressed are you feeling right now? (3 is very stressed, 0 is not stressed at all)|level|integer|
 |How many people are you with (not counting yourself) up to 107,282?|howmanypeople|integer|
 |Who are you with?<br>&nbsp;&nbsp;&nbsp;&nbsp; -alone<br>&nbsp;&nbsp;&nbsp;&nbsp; -friends<br>&nbsp;&nbsp;&nbsp;&nbsp; -family<br>&nbsp;&nbsp;&nbsp;&nbsp; -friends and family<br>&nbsp;&nbsp;&nbsp;&nbsp; -classmates<br>&nbsp;&nbsp;&nbsp;&nbsp; -teacher<br>&nbsp;&nbsp;&nbsp;&nbsp; -teacher and classmates<br>&nbsp;&nbsp;&nbsp;&nbsp; -strangers|who|categorical|
 |Where are you?<br>&nbsp;&nbsp;&nbsp;&nbsp; -school<br>&nbsp;&nbsp;&nbsp;&nbsp; -work<br>&nbsp;&nbsp;&nbsp;&nbsp; -home<br>&nbsp;&nbsp;&nbsp;&nbsp; -public place<br>&nbsp;&nbsp;&nbsp;&nbsp; -others’ house<br>&nbsp;&nbsp;&nbsp;&nbsp; -commuting|where|categorical|
@@ -38,43 +34,34 @@ this time or not.
 |AUTOMATIC|time|time|
 |AUTOMATIC|date|date|
 
-**When?** Surveys are taken two to three times per day at pre-determined randomly selected times.
+**When?** Surveys are taken two to three times per day at predetermined, randomly selected times.
 
 **How Long?** About two weeks. Ideally, two of these days include a weekend.
 
-###**4. Motivation:**
+###**4. Motivation**
 
-Students must understand that they need to keep collecting data. Use the Plot App to look at the data
-after the first day and have a discussion.
+It's important to remember that you must keep collecting data. 
 
-&nbsp;Ask: Why were most people stressed? Guide students along the way.
+Answer the folloiwing in your IDS Journal:
+100. What is your stress/chill level in the evening versus morning?
+100. Does it change everyday? How about during the weekend?
 
-Ask students to predict the following: What is your stress/chill level in the evening versus morning?
-Does it change everyday? How about during the weekend? What is the difference between groups?
-
-Data collection: After the first day, use the Campaign Monitoring tool to see who has collected the
-most data.
     
-###**5. Technical Analysis:**
-Students will use RStudio.
+###**5. Technical Analysis**
+You will be using RStudio.
 
-###**6. Guiding Questions:**
+###**6. Guiding Questions**
 
-a) Have students generate predictions and check up on their predictions.
 
-b) What’s the typical stress/chill level of the class across the campaign?
+a) What’s my typical stress/chill level and how does it compare to whole class?
 
-c) What’s my typical stress/chill level and how does it compare to whole class?
+b) Do my stress/chill levels vary by weekday or weekend, or by type of people I am with?
 
-d) Do the stress/chill levels vary by weekday or weekend or the type of people you are with?
+d) Under which conditions is my stress/chill level affected?
 
-e) Under which conditions is my stress/chill level affected?
 
-f) Encourage students to generate their own questions.
-
-###**7. Report:**
-Students will complete the Stress/Chill Practicum. They will analyze their stress/chill data using data
-analysis skills and RStudio skills learned in the unit.
+###**7. Report**
+Complete the [*What Stresses Us?* Practicum](practicum3.md). Using the data analysis and RStudio skills that you've learned in this unit, analyze your stress/chill data. 
 
 
 

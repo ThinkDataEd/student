@@ -25,8 +25,7 @@ programming language of RStudio for data analysis. Watch the following video to 
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/WkxCfaol3pE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-2. You can access RStudio by going to the URL: [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org"),
-then click on the RStudio icon on the page.
+2. You can access RStudio by going to your server: <br> [https://idsucla.org/ids-servers](https://www.idsucla.org/ids-servers "https://www.idsucla.org/ids-servers"), then click on the RStudio icon on the page.
 
 3. Your RStudio login is the same as your IDS App and IDS Homepage login.
 
@@ -45,7 +44,7 @@ then click on the RStudio icon on the page.
 Prevention (CDC), a government agency that collects data on a broad range of topics, including issues concerning teenagers.
 
 6. You can load and view the CDC data file to the workspace by typing the following
-commands into the console, then pressing the **Enter** or **Return** key on your keyboard:
+commands into the console, then pressing the *Enter* or *Return* key on your keyboard:
 
 
     **>data(cdc)**
@@ -53,10 +52,10 @@ commands into the console, then pressing the **Enter** or **Return** key on your
     **>View(cdc)**
 
 
-    **Note:** If you wish, you can take notes in an RScript. As a reminder, to create an R script, find the **Menu** tab, go to **File** and click on **New File**, then click on **RScript**. Type the commands below in your RScript and Run your commands. Refer back to the video to learn how to use an RScript.
+    **Note:** If you wish, you can take notes in an RScript. As a reminder, to create an R script, find the *Menu* tab, go to **File** and click on *New File*, then click on *RScript*. Type the commands below in your RScript and Run your commands. Refer back to the video to learn how to use an RScript.
 
 
-7. <strong style="color: red;"> Examine the preview pane and describe how data are displayed.</strong> 
+7. <strong style="color: red;"> Examine the preview pane. How are the data displayed?</strong> 
 
 8. <strong style="color: red;"> Where on the spreadsheet can you find the variables?</strong> 
     
@@ -82,33 +81,21 @@ commands into the console, then pressing the **Enter** or **Return** key on your
     environment panes? How many observations are there in the data set? How many
     variables does this data set contain? </strong> 
     
-    <span style="color:grey">***There are 15,624 rows, or 15,624 observations;
-    and there are 33 columns, or 33 variables. This information is also visible in the
-    environment pane.***</span>
+        <span style="color:grey">***There are 15,624 rows, or 15,624 observations;and there are 33 columns, or 33 variables. This information is also visible in the environment pane.***</span>
 
 11. You can also obtain the number of observations of a specific variable. 
 
     100. Type the following command to get the number of observations for seat belt wearers: **>tally(~seat_belt, data = cdc)**
-
-
-    <span style="color:grey">***Notice that six categories are
-    displayed. Each category shows the number of observations contained in it. For example,
-    “Never” has 326 observations, meaning 326 teens reported never wearing their
-    seat belt as a passenger in a motor vehicle. &lt;NA> = Not Available, represents teens
-    that did not provide information about their seat belt habits.***</span>
-
+        
+        <span style="color:grey">***Notice that six categories are displayed. Each category shows the number of observations contained in it. For example, “Never” has 326 observations, meaning 326 teens reported never wearing their seat belt as a passenger in a motor vehicle. &lt;NA> = Not Available, represents teens that did not provide information about their seat belt habits.***</span>
 
     100. <strong style="color: red;"> What else do you notice?</strong> 
-    
-
+  
 12. Now change the variable to height:
 
     100. Type the following command: **>tally(~height, data = cdc)**
 
-
-    <span style="color:grey">***Notice that categories are missing. This happened
-    because the variable height contains numbers, not categories.***</span>
-
+        <span style="color:grey">***Notice that categories are missing. This happened because the variable height contains numbers, not categories.***</span>
 
     100. <strong style="color: red;"> What else do you notice?</strong> 
     
@@ -167,9 +154,9 @@ console. The output will appear either on the console itself or on the plot pane
 ###**Reflection**
 <strong style="color: red;">What are the essential learnings you are taking away from this lesson?</strong> 
 
+
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Continue to collect nutritional facts data using the *Food Habits* Participatory Sensing
-campaign on your smart device or via web browser.
+Continue to collect nutritional facts data using the *Food Habits* Participatory Sensing campaign on your smart device or via web browser.
 
 ###<p style="background: black; color: white; text-align: center;">**Lab Time**</p>
 It's time to begin learning how to do data analysis in RStudio! Before going on to the next lesson, you must complete Lab 1A, Lab 1B, and Lab 1C using RStudio. The following video will show you how to log in to your RStudio account and complete Lab 1A.

@@ -34,12 +34,12 @@ typical, center, shape, spread
 
 3. <strong style="color: red;">If someone asked you about a typical student at your school, how would you describe them?</strong>
 
-4. <strong style="color: red;">Write down synonyms for the word “typical” in your IDS Journal.</strong>
+4. <strong style="color: red;">What are some synonyms for the word “typical”?</strong>
 
 5. Below is a bubble map with synonyms that the Stick Figures brainstormed for "typical". 
     
 
-    <strong style="color: red;">Using these synonyms and the ones you brainstormed in #4 above, indicate which terms apply best to categorical variables and which terms apply best to numerical variables.</strong>
+    Using these synonyms and the ones you brainstormed in #4 above, write in your IDS Journal which terms apply best to categorical variables and which terms apply best to numerical variables.
 
 
     
@@ -96,9 +96,10 @@ variability? Why or why not?</strong>
     <strong style="color: red;">How do you think this plot will differ from the first plot where they reported how many hours they slept on a school night? Make a quick sketch. Focus your explanation on the shape, center,
 and spread of the distributions.</strong>
 
+
 ###**Reflection**
 <strong style="color: red;">What are the essential learnings you are taking away from this lesson?</strong> 
 
+
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Continue to collect nutritional facts data using the *Food Habits* Participatory Sensing
-campaign on your smart device or via web browser.
+Continue to collect nutritional facts data using the *Food Habits* Participatory Sensing campaign on your smart device or via web browser.

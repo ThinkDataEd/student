@@ -1,70 +1,88 @@
 ##***<u>Lesson 6: Face Off</u>***
 
-###**Objective:**
+###**Objective**
 You will informally compare two or more distributions using your knowledge of shape, center, and
 spread to answer statistical questions. You will learn how to find the difference between two means and
 two medians using a histogram or dotplot.
 
 
-###**Vocabulary:**
+###**Vocabulary**
 rebuttal
 
 ###**Essential Concepts:**
 
-!!! note "Essential Concepts: "
+!!! note "Lesson 6 Essential Concepts"
     Writing (and saying) precise comparisons between groups in which variability is
     present based on the (a) center, (b) spread, (c) shape, and (d) unusual outcomes help to make
     statements in context of the data. Actual comparison statements should use terms such as "less than,"
     "about the same as," etc.
 
-###**Lesson:**
-1. What method of transportation did you use for your daily school commute before the COVID-19 lockdown. Did you walk, ride in a car, take the bus, ride a bike, etc.? Do you remember how long it took you to get to school (in minutes)?
+###**Lesson**
+1. What method of transportation would you use for your daily school commute? Would you walk, ride in a car, take the bus, ride a bike, etc.? Using the method you chose, estimate how long it would take you to get to school (in minutes).
 
-2. You have learned important features of distributions that will allow you to
-make decisions when working with data. More specifically, you will be able to use your
-knowledge of measures of center and measures of spread to compare 2 distributions in order to
-make a decision.
+2. You have learned important features of distributions that will allow you to make decisions when working with data. More specifically, you will be able to use your knowledge of measures of center and measures of spread to compare two distributions in order to make a decision.
 
-3. Complete the *Comparing Commute Times with Dotplots* handout
-([LMR_2.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.8_Commute Times - Dotplots.pdf)). Read the “Background” portion of the handout, and then
-<strong style="color: red;">in your DS Journal, write down what statistical question(s) the student in the scenario is trying to answer.</strong>
-<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.8_Commute Times - Dotplots.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.8_Commute Times - Dotplots.pdf)</div>
+    Read the “Background” portion of the handout.  Then in your IDS Journal, write down what statistical question(s) the student in the scenario is trying to answer. Also in your IDS Journal, answer the question at the bottom of the handout.
 
-4. Once you have completed the handout, write your recommendations in your DS Journal. Imagine that you are to engage  in an *Active Debate* with your classmates.
-
-5. <strong style="color: red;"> First, you will write in your DS Journal the benefits of street travel over freeway travel by using academic language based on the dotplot. List as many reasons as you can why you claim that street travel is better.</strong>
-
-6. <strong style="color: red;"> Next, below your first claim, you will write (in your DS Journal) the benefits of freeway travel over street travel by using academic language based on the dotplot. List as many reasons as you can why you claim that freeway travel is better.</strong>
-
-7. <strong style="color: red;">Give yourself time to compare and contrast the two choices and it is suggested that you may write a two-column list starting with the first column about street travel from the strongest reason or claim using academic language.</strong>
-
-8. Complete your **rebuttal** of your first claim by writing your reasons why freeway travel is better, from the strongest reason that supports your claim using academic language.
-
-<strong style="color: blue;"> insert an example of a  Two column Rebuttal here. Use the possible answers in the handout and remove page 2 </strong>
-
-9. Go over the claim and rebuttal process.Make sure that you only used statistical data based on the handout and not include your own opinions.
-
-10. Finalize your recommendations and answer the following questions in your DS Journal:<strong style="color: red;"> Did your initial choice of claim change after you made the data analysis? Why or why not? </strong>
+3. Complete the *Comparing Commute Times with Dotplots* handout.
 
 
-11. You will  complete the *Comparing Exam Scores with Histograms* handout
-([LMR_2.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.9_Exam Scores - Histograms.pdf)). Read the “Background” portion of the handout, and then <strong style="color: red;">in your DS Journal, write what statistical question(s) the student in the scenario is trying to answer.</strong>
-<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.9_Exam Scores - Histograms.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.9_Exam Scores - Histograms.pdf)</div>
+    <strong style="color: black;">Click on the document name to download a fillable copy of the [*Comparing Commute Times with Dotplots* handout (LMR_2.8)](https://ucla.box.com/s/14ncc33jbujcse4y60jz2p1hpakr8mdu)</strong>.
 
-12. Repeat "debate process"" (Steps 4 - 10).
+    
+    <iframe src="https://app.box.com/embed/s/14ncc33jbujcse4y60jz2p1hpakr8mdu?sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
-13. Summarize the lesson by doing a Quickwrite in your DS Journal. <strong style="color: red;">What are the pieces of information that we are looking for when comparing
-distributions?  You should be precise when estimating values of means, medians, MAD, and
-IQR. You should also be able to comment on when it is most appropriate to use each measure
-of center and spread. 
 
-<span style="color:grey">***For example: If a distribution is symmetric, it is best to use the _______ as a measure
-of center and the MAD as a measure of spread. If a distribution is ____________, or has outliers,
-it is best to use the median as a measure of center and the IQR as a measure of spread.***</span>
+4. You will now imagine that you will debate your classmates about which is the better travel option: freeway or street. For this Active Debate, you will have to argue both sides. Imagine you are in two teams: *Team Freeway* and *Team Street*. The best way to do this is to write a two-column list. In your IDS Journal, make a two-column table. Label one colum *Team Freeway* and the other *Team Street*.
 
-<strong style="color: blue;"> insert an example of a  Two column Rebuttal here. Use the possible answers in the handout and remove page 2 </strong>
+5. In the *Team Freeway* column, write down the benefits of freeway travel using the information you see in the boxplot. Use your knowledge of distributions to list as many reasons as you can that support the claim that freeway travel is better. 
 
+6. In the *Team Street* column, write down the benefits of street travel using the information you see in the boxplot. Use your knowledge of distributions to list as many reasons as you can that support the claim that street travel is better. 
+
+
+    <iframe src="https://drive.google.com/file/d/1htf-BSzGCxwBx-j9qBNzx4kFLZ9ppbo1/preview" width="640" height="480"></iframe>
+
+
+7. Spend time comparing and contrasting the benefits of Freeway vs. Street Travel. Rank the benefits of each column from strongest to weakest. Put the number 1 next to the strongest reason, 2 next to the second-best reason, and so on. Then, decide if you are Team Freeway or Team Street. 
+
+8. Next, you will prepare a **rebuttal** of the other team's argument (the one you did not choose). A rebuttal is a way to argue back against someone's claims. For example, if you chose Team Freeway, look at the Team Street column and look for weak spots. You can ask, "Where does the dotplot show a certain benefit?" or "Where is the evidence for one of the claims?" Write your rebuttal of the other team's benefits/claims in your IDS Journal. Below is a rebuttal frame that you can use.
+
+    *Those who disagree believe that **______________** travel is the best way for the Data Science student to commute. However, the data show that **______________** travel is a better way to commute. First, the data show that **______________**. Next, the visualization shows that there is **______________**. Although it is true that **______________** shows that   **______________** , that point is weak because **______________**. For these reasons, **______________** travel is the best way for the student to commute to school.*
+
+
+9. Finally, go over both columns and your rebuttal one last time. Make sure that your claims, reasons, or benefits are supported by the data and the dotplot. It should not include your own opinions. 
+
+10. Refer back to your recommendation for the best route (freeway or street) and answer the following questions in your IDS Journal:
+
+    <strong style="color: red;"> Did your initial choice when you completed the handout change after arguing both sides? Explain why or why not. </strong>
+
+
+11. Complete the *Comparing Exam Scores with Histograms* handout. Read the “Background” portion of the handout. Then, in your IDS Journal, write what statistical question(s) the student in the scenario is trying to answer. Also in your IDS Journal, answer the question at the bottom of the handout. Make sure you have clearly stated which exam was easier using the histograms to support your claim.
+
+
+    <strong style="color: black;">Click on the document name to download a fillable copy of the [*Comparing Exam Scores with Histograms* handout (LMR_2.9)](https://ucla.box.com/s/xxhf810aw99uj8rnqrh72gnu248fr2m8)</strong>.
+
+
+    <iframe src="https://app.box.com/embed/s/xxhf810aw99uj8rnqrh72gnu248fr2m8?sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+
+
+12. Repeat the "debate process" (Steps 4 - 10). You should be precise when estimating values of means, medians, MAD, and IQR. You should also be able to comment on when it is most appropriate to use each measure of center and spread. 
+
+
+    <span style="color:grey">***For example: If a distribution is symmetric, it is best to use the ____________ as a measure of center and the MAD as a measure of spread. If a distribution is ____________, or has outliers, it is best to use the median as a measure of center and the IQR as a measure of spread.***</span>
+
+13. In your IDS Journal, do a quickwrite explaining why is it important to debate two sides using data as evidence to support the arguments.
+
+
+###**Reflection**
+<strong style="color: red;">What are the essential learnings you are taking away from this lesson?</strong> 
+
+   
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Similar to the activities you did during class today, for homework, you will complete the
-*Comparing Fuel Efficiency with Boxplots* handout ([LMR_2.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.10_Fuel Efficiency - Boxplots.pdf)).
-<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.10_Fuel Efficiency - Boxplots.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.10_Fuel Efficiency - Boxplots.pdf)</div>
+    
+Complete the *Comparing Fuel Efficiency with Boxplots* handout by answering the question at the bottom. Make sure your claims are supported by the information contained in the boxplots.
+
+<strong style="color: black;">Click on the document name to download a fillable copy of the [*Comparing Fuel Efficiency with Boxplots* handout (LMR_2.10)](https://ucla.box.com/s/d54a8roes0z19nztfrb2cf77of80bxtj)</strong>.
+
+
+<iframe src="https://app.box.com/embed/s/d54a8roes0z19nztfrb2cf77of80bxtj?sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>

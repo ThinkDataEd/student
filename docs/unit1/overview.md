@@ -2,7 +2,6 @@
 
 ![IDS-logo](../img/IDS-logo.png)
 
-**<h1>Unit 1</h1>**
 
 ##**Daily Overview: Unit 1**
 
@@ -242,6 +241,6 @@
   </tr>
 </table>
 
-^ Data collection window begins.
+^Data collection window begins.
 
-+ Data collection window ends.
++Data collection window ends.

@@ -19,7 +19,7 @@ marginal (relative) frequency, joint (relative) frequency, conditional relative 
     100. Today is the last day to collect data for the *Time Use* campaign. You will be using the Campaigns Tool to view your survey responses. Click on **Campaigns** on your IDS Homepage, found at [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org") and sign in if prompted. Find the *Time Use* campaign and click on **Responses**.
 
 
-    Watch this video to learn how to use the Campaigns Tool:
+    Watch this video to learn how to use the Campaigns Tool.
 
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/G2r96VAkliw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -97,15 +97,15 @@ is important because we are only concerned with that subset of the group. Compar
     | Female| 12 | 15 | 10 | 37 |
     | Total| 19 | 26 | 15 | 60 |
 
-13. <strong style="color: red;">Ask 4 questions about the data in the table above that must be answered by a:</strong>
+13. In your IDS Journal, write down four questions about the data in the table above that must be answered by the following:
 
-    100. <strong style="color: red;">marginal frequency</strong>
+    100. <strong style="color: red;">a marginal frequency</strong>
 
-    100. <strong style="color: red;">marginal relative frequency</strong>
+    100. <strong style="color: red;">a marginal relative frequency</strong>
 
-    100. <strong style="color: red;">joint relative frequency</strong>
+    100. <strong style="color: red;">a joint relative frequency</strong>
 
-    100. <strong style="color: red;">conditional relative frequency (either by row or column)</strong>
+    100. <strong style="color: red;">a conditional relative frequency (either by row or column)</strong>
 
 
 ###**Reflection**

@@ -36,11 +36,11 @@ choose.
 
    
      <div align="center"><iframe src="https://drive.google.com/file/d/1KY6z50gTZNOXo2cE6buhLzHfU_Qai5rk/preview" width="640" height="480"></iframe><br></div>
+    `                                                                                                                                                                                               ``````````````````                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
 
+4. Select one of the Stick Figures and record all possible information about that Stick Figure.
 
-4. <strong style="color: red;">Select one of the Stick Figures and record all possible information about that Stick Figure.</strong>
-
-5. <strong style="color: red;">Organize the data from all 8 Stick Figures into a visual that you think represents the data.</strong>
+5. Organize the data from all 8 Stick Figures into a visual that you think represents the data.
 
 6. The images below are **representations** of the Stick Figures' data created by previous IDS students:<iframe src="https://drive.google.com/file/d/1ewr8UZ04CNXjKl7FEnpT_q3hu1ho6xy1/preview" width="640" height="480"></iframe></iframe>
 

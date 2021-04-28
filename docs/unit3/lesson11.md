@@ -1,11 +1,11 @@
 ##***<u>Lesson 11: The Gettysburg Address</u>***
 
-###**Objective:**
+###**Objective**
 Students will learn the definition of sampling bias and will learn that random samples reduce bias when
 estimating a population parameter. They will gain practice collecting a random sample from a small
 population and estimating the population parameter.
 
-###**Materials:**
+###**Materials**
 1. *Gettysburg Address* handout ([LMR_3.7_Gettysburg_Address](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.7_Gettysburg Address.pdf))
 
 2. *Sampling the Gettysburg Address* handout ([LMR_3.8_Sampling the Gettysburg Address](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.8_Sampling the Gettysburg Address.pdf))
@@ -25,17 +25,17 @@ population and estimating the population parameter.
     **<u>Note:</u>** This dotplot will be used again during [Lesson 13](lesson13.md), so the results need to be kept in some
     way (this can be either on poster paper or by simply taking a photo).
 
-###**Vocabulary:**
+###**Vocabulary**
 sampling bias
 
-###**Essential Concepts:**
+###**Essential Concepts**
 
-!!! note "Essential Concepts: "
+!!! note "Essential Concepts"
     Statistics vary from sample to sample. If the typical value across many samples is
     equal to the population parameter, the statistic is 'unbiased.' Bias means that we tend to “miss the mark.”
     If we don't do random sampling, we can get biased estimates.
 
-###**Lesson:**
+###**Lesson**
 1. Introduce the lesson by describing the Gettysburg Address:
 
     100. President Lincoln delivered the Gettysburg Address in November 1863.
@@ -203,9 +203,8 @@ based on the following questions:
     
     100. The above dotplot is an approximation to the actual sampling distribution.
     
-###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics of the
-day were.
+###**Reflection**
+<strong style="color: red;">What are the essential learnings you are taking away from this lesson?</strong> 
 
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
 Students should write a reflection about why random sampling is better at reducing bias than other

@@ -1,7 +1,7 @@
 ##***<u>Lab 1D - Zooming Through Data</u>***
-Directions: Follow along with the slides and answer the questions in **bold** font in your journal.
+Directions: Follow along with the slides and answer the questions in **bold** font in your IDS Journal.
 
-###**Data with Clarity**
+###**Data with clarity**
 * Previously, we've looked at graphs of entire variables (By looking at all of their values).
 
     – Doing this is helpful to get a *big picture* idea of our data.
@@ -45,15 +45,14 @@ dotPlots were stacked on top of one another.
 a similar syntax to add the ```layout``` option to the ```dotPlot``` function.
 
 ###**Subsetting**
-* Subsetting is a term we use to describe the process of looking at only the data that
-conforms to some set of rules:
+* Subsetting is a term we use to describe the process of looking at only the data that conforms to some set of rules:
 
     – Geologists may subset earthquake data by looking at only large earthquakes.
 
     – Stock market traders may subset their trading data by looking only at the previous
     day's trades.
 
-* There's *many* ways to subset data using RStudio, we'll focus on learning the most common
+* There are *many* ways to subset data using RStudio, we'll focus on learning the most common
 methods.
 
 ###**The filter function**
@@ -85,7 +84,7 @@ rule).
 
 * ```salty_sweet == "Salty"``` is the rule to follow.
 
-###**3 parts of defining rules**
+###**Three parts of defining rules**
 * We can decompose our rule, ```salty_sweet == "Salty"```, into 3 parts:
 
     (1) ```salty_sweet```, is the particular *variable* we want to use to select our subset.

@@ -1,21 +1,21 @@
 ##***<u>Lesson 14: How Confident Are You?</u>***
 
-###**Objective:**
+###**Objective**
 Students will learn about informal confidence intervals and estimates for the margin of error.
 
-###**Materials:**
+###**Materials**
 1. Dotplot titled “Mean Word Length, Random Sample, Size = 10” – from [Lesson 11](lesson11.md)
 
-###**Vocabulary:**
+###**Vocabulary**
 margin of error, bootstrapping
 
-###**Essential Concepts:**
+###**Essential Concepts**
 
-!!! note "Essential Concepts: "
+!!! note "Essential Concepts"
     The margin of error expresses our uncertainty in an estimate. The estimate, plus or
     minus the margin of error, gives us an interval in which we are very confident the true value lies.
 
-###**Lesson:**
+###**Lesson**
 1. In this lesson, students will learn about confidence intervals in more detail.
 
 2. Display the dotplot the class created during [Lesson 11](lesson11.md) (The Gettysburg Address) titled “Mean
@@ -112,9 +112,8 @@ be able to access 500,000 tweets, which is a very large sample. From this sample
 create smaller random samples of size 100 and make inferences about the overall population of
 tweets from these samples. This will be discussed further in [Lab 3D](lab3d.md).
 
-###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics of the
-day were.
+###**Reflection**
+<strong style="color: red;">What are the essential learnings you are taking away from this lesson?</strong> 
 
 ###<p style="background: black; color: white; text-align: center;">**Next Day**</p>
 [<u>***LAB 3D: Are You Sure about That?***</u>](lab3d.md)

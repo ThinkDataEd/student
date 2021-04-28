@@ -1,57 +1,45 @@
 ##***<u>Lesson 13: The Horror Movie Shuffle</u>***
 
-###**Objective:**
-You will understand that, just by chance, we will see differences between two groups. You will
-understand that these differences are usually small. Specifically, you will learn that we can determine if
-outcomes are due to chance for categorical variables by calculating differences in the percentages
-between two groups.
+###**Objective**
+You will understand that, just by chance, you can see differences between two groups, and that these differences are usually small. You will learn that by calculating differences in the percentages between two groups, you can determine if outcomes are due to chance for categorical variables.
 
-###**Materials:**
-1. Paper, pen/pencil, scissors
 
-###**Vocabulary:**
+###**Vocabulary**
 chance, simulations, randomness, shuffle
 
-###**Essential Concepts:**
+###**Essential Concepts**
 
-!!! note "Essential Concepts: " 
-    We can "shuffle" data based on categorical variables. The statistic we use is the
-    difference in percents. The distribution we form by shuffling represents what happens if chance were
-    the only factor at play. If the actual observed difference in percents is near the center of this shuffling
-    distribution, then we would conclude that chance is a good explanation for the difference. But if it is
-    extreme (in the tails or off the charts), then we should conclude that chance is NOT to blame. Sometimes,
-    the apparent difference between groups is caused by chance.
+!!! note "Lesson 13 Essential Concepts" 
+    You can "shuffle" data based on categorical variables and by using the difference in percents. The distribution formed by shuffling represents what happens if chance were the only factor at play. If the actual observed difference in percents is near the center of this shuffling distribution, then you could conclude that chance is a good explanation for the difference; but if it is extreme (in the tails or off the charts), then you should conclude that chance is NOT to blame. Sometimes the apparent difference between groups is caused by chance.
 
-###**Lesson:**
+###**Lesson**
 
 1. <u>**Stress/Chill Campaign Data Collection Monitoring:**</u>
     
-    Your teacher will be monitoring your class's data collection using the Campaign Monitoring Tool. Keep in mind that this tool will inform your teacher about whether or not you are collecting data.
+    Your teacher will be monitoring your class's data collection using the *Campaign Monitoring Tool*. Keep in mind that this tool will inform your teacher about whether or not you are collecting data.
 
-2.  The monitoring tool will allow your teacher to answer the following:
+2.  Through the *Campaign Monitoring Tool*, your teacher can track the following:
 
-    100. Who has collected the most data so far? 
+    100. Who has collected the most data so far.
 
-    100. How many active users are there? How many inactive users are there?
+    100. How many active and inactive users there are.
 
-    100. How many responses were submitted yesterday and today?
+    100. How many responses were submitted on any given day.
 
-    100. How many responses have been shared? How many remain private?
+    100. How many responses have been shared, and how many remain private.
 
-3. <strong style="color: red;">Quickwrite: In your DS journal, write down how you can be more accurate in your data 
-    collecting for the stress/chill campaign.<strong>
+3. Quickwrite: In your IDS Journal, write down how you can be more accurate in your data collecting for the *Stress/Chill* campaign.
 
-4. Recall what you have learned about **chance** (see [Lesson 8](lesson8.md)). <span style="color:grey">***Synonyms:
-possibility, prospect, expectation, unintentional, unplanned. The actual definition of
-chance is “a possibility of something happening.”***</span>
+4. Recall what you have learned about **chance** (see [Lesson 8](lesson8.md)). 
 
-5. Think back to the path you saw in [Lesson 9](lesson9.md) item #2 (chance → probability → simulations). We can use **simulations** to show that sometimes, when we think two groups are different, the
-difference is really just because of chance, or **randomness**, and does not mean anything.
 
-6. Remember that a simulation is a model for creating random outcomes. Randomness means
-that something just happens without a specific order.
+    <span style="color:grey">***Synonyms: possibility, prospect, expectation, unintentional, unplanned. The actual definition of chance is “a possibility of something happening.”***</span>
 
-7. Below are some examples in which two groups could be compared:
+5. Think back to the path you saw in [Lesson 9](lesson9.md) item #2 (chance → probability → simulations). You can use **simulations** to show that sometimes when you think two groups are different, the difference is really just because of chance, or **randomness**, and does not mean anything.
+
+6. Remember that a simulation is a model for creating random outcomes. Randomness means that something just happens without a specific order.
+
+7. Below are some examples for comparing two different groups:
 
     100. Men earn more money than women for some work.
 
@@ -61,60 +49,63 @@ that something just happens without a specific order.
 
     100. You and a friend flipped a coin 10 times, and you got more "heads."
 
-<strong style="color: red;">In your DS journal list other situations where two groups could be compared.</strong>  
+    In your IDS Journal, list other situations where two groups could be compared. 
 
-8. Sometimes differences between two groups are real, but sometimes they might just be due to chance. 
+8. Sometimes differences between two groups are real, but sometimes they might just be due to chance.  In your IDS Journal, state whether you think the differences are either real or due to chance for each of the situations in #7, and for the situations you came up with where two groups can be compared.
+   
+9. In this lesson, you will learn ways to tell the difference. Consider the following statement which offers a sample comparison: *Men earn more money than women for some work.*
 
-<strong style="color: red;">For each of the situations in #7 and the situations you came up with, state whether you think the differences are either real or due to chance.</strong> You will be learning ways to tell the difference. A sample response is provided below:
 
-    Example: Men earn more money than women for some work.
+    <strong style="color: red;">Write down whether you think this statement is real, or if it is due to chance.</strong>
 
-    <span style="color:grey">***I think this is real espcecially in jobs where there is physical labor involved. I would guess that male construction workers make more than female construction workers because their boss might feel that male construction workers exert themselves more physically.***
 
-9. In this lesson we are interested in finding out who will survive by the end of a horror movie. Think about the following question:
+    One possible response: <span style="color:grey">***I think this is real, especially in jobs where there is physical labor involved. I would guess that male construction workers make more than female construction workers because their boss might feel that male construction workers exert themselves more physically.***
 
-    * Do you think men and women have an equal likelihood of surviving by the end of a horror movie?
 
-10. <strong style="color: red;">In your DS Journal write down your thoughts on the question above.</strong>
+10. In your IDS Journal, write down your thoughts about the following question:
 
-11. Today you will be pretending to be the producer of a horror movie.
+    <strong style="color: red;">Do you think men and women have an equal likelihood of surviving by the end of a horror movie?</strong>
 
-12. As a producer you obtained data from 50 horror movies (sometimes called slasher films). There were a total of 485 characters in these 50 films. For each character, 2 variables were recorded: Gender and Survival.
-The values for Gender were “Male” and “Female.” The values for Survival were “Dies” and
-“Survives.”
+11. Today you will be pretending to be the producer of a horror movie. As a producer, you obtained data from 50 horror movies (sometimes called "slasher" films). There are a total of 485 characters in these 50 films. Two variables were recorded for each character: <strong style="color: purple;">Gender</strong> and <strong style="color: purple;">Survival</strong>. The values for <strong style="color: purple;">Gender</strong> were “Male” and “Female.” The values for <strong style="color: purple;">Survival</strong> were “Dies” and “Survives.”
 
-13. From this data, a few summary statistics were calculated. The percent of total survivors was calculated by dividing the total number of survivors by the total number of characters using the following code: tally(~survived, data=slasher, type="percent"). Only 18% of all characters survived in these slasher films! The percent of survivors was calculated for each gender. In other words, for all
-female characters, the number of female survivors was divided by the total number of females.
-Similarly, for all male characters, the number of male survivors was divided by the total number of
-males.
+12. From this data, a few summary statistics were calculated. The percent of total survivors was calculated by dividing the total number of survivors by the total number of characters using the following code: 
+
+
+    **>tally(~survival,data=slasher,format="percent")**
+
+
+    Only 18% of all characters survived in these slasher films! The percent of survivors was calculated for each gender. In other words, for all female characters, the number of female survivors was divided by the total number of females. Similarly, for all male characters, the number of male survivors was divided by the total number of males.
+
 
     <center><img src="https://latex.codecogs.com/gif.latex?\frac{\&hash;(''&space;Female&space;''&space;\&''&space;Survives&space;'')}{\&hash;(''&space;Female&space;'')}\&space;\&space;\&space;or\&space;\&space;\&space;\frac{\&hash;(''&space;Male&space;''&space;\&''&space;Survives&space;'')}{\&hash;(''&space;Male&space;'')}" title="\frac{\#('' Female '' \&'' Survives '')}{\#('' Female '')}\ \ \ or\ \ \ \frac{\#('' Male '' \&'' Survives '')}{\#('' Male '')}" /></center>
 
-14. The percent of females who survived by the end of a horror movie was about **23%**, and the
-percent of males who survived by the end of a horror movie was about **13%**. Ask the students:
 
-    100. Is this what you expected? (Refer back to the discussion from Step 9.) <span style="color:grey">***Answers will
-    vary by class. If students thought males would survive more often, then these
-    results would be unexpected. If students thought females would survive more
-    often, then these results would be exactly what they expected. If students thought
-    there was an equal likelihood of survival, these results would also be surprising.***</span>
+13. By the end of a horror movie about **23%** of females survived, and about **13%** of males survived.
+
+    100. <strong style="color: red;">Is this what you expected?</strong>
     
-    100. What is the difference in the proportions of survival rates between genders? What does
-    this mean in the context of surviving a horror movie? <span style="color:grey">***The difference is 23% - 13% =
-    10%. This means that 10% more women characters survived than men.***</span>
     
-    100. Is this difference “big” or “small”? How can they define what is “big” and what is “small?”
-    <span style="color:grey">***Answers will vary by class. Upon first glance, it may seem like 10% a big difference,
-    but we do not know for sure.***</span>
+        <span style="color:grey">***If you thought males would survive more often, then these results would be unexpected. If you thought females would survive more often, then these results would be expected. If you thought there was an equal likelihood of survival, these results would also be surprising.***</span>
+    
+    100. <strong style="color: red;">What is the difference in the proportions of survival rates between genders? What does
+    this mean in the context of surviving a horror movie?</strong> 
+    
+    
+        <span style="color:grey">***The difference is 23% - 13% = 10%. This means that 10% more women characters survived than men.***</span>
+    
+    100. <strong style="color: red;">Is this difference “big” or “small”? Can you define what is a “big” difference and what is “small difference?”</strong> 
+    
+    
+        <span style="color:grey">***Upon first glance, it may seem like 10% is a big difference, but we do not know for sure.***</span>
 
-15. Explain that they will participate in an activity to determine if the 10% difference seen in the actual
-data set is big or small. This will help them determine if there really is a difference in survival rates
-for males versus females, or if the 10% difference was just due to chance.
 
-16. Split the class into two groups, by gender. Females can stand on one side of the classroom and
-males can stand on the opposite side. Once those groups have been created, have the class
-calculate the number of students in each group that would have survived a horror film using the
-actual proportions given in Step 14.
+14. You will now participate in an activity to determine if the 10% difference seen in the actual data set is big or small. This will help you determine if there really is a difference in horror movie survival rates for males versus females, or if the 10% difference was just due to chance.
+
+
+    <strong style="color: blue;">Revise activity in steps 15-24.</strong> 
+
+
+15. Split the class into two groups, by gender. Females can stand on one side of the classroom and males can stand on the opposite side. Once those groups have been created, have the class calculate the number of students in each group that would have survived a horror film using the actual proportions given in Step 14.
 
     <span style="color:grey"><u>***For example:***</u></span>
 
@@ -124,8 +115,7 @@ actual proportions given in Step 14.
     <span style="color:grey">***If 15 male students are in the class, then 13% of 15 = 0.13\*(15) = 1.95 people. So, 2
     of the males will be survivors.***</span>
 
-17. Each group should then decide which students will be survivors. Using the 3” x 5” cards, students
-should write either “dies” or “survives” on their card.
+16. Each group should then decide which students will be survivors. Using the 3” x 5” cards, students should write either “dies” or “survives” on their card.
 
     <span style="color:grey">***<u>For example</u> (continued from above):***</span>
 
@@ -136,90 +126,86 @@ should write either “dies” or “survives” on their card.
     <span style="color:grey">***2 of the males are survivors; so 2 males from the group should write “survives” on
     their 3” x 5” card. The rest of the group should write “dies on their card.***</span>
 
-18. Explain to students that *IF* there really is no difference between genders in horror films, then the
-characters who survived would only have done so by chance. In other words, males and females
-would have an equal likelihood of surviving. Have students discuss the following questions:
+17. *IF* there really is no difference between genders in horror films, then the characters who survived would only have done so by chance. In other words, males and females would have an equal likelihood of surviving. In your IDS Journal, write your answers to the following questions:
 
-    100. How many total people in our class are survivors? What is the total proportion of
-    survivors? <span style="color:grey">***Answers will vary by class. Using the example above, there would be a
-    total of 7 survivors from the class of 35 students. The proportion of survivors
-    would be 7/35 = 0.20 = 20%.***</span>
+    100. <strong style="color: red;">How many total people in our class are survivors? What is the total proportion of
+    survivors?</strong>  
+    
+    
+        <span style="color:grey">***Using the example above, there would be a total of 7 survivors from the class of 35 students. The proportion of survivors would be 7/35 = 0.20 = 20%.***</span>
 
-    100. How many of the survivors would we expect to be male? How many would we expect to
-    be female? <span style="color:grey">***Answers will vary by class. Using the example above, we would expect
-    to see 20% of males and 20% of females survive since that was the overall
-    proportion of survivors. So, we would expect 0.20\*15 = 3 male survivors, and
-    0.20\*20 = 4 female survivors.***</span>
 
-19. Collect all of the 3” x 5” cards from the students and explain that you are going to **shuffle** the
-cards and redistribute them so that their genders have no influence on whether or not they
-survive the horror movie.
+    100. <strong style="color: red;">How many of the survivors would you expect to be male? How many would you expect to
+    be female?</strong>  
+    
+    
+        <span style="color:grey">***Using the example above, you could expect to see 20% of males and 20% of females survive, since that was the overall proportion of survivors. So we would expect 0.20\*15 = 3 male survivors, and 0.20\*20 = 4 female survivors.***</span>
 
-20. Visibly shuffle the survives/dies cards to create a random shuffle. Once the cards have been well-shuffled,
-pass them back out to the students face down. After all the cards are given out, each
-group should identify the number of people that are survivors and calculate the corresponding
-proportion of the survivors.
 
-21. On the board, create a table to display the proportions of survivors for each gender, and include a
-column for the difference (female survivors – male survivors). Fill in the table with the values the
-students found in Step 20. **<u>Note:</u>** The first row has been filled in with the example data from
-above BEFORE the shuffles have taken place. Exact numbers were not used so that the
-proportions would match the actual horror movie data set.
+18. Collect all of the 3” x 5” cards from the students and explain that you are going to **shuffle** the cards and redistribute them so that their genders have no influence on whether or not they survive the horror movie.19. Visibly shuffle the survives/dies cards to create a random shuffle. Once the cards have been well-shuffled, pass them back out to the students face down. After all the cards are given out, each group should identify the number of people that are survivors and calculate the corresponding proportion of the survivors.
+
+19. On the board, create a table to display the proportions of survivors for each gender, and include a column for the difference (female survivors – male survivors). Fill in the table with the values the students found in Step 20. 
+
+    **Note:** The first row has been filled in with the example data from above BEFORE the shuffles have taken place. Exact numbers were not used so that the proportions would match the actual horror movie data set.
+
 
     | **# of Female Survivors** | **# of Male Survivors** | **Proportion of Female Survivors** | **Proportion of Male Survivors** | **Difference in Proportions (Female – Male)** |
     |-----------------------|---------------------|--------------------------------|------------------------------|-------------------------------------------|
     | 4.6 | 1.95 | 4.6/20 = 0.23 | 1.95/15 = 0.13 | 0.23 – 0.13 = 0.10 |
     | ? |  |  |  |  |
 
-22. Note that values in the “Difference in Proportions” column can be positive or negative because
+20. Note that values in the “Difference in Proportions” column can be positive or negative because
 sometimes more women will survive, and other times more men will survive.
 
-23. Draw a dotplot on the board labeled “Difference in Proportions.” Include a vertical line at 10% to
-represent the actual difference in gender survival rates in real horror movies (see example below).
+21. Draw a dotplot on the board labeled “Difference in Proportions.” Include a vertical line at 10% to represent the actual difference in gender survival rates in real horror movies (see example below).
+
 
     <img src="../../img/21323.png" />
 
-24. Using the information from Steps 20 and 21, place a dot at the corresponding value for the
-shuffled data’s difference in proportions. Ask the students:
 
-    100. How does this difference compare to the actual data set’s difference of 10%? <span style="color:grey">***Answers
-    will vary by class. Most likely, the difference in proportions will be much smaller
-    than 10%. In fact, the difference in proportions will be centered around 0.***</span>
+22. Using the information from Steps 21 and 22, place a dot at the corresponding value for the shuffled data’s difference in proportions, then answer the following question in your IDS Journal:
 
-25. Repeat Steps 19 – 24 a few more times (depending on how much class time you have available).
-
-26. Ask the students to record their responses to the following questions:
+    <strong style="color: red;">How does this difference compare to the actual data set’s difference of 10%?</strong>  
     
-    100. What was the biggest difference we saw from our shuffles? What was the smallest?
-    <span style="color:grey">***Answers will vary by class.***</span>
     
-    100. What do you think this dotplot would look like if we shuffled our survival cards 1000
-    times? <span style="color:grey">***The dotplot would look roughly symmetric and centered around 0, meaning
-    that if there were no relationship between a character’s gender and whether or not
-    they survive, the difference in proportions would typically be 0.***</span>
+    <span style="color:grey">***Most likely, the difference in proportions will be much smaller than 10%. In fact, the difference in proportions will be centered around 0.***</span>
 
-27. Have a discussion about how the actual difference in gender survival (10%) is rarely seen when
-we assign “survives” or “dies” just by chance (aka when shuffling). What does this mean in terms
-of who will die in actual horror movies? <span style="color:grey">***Since we never (or rarely) saw a 10% difference in the
-proportions of female survivors versus male survivors, it seems that horror movies
-actually favor female survivors.***</span>
 
-28. Ask the students:
+23. Repeat Steps 19 – 24 a few more times, then answer the following questions in your IDS Journal:
+    
+    100. <strong style="color: red;">What was the biggest difference we saw from our shuffles? What was the smallest?</strong>
+    
+    
+        <span style="color:grey">***Answers will vary by class.***</span>
+    
 
-    100. If you were going to be cast in a horror movie, would you want to be male or female? <span style="color:grey">***You
-    would want to be a female character because they are more likely to survive by the
-    end of the film.***</span>
+    100. <strong style="color: red;">What do you think this dotplot would look like if you shuffled your survival cards 1000
+    times?</strong> 
+    
+    
+        <span style="color:grey">***The dotplot would look roughly symmetric and centered around 0, meaning that if there were no relationship between a character’s gender and whether or not they survive, the difference in proportions would typically be 0.***</span>
 
-29. Inform the students that they will learn how to shuffle in RStudio in order to determine if an event
-is real or simply due to chance.
+24. The actual difference in gender survival (10%) is rarely seen when you assign “survives” or “dies” just by chance (aka when shuffling). 
 
-###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics of the
-day were.
+    <strong style="color: red;">What does this mean in terms of who will die in actual horror movies?</strong>  
+    
+    
+    <span style="color:grey">***Since you never (or rarely) saw a 10% difference in the proportions of female survivors versus male survivors, it seems that horror movies actually favor female survivors.***</span>
+
+25. <strong style="color: red;">If you were going to be cast in a horror movie, would you want to be male or female?</strong>  
+
+
+    <span style="color:grey">***You would want to be a female character because they are more likely to survive by the end of the film.***</span>
+
+26. In the next lesson, you will learn how to shuffle in RStudio in order to determine if an event is real or simply due to chance.
+
+
+###**Reflection**
+<strong style="color: red;">What are the essential learnings you are taking away from this lesson?</strong> 
+
 
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
-For the next 5 days, students will collect data for the *Stress/Chill* campaign either through the UCLA [IDS
-UCLA](../download/app.md) App or via web browser at [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org")
+For the next 5 days you will collect data for the *Stress/Chill* campaign either through the UCLA [IDS UCLA](../download/app.md) App or via web browser at [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org")
 
 [<u>***LAB 2E: The Horror Movie Shuffle***</u>](lab2e.md)
 

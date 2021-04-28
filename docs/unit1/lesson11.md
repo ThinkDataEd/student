@@ -60,8 +60,7 @@ vertical axis represents how many observations are in each bar.
     <iframe src="https://drive.google.com/file/d/11-3NawrSHrV7hxPqx4SbzG18f2XeYFZB/preview" width="640" height="480"></iframe>
 
 
-8. <strong style="color: red;">Now read the following scenarios and try to determine what a corresponding
-histogram might look like. You should use statistical terms to describe your answer and provide a justification.</strong>
+8. Read the following scenarios and try to determine what a corresponding histogram might look like. In your IDS Journal, use statistical terms to describe your answer and provide a justification.</strong>
 
     100. <strong style="color: red;">The grades on a difficult test.</strong>
 
@@ -81,5 +80,4 @@ histogram might look like. You should use statistical terms to describe your ans
 
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Continue to collect nutritional facts data using the *Food Habits* Participatory Sensing
-campaign on your smart device or via web browser.
+Continue to collect nutritional facts data using the *Food Habits* Participatory Sensing campaign on your smart device or via web browser.

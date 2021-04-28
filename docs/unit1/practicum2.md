@@ -7,10 +7,10 @@ analyze and interpret the data. You will present your findings to your team the 
 
 ###**Materials**
 
-1. *Teen Depression Practicum* ([LMR_U1_Practicum_Depression](https://drive.google.com/file/d/1zXMXkEgixvJqwFBOEnuxwJrc5-2zUDO7/view?usp=sharing))
+1. *Teen Depression Practicum* ([LMR_U1_Practicum_Depression](https://ucla.box.com/s/hdy6kbj1adxp1cjc8iwr4apmrpgxombk)). <strong style="color: black;"> Click on the document name to download a fillable copy.</strong>
 
-2. *Depression Fact Sheet* ([LMR_U1_Practicum_Depression_Fact Sheet](https://drive.google.com/file/d/1ws6_HILJUZ96-GdFkZIlF6ryNVNhkAiM/view?usp=sharing))
-
+2. *Depression Fact Sheet* ([LMR_U1_Practicum_Depression_Fact Sheet](https://ucla.box.com/s/xt4n21qn74o89brv5zlde8j1t42qyu76)). <strong style="color: black;"> Click on the document name to download a fillable copy.</strong>
+    
 3. Poster paper
 
 4. Markers

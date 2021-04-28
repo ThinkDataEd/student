@@ -28,8 +28,7 @@ campaign.
 2. Your teacher will distribute your username and password. Make sure to not share this information with anyone else. You will need this username and password when you are ready to download the [IDS UCLA
 app](../download/app.md).
 
-3. Think about the Nutrition Facts labels from which you collected data in the
-previous lesson, and answer the following in your IDS Journal:
+3. Think about the Nutrition Facts labels from which you collected data in the previous lesson, then answer the following questions:
 
     100. <strong style="color: red;"> What questions would you want answered about eating habits? </strong>
 
@@ -63,10 +62,10 @@ collection experience in which you will collect your own data using a smart devi
 
     100. **iOS (Apple devices):** The mobile application called “[IDS UCLA](https://itunes.apple.com/us/app/ids-ucla/id1422869521)” is available from the iOS App Store.
 
-    100. **Browser-based version:** If you do not have a mobile device (or if you're using an unsupported device like a Windows phone or Blackberry), a browser-based version to perform data collection is available at [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org")<br>
-    Click on the **Survey Taking icon** on the page.
+    100. **Browser-based version:** If you do not have a mobile device (or if you're using an unsupported device like a Windows phone or Blackberry), a browser-based version is available on your server. To find your server and begin data collection, go to:<br> [https://idsucla.org/ids-servers](https://www.idsucla.org/ids-servers "https://www.idsucla.org/ids-servers").
 
-    The video below provides a detailed explanation of how to download and use the IDSUCLA app to take a survey. Your teacher will tell you which server you will be using.
+
+    The video below provides a detailed explanation of how to download and use the IDS UCLA app to take a survey. Your teacher will tell you which server you will be using.
     
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/GbR22R32mhU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -83,8 +82,8 @@ which you will participate. Your teacher will give you the name of the campaign 
 13. Using one of your nutrition facts cutouts or pictures, complete your first survey by
 going through the questions in the app.
 
-14. <strong style="color: red;"> After you've had the opportunity to complete at least one survey, write the
-meaning of the word **"ethics"** in your IDS Journal. </strong> 
+14. After you've had the opportunity to complete at least one survey, write the
+meaning of the word **"ethics"** in your IDS Journal.
 
     For this course, you will need to understand **photo ethics**. You
 may NOT take pictures of any person’s identifying features such as face, hair, hands, tattoos,
@@ -114,5 +113,4 @@ submitting surveys regularly.
 
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-For the next 9 days, you will collect nutritional facts data using the *Food Habits* Participatory
-Sensing campaign on your smart device or via web browser.
+For the next 9 days, you will collect nutritional facts data using the *Food Habits* Participatory Sensing campaign on your smart device or via web browser.

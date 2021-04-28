@@ -1,173 +1,140 @@
 ##***<u>Lesson 11: This AND/OR That</u>***
 
-###**Objective:**
-Students will understand how AND/OR probabilities are defined and will be able to use frequency tables
+###**Objective**
+You will understand how AND/OR probabilities are defined, and you will be able to use frequency tables
 to compute these probabilities.
 
-###**Materials:**
-1. *Compound Probabilities* handout ([LMR_2.13_Compound Probabilities](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.13_Compound Probabilities.pdf))
 
-2. Blue sticky notes
-
-3. Gold sticky notes
-
-4. Four signs on the board labeled: *Pickles, Mayonnaise, Both, None* (in that exact order, and
-equally spaced across the length of the board)
-
-###**Vocabulary:**
+###**Vocabulary**
 compound probabilities
 
-###**Essential Concepts:**
+###**Essential Concepts**
 
-!!! note "Essential Concepts: "
-    What does "A or B" mean versus "A and B" mean? These are compound events
-    and two-way tables can be used to calculate probabilities for them.
+!!! note "Lesson 11 Essential Concepts"
+    What does "A *or* B" versus "A *and* B" mean? These are compound events, and two-way tables can be used to calculate probabilities for them.
     
-###**Lesson:**
-1. Remind the students that they have been learning about estimating probabilities of single events
-based on sample proportions. Inform them that, today, they will learn how to calculate proportions
-when multiple events happen.
+###**Lesson**
+1. You have been learning about estimating probabilities of single events based on sample proportions. Today you will learn how to calculate proportions when multiple events happen.
 
-2. Review the basic idea of computing probabilities; in other words, the number of outcomes we are
-interested in divided by the total number of outcomes possible.
+2. Remember that to compute probabilities, we divide the total number of outcomes we are
+interested in by the total number of outcomes possible.
 
-3. Pose the questions below to the class.
+3. Answer the following questions in your IDS Journal:
 
-    **<u>Note:</u>** They do not need to come up with specific answers; this is a time for them to make
-    suggestions.
     
-    100. How would we compute the probability of two outcomes occurring at the same time? For
-    example, what is the probability that a randomly chosen student likes both pickles AND
-    mayonnaise?
+    100. How would we compute the probability of two outcomes occurring at the same time? For example, in your IDS class, what is the probability that a randomly chosen student likes both pickles AND mayonnaise?
 
     100. How would we compute the probability of either of two outcomes occurring? For example,
     what is the probability that a randomly chosen student likes either pickles OR
     mayonnaise?
 
-4. For both questions, steer the students towards using the definition from Step 2. That is, we want
-the students to realize that they can count the number of people that qualify for the given
-circumstance and divide by the total number of people to calculate a probability.
+4. Recall that when you calculate the probability of a single event, like a coin toss, the result is a proportion of the number of outcomes of interest divided by the total number of outcomes.
 
-5. In order to define AND/OR probabilities, students will participate in an activity where they are
-grouped by their food preferences.
 
-6. Divide the board into 4 groups and write the words “Pickles,” “Both,” “Mayonnaise,” and “None,” in
-that order, from left to right.
+    ***P(E) = # of outcomes of interest/ # of possible or total outcomes***
 
-7. Ask for 10 volunteers to stand by the word that represents their preferences. That is, if they only
-like pickles, they should stand by the word “Pickles.” If they like both pickles and mayonnaise,
-they should stand by the word “Both.”
 
-    **<u>Note:</u>** If all 4 groups do not have at least one student in them, select a few more students to stand
-    at the board.
+5. Next, you will learn how to calculate the probability of multiple events, which we call AND/OR. To do this, you will survey at least 10 people (you may survey more) and keep track of their food preferences.
 
-8. Ask the remaining students (those still seated) to count the total number of people standing by
-the board and have a student volunteer share the answer with the class. <span style="color:grey">***Answers will vary by
-class.***</span>
+6. In your IDS Journal, make a table with 4 columns as shown in the picture below. 
 
-9. Next, create a 2-way frequency table like the one below to organize the values of student
-preferences as follows:
 
-    * Counts for students who like both go in the Yes/Like Mayonnaise and Yes/Like Pickles box.
+    <iframe src="https://drive.google.com/file/d/1VNrkpXVw5VfjlwOGmfnYFK6rw2bKEjOj/preview" width="640" height="480"></iframe>
 
-    * Counts for students who like none go in the No/Like Mayonnaise and No/Like Pickles box
 
-    * Counts for students who like only mayonnaise go in the Yes/Like Mayonnaise and No/Like
-    Pickles box.
+7. You will use this table to keep track of the food preferences of the people you survey. Next, you will ask each person whether that person like pickles, mayonnaise, both, or none. You'll then record each person's answer in the appropriate column that represents their preference. For example, if Joe chooses pickles, then write Joe's name in the *Pickles* column. If Maria likes pickles and mayonnaise, then write Maria's name under both. The same applies to the other two choices. 
 
-    * Counts for students who like only pickles go in the No/Like Mayonnaise and Yes/Like Pickles
+
+    **Note:** If after you've finished surveying everyone you don't have at least one name in each column, write your name in the column that is blank. Now you will have at least one person in each column.
+
+8. Under your completed table, record the total number of people you surveyed. In other words, how many names are recorded in your table?
+
+
+9. Refer to your table for the items below and record any calculations or numbers in your IDS Journal.
+
+    100. To find out how many people like BOTH pickles and mayonnaise, locate the *BOTH* column and count the number of people in it. Write down this number.
+    
+    100. To calculate the probability that a randomly selected person from your survey likes BOTH pickles and mayonnaise, divide the number of people who like BOTH by the total number of people you surveyed.
+
+         ***P(BOTH) = number of people under "Both"/ total number of people***
+
+10. Again, refer to your table for the items below and record any responses in your IDS Journal.
+
+    100. How many people from your survey like pickles? What do you think is the answer?
+
+    100. If the count for your answer in (a.) only included the number of people in the *Pickles* column, that is INCORRECT because people who like BOTH also belong to the group of people who like pickles.
+
+    100. How would you calculate the probability that a randomly selected person from your survey likes pickles?   
+
+    100. If you concluded that the probability would be the number of people under *Pickles* plus the number of people under *Both* divided by the total number of people surveyed, you are correct.
+
+         ***P(pickles) = (number of people under "Pickles") + (number of people under "Both") / total number of people surveyed***
+
+11. Refer to your table for the items below one last time and record any responses in your IDS Journal.
+
+    100. How many people from your survey like pickles OR mayonnaise? What do you think is the answer?
+    
+    100.  If the count for your answer in (a.) only included the number of people in the *Pickles* and the *Mayonnaise* column, that is INCORRECT because people who like BOTH also belong to the group of people that like pickles OR mayonnaise.
+
+    100. How would you calculate the probability that a randomly selected person from your survey likes pickles OR mayonnaise?   
+
+    100. If you concluded that the probability would be calculated as the number of people under *Pickles* plus the number of people under *Mayonnaise* plus the number of people under *Both* divided by the total number of people surveyed, you are correct.
+
+        ***P(pickles) = (number of people under "Pickles") + (number of people under "Mayonnaise") + (number of people under "Both") / total number of people surveyed***
+
+12. AND/OR probabilities are called **compound probabilities**. In your IDS Journal, record your own definition of AND/OR probabilities based on the activity you just completed. 
+
+    Sample definition: <span style="color:grey">***A compound probability is the probability of some combination of events occurring.***</span>
+
+13. Now you will create a 2-way frequency table like the one below to organize the number of people according to their preferences. Make sure you include the totals in the margins (edges) horizontally and vertically. You should complete the table as follows:
+
+
+    * Number of people who like both go in the *Yes/Like Mayonnaise* and *Yes/Like Pickles* box.
+
+    * Number of people who like none go in the *No/Like Mayonnaise* and *No/Like Pickles* box.
+
+    * Number of people who like only mayonnaise go in the *Yes/Like Mayonnaise* and *No/Like
+    Pickles* box.
+
+    * Number of people who like only pickles go in the *No/Like Mayonnaise* and *Yes/Like Pickles*
     box.
 
-    **Note:** A Venn diagram like the one below may be used as well, depending on student
-    understanding and at teacher discretion.
 
-    <img src="../../img/21109.png" />
+    <iframe src="https://drive.google.com/file/d/1D0xukayXACyl9B1JOLDNu1MOeO5Ctb24/preview" width="640" height="480"></iframe>
 
-10. Next, ask the students sitting down the following questions:
+14. Instructions: In the handout below, you will complete a table that will contain information about the ice cream preferences of students in an IDS class. To complete it, follow the instructions in items # 15-19. Then answer the questions in the handout by refering back to the table.
 
-    100. How many students like both pickles AND mayonnaise? <span style="color:grey">***Answers will vary by class.***</span>
+    <strong style="color: black;">Click on the document name to download a fillable copy of the [*Compound Probabilities* handout (LMR_2.13)](https://ucla.box.com/s/x4sh0s41cop4jbj1q024b3kx17u9mdbz)</strong>.
 
-    100. What is the probability that a randomly selected student at the board likes both pickles
-    AND mayonnaise? <span style="color:grey">***Answers will vary by class. The probability should be calculated
-    by dividing the number of people who are standing under “Both” (number given in
-    Step 9(a)) by the number of students at the board (number given in Step 8).***</span>
 
-    <center><img src="https://latex.codecogs.com/gif.latex?\frac{\&hash;students\&space;under\&space;''&space;Both&space;''}{\&hash;students\&space;standing\&space;at\&space;the\&space;board}" title="\frac{\#students\ under\ '' Both ''}{\#students\ standing\ at\ the\ board}" /></center>
+    <iframe src="https://app.box.com/embed/s/x4sh0s41cop4jbj1q024b3kx17u9mdbz?sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
-11. Now, ask a student from the audience:
 
-    100. How many students like pickles? <span style="color:grey">***Answers will vary by class.***</span>
+15. The students in an IDS class received sticky notes to write down which ice cream flavor each preferred. Females received a blue sticky note and males received a gold sticky note.
 
-        **<u>Note:</u>** Avoid phrasing the question with “Students that like ONLY pickles.” Students need
-        to see that students who like “Both” items also belong to the groups liking the individual
-        items.
+16. On their sticky note, each student indicated their ice cream flavor preference: vanilla, chocolate, or rocky road. 
 
-        If students mistakenly report the number of students who like ONLY pickles, ask the
-        people at the board to raise their hands if they like pickles and then ask the mistaken
-        student to recount.
+17. When the teacher asked females to hold up their sticky notes, she counted 24. On the table in handout, find the box under the *TOTAL* column to record the number of females.
 
-    100. What is the probability that a randomly selected student at the board likes pickles?
-    <span style="color:grey">***Answers will vary by class. The probability should be calculated by dividing the
-    number of people who are standing under “Pickles” and “Both” by the total
-    number of students at the board.***</span><br>
-    <center><img src="https://latex.codecogs.com/gif.latex?\frac{(\&hash;students\&space;under\&space;''&space;Pickles&space;'')&plus;(\&hash;students\&space;under\&space;''&space;Both&space;'')}{\&hash;students\&space;standing\&space;at\&space;the\&space;board}" title="\frac{(\#students\ under\ '' Pickles '')+(\#students\ under\ '' Both '')}{\#students\ standing\ at\ the\ board}" /></center>
+18. When the teacher asked males to hold up their sticky notes, she counted 18. On the table in handout, find the box under the *TOTAL* column to record the number of males.
 
-12. Finally, ask one more student from the audience:
+19. Complete the rest of the table in the handout using the information below:
 
-    100. How many students like pickles OR mayonnaise? <span style="color:grey">***Answers will vary by class.***</span>
-    
-        **<u>Note:</u>** Avoid phrasing the question with “Students that like ONLY pickles OR ONLY
-        mayonnaise.”
+    100. The number of females that like rocky road is 2 and the number that like vanilla is 8.
 
-        If students mistakenly report the number of students who like ONLY pickles plus the
-        students who like ONLY mayonnaise, ask the people at the board to raise their hands if
-        they like either pickles or mayonnaise (All students at the board should raise their hand
-        except for the students who like “None”) and then ask the mistaken student to recount.
-    
-    100. What is the probability that a randomly selected student at the board likes pickles OR
-    mayonnaise? <span style="color:grey">***Answers will vary by class. The probability should be calculated by
-    dividing the number of people who are standing under “Pickles,” “Mayonnaise,”
-    and “Both” by the total number of students at the board.***</span><br>
-    <center><img src="https://latex.codecogs.com/gif.latex?\frac{(\&hash;students\&space;under\&space;''&space;Pickles&space;'')&plus;(\&hash;students\&space;under\&space;''&space;Mayonnaise&space;'')&plus;(\&hash;students\&space;under\&space;''&space;Both&space;'')}{\&hash;students\&space;standing\&space;at\&space;the\&space;board}" title="\frac{(\#students\ under\ '' Pickles '')+(\#students\ under\ '' Mayonnaise '')+(\#students\ under\ '' Both '')}{\#students\ standing\ at\ the\ board}" /></center>
+    100. The number of males that like chocolate is 4 and the number that like vanilla is 5.
 
-13. Informs students that AND/OR probabilities are called **compound probabilities**. In teams, have
-students record their own definitions of AND/OR probabilities based on the activity they just
-completed. <span style="color:grey">***A compound probability is the probability of some combination of events
-occurring.***</span>
+    100. Make sure the numbers across (rows) for each flavor match the totals for each gender.
 
-14. Distribute the *Compound Probabilities* handout ([LMR_2.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.13_Compound Probabilities.pdf)).
-<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.13_Compound Probabilities.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.13_Compound Probabilities.pdf)</div>
+20. Wow that the table is complete, answer the questions on the *Compound Probabilities* handout (LMR_2.13).  Remember to use what you learned from the food preferences activity to help you calculate compound probabilities.
 
-15. Pass out a blue sticky note to each female student and a gold sticky note to each male student.
 
-16. Draw the table from the worksheet on the board (make it large and legible).
+###**Reflection**
+<strong style="color:red;"> What are the essential learnings you are taking away from this lesson?</strong>
 
-17. Have each female student hold up their sticky note. Count them and record the number of
-females in the appropriate row of the TOTAL column in the table.
-
-18. Have each male student hold up their sticky note. Count them and record the number of females
-in the appropriate row of the TOTAL column in the table.
-
-19. Ask each student which of the following ice cream flavors they most prefer (each student must
-choose exactly one option): Vanilla, Chocolate or Rocky Road.
-
-    100. Have the students write their ice cream preference on their sticky note.
-
-    100. Fill out the remainder of the table by asking each gender to hold up their preference.
-
-    100. Make sure the totals for preferred ice cream flavors and genders add up to the same
-    number.
-
-20. Instruct the students to work in pairs to answer the questions on the *Compound Probabilities*
-handout ([LMR_2.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.13_Compound Probabilities.pdf)).
-
-###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics of the
-day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
-If not completed in class, students should finish the *Compound Probabilities* handout ([LMR_2.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.13_Compound Probabilities.pdf)).
+Finish the *Compound Probabilities* handout.
 
-[<u>***LAB 2D: Queue It Up!***</u>](lab2d.md)
 
-Complete [Lab 2D](lab2d.md) prior to the [Practicum](practicum2.md).
+Complete [<u>***LAB 2D: Queue It Up!***</u>](lab2d.md) prior to the [Practicum](practicum2.md).

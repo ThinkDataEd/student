@@ -2,7 +2,6 @@
 
 ![IDS-logo](../img/IDS-logo.png)
 
-**<h1>Unit 2</h1>**
 
 ##**Daily Overview: Unit 2**
 
@@ -65,7 +64,7 @@
   </tr>
   <tr>
     <td class="tg-5e9r">6</td>
-    <td class="tg-pwj7"><a href="../../unit2/lesson5">Lesson 5: Human Boxplots</a></td>
+    <td class="tg-pwj7"><a href="../../unit2/lesson5">Lesson 5: Container Boxplots</a></td>
     <td class="tg-pwj7"></td>
     <td class="tg-pwj7">Boxplots, IQR</td>
     <td class="tg-5e9r"><a href="../../unit2/lesson5">134</a></td>
@@ -215,7 +214,7 @@
   </tr>
   <tr>
     <td class="tg-uys7">27</td>
-    <td class="tg-xldj"><a href="../../unit2/lesson17">Lesson 17: Normal Measure of Spread</a></td>
+    <td class="tg-xldj"><a href="../../unit2/lesson17">Lesson 17: A Normal Measure of Spread</a></td>
     <td class="tg-xldj"></td>
     <td class="tg-xldj">Measures of spread - SD</td>
     <td class="tg-uys7"><a href="../../unit2/lesson17">201</a></td>

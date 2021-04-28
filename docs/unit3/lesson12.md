@@ -1,26 +1,26 @@
 ##***<u>Lesson 12: Bias in Survey Sampling</u>***
 
-###**Objective:**
+###**Objective**
 Students will learn about bias in relation to survey sampling. More specifically, they will learn what types
 of sampling methods could result in a biased sample, who might be over/under-represented in the sample,
 and how to select a better sample.
 
-###**Materials:**
+###**Materials**
 1. *Identifying Biased Samples* handout ([LMR_3.11_Identifying Biased Samples](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.11_Identifying Biased Samples.pdf))
 
 2. Poster paper
 
-###**Vocabulary:**
+###**Vocabulary**
 survey sample, over-represented, under-represented, random sampling
 
-###**Essential Concepts:**
+###**Essential Concepts**
 
-!!! note "Essential Concepts: "
+!!! note "Essential Concepts"
     Another popular data collection method involves collecting data from a random
     sample of people or objects. Percentages based on random samples tend to ‘center’ on the population
     parameter value.
 
-###**Lesson:**
+###**Lesson**
 1. Remind students that they learned about biased samples during the last few lessons. Today, they
 will continue with this topic and discuss how people are selected to be in a sample.
 
@@ -105,9 +105,8 @@ who is most likely under-represented in the sample.
     100. If we have a biased sample, we can only give descriptions about that particular sample;
     we CANNOT generalize to the population of interest.
 
-###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics of the
-day were.
+###**Reflection**
+<strong style="color: red;">What are the essential learnings you are taking away from this lesson?</strong> 
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
 Students will complete the *Survey Sampling* handout ([LMR_3.12](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.12_Survey Sampling.pdf)) for homework.

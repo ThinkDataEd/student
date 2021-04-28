@@ -29,14 +29,13 @@ variable. Begin by pondering the following questions:
 2. Let's look at the following plot, which has real data relevant to these questions.
 
 
-    <strong style="color: blue;"> Click on the document name to download a fillable copy: </strong>[LMR_1.13](https://docs.google.com/document/d/1iTVpJEHNblHjN-7An0U8c_HfuorgRfB5nobkM0-eTSQ/copy?usp=sharing)
+    <strong style="color: black;"> Click on the document name to download a fillable copy of the </strong>[*Scatterplot of Heights vs. Weights* handout (LMR_1.13)](https://ucla.box.com/s/vodexvvmlac7djvxpgp6e82zsiyf4eo4).
 
 
-    <div align="center"><iframe src="https://drive.google.com/file/d/1cDs9nnLyrEZHphVW3SWXJ0vZeRB0cHcF/preview" width="640" height="480"></iframe><br>[LMR_1.13](https://docs.google.com/document/d/1iTVpJEHNblHjN-7An0U8c_HfuorgRfB5nobkM0-eTSQ/copy?usp=sharing)</div>
+    <iframe src="https://app.box.com/embed/s/vodexvvmlac7djvxpgp6e82zsiyf4eo4?sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
 
-3. In your IDS Journal, answer the following questions about the plot from the handout
-([LMR_1.13](https://docs.google.com/document/d/1iTVpJEHNblHjN-7An0U8c_HfuorgRfB5nobkM0-eTSQ/copy?usp=sharing)):
+3. In your IDS Journal, answer the following questions about the plot from the handout:
 
     100. <strong style="color: red;"> What kind of plot is this and how will you remember its features? </strong>
 
@@ -67,14 +66,13 @@ additional information would be helpful? </strong>
 7. Look at the following plot that addresses this question.
 
 
-    <strong style="color: blue;"> Click on the document name to download a fillable copy: </strong>[LMR_1.14](https://docs.google.com/document/d/1ShxLyZ8BQr9WsQ6Fv9tYjZyRPpCphM0JlVKL4mAt1ds/copy?usp=sharing)
+    <strong style="color: black;"> Click on the document name to download a fillable copy of the </strong>[*Scatterplot of Heights vs. Weights by Gender* handout (LMR_1.14)](https://ucla.box.com/s/4xedvl0s8qqzgw7hk1ppd9oo7mvt7sg0).
 
 
-    <div align="center"><iframe src="https://drive.google.com/file/d/1pP_Dkoq6kyr2TIl2l-cTlYscTFOCxODS/preview" width="640" height="480"></iframe><br>[LMR_1.14](https://docs.google.com/document/d/1ShxLyZ8BQr9WsQ6Fv9tYjZyRPpCphM0JlVKL4mAt1ds/copy?usp=sharing)</div>
+    <iframe src="https://app.box.com/embed/s/4xedvl0s8qqzgw7hk1ppd9oo7mvt7sg0?sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
 
-8. In your IDS Journal, answer the following questions about the plot from the handout
-([LMR_1.14](https://docs.google.com/document/d/1ShxLyZ8BQr9WsQ6Fv9tYjZyRPpCphM0JlVKL4mAt1ds/copy?usp=sharing)):
+8. In your IDS Journal, answer the following questions about the plot from the handout:
 
     100. <strong style="color: red;"> What kind of plot is this and how will you remember its features? </strong>
 
@@ -101,13 +99,13 @@ additional information would be helpful? </strong>
 11. Let's look at another type of plot.
 
 
-    <strong style="color: blue;"> Click on the document name to download a fillable copy: </strong>[LMR_1.15](https://docs.google.com/document/d/1tMWYUz0JVq9LOrhQxsB2ZUsrsz5tUrpUmLqBpBe9T_c/copy?usp=sharing)
+    <strong style="color: black;"> Click on the document name to download a fillable copy of the </strong>[*Side-by-side Barchart* handout (LMR_1.15)](https://ucla.box.com/s/pre2tba4g8i9lap41pcp6i0bx37wlhoh).
 
 
-    <div align="center"><iframe src="https://drive.google.com/file/d/1gsHDfp8YKiCIVlHmwZXF93jqnbTYhgfU/preview" width="640" height="480"></iframe><br>[LMR_1.15](https://docs.google.com/document/d/1tMWYUz0JVq9LOrhQxsB2ZUsrsz5tUrpUmLqBpBe9T_c/copy?usp=sharing)</div>
+    <iframe src="https://app.box.com/embed/s/pre2tba4g8i9lap41pcp6i0bx37wlhoh?sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
 
-12. In your IDS Journal, answer the following questions about the plot from the handout ([LMR_1.15](https://docs.google.com/document/d/1tMWYUz0JVq9LOrhQxsB2ZUsrsz5tUrpUmLqBpBe9T_c/copy?usp=sharing)):
+12. In your IDS Journal, answer the following questions about the plot from the handout:
 
     100. <strong style="color: red;"> What kind of plot is this and how will you remember its features? </strong>
 
@@ -134,13 +132,13 @@ additional information would be helpful? </strong>
 15. Now look at the following plot.
 
 
-    <strong style="color: blue;"> Click on the document name to download a fillable copy: </strong>[LMR_1.16](https://docs.google.com/document/d/1AMOMA7adqdULqi0tNEELXzDM_x4bIaBFUNjQnt-pCY0/copy?usp=sharing)
+    <strong style="color: black;"> Click on the document name to download a fillable copy of the </strong>[*Faceted Histogram of Height by Gender* handout (LMR_1.16)](https://ucla.box.com/s/fjlmlxcccq4q0mhheorlxpg8ve14lefu).
 
 
-    <div align="center"><iframe src="https://drive.google.com/file/d/1YOYhUPA4L-GVlvl4AvA3fKHF6okLF7Mz/preview" width="640" height="480"></iframe><br>[LMR_1.16](https://docs.google.com/document/d/1AMOMA7adqdULqi0tNEELXzDM_x4bIaBFUNjQnt-pCY0/copy?usp=sharing)</div>
+    <iframe src="https://app.box.com/embed/s/fjlmlxcccq4q0mhheorlxpg8ve14lefu?sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
 
-16. In your IDS Journal, answer the following questions about the plot from the handout ([LMR_1.16](https://docs.google.com/document/d/1AMOMA7adqdULqi0tNEELXzDM_x4bIaBFUNjQnt-pCY0/copy?usp=sharing)):
+16. In your IDS Journal, answer the following questions about the plot from the handout:
 
     100. <strong style="color: red;"> What kind of plot is this and how will you remember its features? </strong>
 
@@ -161,22 +159,21 @@ additional information would be helpful? </strong>
     
         Confirm, correct, or add to your own responses.
 
-18. <strong style="color: red;"> Using the notes and sketches in your IDS Journal, summarize your learning of how
-to read and interpret basic multiple variable plots by completing the *Summarizing Multiple Variable Plots* fourfold
-graphic organizer </strong> </strong> 
-
-
-    <strong style="color: blue;"> Click on the document name to download a fillable copy: </strong>[LMR_1.17](https://docs.google.com/document/d/1_oBcnZ-hvzSw5bEO0vIjVVUNtPBZIPL7f1unEn1rCmc/copy?usp=sharing)
+18. Using the notes and sketches in your IDS Journal, summarize your learning of how to read and interpret basic multiple variable plots by completing the *Summarizing Multiple Variable Plots* fourfold graphic organizer.
 
 
     **Note**: If you are unable to print the handout or access it electronically, you can create a table in your IDS Journal that follows the same format.
 
 
-    <div align="center"><iframe src="https://drive.google.com/file/d/1ncJ41ysi7Xh9m3b8whaxdYImN9j1XxRK/preview" width="640" height="480"></iframe><br>[LMR_1.17](https://docs.google.com/document/d/1_oBcnZ-hvzSw5bEO0vIjVVUNtPBZIPL7f1unEn1rCmc/copy?usp=sharing)</div>
+    <strong style="color: black;"> Click on the document name to download a fillable copy of the </strong>[*Summarizing Multiple Variable Plots* fourfold graphic organizer (LMR_1.17)](https://ucla.box.com/s/s0disc0hzpiw9yukqb2um1gjdi0hc1fh). 
+
+
+    <iframe src="https://app.box.com/embed/s/s0disc0hzpiw9yukqb2um1gjdi0hc1fh?sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
 
 ###**Reflection**
 <strong style="color: red;">What are the essential learnings you are taking away from this lesson?</strong> 
+
 
 ###<p style="background: black; color: white; text-align: center;">**Next 2 Days**</p>
 

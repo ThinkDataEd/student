@@ -18,11 +18,11 @@ You will use two tools that are easy to learn: the Dashboard and the PlotApp.
 campaign by completing the *Food Habits Check-In* handout.
 
 
-    <strong style="color: blue;"> Click on the document name to download a fillable copy:</strong> [LMR_1.11](https://docs.google.com/document/d/1_9I8S1CPoFU3iZDQKy7QIys4gbT0Ihk_kX9s3K6i7m0/copy?usp=sharing).
+    <strong style="color: black;"> Click on the document name to download a fillable copy of the </strong>[*Food Habits Check-In* handout (LMR_1.11)](https://ucla.box.com/s/z4sakwv5y6d331kgvjqcpg5sknmq3qtj).
 
 
-    <div align="center"><iframe src="https://drive.google.com/file/d/1G3hzKpezsOzUye6-Qwn0ukGPG4E2qpEy/preview" width="640" height="480"></iframe><br>[LMR_1.11](https://docs.google.com/document/d/1_9I8S1CPoFU3iZDQKy7QIys4gbT0Ihk_kX9s3K6i7m0/copy?usp=sharing)</div>
-    
+    <iframe src="https://app.box.com/embed/s/z4sakwv5y6d331kgvjqcpg5sknmq3qtj?sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+
 
 2. Today you will engage in a full Data Cycle with your class's food habits data. You will use the Dashboard and the Plot App to generate visualizations of the variables collected about your snacks. You will then formulate and answer statistical questions that can be answered by the visualizations.
 
@@ -37,13 +37,13 @@ campaign by completing the *Food Habits Check-In* handout.
 5.  Now that you've gotten an overview of how to use the Dashboard, you will be navigating the Dashboard using the *Exploring Our Food Habits, Part 1* handout as a guide.
 
 
-    <strong style="color: blue;"> Click on the document name to download a fillable copy:</strong> [LMR_1.12a](https://docs.google.com/document/d/1vVrPkUJ9XTyEY8cz9fpHly0FSaOf2d2t-3qAvxrGSaM/copy?usp=sharing)
+    **Note**: If you are unable to print the handout or access it electronically, you can create a table in your IDS Journal that follows the same format.
 
 
-    <div align="center"><iframe src="https://drive.google.com/file/d/1zeymXTGlsX3rQZB-Xl0xyePG_2Ahtujf/preview" width="640" height="480"></iframe><br>[LMR_1.12a](https://docs.google.com/document/d/1vVrPkUJ9XTyEY8cz9fpHly0FSaOf2d2t-3qAvxrGSaM/edit?usp=sharing)</div>
+    <strong style="color: black;"> Click on the document name to download a fillable copy of the </strong>[*Exploring Our Food Habits, Part 1* handout (LMR_1.12a)](https://ucla.box.com/s/td703kqvcec9tisw2152teqj1r47hgnz).
 
 
-     **Note**: If you are unable to print the handout or access it electronically, you can create a table in your IDS Journal that follows the same format.
+    <iframe src="https://app.box.com/embed/s/td703kqvcec9tisw2152teqj1r47hgnz?sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
 
 6. Watch this video to get you started on completing LMR_1.12a *Exploring Our Food Habits, Part 1*:
@@ -52,9 +52,8 @@ campaign by completing the *Food Habits Check-In* handout.
     <iframe width="560" height="315" src="https://www.youtube.com/embed/UW9yARYvPEE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-7. Now it's your turn! Go to the IDS Homepage, found at
-[https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org"). All of the IDS web tools can be accessed through this page. Click on **Dashboard** and log in if prompted. Once logged in, notice that you are redirected to the **Campaign Manager**. This happens so that you can select the campaign containing the data that you want to analyze. Find the *Food Habits* campaign and click on **Dashboard**.
-
+7. Now it's your turn! Go to the IDS Servers page, found at
+[https://idsucla.org/ids-servers](https://www.idsucla.org/ids-servers "https://www.idsucla.org/ids-servers") and find your school or district's server. All of the IDS web tools can be accessed through this page. Click on *Dashboard* and log in if prompted. Once logged in, notice that you are redirected to the *Campaign Manager*. This happens so that you can select the campaign containing the data that you want to analyze. Find the *Food Habits* campaign and click on *Dashboard*. 
 
 8. Following are instructions for creating the visuals to analyze the variables mentioned in LMR_1.12a:
 
@@ -74,11 +73,11 @@ campaign by completing the *Food Habits Check-In* handout.
 
 11. Before you begin using the Plot App, download a copy of the *Exploring Our Food Habits, Part 2* handout:
 
+    
+    <strong style="color: black;"> Click on the document name to download a fillable copy of the </strong>[*Exploring Our Food Habits, Part 2* handout (LMR_1.12b)](https://ucla.box.com/s/r86qweoy0v7obb9bpfsebdt82tbguu5g).
 
-    <strong style="color: blue;"> Click on the document name to download a fillable copy:</strong>  [LMR_1.12b](https://docs.google.com/document/d/1FC6jIJSiqYHyvXI2_x7PBih-N-AehNhHtBPCXNOyndY/copy?usp=sharing). 
-    
-    
-    <div align="center"><iframe src="https://drive.google.com/file/d/1TkO0E7Yw13g2A7xqrfR5N5-6tdZ8v6_1/preview" width="640" height="480"></iframe><br>[LMR_1.12b](https://docs.google.com/document/d/1FC6jIJSiqYHyvXI2_x7PBih-N-AehNhHtBPCXNOyndY/copy?usp=sharing)</div>
+       
+    <iframe src="https://app.box.com/embed/s/r86qweoy0v7obb9bpfsebdt82tbguu5g?sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
 
 12. To access the Plot App, go to the IDS Homepage, found at
@@ -99,6 +98,6 @@ campaign by completing the *Food Habits Check-In* handout.
 ###**Reflection**
 <strong style="color: red;">What are the essential learnings you are taking away from this lesson?</strong> 
 
+
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Continue to collect nutritional facts data using the *Food Habits* Participatory Sensing
-campaign on your smart device or via web browser.
+Continue to collect nutritional facts data using the *Food Habits* Participatory Sensing campaign on your smart device or via web browser.

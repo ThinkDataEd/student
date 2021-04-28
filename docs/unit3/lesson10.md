@@ -1,9 +1,9 @@
 ##***<u>Lesson 10: We’re So Random</u>***
 
-###**Objective:**
+###**Objective**
 Students will learn how to collect random samples from a population in order to estimate a parameter.
 
-###**Materials:**
+###**Materials**
 1. *Populations & Samples* handout ([LMR_3.5_Populations and Samples](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.5_Populations and Samples.pdf))
 
 2. RStudio
@@ -14,17 +14,17 @@ Students will learn how to collect random samples from a population in order to 
 
 5. *Parameters & Statistics* handout ([LMR_3.6_Parameters and Statistics](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.6_Parameters and Statistics.pdf))
 
-###**Vocabulary:**
+###**Vocabulary**
 population, sample, representative, random sample, parameter, statistic
 
-###**Essential Concepts:**
+###**Essential Concepts**
 
-!!! note "Essential Concepts: "
+!!! note "Essential Concepts"
     Another popular data collection method involves collecting data from a random
     sample of people or objects. Percentages based on random samples tend to ‘center’ on the population
     parameter value.
 
-###**Lesson:**
+###**Lesson**
 
 1. Introduce today’s lesson by displaying the following statement made by the Pew Research Center
 in their August 2015 report titled *Teens, Technology & Friendships*:
@@ -196,9 +196,8 @@ percentages in our dotplot.”), but there is always only one parameter value.
 parameter for the percent of teens that have made friends online, we can estimate it using
 random samples.
 
-###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics of the
-day were.
+###**Reflection**
+<strong style="color: red;">What are the essential learnings you are taking away from this lesson?</strong> 
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
 Students should complete the *Parameters & Statistics* handout ([LMR_3.6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.6_Parameters and Statistics.pdf)) for homework.

@@ -1,5 +1,5 @@
 ##***<u>Lab 2H - Eyeballing Normal</u>***
-Directions: Follow along with the slides and answer the questions in **bold** font in your journal.
+Directions: Follow along with the slides and answer the questions in **bold** font in your IDS Journal.
 
 ###**What's normal?**
 * The *normal distribution* is a curve we often see in real data.

@@ -1,7 +1,7 @@
 ##***<u>Lab 1E - What's the Relationship?</u>***
-Directions: Follow along with the slides and answer the questions in **bold** font in your journal.
+Directions: Follow along with the slides and answer the questions in **bold** font in your IDS Journal.
 
-###**Finding patterns in data.**
+###**Finding patterns in data**
 * To discover (*really*) interesting observations or relationships in data, we need to find them!
 
     – Which is difficult if we only look at the raw data.
@@ -15,7 +15,7 @@ informative.
 
 * Import the data from your class' *Food Habits* campaign and name it ```food```.
 
-###**Where's the variables?**
+###**Where are the variables?**
 
 <img src="../../img/1xe0a.png" />
 
@@ -60,7 +60,7 @@ variable.
     snack is either ```Salty``` or ```Sweet```? Write down the code you used to answer this
     question.**
 
-###**4-variable scatterplots**
+###**Four-variable scatterplots**
 * When we make scatterplots, we can include:
 
     – 1 numerical variable on the x-axis

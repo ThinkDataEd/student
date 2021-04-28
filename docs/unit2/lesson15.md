@@ -1,104 +1,69 @@
 ##***<u>Lesson 15: Tangible Data Merging</u>***
 
-###**Objective:**
-Students will learn how to merge two data sets and ask statistical questions about the merged data.
+###**Objective**
+You will learn how to merge two data sets and ask statistical questions about the merged data.
 
-###**Materials:**
-1. *Tangible Data Merging* file ([LMR_2.14_Tangible Data Merging](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.14_Tangible Data Merging.pdf))
-
-    **Advanced preparation required** (see Step 4 of lesson)
-
-2. Copy paper in two colors
-
-    **Advanced preparation required** (see Step 4 of lesson)
-
-###**Vocabulary:**
+###**Vocabulary**
 merge
 
-###**Essential Concepts:**
+###**Essential Concepts**
 
-!!! note "Essential Concepts: "
-    We can enhance the context of a statistical problem by merging related data sets
-    together. To merge data, each data set must have a "unique identifier" that tells us how to match up the
-    lines of the data.
+!!! note "Lesson 15 Essential Concepts"
+    You can enhance the context of a statistical problem by merging related data sets together. To merge data, each data set must have a "unique identifier" that tells you how to match up the lines of the data.
 
-###**Lesson:**
-1. Inform students that they are going to examine the research question "Does the personality color
-test really work?" To answer this, we're going to examine whether the different color groups
-actually differ on particular beliefs or attitudes, or if these differences might just be due to chance.
-In particular, we are going to use the *Stress/Chill* data to see if there is evidence that the "colors"
-actually differ.
+###**Lesson**
+1. In this lesson you are going to examine the research question "Does the Personality Color test really work?" To answer this, you will examine whether the different color groups actually differ on particular beliefs or attitudes, or if these differences might just be due to chance. You are going to use the *Stress/Chill* data to see if there is evidence that the "colors" actually differ.
 
-2. Show students the variables in each of these data sets. Give students time to brainstorm
-statistical questions of interest with their teams and record their questions in their DS journals.
-Encourage them to think of two- and three-variable questions.
+2. Go back to the *Stress/Chill [Campaign Guidelines](campaign1.md)* and refamiliarize yourself with the variables in the campaign. For the Personality Color survey, the variables are: birth gender, predominant color, secondary color, orange score, green score, gold score, blue score, zodiac sign, sports involvement. 
 
-3. Conduct a share out of some of the questions students came up with. Examples include: <span style="color:grey">***(1) Do
-people whose predominant color is Gold tend to stress more than people whose
-predominant color is Blue? (2) Is there a difference between the sorts of things that stress
-out the different personality colors?***</span>
+3. In your IDS Journal, write at least 4 statistical questions of interest that involve variables in both the *Stress/Chill* campaign AND the Personality Color survey. Here's an example: Do people whose predominant color is Gold tend to stress more than people whose predominant color is Blue?
 
-4. In order to answer the above questions, we will need to merge our class’s 2 data sets together
-(*Personality Color* and *Stress/Chill*). In order to do this, we will be practicing how to merge data
-sets today.
-
-5. Print out the material from the *Tangible Data Merging* file ([LMR_2.14](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.14_Tangible Data Merging.pdf)). Use a different color of
-paper for each of the two data sets. For example, Data set 1 could be on plain white paper and
-Data set 2 could be on blue paper. Cut the paper by creating horizontal strips of each observation
-of data. For example, from the screenshot below, you would create 9 different strips of paper, one
-for each observation.
-<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.14_Tangible Data Merging.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.14](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.14_Tangible Data Merging.pdf)</div>
+4. For the next activity, <strong style="color: black;">click on the document name to download a fillable copy of the [*Tangible Data Merging* document (LMR_2.14)](https://ucla.box.com/s/b2dt90f6eg20zijymskv1eukdhgzjxs8)</strong>. Use a different color of paper for each of the two data sets. For example, Data set 1 could be on plain white paper and Data set 2 could be on blue paper. Cut the paper by creating horizontal strips of each observation of data. 
 
 
-6. Hand each student in the class a strip of paper. Ask them to try to find someone with the other
-data set (i.e., a person with a different colored strip of paper) that they can “match up,” or **merge**,
-with.
+    <div align="center"><iframe src="https://drive.google.com/file/d/1U6YIbBHgG2XBXZW5BNWuwFiKcNzFx8S5/preview" width="640" height="480"></iframe>
 
-7. For example, a student with the first row of data listed below from Data set 1 might want to match
-up with the second row of data listed below from Data set 2 because a person who is 21 has
-probably graduated high school.
 
-    |**Birth Month**| **Zip Code**| **Age**| **ID Number**| **Favorite Movie**|
-    |--|--|--|--|--|
-    |January| 90064| 21| 1742| The Notebook|
+5. The data in the *Tangible Data Merging* document is from 2 different data sets. Explore the data sets.
+    
+    <strong style="color: red;">What do you notice about both data sets?</strong> 
 
-    |**Zip Code**| **ID Number**| **Birth Month**| **Siblings**| **Education**|
-    |--|--|--|--|--|
-    |91331| 1352| August| 2| High School|
+6. Each observation from the data sets in [(LMR_2.14)](https://ucla.box.com/s/9u91hzwx0tj3koz1p0vhdoyqkyeh4cg0)</strong> is available in [this slide](https://docs.google.com/presentation/d/1J5a_VPcbMK03IIsr1rFiV-fU7a23GNil1uafEB-KC-8/copy?usp=sharing). Click on the link to make a copy of the slide. The observations for dataset 1 are blue and the ones for dataset 2 are yellow. You will be able to move around each blue observation to "match up" or **merge** with each yellow observation.
 
-8. However, they should notice that they cannot just make guesses about a person’s characteristics
-to order to match up the data. They should realize that only 3 of the variables are the same in
-both data sets: *Birth Month*, *Zip Code*, and *ID Number*.
+7. As an example, look at the two observations below. Those two observations might want to be merged because it makes sense that a person who is age 21 has probably graduated from high school. Go to your slide and merge each blue observation with a yellow observation. 
 
-    100. Since multiple people have the same *Birth Month*, discuss why this may not be the best
-    variable to merge with. <span style="color:grey">***Multiple people are born in January, so we would have no
-    way of differentiating between those people.***</span>
+       |**Birth Month**| **Zip Code**| **Age**| **ID Number**| **Favorite Movie**|
+       |--|--|--|--|--|
+       |January| 90064| 21| 1742| The Notebook|
 
-    100. The same is true for the *Zip Codes* variable. Although there are less repeats with *Zip
-    Codes*, we still see some overlap between observations.
+       |**Zip Code**| **ID Number**| **Birth Month**| **Siblings**| **Education**|
+       |--|--|--|--|--|
+       |91331| 1352| August| 2| High School|
 
-    100. So, the only *UNIQUE* identifier in both data sets is *ID Number*. So the students should
-    end up in pairs at the end of the exercise – a student from Data set 1 is matched with the
-    student from Data set 2 that has the same *ID Number*.
+8. Notice that making guesses about a person's characteristics is not the best way to match up the data. After answering the questions below, go back to your merged data in your slide and makes changes if necessary. 
 
-9. Have the students write about the experience of tangible data merging in their DS journals and
-ask:
+    100. <strong style="color: red;">Which variables are the same in both data sets?</strong>  
 
-    100. Why is it important to have at least one unique identifier for both data sets? <span style="color:grey">***It is the only
-    way to know which information belongs to which person. We want to make sure we
-    do not match up observations (in this case, people) incorrectly because that will
-    compromise any analysis we do later.***</span>
+    100. <strong style="color: red;">Why are the variables *Birth Month* or *Zip Code* not the best way to merge?</strong>
 
-10. Inform students that they will learn to merge data sets using RStudio during the next lab.
+    100. <strong style="color: red;">Which of the variable in both data sets is unique, meaning that no two people share the same value (e.g., birth month or zip code)?</strong>
 
-###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics of the
-day were.
+    Rearrange the data in your slide (if needed).
+
+9. Answer the following in your IDS Journal:
+
+    <strong style="color: red;">Why is it important to have at least one unique identifier (e.g., ID Number) for both data sets? </strong>
+
+10. In the next lab, you will learn to merge data sets using RStudio.
+
+
+###**Reflection**
+<strong style="color: red;">What are the essential learnings you are taking away from this lesson?</strong> 
+
 
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
-Students will collect data for one more day for the *Stress/Chill* campaign either through the UCLA [IDS
-UCLA](../download/app.md) App or via web browser at https://tools.idsucla.org
+Collect data for one more day for the *Stress/Chill* campaign, either through the UCLA [IDS UCLA](../download/app.md) App or via web browser at https://tools.idsucla.org
 
 [<u>***LAB 2G: Getting it Together***</u>](lab2g.md)
 
-Complete [Lab 2G](lab2g.md) prior to the [Practicum](practicum3.md).
+Complete [Lab 2G](lab2g.md) before the [Practicum](practicum3.md).

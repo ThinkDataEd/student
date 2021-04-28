@@ -12,15 +12,11 @@ algorithm, input, output, histogram, bin(s), bin widths, left-hand rule, right-h
 ###**Essential Concepts**
 
 !!! note "Lesson 10 Essential Concepts"
-    Histograms can be created through the use of an algorithm. The distributions
-    displayed in a histogram can be classified using the technical terms for the shapes of distributions.
-    Learning to describe routine tasks through an algorithm is an important component of computational
-    thinking.
+    Histograms can be created through the use of an algorithm. The distributions displayed in a histogram can be classified using the technical terms for the shapes of distributions. Learning to describe routine tasks through an algorithm is an important component of computational thinking.
 
 ###**Lesson**
 
-1. Giving clear, concise instructions to others is an important skill for you to learn. In this activity you will practice using descriptive vocabulary, communicating ideas to others, recognizing steps in a
-process, and recognizing the importance of using clear language.
+1. Giving clear, concise instructions to others is an important skill for you to learn. In this activity you will practice using descriptive vocabulary, communicating ideas to others, recognizing steps in a process, and recognizing the importance of using clear language.
 
 2. In order for you to understand how important giving clear and precise directions is, you will watch a video of a student reading directions to their teacher for how to make a sandwich.
 
@@ -34,22 +30,15 @@ process, and recognizing the importance of using clear language.
 
     100. <strong style="color: red;">Would you be able to list the steps for making a sandwich?</strong>
 
-4. The materials you typically need to make a peanut butter and jelly sandwich are: peanut butter, jelly, sliced bread, a butter knife, and a plate for making a sandwich. 
-
-    <strong style="color: red;">Write down your instructions for making
-    a peanut butter and jelly sandwich using these materials.</strong> 
+4. The materials you typically need to make a peanut butter and jelly sandwich are: peanut butter, jelly, sliced bread, a butter knife, and a plate for making a sandwich.  In your IDS Journal, write down your instructions for making a peanut butter and jelly sandwich using these materials.
     
-    We can also call these instructions an **algorithm**.
-
-5. Precise instructions for any process are like a formula or a recipe to follow in order to
-get the same results each time. An algorithm is how we communicate with the computer. In this case, the person making the PB&J sandwich is the computer, and our job is to give him/her precise instructions (the algorithm) so that he/she can successfully make the PB&J sandwich.
+5. Precise instructions for any process are like a formula or a recipe to follow in order to get the same results each time. We can also call these instructions an **algorithm**. An algorithm is how we communicate with the computer. In this case, the person making the PB&J sandwich is the computer, and our job is to give him/her precise instructions (the algorithm) so that he/she can successfully make the PB&J sandwich.
 
 6. Every algorithm needs **input** and produces **output**. The input here will be the steps or actions to make a PB&J sandwich, and the output will be the sandwich itself.
 
 7. Your instructions/algorithm for making a PB&J sandwich might be randomly chosen by your teacher to model with your classmates.
 
-8. Keep in mind that in making the sandwich your teacher must do EXACTLY what the instructions say. For example, if the directions say
-“Put the peanut butter on the bread,” your teacher can literally put the jar of peanut butter on the bag of
+8. Keep in mind that in making the sandwich your teacher must do EXACTLY what the instructions say. For example, if the directions say “Put the peanut butter on the bread,” your teacher can literally put the jar of peanut butter on the bag of
 bread since there was no instruction to open the bread or the jar of peanut butter, no instruction to use
 the knife in a particular way, etc.; or if it is not clear where to spread the peanut butter, the teacher might put it on the crust. A computer reads instructions very literally and has no reference point for what the instructions might intend to say.
 
@@ -67,17 +56,13 @@ are some instructions he might have given differently? </strong>
 11. <strong style="color: red;"> Thinking about these sandwich-making experiences, do you think clear instructions are important?
 Why? </strong>
 
-12. You will develop an algorithm for building a **histogram** to represent
-the sleep dotplot you saw in [Lesson 9](lesson9.md).
+12. You will develop an algorithm for building a **histogram** to represent the sleep dotplot you saw in [Lesson 9](lesson9.md).
 
     <iframe src="https://drive.google.com/file/d/1BffM29u9F6Ns4z76deJA3mQZum5stnrL/preview" width="640" height="480"></iframe>
     
-13. Rather than showing the frequency for each value, a histogram shows the frequency
-(or percent, but we will focus on frequency) of all the values that fall in a certain range, called a
-**bin**. For example, we might choose bins that go from 0-5, 5-10, 10-15, 15-20, 20-25.
+13. Rather than showing the frequency for each value, a histogram shows the frequency **bin**. For example, we might choose bins that go from 0-5, 5-10, 10-15, 15-20, 20-25.
 
-14. Modeled below is a histogram using the data from the *Hours of Sleep Last Night* dotplot from [Lesson 9](lesson9.md). The x-axis has **bin widths** of 0-3, 3-6, 6-9, etc., with marks on the plot at
-those intervals. The first bin has a frequency of 1, which means that one student got between 0 to 3 hours of sleep.
+14. Modeled below is a histogram using the data from the *Hours of Sleep Last Night* dotplot from [Lesson 9](lesson9.md). The x-axis has **bin widths** of 0-3, 3-6, 6-9, etc., with marks on the plot at those intervals. The first bin has a frequency of 1, which means that one student got between 0 to 3 hours of sleep.
 
     <strong style="color: red;">Determine the frequencies of each bin and interpret what they mean.</strong>
 
@@ -92,8 +77,7 @@ those intervals. The first bin has a frequency of 1, which means that one studen
 
         <iframe src="https://drive.google.com/file/d/14tBgcSHiE7hV94szrrCQ40GuZlfcbnPn/preview" width="640" height="480"></iframe>
 
-    * If you include the values of 6 hours in the third bin (6-9), you are using the
-        **right-hand rule** because when choosing between the two bins that are next to each other, (3-6) and (6-9), you chose the bin on the right.
+    * If you include the values of 6 hours in the third bin (6-9), you are using the **right-hand rule** because when choosing between the two bins that are next to each other, (3-6) and (6-9), you chose the bin on the right.
 
         <iframe src="https://drive.google.com/file/d/1Pi_p8LTfqwL0hLnnZHpOMIPsGbrWt2mc/preview" width="640" height="480"></iframe>
 
@@ -101,9 +85,9 @@ those intervals. The first bin has a frequency of 1, which means that one studen
 
 17. Make sure your algorithm works no matter how wide the bin will be. For instance, it might be 5 hours, it might be 1 hour, or it might be 10 hours (or even half an hour). Whatever it is, your algorithm should work for any input value.
 
-18. <strong style="color: red;">Write out your algorithm as a set of steps: Step 1, Step 2, etc. Try to create a histogram with your instructions and a bin width of 4.</strong>
+18. In your IDS Journal, write out your algorithm as a set of steps: Step 1, Step 2, etc. Try to create a histogram with your instructions and a bin width of 4.
 
-19. <strong style="color: red;">Sketch the histogram based very literally on your instructions.</strong> 
+19. Then sketch the histogram in your IDS Journal, based very literally on your instructions.
 
     For example, if you did not say exactly where the bins should start, you could start one way off to the left. If you are vague and say something like "Divide the number line into groups of 10,” then the bins could be arbitrary sizes. If they have to be the same size, how would you do that? Points to consider:
 
@@ -130,5 +114,4 @@ those intervals. The first bin has a frequency of 1, which means that one studen
 
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Continue to collect nutritional facts data using the *Food Habits* Participatory Sensing
-campaign on your smart device or via web browser.
+Continue to collect nutritional facts data using the *Food Habits* Participatory Sensing campaign on your smart device or via web browser.

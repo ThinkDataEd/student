@@ -58,7 +58,7 @@ Once Participatory Sensing data has been collected, the Dashboard and PlotApp pe
 Analysis step of the Data Cycle, though humans need to tell the computer which plots to examine.
 
 ###**<u>[Lesson 13: RStudio Basics](lesson13.md)</u>**
-The computer has a syntax, and it can only understand if you speak its language.
+The computer has a syntax, and you can only understand it if you speak its language.
 
 ###**<u>[Lesson 14: Variables, Variables, Variables](lesson14.md)</u>**
 To examine whether two (or more) variables are related, we can plot their distributions on the

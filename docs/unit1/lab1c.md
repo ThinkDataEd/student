@@ -1,5 +1,5 @@
 ##***<u>Lab 1C - Export, Upload, Import</u>***
-Directions: Follow along with the slides and answer the questions in **bold** font in your journal.
+Directions: Follow along with the slides and answer the questions in **bold** font in your IDS Journal.
 
 ###**Whose data? Our data.**
 * Throughout the previous labs, we've been using data that was already loaded in RStudio.
@@ -8,7 +8,7 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
     
 * This lab is all about learning how we to load our own participatory sensing data into RStudio
 
-###**Export, upload, import`**
+###**Export, upload, import**
 * Before we can perform any analysis, we have to load data into R.
 
 * When we want to get our participatory sensing data into RStudio, we:
@@ -30,7 +30,7 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
     If you forget your username or password, ask your teacher to remind you.
 
-###**Campaign Manager**
+###**Campaign manager**
 
 <img src="../../img/1xc0b.png" />
 
@@ -38,7 +38,7 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
 * Click on the dropdown arrow for the campaign you are interested in downloading.
 
-###**Dropdown Arrow**
+###**Dropdown arrow**
 * The options for the dropdown menu will look like this.
 
     <img src="../../img/1xc0c.png" />
@@ -71,7 +71,7 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
 * If you look in the Files pane, you should be able to find your data!
 
-###**Upload vs. Import**
+###**Upload vs. import**
 * By uploading your data into RStudio you've really only given yourself access to it.
 
 * Don't believe me? Look at the *Environment* pane ... where's your data?

@@ -25,11 +25,10 @@ data set(s)
 2. You will watch a short video of an episode of Jamie Oliver’s show titled
 *Food Revolution* found at: [https://youtu.be/I0vYwqkoktM](https://youtu.be/I0vYwqkoktM "https://youtu.be/I0vYwqkoktM"). This particular video was recorded at a Los Angeles high school.
 
-    100. <strong style="color: red;"> As you watch the video, write down in your IDS Journal your
-    comments and/or reactions to what you see and hear. </strong>
+    100. As you watch the video, write down in your IDS Journal your comments and/or reactions to what you see and hear.
 
     100. After jotting down your comments and/or reactions, respond to the following
-    question in your IDS Journal: 
+    question: 
     
         <strong style="color: red;"> **Why should I care about what I eat?** </strong>
 
@@ -45,8 +44,7 @@ between the previous lesson and today.
 
     <div align="center"><iframe src="https://drive.google.com/file/d/15_zPkI0GnQ16faEr4Nb0umqboekP7gLO/preview" width="640" height="480"></iframe><br></div>
 
-5. <strong style="color: red;"> Just as you did with the Stick Figures, collect any data that you can from the labels and record it in your
-IDS Journal. </strong>
+5. Just as you did with the Stick Figures, collect any data that you can from the labels and record it in your IDS Journal.
 
 6. Below you will find other students' data collection from labels. Once you have collected your facts, compare and contrast your data with these other students' data collections by responding to the following:
 
@@ -57,32 +55,31 @@ IDS Journal. </strong>
     <iframe src="https://drive.google.com/file/d/15_gE6nEcgeosEaMNHpL7oShI4lZhQwRD/preview" width="640" height="480"></iframe>
    
 
-7. Notice that while some facts collected were the
-same, there were others that were collected by some students and not by others. Also notice that there are
-differences in the variables collected and the data structure used.
+7. Notice that while some facts collected were the same, there were others that were collected by some students and not by others. Also notice that there are differences in the variables collected and the data structure used.
 
     100. <strong style="color: red;"> How can the data you just gathered be quickly displayed and
     easily read? </strong>
 
     100. Use the *Food Habits Data Collection* handout to record the nutritional information for the snacks that you have consumed. You will be submitting this data in the next lesson.
     
+
+        <strong style="color: black;"> Click on the document name to download a fillable copy of the </strong>[*Food Habits Data Collection* handout (LMR_1.8)](https://ucla.box.com/s/9sns7vrob662znefbewwqrcy670lwk3l).
+
+
+        <iframe src="https://app.box.com/embed/s/9sns7vrob662znefbewwqrcy670lwk3l?sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+
     
-        <strong style="color: blue;"> Click on the document name to download a fillable copy:</strong>  [LMR_1.8](https://docs.google.com/document/d/12ot_oa3WTyocwan3-maFAYKNgkHLrk9_58yj-SSBVgI/copy?usp=sharing)
-    
-    
-    <div align="center"><iframe src="https://drive.google.com/file/d/1rnrjc3_0y5N07oCUhnagujKttSYUjQRe/preview" width="640" height="480"></iframe><br>[LMR_1.8](https://docs.google.com/document/d/12ot_oa3WTyocwan3-maFAYKNgkHLrk9_58yj-SSBVgI/copy?usp=sharing)</div>
 
 8. Each column in the *Food Habits Data Collection* table represents a variable that was collected about your snack. For example, the first column, “What’s the name of your snack?” is simply the name of your snack. So a short, descriptive identifier for the first column is "Name".
 
-9. <strong style="color: red;"> Write a short (one-word preferred) identifier for each variable on your *Food Habits Data Collection* handout or in your IDS Journal. </strong>
+9. Write a short (one-word preferred) identifier for each variable on your *Food Habits Data Collection* handout or in your IDS Journal.
 
 10. In the next lesson you will begin collecting and recording data. To be prepared for this, make sure to have your mobile device or other device with an internet browser or app capability.
+
 
 ###**Reflection**
 <strong style="color: red;">What are the essential learnings you are taking away from this lesson?</strong> 
 
+
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Examine the data in your *Food Habits Data Collection* handout ([LMR_1.8](https://docs.google.com/document/d/12ot_oa3WTyocwan3-maFAYKNgkHLrk9_58yj-SSBVgI/copy?usp=sharing)) and
-generate two simple and two complex statistical questions that you think can be answered by the data
-you have collected. A simple statistical question involves one variable, whereas a complex statistical question
-involves two or more variables.
+Examine the data in your *Food Habits Data Collection* handout and generate two simple and two complex statistical questions that you think can be answered by the data you have collected. A simple statistical question involves one variable, whereas a complex statistical question involves two or more variables.

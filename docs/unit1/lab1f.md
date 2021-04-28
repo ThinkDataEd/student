@@ -1,5 +1,5 @@
 ##***<u>Lab 1F - A Diamond in the Rough</u>***
-Directions: Follow along with the slides and answer the questions in **bold** font in your journal.
+Directions: Follow along with the slides and answer the questions in **bold** font in your IDS Journal.
 
 ###**Messy data? Get used to it**
 * Since lab 1, the data we've been using has been pretty *clean*.
@@ -42,7 +42,7 @@ height in inches:
 * To show you what *dirty* data looks like, we'll check out the *American Time Use Survey*, or *ATU*
 survey.
 
-* What is ATU survey?
+* What is the ATU survey?
 
     – It's a survey conducted by the US government (Specifically the Bureau of Labor
     Statistics).
@@ -53,7 +53,7 @@ survey.
     – These thousands of people combined together give an idea about how much time the
     typical person living in the US spends doing various activites.
 
-###**Load and go:**
+###**Load and go**
 * Type the following commands into your console:
 
         data(atu_dirty)
@@ -61,7 +61,7 @@ survey.
 
 * **Just by viewing the data, what parts of our ATU data do you think need cleaning?**
 
-###**Description of ATU Variables**
+###**Description of ATU variables**
 * The description of the actual variables:
 
     – ```caseid```: Anonymous ID of survey taker.
@@ -94,7 +94,7 @@ rest of the variables in ```atu_dirty```.**
     – Names should be short, contain no spaces and describe what the variable is related to.
     So use abbreviations to your heart's content.
 
-###**Next up: Strings**
+###**Next up: strings**
 * In programming, a *string* is sort of like a *word*.
 
     – It's a value made up of *characters* (i.e. letters)
@@ -106,7 +106,7 @@ rest of the variables in ```atu_dirty```.**
         "Hot Cocoa"
         "0015"
     
-###**Numbers are words? (Sometimes)**
+###**Numbers are words (sometimes)**
 * In some cases, R will treat values that look like *numbers* as if they were *strings*.
 
 * Sometimes we do this on purpose.
@@ -146,7 +146,7 @@ to see how we can correctly code it as a number:
 * **Once you have this code working, use a similar line of code to correctly code the other
 *numeric* variables as numbers.**
 
-###**Deciphering Categorical Variables**
+###**Deciphering categorical variables**
 * We mentioned earlier that we sometimes code categorical variables as numbers.
 
     – For example, our gender variable uses ```"01"``` and ```"02"``` for ```"Male"``` and ```"Female"```,
@@ -155,7 +155,7 @@ to see how we can correctly code it as a number:
 * It's often much easier to analyze and interpret when we use more descriptive categories, such as
 ```"Male"``` and ```"Female"```.
 
-###**Factors and Levels**
+###**Factors and levels**
 * R has a special name for *categorical* variables, called *factors*.
 
 * R also has a special name for the different *categories* of a *categorical* variable.

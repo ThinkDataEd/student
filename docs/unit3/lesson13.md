@@ -1,24 +1,24 @@
 ##***<u>Lesson 13: The Confidence Game</u>***
 
-###**Objective:**
+###**Objective**
 Students will learn about informal confidence intervals for making estimates about population parameters
 based on statistics from random samples.
 
-###**Materials:**
+###**Materials**
 1. *The Confidence Game* handout ([LMR_3.13_Confidence Game](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.13_Confidence Game.pdf))
 
 2. Dotplot titled “Number Correct” displayed on the board (or on poster paper)
 
-###**Vocabulary:**
+###**Vocabulary**
 inferences, interval, confidence interval
 
-###**Essential Concepts:**
+###**Essential Concepts**
 
-!!! note "Essential Concepts: "
+!!! note "Essential Concepts"
     There is uncertainty when we estimate population parameters. Because of this, it
     is better to give a range of plausible values, rather than a single value.
 
-###**Lesson:**
+###**Lesson**
 1. Remind students that they have been learning about why sampling allows us to make **inferences**
 about a population. Some methods of sampling produce biased sample statistics, which does not
 allow us to generalize the results from a sample to the population of interest. To obtain unbiased
@@ -149,9 +149,8 @@ interval**.
 
 13. Students will continue to learn about confidence intervals during the [next lesson](lesson14.md).
 
-###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics of the
-day were.
+###**Reflection**
+<strong style="color: red;">What are the essential learnings you are taking away from this lesson?</strong> 
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
 In your own words, write a description of what a confidence interval is and why it is used in statistics.

@@ -1,81 +1,76 @@
 ##***<u>Lesson 6: Observational Studies</u>***
 
-###**Objective:**
-Students will learn that an observational study is a data collection method in which subjects are observed
-and outcomes are recorded. They will learn how to collect this type of data and make informal inferences
+###**Objective**
+You will learn that an observational study is a data collection method in which subjects are observed
+and outcomes are recorded. You will learn how to collect this type of data and make informal inferences
 about the results.
 
-###**Materials:**
-1. *Stick Figures Cutouts* ([LMR_1.2_Stick Figures](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.2_Stick Figures.pdf)) from [Unit 1](../unit1/overview.md), [Lesson 1](../unit1/lesson1.md)
+###**Materials**
+1. *Stick Figures Cutouts* ([LMR_1.2_Stick Figures](https://ucla.box.com/s/rvgj4fv3qncvqyo0wf7o9onyb3vtdcf0)) from [Unit 1](../unit1/overview.md), [Lesson 2](../unit1/lesson2.md)
 
-    **<u>Note:</u> Advanced preparation required** (see step 1 below).
+    **Note:** Advanced preparation required** (see step 1 below).
 
-2. *Turning Observations into Data* handout ([LMR_3.2_Observations_to_Data](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.2_Observations to Data.pdf))
+2. *Turning Observations into Data* handout ([LMR_3.2_Observations_to_Data](https://ucla.box.com/s/ebm3me9pxharpjnaes6xpn5hqcu7w9u4))
 
-###**Vocabulary:**
+###**Vocabulary**
 observational study
 
-###**Essential Concepts:**
+###**Essential Concepts**
 
-!!! note "Essential Concepts: "
-    Observational studies are those for which there is no intervention applied by
-    researchers.
+!!! note "Essential Concepts"
+    Observational studies are those for which there is no intervention applied by researchers.
 
-###**Lesson:**
-1. From [Unit 1](../unit1/overview.md), [Lesson 1](../unit1/lesson1.md), redistribute one full set of 8 cards from the *Stick Figures* handout
-([LMR_1.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.2_Stick Figures.pdf)) to each student team.
+###**Lesson**
+1. Refer back to the *Stick Figures* ([LMR_1.2_Stick Figures](https://ucla.box.com/s/rvgj4fv3qncvqyo0wf7o9onyb3vtdcf0)) handout.
 
-    **<u>Advanced preparation required:</u>** Print the *Stick Figures* handout ([LMR_1.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.2_Stick Figures.pdf)). The handout can
-    then be cut into the 8 cards. You will need enough sets of the cards for each student team to
-    share a full set. For example, if there are 5 student teams in a class, then 5 copies of the file will
-    need to be printed so that each team gets all 8 cards.
+    <iframe src="https://ucla.app.box.com/embed/s/rvgj4fv3qncvqyo0wf7o9onyb3vtdcf0?sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
-2. Have students recall that they used these cards in [Unit 1](../unit1/overview.md), [Lesson 1](../unit1/lesson1.md). When they used them in
-[Lesson 1](../unit1/lesson1.md), the data was collected, recorded, and organized, but without particular structure to it.
-<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.2_Stick Figures.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.2_Stick Figures.pdf)</div>
 
-3. Then, distribute one copy per student of the *Turning Observations into Data* handout ([LMR_3.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.2_Observations to Data.pdf)).
-<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.2_Observations to Data.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.2_Observations to Data.pdf)</div>
 
-4. Every student from the team will then select one of the cards from the team’s pile of 8, and should
-begin working through the *Turning Observations into Data* handout individually.
+2. Recall that you used these cards in [Unit 1](../unit1/overview.md), [Lesson 2](../unit1/lesson2.md). When you used them in [Lesson 2](../unit1/lesson2.md), the data was collected, recorded, and organized, but without particular structure to it.
 
-5. As the students finish each part of the handout, they should compare their responses with their
-student teams.
+3. You will now use the data from the *Stick Figures* ([LMR_1.2_Stick Figures](https://ucla.box.com/s/rvgj4fv3qncvqyo0wf7o9onyb3vtdcf0)) to complete the next activity.
 
-6. Go over the names of the variables in Part 1 by doing a quick Whip Around by teams. Then,
-select a couple of teams to share the information on the first row and one of the columns.
+4. <strong style="color: black;">Click on the document name to download a fillable copy of the [*Turning Observations into Data* handout (LMR_3.2)](https://ucla.box.com/s/ebm3me9pxharpjnaes6xpn5hqcu7w9u4) and complete it.</strong> 
 
-7. Part 3 of the handout asks the students to consider the following research question:
+
+    <iframe src="https://ucla.app.box.com/embed/s/ebm3me9pxharpjnaes6xpn5hqcu7w9u4?sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+
+
+5. Compare your variables to the ones listed below to find out if you correctly identified them in Part 1 (you did not have to write them exactly this way as long as they are referring to the same variable):
+
+    <strong style="color: purple;">**name, GPA, height, sport, number of friends, shoe type**</strong>
+
+6. In Part 2 of the handout, you organized the data.
+
+    <strong style="color: red;">Refer back to Unit 1, Lesson 3 What is this data format called?</strong>
+
+7. Part 3 of the handout asks you to consider the following research question:
 
     **What determines the number of friends a person has on social media?**
 
-8. Once the students have completed the handout, discuss the variable that they thought was best
-associated with the number of friends on social media. <span style="color:grey">***They should have seen that a person’s
-GPA was related to the number of friends. More specifically, the higher a person’s GPA,
-the more friends he/she had.***</span>
+8. Based on your responses in the handout, answer the following question, then click to check your work:
 
-9. Ask a few students to share out their responses to the very last question: “Can you think of
-another variable (not necessarily given in the pictures) that might impact both the number of
-friends AND the variable you selected? Give an example and explain how it might impact each of
-the variables.” <span style="color:grey">***Answers will vary, but one example could be: a person’s self-esteem level (if
-he/she is confident in school, his/her grades might be higher; higher confidence could
-also be a reason for a person having more friends).***</span>
 
-10. Remind students that in the previous section, they learned about the elements of an experiment.
-In teams, ask students to discuss how collecting this data is similar or different from experiments.
-Then have a whole class discussion about this comparison, guiding <span style="color:grey">***students to realize that
-there were no assignments to groups and no treatment was applied. The subjects (i.e. the
-people displayed on the cards) were simply observed, and then information about them
-was recorded.***</span>
+    <details>
+    <summary><strong style="color: red;">Which variable did you think was best associated with the number of friends on social media? Use evidence from your work to justify why you think this was the best variable.</strong></summary>
+    A person’s GPA was related to the number of friends (the higher a person’s GPA,the more friends he/she had)
+    </details> 
 
-11. Inform students that an **observational study** is a data collection method in which subjects are
-observed and outcomes are recorded. No treatment is applied to the subjects. Instead,
-researchers are simply watching something happen and have absolutely no control over it.
 
-12. In [lesson 7](lesson7.md), students will learn more about the differences between experiments and
-observational studies and what conclusions they can make about each.
+9. The very last question in the handout asks: “Can you think of another variable (not necessarily given in the pictures) that might impact both the number of friends AND the variable you selected? Give an example and explain how it might impact each of the variables.” Ask 3 different people to identify a variable that might impact the number of friends someone can have on social media.
 
-###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics of the
-day were.
+    In your IDS Journal, rank their variables, including the one you selected, from most impact to least impact. Record your explanation as to why you ranked them the way you did.
+
+10. In the previous section, you learned about the elements of an experiment. In your IDS Journal, write a paragraph answering the following question:
+
+    <strong style="color: red;">How is collecting data from the Stick Figures similar to or different than collecting data from experiments?</strong>
+
+    *Important point*: It is necessary to understand that there were no assignments to groups and no treatment was applied to the Stick Figures. The subjects (the Stick Figures) were simply observed, and then information about them was recorded.
+
+11. An **observational study** is a data collection method in which subjects are observed and outcomes are recorded. No treatment is applied to the subjects. Instead, researchers are simply watching something happen and have absolutely no control over it.
+
+12. In [Lesson 7](lesson7.md), you will learn more about the differences between experiments and observational studies and what conclusions you can make about each.
+
+###**Reflection**
+<strong style="color: red;">What are the essential learnings you are taking away from this lesson?</strong> 

@@ -942,22 +942,22 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#comparing-birth_genders" class="md-nav__link">
-    Comparing birth_genders
+  <a href="#comparing-introvertsextroverts" class="md-nav__link">
+    Comparing introverts/extroverts
   </a>
   
 </li>
         
           <li class="md-nav__item">
   <a href="#estimating-spread" class="md-nav__link">
-    Estimating spread
+    Estimating Spread
   </a>
   
 </li>
         
           <li class="md-nav__item">
   <a href="#mean-absolute-deviation" class="md-nav__link">
-    Mean absolute deviation
+    Mean Absolute Deviation
   </a>
   
 </li>
@@ -2771,22 +2771,22 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#comparing-birth_genders" class="md-nav__link">
-    Comparing birth_genders
+  <a href="#comparing-introvertsextroverts" class="md-nav__link">
+    Comparing introverts/extroverts
   </a>
   
 </li>
         
           <li class="md-nav__item">
   <a href="#estimating-spread" class="md-nav__link">
-    Estimating spread
+    Estimating Spread
   </a>
   
 </li>
         
           <li class="md-nav__item">
   <a href="#mean-absolute-deviation" class="md-nav__link">
-    Mean absolute deviation
+    Mean Absolute Deviation
   </a>
   
 </li>
@@ -2819,7 +2819,7 @@
                   <h1>Lab 2A - All About Distributions</h1>
                 
                 <h2 id="lab-2a-all-about-distributions"><strong><em><u>Lab 2A - All About Distributions</u></em></strong></h2>
-<p>Directions: Follow along with the slides and answer the questions in <strong>bold</strong> font in your IDS Journal.</p>
+<p>Directions: Follow along with the slides and answer the questions in <strong>bold</strong> font in your journal.</p>
 <h3 id="in-the-beginning"><strong>In the beginning...</strong></h3>
 <ul>
 <li>
@@ -2829,7 +2829,7 @@
 </li>
 <li>
 <p>Starting with this lab, we'll learn to use R to answer statistical questions that can be
-answered by calculating the mean, median, and MAD.</p>
+answered by calculating the mean, median and MAD.</p>
 </li>
 </ul>
 <h3 id="how-to-talk-about-data"><strong>How to talk about data</strong></h3>
@@ -2858,15 +2858,15 @@ spread out the data are, and what sort of shape the data has.</p>
 <h3 id="lets-begin"><strong>Let's begin!</strong></h3>
 <ul>
 <li>
-<p><em>Export</em>, <em>upload</em> and <em>import</em> your class's <em>Personality Color</em> data.</p>
-<p>– Name your data <code>colors</code> when you load the data.</p>
+<p><em>Export</em>, <em>upload</em> and <em>import</em> your class' <em>Personality Color</em> data.</p>
+<p>– Name your data <code>colors</code> when you load it.</p>
 </li>
 <li>
 <p>Before analyzing a new data set, it's often helpful to get familiar with it. So:</p>
-<p>– <strong>Write down the <code>names</code> of the 4 variables that contain the point totals, or
+<p>– <strong>Write down the <code>names</code> of the 4 variables that contain the point-totals, or
 <em>scores</em>, for each personality color.</strong></p>
-<p>– <strong>Write down the <code>names</code> of the variables that tell us someone's <em>birth
-gender</em> and whether they participated in playing sports.</strong></p>
+<p>– <strong>Write down the <code>names</code> of the variables that tell us an observation's *introvert/extrovert designation
+* and whether they participated in playing sports.</strong></p>
 <p>– <strong>How many variables are in the data set?</strong></p>
 <p>– <strong>How many observations are in the data set?</strong></p>
 </li>
@@ -2875,7 +2875,7 @@ gender</em> and whether they participated in playing sports.</strong></p>
 <ul>
 <li>
 <p>Create a <code>dotPlot</code> of the scores for your <em>predominant color</em>.</p>
-<p>– Pro tip: If the <code>dotPlot</code> comes out looking wonky, try changing the value of the
+<p>– Pro-tip: If the <code>dotPlot</code> comes out looking wonky, try changing the value of the
 <em>character expansion</em> argument, <code>cex</code>.</p>
 <p>– The default value is <code>1</code>. Try a few values between <code>0</code> and <code>1</code> and a few more values
 larger than <code>1</code>.</p>
@@ -2899,50 +2899,52 @@ predominant color? How does your own score for this color compare?</strong></p>
 </code></pre>
 </li>
 <li>
-<p><strong>Use a similar line of code to calculate the <code>median</code> value of <em>your</em> predominant color</strong></p>
+<p><strong>Use a similar line of code to calculate the <code>median</code> value of <em>your</em> predominant color.</strong></p>
 <p>– <strong>Are the <code>mean</code> and <code>median</code> roughly the same? If not, use the <code>dotPlot</code> you made
 in the last slide to describe why.</strong></p>
 </li>
 </ul>
-<h3 id="comparing-birth_genders"><strong>Comparing birth_genders</strong></h3>
+<h3 id="comparing-introvertsextroverts"><strong>Comparing introverts/extroverts</strong></h3>
 <ul>
 <li>
 <p>Make a <code>dotPlot</code> of your <em>predominant color</em> again; but this time, facet the plot based on
-gender.</p>
+introvert/extrovert variables. </p>
 </li>
 <li>
 <p>Use a line of code, using similar syntax to how you facet plots, to <em>calculate</em> a value that
-describes the <em>center of each</em> birth gender.</p>
-<p>– <strong>Do males and females differ in their typical scores for your predominant
+describes the <em>center of your predominant color</em> for introverts and extroverts.</p>
+<p>– <strong>Do introverts or extroverts differ in their typical scores for your predominant
 color? Answer this statistical question using your <code>dotPlot</code>.</strong></p>
 </li>
 <li>
 <p><strong><code>Assign</code> the mean values a name. Then place the name into the <code>diff()</code> function to
-calculate the difference. How much more/less did one birth gender score over the
+calculate the difference. How much more/less did introverts/extroverts score over the
 other for your predominant color?</strong></p>
 </li>
 </ul>
-<h3 id="estimating-spread"><strong>Estimating spread</strong></h3>
+<h3 id="estimating-spread"><strong>Estimating Spread</strong></h3>
 <ul>
 <li>
-<p>Now that we know how to describe our data's <em>typical</em> value, we might also like to describe how closely the rest of the data are to this <em>typical</em> value.</p>
+<p>Now that we know how to describe our data's <em>typical</em> value we might also like to describe
+how closely the rest of the data are to this <em>typical</em> value.</p>
 <p>– We often refer to this as the <strong>variability</strong> of the data.</p>
 <p>– Variability is seen in a <code>histogram</code> or <code>dotPlot</code> as the horizontal <em>spread</em>.</p>
 </li>
 <li>
-<p><strong>Look at the spread of the <code>dotPlot</code> you made for your predominant color, then fill in the
+<p><strong>Look at the spread of the <code>dotPlot</code> you made for your predominant color then fill in the
 blank:</strong></p>
 <p><em>Data points in my plot will usually fall within <u>&nbsp;&nbsp;&nbsp;&nbsp;</u> units of the center.</em></p>
 </li>
 <li>
-<p><strong>Which birth gender, if either, seems to have values that are more spread out from the
+<p><strong>Which group (introvert or extrovert), if either, seem to have values that are more spread out from the
 center?</strong></p>
 </li>
 </ul>
-<h3 id="mean-absolute-deviation"><strong>Mean absolute deviation</strong></h3>
+<h3 id="mean-absolute-deviation"><strong>Mean Absolute Deviation</strong></h3>
 <ul>
 <li>
-<p>The <strong>mean absolute deviation</strong> finds how far away, on average, the data are from the mean. We often write mean absolute deviation as <strong>MAD</strong>.</p>
+<p>The <strong>mean absolute deviation</strong> finds how far away, on average, the data are from the mean.</p>
+<p>– <em>We often write mean absolute deviation as MAD.</em></p>
 </li>
 <li>
 <p>Calculate the MAD of your <em>predominant color</em> by filling in the blanks:</p>
@@ -2950,9 +2952,10 @@ center?</strong></p>
 </code></pre>
 </li>
 <li>
-<p><strong>Based on the MAD, which birth gender has more variability for your predominant
-color's scores?</strong> Does this match the answer you gave for the last question in the previous
-    slide?**</p>
+<p><strong>Based on the MAD, which group (introverts or extroverts) has more variability for your predominant
+color's scores?</strong></p>
+<p>– <strong>Does this match the answer you gave for the last question in the previous
+slide?</strong></p>
 </li>
 </ul>
 <h3 id="on-your-own"><strong>On your own</strong></h3>
@@ -2960,7 +2963,9 @@ color's scores?</strong> Does this match the answer you gave for the last questi
 <li>
 <p>Do boys and girls in your class differ in their color scores?</p>
 <p>– <strong>Perform an analysis that produces <em>numerical summaries</em> and <em>graphs</em>.</strong></p>
-<p>– <strong>Then write a few sentence interpretations that both address this statistical question and consider the <em>shape</em>, <em>center</em> and <em>spread</em> of the distributions of the graphs you create.</strong></p>
+<p>– <strong>Then, write a few sentence interpretations that addresses this statistical
+question and considers the <em>shape</em>, <em>center</em> and <em>spread</em> of the distributions of
+the graphs you create.</strong></p>
 </li>
 </ul>
                 

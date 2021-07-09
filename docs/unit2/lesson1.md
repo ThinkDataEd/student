@@ -67,31 +67,27 @@ Test* claims to identify personality types. You will use a group of students' pe
     <iframe src="https://drive.google.com/file/d/1zcEVGbyJ2kO9SX_O7R0OI2TOnuJgJbQc/preview" width="640" height="480"></iframe>
 
 
-9. The students were then asked to gather into two **subsets**: male and female. Subsetting is another way to organize collected data.
+9. The students were then asked to gather into two **subsets**: introvert and extrovert. Subsetting is another way to organize collected data.
   
-10. The students in the class in item #5 were asked to gather according to their preference into two subsets: male and female.
+10. The students in the class in item #5 were asked to gather according to their preference into two subsets: introvert and extrovert.
+
+    <img src="../../img/20109.png" />
 
 
-    <iframe src="https://drive.google.com/file/d/1M_0TZWGuvOW1_5-rBa65klTOO06IGgmw/preview" width="640" height="480"></iframe>
-
-
-    <iframe src="https://app.box.com/embed/s/imdd1sanxz25my4gkt5bt5jyk9gyjsfz?sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe> 
-
-
-11.  A useful way of analyzing data is to create visuals of subsets. Now that you've completed the two-way frequency table, sketch two bar graphs of the personality colors: one for males and the other for females.
+11.  A useful way of analyzing data is to create visuals of subsets. Now that you've completed the two-way frequency table, sketch two bar graphs of the personality colors: one for introverts and the other for extroverts.
 
 12. Using the bar graphs you created as reference, and complete the following sentences in your IDS Journal:
 
     100. <strong style="color: red;">The distribution of colors for males is **_________________________**.</strong>
 
-    100. <strong style="color: red;">The typical female in this class has **_________________________** as her predominant personality color.</strong>
+    100. <strong style="color: red;">The typical extrovert in this class has **_________________________** as her predominant personality color.</strong>
 
     100. <strong style="color: red;">There is more variability in the distribution of **_________________________** as compared with **_________________________**.</strong>
 
-    100. <strong style="color: red;">The predominant personality color for a  typical male in this class is **_________________________**.</strong>
+    100. <strong style="color: red;">The predominant personality color for a  typical introvert in this class is **_________________________**.</strong>
 
   
-13.  Using the two-way frequency table as reference, you will sketch two new bar graphs. One will be of your predominant color and the other of another color of your choice. Each bar graph will show the distribution of each gender.   
+13.  Using the two-way frequency table as reference, you will sketch two new bar graphs. One will be of your predominant color and the other of another color of your choice. Each bar graph will show the distribution of introvert and extrovert designations.   
 
 14. Using the two new bar graphs you sketch in item #13, analyze and interpret them by answering the following questions in your IDS Journal:
 
@@ -107,7 +103,7 @@ Test* claims to identify personality types. You will use a group of students' pe
 
 16. In your IDS Journal, write a paragraph explaining what the typical person in the class in #5 is like. Remember to use the data to justify your explanation.
 
-17. For fun: Think about a person who you believe you know really well. Which color do you predict is that person's predominant color? Ask that person to describe himself/herself to you. Does your color prediction match how that person describes himself/herself?
+17. For fun: Think about a person who you believe you know really well. Which color do you predict is that person's predominant color? Ask that person to describe themself to you. Does your color prediction match how that person describes themself?
 
 18. You will now record your own data by completing the *Personality Color* campaign on the [IDS UCLA App](../download/app.md) or via web browser at [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org").
 

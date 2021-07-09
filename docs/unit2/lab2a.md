@@ -1,5 +1,5 @@
 ##***<u>Lab 2A - All About Distributions</u>***
-Directions: Follow along with the slides and answer the questions in **bold** font in your IDS Journal.
+Directions: Follow along with the slides and answer the questions in **bold** font in your journal.
 
 ###**In the beginning...**
 * Most of the labs thus far have covered how to visualize, summarize, and manipulate data.
@@ -9,7 +9,7 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
     – We also learned how to clean data to prepare it for analyzing.
 
 * Starting with this lab, we'll learn to use R to answer statistical questions that can be
-answered by calculating the mean, median, and MAD.
+answered by calculating the mean, median and MAD.
 
 ###**How to talk about data**
 * When we make plots of our data, we usually want to know:
@@ -28,17 +28,17 @@ answered by calculating the mean, median, and MAD.
     spread out the data are, and what sort of shape the data has.
 
 ###**Let's begin!**
-* *Export*, *upload* and *import* your class's *Personality Color* data.
+* *Export*, *upload* and *import* your class' *Personality Color* data.
 
-    – Name your data ```colors``` when you load the data.
+    – Name your data ```colors``` when you load it.
 
 * Before analyzing a new data set, it's often helpful to get familiar with it. So:
 
-    – **Write down the ```names``` of the 4 variables that contain the point totals, or
+    – **Write down the ```names``` of the 4 variables that contain the point-totals, or
     *scores*, for each personality color.**
 
-    – **Write down the ```names``` of the variables that tell us someone's *birth
-    gender* and whether they participated in playing sports.**
+    – **Write down the ```names``` of the variables that tell us an observation's *introvert/extrovert designation
+    * and whether they participated in playing sports.**
 
     – **How many variables are in the data set?**
 
@@ -47,7 +47,7 @@ answered by calculating the mean, median, and MAD.
 ###**Estimating centers**
 * Create a ```dotPlot``` of the scores for your *predominant color*.
 
-    – Pro tip: If the ```dotPlot``` comes out looking wonky, try changing the value of the
+    – Pro-tip: If the ```dotPlot``` comes out looking wonky, try changing the value of the
     *character expansion* argument, ```cex```.
 
     – The default value is ```1```. Try a few values between ```0``` and ```1``` and a few more values
@@ -69,50 +69,55 @@ answered by calculating the mean, median, and MAD.
 
         mean(~____, data = colors)
 
-* **Use a similar line of code to calculate the ```median``` value of *your* predominant color**
+* **Use a similar line of code to calculate the ```median``` value of *your* predominant color.**
 
     – **Are the ```mean``` and ```median``` roughly the same? If not, use the ```dotPlot``` you made
     in the last slide to describe why.**
 
-###**Comparing birth_genders**
+###**Comparing introverts/extroverts**
 * Make a ```dotPlot``` of your *predominant color* again; but this time, facet the plot based on
-gender.
+introvert/extrovert variables. 
 
 * Use a line of code, using similar syntax to how you facet plots, to *calculate* a value that
-describes the *center of each* birth gender.
+describes the *center of your predominant color* for introverts and extroverts.
 
-    – **Do males and females differ in their typical scores for your predominant
+    – **Do introverts or extroverts differ in their typical scores for your predominant
     color? Answer this statistical question using your ```dotPlot```.**
 
 * **```Assign``` the mean values a name. Then place the name into the ```diff()``` function to
-calculate the difference. How much more/less did one birth gender score over the
+calculate the difference. How much more/less did introverts/extroverts score over the
 other for your predominant color?**
 
-###**Estimating spread**
+###**Estimating Spread**
 
-* Now that we know how to describe our data's *typical* value, we might also like to describe how closely the rest of the data are to this *typical* value.
+* Now that we know how to describe our data's *typical* value we might also like to describe
+how closely the rest of the data are to this *typical* value.
 
     – We often refer to this as the **variability** of the data.
 
     – Variability is seen in a ```histogram``` or ```dotPlot``` as the horizontal *spread*.
 
-* **Look at the spread of the ```dotPlot``` you made for your predominant color, then fill in the
+* **Look at the spread of the ```dotPlot``` you made for your predominant color then fill in the
 blank:**
 
     *Data points in my plot will usually fall within <u>&nbsp;&nbsp;&nbsp;&nbsp;</u> units of the center.*
 
-* **Which birth gender, if either, seems to have values that are more spread out from the
+* **Which group (introvert or extrovert), if either, seem to have values that are more spread out from the
 center?**
 
-###**Mean absolute deviation**
-* The **mean absolute deviation** finds how far away, on average, the data are from the mean. We often write mean absolute deviation as **MAD**.
+###**Mean Absolute Deviation**
+* The **mean absolute deviation** finds how far away, on average, the data are from the mean.
+
+    – *We often write mean absolute deviation as MAD.*
 
 * Calculate the MAD of your *predominant color* by filling in the blanks:
 
         MAD(~_____, data = colors)
 
-* **Based on the MAD, which birth gender has more variability for your predominant
-color's scores?** Does this match the answer you gave for the last question in the previous
+* **Based on the MAD, which group (introverts or extroverts) has more variability for your predominant
+color's scores?**
+
+    – **Does this match the answer you gave for the last question in the previous
     slide?**
 
 ###**On your own**
@@ -121,4 +126,6 @@ color's scores?** Does this match the answer you gave for the last question in t
 
     – **Perform an analysis that produces *numerical summaries* and *graphs*.**
 
-    – **Then write a few sentence interpretations that both address this statistical question and consider the *shape*, *center* and *spread* of the distributions of the graphs you create.**
+    – **Then, write a few sentence interpretations that addresses this statistical
+    question and considers the *shape*, *center* and *spread* of the distributions of
+    the graphs you create.**

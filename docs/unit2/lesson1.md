@@ -78,9 +78,9 @@ Test* claims to identify personality types. You will use a group of students' pe
 
 12. Using the bar graphs you created as reference, and complete the following sentences in your IDS Journal:
 
-    100. <strong style="color: red;">The distribution of colors for males is **_________________________**.</strong>
+    100. <strong style="color: red;">The distribution of colors for extrovert is **_________________________**.</strong>
 
-    100. <strong style="color: red;">The typical extrovert in this class has **_________________________** as her predominant personality color.</strong>
+    100. <strong style="color: red;">The typical extrovert in this class has **_________________________** as their predominant personality color.</strong>
 
     100. <strong style="color: red;">There is more variability in the distribution of **_________________________** as compared with **_________________________**.</strong>
 

@@ -109,7 +109,7 @@ minimum, first quartile, median, third quartile, and maximum. Draw a box using t
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
 
 Complete the *Ages of Oscar Winners* handout.  
-
+ 
 
 <strong style="color: black;">Click on the document name to download a fillable copy of the [*Ages of Oscar Winners* handout (LMR_2.7)](https://ucla.box.com/s/qkrdsx1z1vsjmn232yb2j3ryy803sdcm)</strong>.
 

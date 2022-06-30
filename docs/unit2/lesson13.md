@@ -67,6 +67,14 @@ chance, simulations, randomness, shuffle
     <strong style="color: red;">Do you think men and women have an equal likelihood of surviving by the end of a horror movie?</strong>
 
 11. Today you will be pretending to be the producer of a horror movie. As a producer, you obtained data from 50 horror movies (sometimes called "slasher" films). There are a total of 485 characters in these 50 films. Two variables were recorded for each character: <strong style="color: purple;">Gender</strong> and <strong style="color: purple;">Survival</strong>. The values for <strong style="color: purple;">Gender</strong> were “Male” and “Female.” The values for <strong style="color: purple;">Survival</strong> were “Dies” and “Survives.”
+    
+    |          | Gender |      |   |   |
+    |----------|:------:|------|---|---|
+    | Survival | Female | Male |   |   |
+    | Dies     | 172    | 228  |   |   |
+    | Survives | 50     | 35   |   |   |
+    | Total    | 222    | 263  |   |   |
+    
 
 12. From this data, a few summary statistics were calculated. The percent of total survivors was calculated by dividing the total number of survivors by the total number of characters using the following code: 
 
@@ -102,88 +110,86 @@ chance, simulations, randomness, shuffle
 14. You will now participate in an activity to determine if the 10% difference seen in the actual data set is big or small. This will help you determine if there really is a difference in horror movie survival rates for males versus females, or if the 10% difference was just due to chance.
 
 
-    <strong style="color: blue;">Revise activity in steps 15-24.</strong> 
+15. You are going to be the producer of the slasher film Inescapable Dark Studios with a cast of 20 characters.
+
+    <span style="color:grey">***<u>Breakdown</u>***</span>
+
+    <span style="color:grey">***46% of 20 (0.46 x 20) which is appoximately 9 characters, will portray females***</span>
+
+    <span style="color:grey">***Of those 9 female characters 23%, or 2 will survive (0.23 x 9 ≈  2) ***</span>
+
+    <span style="color:grey">***The remaining 11 characters (20 – 9 = 11) represent male characters.***</span>
+
+    <span style="color:grey">***Of those 11 male characters, 13%, or 1 (0.13 x11 ≈ 1), are survivors.***</span>
 
 
-15. Split the class into two groups, by gender. Females can stand on one side of the classroom and males can stand on the opposite side. Once those groups have been created, have the class calculate the number of students in each group that would have survived a horror film using the actual proportions given in Step 14.
-
-    <span style="color:grey"><u>***For example:***</u></span>
-
-    <span style="color:grey">***If 20 female students are in the class, then 23% of 20 = 0.23\*(20) = 4.6 people. So, 5
-    of the females will be survivors.***</span>
-
-    <span style="color:grey">***If 15 male students are in the class, then 13% of 15 = 0.13\*(15) = 1.95 people. So, 2
-    of the males will be survivors.***</span>
-
-16. Each group should then decide which students will be survivors. Using the 3” x 5” cards, students should write either “dies” or “survives” on their card.
+16. Each group of characters (males and females) decide which characters will be survivors. They will use 3” x 5” cards to write either “dies” or “survives.”
 
     <span style="color:grey">***<u>For example</u> (continued from above):***</span>
 
-    <span style="color:grey">***5 of the females are survivors; so 5 females from the group should write
-    “survives” on their 3” x 5” card. The rest of the group should write “dies” on their
-    card.***</span>
+    <span style="color:grey">***2 of the females are survivors; so 2 females from the group should write “survives” on their 3” x 5” card. The rest of the group should write “dies” on their card.***</span>
 
-    <span style="color:grey">***2 of the males are survivors; so 2 males from the group should write “survives” on
-    their 3” x 5” card. The rest of the group should write “dies on their card.***</span>
+    <span style="color:grey">***1 of the males survived; so 1 male from the group should write “survives” on their 3” x 5” card. The rest of the group should write “dies” on their card.***</span>
 
+    <img src="../../img/StudentHorror.png" width="300" height="400"/>
+    
 17. *IF* there really is no difference between genders in horror films, then the characters who survived would only have done so by chance. In other words, males and females would have an equal likelihood of surviving. In your IDS Journal, write your answers to the following questions:
 
-    100. <strong style="color: red;">How many total people in our class are survivors? What is the total proportion of
-    survivors?</strong>  
+    100. <strong style="color: red;">How many total people in the Inescapable Dark Studios cast are survivors? What is the total proportion of survivors?</strong>  
     
     
-        <span style="color:grey">***Using the example above, there would be a total of 7 survivors from the class of 35 students. The proportion of survivors would be 7/35 = 0.20 = 20%.***</span>
+        <span style="color:grey">***Using the example above, there would be a total of 3 survivors from the cast of 20 students. The proportion of survivors would be 3/20 = 0.15 = 15%.***</span>
+
+        <span style="color:grey">***Using the example above, you could expect to see 15% of males and 15% of females survive, since that was the overall proportion of survivors. So we would expect 0.15x11 = 2 male survivors, and 0.15x9 = 1 female survivor.***</span>
 
 
-    100. <strong style="color: red;">How many of the survivors would you expect to be male? How many would you expect to
-    be female?</strong>  
-    
-    
-        <span style="color:grey">***Using the example above, you could expect to see 20% of males and 20% of females survive, since that was the overall proportion of survivors. So we would expect 0.20\*15 = 3 male survivors, and 0.20\*20 = 4 female survivors.***</span>
+18. As the film director you will collect all of the 3” x 5” cards from the characters and you will shuffle the cards and redistribute them to the characters so that their genders have no influence on whether or not they survive the horror movie.  But wait, you know how to code in RStudio so you will simulate collecting and distributing the 3” x 5” index cards. The video below shows a simulation of shuffling and distributing 3” x 5” cards to the characters. Pause the video after the first shuffle.
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/0cHRQo2SUCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-18. Collect all of the 3” x 5” cards from the students and explain that you are going to **shuffle** the cards and redistribute them so that their genders have no influence on whether or not they survive the horror movie.19. Visibly shuffle the survives/dies cards to create a random shuffle. Once the cards have been well-shuffled, pass them back out to the students face down. After all the cards are given out, each group should identify the number of people that are survivors and calculate the corresponding proportion of the survivors.
+19. Copy the table below in your DS journal.  The table displays the proportions of survivors for each gender as well as the difference in proportions (female survivors – male survivors).
 
-19. On the board, create a table to display the proportions of survivors for each gender, and include a column for the difference (female survivors – male survivors). Fill in the table with the values the students found in Step 20. 
-
-    **Note:** The first row has been filled in with the example data from above BEFORE the shuffles have taken place. Exact numbers were not used so that the proportions would match the actual horror movie data set.
+    **Note:** The first row has been filled in with the example data from above BEFORE the shuffles have taken place. These values do not match the actual horror movie data set. Recall that using all 485 characters, the proportion of females that survive is 23% vs males 13% which is a difference of 10%.
 
 
-    | **# of Female Survivors** | **# of Male Survivors** | **Proportion of Female Survivors** | **Proportion of Male Survivors** | **Difference in Proportions (Female – Male)** |
-    |-----------------------|---------------------|--------------------------------|------------------------------|-------------------------------------------|
-    | 4.6 | 1.95 | 4.6/20 = 0.23 | 1.95/15 = 0.13 | 0.23 – 0.13 = 0.10 |
-    | ? |  |  |  |  |
+    |         | # of Female Survivors | # of Male Survivors | Proportion of Female Survivors | Proportion of Male Survivors | Difference in Proportions (Female-Male) |
+|---------|:---------------------:|---------------------|--------------------------------|------------------------------|-----------------------------------------|
+|         | 2                     | 1                   | 2/9=0.22                       | 1/11=0.09                    | 0.22-0.09=0.13                          |
+| Take 1  |                       |                     |                                |                              |                                         |
+| Take 2  |                       |                     |                                |                              |                                         |
+| Take 3  |                       |                     |                                |                              |                                         |
+| Take 4  |                       |                     |                                |                              |                                         |
+| Take 5  |                       |                     |                                |                              |                                         |
 
 20. Note that values in the “Difference in Proportions” column can be positive or negative because
 sometimes more women will survive, and other times more men will survive.
 
-21. Draw a dotplot on the board labeled “Difference in Proportions.” Include a vertical line at 10% to represent the actual difference in gender survival rates in real horror movies (see example below).
+21. Draw a dotplot in your DS journal labeled “Difference in Proportions (Female – Male).” Include a vertical line at 10% to represent the actual difference in gender survival rates in real horror movies (see example below).
 
 
     <img src="../../img/21323.png" />
 
 
-22. Using the information from Steps 21 and 22, place a dot at the corresponding value for the shuffled data’s difference in proportions, then answer the following question in your IDS Journal:
+22. Using the information from Steps 19, place a dot at the corresponding value for the shuffled data’s difference in proportions, then answer the following question in your IDS Journal:
 
     <strong style="color: red;">How does this difference compare to the actual data set’s difference of 10%?</strong>  
     
     
-    <span style="color:grey">***Most likely, the difference in proportions will be much smaller than 10%. In fact, the difference in proportions will be centered around 0.***</span>
+    <span style="color:grey">***When using the entire slasher data set, most likely, the difference in proportions will be much smaller than 10%. In fact, the difference in proportions will be centered around 0. But with such a small data set the difference will most likely not be close to 0.***</span>
 
 
-23. Repeat Steps 19 – 24 a few more times, then answer the following questions in your IDS Journal:
+23. Go back to the video and watch the rest of the shuffles (take 2 – take 5), fill in the table and the corresponding dotplot, then answer the following questions in your IDS Journal:
     
     100. <strong style="color: red;">What was the biggest difference we saw from our shuffles? What was the smallest?</strong>
     
     
-        <span style="color:grey">***Answers will vary by class.***</span>
     
 
     100. <strong style="color: red;">What do you think this dotplot would look like if you shuffled your survival cards 1000
     times?</strong> 
     
     
-        <span style="color:grey">***The dotplot would look roughly symmetric and centered around 0, meaning that if there were no relationship between a character’s gender and whether or not they survive, the difference in proportions would typically be 0.***</span>
+        <span style="color:grey">***Using the entire slasher data set, the dotplot would look roughly symmetric and centered around 0, meaning that if there were no relationship between a character’s gender and whether or not they survive, the difference in proportions would typically be 0.***</span>
 
 24. The actual difference in gender survival (10%) is rarely seen when you assign “survives” or “dies” just by chance (aka when shuffling). 
 
@@ -197,7 +203,7 @@ sometimes more women will survive, and other times more men will survive.
 
     <span style="color:grey">***You would want to be a female character because they are more likely to survive by the end of the film.***</span>
 
-26. In the next lesson, you will learn how to shuffle in RStudio in order to determine if an event is real or simply due to chance.
+26. In the next lab, you will learn how to shuffle in RStudio in order to determine if an event is real or simply due to chance.
 
 
 ###**Reflection**

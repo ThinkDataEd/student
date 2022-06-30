@@ -1,10 +1,7 @@
 ##***<u>Lesson 15: Americans’ Time on Task</u>***
 
 ###**Objective**
-Introduction to the *Time Use* campaign. You will explore The New York Times multimedia graphic,
-*How Different Groups Spend Their Time* to spark interest in thinking about how you spend your time. You will
-begin to learn how to evaluate reports that make claims based on data by reading The Washington Post
-article, *Teens Are Spending More Time Consuming Social Media*, *on Mobile Devices*.
+Introduction to Time Use Campaign. You will explore multimedia graphics that incorporate data from the American Time Use Survey to spark your interest about how you spend their time. You will begin to learn how to evaluate reports that make claims based on data by reading The Washington Post article Teens Are Spending More Time Consuming Social Media, On Mobile Devices.
 
 
 ###**Vocabulary**
@@ -21,16 +18,11 @@ evaluate, claim
 2. <strong style="color: red;"> What are some predictions you might make based on the big questions in the *Time Use* campaign
 guidelines? </strong>
 
-3. In this lesson you will be exploring time use through an interactive graphic based on data from The Bureau of Labor Statistics (BLS), which collects data about Americans’
-daily time use.
+3. In this lesson you will be exploring time use through an interactive graphic based on data from The Bureau of Labor Statistics (BLS), which collects data about Americans’ and time use through an interactive graph. 
 
 4. Go to the multimedia graphic at the following URL:<br>
-    [http://www.nytimes.com/interactive/2009/07/31/business/20080801-metrics-graphic.html?_r=0](http://www.nytimes.com/interactive/2009/07/31/business/20080801-metrics-graphic.html?_r=0 "http://www.nytimes.com/interactive/2009/07/31/business/20080801-metrics-graphic.html?_r=0")
-    If the graphic doesn't appear, you need to download the latest version of Flash Player. This can be done by clicking on the link that says "here" (see image  below) once you are on the website.
-
-    <iframe src="https://drive.google.com/file/d/1qRq3BLnLQSe-f16ini8ctwMrCW0G_HYw/preview" width="640" height="480"></iframe>
-
-
+    <ul><a href= "https://flowingdata.com/2015/11/10/counting-the-hours/">Counting the hours</a></ul><ul><a href="https://flowingdata.com/2016/12/06/how-people-like-you-spend-their-time/">How people like you spend their time</a></ul><ul><a href ="https://flowingdata.com/2015/11/30/most-common-use-of-time-by-age-and-sex/">Most common use of time by age and sex</a></ul><ul><a href="https://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans/">A day in the life of americans</a></ul>
+    
 5. Spend some time exploring the interactive graphic. Try clicking on the activities represented by different colors, and on the boxes to filter by group (Everyone, men, women, etc.), then answer the following questions:
 
 

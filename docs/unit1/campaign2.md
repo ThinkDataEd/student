@@ -48,14 +48,15 @@ Enter data only for the activities in which you participated:
 **How Long?** Four times a day for five days. Ideally, 2 of these days would include a weekend.
 
 ###**4. Motivation**
-Use the [New York Times interactive Time Use graphic](http://www.nytimes.com/interactive/2009/07/31/business/20080801-metrics-graphic.html?_r=0](http://www.nytimes.com/interactive/2009/07/31/business/20080801-metrics-graphic.html?_r=0 "http://www.nytimes.com/interactive/2009/07/31/business/20080801-metrics-graphic.html?_r=0") to explore how Americans spend their time.
+Use the <span style="color:blue"><u>Interactive Time Use graphic</u></span> to explore how Americans spend their time.
+<ul><a href= "https://flowingdata.com/2015/11/10/counting-the-hours/">Counting the hours</a></ul><ul><a href="https://flowingdata.com/2016/12/06/how-people-like-you-spend-their-time/">How people like you spend their time</a></ul><ul><a href ="https://flowingdata.com/2015/11/30/most-common-use-of-time-by-age-and-sex/">Most common use of time by age and sex</a></ul><ul><a href="https://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans/">A day in the life of americans</a></ul>
 
 You should collect time-use data at least twice per day (four times a day makes for better data) during the collection period. After the first day, your teacher will use the Campaign Monitoring Tool to see who in your class has collected the most data. A few days after this, your teacher will show you the Total Responses by Day plot so that you can discuss any patterns you see in the data.
 
 Be ready to discuss data collection issues. What makes it hard? Does this affect the quality of data? Are they any snacks that you haven't entered? 
 
 ###**5. Technical Analysis**
-RStudio and [New York Times](http://www.nytimes.com/interactive/2009/07/31/business/20080801-metrics-graphic.html?_r=0](http://www.nytimes.com/interactive/2009/07/31/business/20080801-metrics-graphic.html?_r=0 "http://www.nytimes.com/interactive/2009/07/31/business/20080801-metrics-graphic.html?_r=0"). Single/Multivariable plots: histograms, bar graphs, scatterplots, etc.
+RStudio and American Time Use Graphics Single/Multivariable plots: histograms, bar graphs, scatterplots, etc.
 Numerical summaries: mean, median, MAD, standard deviation. Frequency tables: One and two-way
 tables.
 

@@ -21,7 +21,7 @@ guidelines? </strong>
 3. In this lesson you will be exploring time use through an interactive graphic based on data from The Bureau of Labor Statistics (BLS), which collects data about Americans’ and time use through an interactive graph. 
 
 4. Go to the multimedia graphic at the following URL:<br>
-    <ul><a href= "https://flowingdata.com/2015/11/10/counting-the-hours/">Counting the hours</a></ul><ul><a href="https://flowingdata.com/2016/12/06/how-people-like-you-spend-their-time/">How people like you spend their time</a></ul><ul><a href ="https://flowingdata.com/2015/11/30/most-common-use-of-time-by-age-and-sex/">Most common use of time by age and sex</a></ul><ul><a href="https://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans/">A day in the life of americans</a></ul>
+    <ul><a href= "https://flowingdata.com/2015/11/10/counting-the-hours/">Counting the hours</a></ul><ul><a href="https://flowingdata.com/2016/12/06/how-people-like-you-spend-their-time/">How people like you spend their time</a></ul><ul><a href ="https://flowingdata.com/2015/11/30/most-common-use-of-time-by-age-and-sex/">Most common use of time by age and sex</a></ul><ul><a href="https://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans/">A day in the life of americans</a></ul><!--Monica Casillas-->
     
 5. Spend some time exploring the interactive graphic. Try clicking on the activities represented by different colors, and on the boxes to filter by group (Everyone, men, women, etc.), then answer the following questions:
 

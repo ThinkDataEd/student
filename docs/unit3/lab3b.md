@@ -13,7 +13,7 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 * In this lab, we'll read an *observational study* dataset from a website. We'll use this data to then explore what factors are associated with a person's lung capacity.
 
 ###**Our new data**
-* You can find the data online here (Right-click and select *Open in New Window*):<br>[http://gh.idsucla.org/ids_labs/extras/webdata/fev.dat.txt](http://gh.idsucla.org/ids_labs/extras/webdata/fev.dat.txt "http://gh.idsucla.org/ids_labs/extras/webdata/fev.dat.txt")
+* You can find the data online here (Right-click and select *Open in New Window*):<br>[https://raw.githubusercontent.com/IDSUCLA/dataset/main/fev.csv](https://raw.githubusercontent.com/IDSUCLA/dataset/main/fev.csv "https://raw.githubusercontent.com/IDSUCLA/dataset/main/fev.csv")
 
 * Variables that were measured include:
 

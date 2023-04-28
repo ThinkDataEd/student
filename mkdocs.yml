@@ -7,7 +7,7 @@ plugins: []
 #  - pdf-export:
 #        verbose: true
 
-site_name: Introduction to Data Science Curriculum v_5.0
+site_name: Introduction to Data Science Curriculum
 markdown_extensions:
   - admonition
   - pymdownx.arithmatex

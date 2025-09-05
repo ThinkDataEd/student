@@ -26,14 +26,14 @@
     }
 </style>
 
-<span id="demo"><span class="blink_text">Click <a href="../index.html" target="_blank">here</a>  to open in a new tab, or save the link <a href="../index.html" target="_blank">https://student.idsucla.org</a>.</span></span>
+<span id="demo"><span class="blink_text">Click <a href="../index.html" target="_blank">here</a>  to open in a new tab, or save the link <a href="../index.html" target="_blank">https://student.thinkdataed.org</a>.</span></span>
 
 <script>
 if (window.location == window.top.location) {
     document.getElementById("demo").innerHTML="";
     document.getElementById("demo").style.visibility='hidden';
 }else{
-    document.getElementById("demo").innerHTML="https://student.idsucla.org";
+    document.getElementById("demo").innerHTML="https://student.thinkdataed.org";
     var xhr = new XMLHttpRequest();
     xhr.open("GET", window.location.origin+ "/app/user/whoami?client=Curri", true);
     xhr.onload = function (e) {
@@ -107,7 +107,7 @@ author(s) and do not necessarily reflect the views of the National Science Found
 *This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a
 copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0](http://creativecommons.org/licenses/by-sa/4.0 "http://creativecommons.org/licenses/by-sa/4.0")*
 
-**For additional information related to IDS visit: [https://www.idsucla.org](https://www.idsucla.org "https://www.idsucla.org")**
+**For additional information related to IDS visit: [https://www.thinkdataed.org](https://www.thinkdataed.org "https://www.thinkdataed.org")**
 
 ## Mobilize
 ![mobilize](img/mobilize.png)

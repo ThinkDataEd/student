@@ -32,7 +32,7 @@ external server.
 Ideally, your computer should have a modern, updated web browser installed (such as Firefox
 or Google Chrome). This will allow you to access RStudio from an external server, and to perform
 searches and make use of a variety of websites and Internet tools. RStudio is available at
-[https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org"). The IDS team will provide the remainder of the software used in the IDS curriculum, available at [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org"). This software includes the [IDS UCLA app](download/app.md), which is deployed for [Android](https://play.google.com/store/apps/details?id=edu.ucla.oit.idsucla) and [iOS](https://itunes.apple.com/us/app/ids-ucla/id1422869521) smartphones and
+[https://tools.thinkdataed.org](https://tools.thinkdataed.org "https://tools.thinkdataed.org"). The IDS team will provide the remainder of the software used in the IDS curriculum, available at [https://tools.thinkdataed.org](https://tools.thinkdataed.org "https://tools.thinkdataed.org"). This software includes the [IDS app](download/app.md), which is deployed for [Android](https://play.google.com/store/apps/details?id=org.thinkdataed.app.survey) and [iOS](https://apps.apple.com/us/app/ids-thinkdata-ed/id6746621731) smartphones and
 tablets, as well as through the web browser on a desktop or laptop computer. The app allows you to
 collect the Participatory Sensing data that is a motivational foundation for the course. In addition to the
 app, you will use the IDS software to access and manipulate their Participatory Sensing data and to

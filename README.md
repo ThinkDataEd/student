@@ -1,4 +1,4 @@
-# curriculum.idsucla.org
+# curriculum.thinkdataed.org
  
 # Introduction to Data Science Curriculum v_5.0
 
@@ -6,7 +6,7 @@
 
 * `mkdocs build` - Build the documentation site.
 * `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs gh-deploy` - deploy the repo to curriculum.idsucla.org
+* `mkdocs gh-deploy` - deploy the repo to curriculum.thinkdataed.org
 
 For full documentation visit [mkdocs.org](https://mkdocs.org).
 * `mkdocs help` - Print this help message.
@@ -31,7 +31,7 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
 
 * Start Github Desktop. 
 
-	1. Switch Current Repository at the top left corner to IDSUCLA/curriculum or curriculum
+	1. Switch Current Repository at the top left corner to thinkdataed/curriculum or curriculum
 	
 	2. Switch Current Branch to master
 	
@@ -59,4 +59,4 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
 	
 ## Note
 
-This note is available at repo https://github.com/IDSUCLA/curriculum
+This note is available at repo https://github.com/thinkdataed/curriculum

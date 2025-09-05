@@ -83,7 +83,7 @@ if (window.location == window.top.location) {
 //      showCancelButton: true,
 //      cancelButtonText: 'Visitors: Request Access',
       showConfirmButton: true,
-      confirmButtonText: 'Teachers: Login now (Portal)',
+      confirmButtonText: 'Login to Portal',
       reverseButtons: true,
       footer: 'Questions? Contact IDS Support at support@thinkdataed.org',
       allowOutsideClick: false,

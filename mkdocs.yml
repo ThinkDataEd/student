@@ -1,7 +1,7 @@
 
 #dev_addr: '10.142.0.2:80'
 #dev_addr: '0.0.0.0:80'
-site_url: 'http://student.idsucla.org'
+site_url: 'http://student.thinkdataed.org'
 plugins: []
 #plugins:
 #  - pdf-export:
@@ -19,6 +19,11 @@ theme:
     palette:
         primary: red
         accent: red
+extra_javascript:
+    - src/sweetalert2/sweetalert2.all.min.js
+    - src/extra.js
+extra_css:
+    - src/extra.css
 
 nav:
     - Home: index.md
@@ -351,7 +356,7 @@ nav:
     #- App Downloads: download/app.md
     #- About: about.md
 
-google_analytics: ['UA-149684808-1', 'curriculum.idsucla.org']
+google_analytics: ['UA-149684808-1', 'curriculum.thinkdataed.org']
 
 #plugins:
 #    - search:

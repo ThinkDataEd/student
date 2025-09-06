@@ -26,8 +26,9 @@
     }
 </style>
 
+<!--
 <span id="demo"><span class="blink_text">Click <a href="../index.html" target="_blank">here</a>  to open in a new tab, or save the link <a href="../index.html" target="_blank">https://student.thinkdataed.org</a>.</span></span>
-
+-->
 <script>
 if (window.location == window.top.location) {
     document.getElementById("demo").innerHTML="";
@@ -47,7 +48,7 @@ if (window.location == window.top.location) {
             }
         } else {
         window.location.href = window.location.origin+ "/#login";
-        }ß
+        }
     }
     };
     xhr.onerror = function (e) {

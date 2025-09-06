@@ -40,7 +40,7 @@ function additionalCheck() {
         // console.log(xhr.responseText);
         var data = JSON.parse(xhr.responseText).data;
         if (xhr.responseText.includes("success") &&
-          (Object.values(data).some((dat) => dat?.permissions?.can_create_classes || dat?.permissions?.can_create_campaigns ||  || document.location.pathname == '/navbar/curriculum/video/'))
+          (Object.values(data).some((dat) => dat?.permissions?.can_create_classes || dat?.permissions?.can_create_campaigns ||  document.location.pathname == '/navbar/curriculum/video/'))
         ) {
           document.body.style.display = 'block';
           console.log("PASSED");
